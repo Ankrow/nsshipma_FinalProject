@@ -1,0 +1,1100 @@
+﻿Log file open, 11/06/18 22:34:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278806
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ankr0w" -epicuserid=8d03bbcd158d461aba4cdd046a4c8aef -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.07-03.34.22:495][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.07-03.34.22:495][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.07-03.34.22:514][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.07-03.34.22:514][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.07-03.34.22:515][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.07-03.34.22:515][  0]LogInit: Computer: DESKTOP-VBFITEQ
+[2018.11.07-03.34.22:515][  0]LogInit: User: Nate
+[2018.11.07-03.34.22:515][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.07-03.34.22:515][  0]LogInit: High frequency timer resolution =3.906249 MHz
+[2018.11.07-03.34.22:516][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.11.07-03.34.22:516][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.07-03.34.22:516][  0]LogMemory: Process Physical Memory: 100.46 MB used, 100.46 MB peak
+[2018.11.07-03.34.22:516][  0]LogMemory: Process Virtual Memory: 89.39 MB used, 89.39 MB peak
+[2018.11.07-03.34.22:516][  0]LogMemory: Physical Memory: 8861.88 MB used,  15662.74 MB free, 24524.62 MB total
+[2018.11.07-03.34.22:516][  0]LogMemory: Virtual Memory: 4638.71 MB used,  15662.74 MB free, 134217728.00 MB total
+[2018.11.07-03.34.22:543][  0]LogInit: Using OS detected language (en-US).
+[2018.11.07-03.34.22:543][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.07-03.34.22:545][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.07-03.34.22:913][  0]LogStreaming: Display: Took  0.370s to InitEngineTextLocalization.
+[2018.11.07-03.34.22:913][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.07-03.34.22:949][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.07-03.34.22:949][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.07-03.34.23:123][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.07-03.34.23:123][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.07-03.34.23:176][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.11.07-03.34.23:177][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.07-03.34.23:178][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.07-03.34.23:178][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.07-03.34.23:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.07-03.34.23:183][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.07-03.34.23:183][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.07-03.34.23:183][  0]LogWindows: EnumDisplayDevices:
+[2018.11.07-03.34.23:184][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.11.07-03.34.23:184][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.11.07-03.34.23:184][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.07-03.34.23:184][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.07-03.34.23:184][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.07-03.34.23:184][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.11.07-03.34.23:184][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.11.07-03.34.23:184][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.11.07-03.34.23:184][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.07-03.34.23:215][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.07-03.34.23:310][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.07-03.34.23:407][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/12728/).
+[2018.11.07-03.34.23:407][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/6D904A6F4FD14FCB82E2C88C12E7D2C7/'.
+[2018.11.07-03.34.23:700][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.07-03.34.23:714][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.07-03.34.23:726][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.07-03.34.23:737][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.07-03.34.23:749][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.07-03.34.23:760][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.07-03.34.23:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.07-03.34.23:783][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.07-03.34.23:790][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-03.34.23:876][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.07-03.34.23:932][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.07-03.34.23:932][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.07-03.34.23:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.07-03.34.23:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.07-03.34.23:985][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.07-03.34.23:998][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.07-03.34.24:010][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.07-03.34.24:021][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.07-03.34.24:029][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.07-03.34.24:029][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.07-03.34.24:090][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.07-03.34.24:091][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.07-03.34.24:091][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.07-03.34.24:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.07-03.34.24:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.07-03.34.24:760][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.07-03.34.24:772][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.07-03.34.24:772][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.07-03.34.24:772][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.07-03.34.24:788][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.07-03.34.24:789][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.07-03.34.24:790][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.07-03.34.24:855][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.11.07-03.34.25:137][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.07-03.34.25:256][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.07-03.34.25:259][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.07-03.34.25:259][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.07-03.34.25:259][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.07-03.34.25:259][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.07-03.34.25:275][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.11.07-03.34.25:780][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.143408 seconds
+[2018.11.07-03.34.25:786][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.07-03.34.25:786][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.07-03.34.25:786][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.07-03.34.26:548][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.07-03.34.26:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.07-03.34.26:726][  0]SourceControl: Source control is disabled
+[2018.11.07-03.34.26:726][  0]SourceControl: Source control is disabled
+[2018.11.07-03.34.26:728][  0]SourceControl: Source control is disabled
+[2018.11.07-03.34.26:729][  0]SourceControl: Source control is disabled
+[2018.11.07-03.34.27:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.07-03.34.27:100][  0]LogOcInput: OculusInput pre-init called
+[2018.11.07-03.34.27:164][  0]LogEngine: Initializing Engine...
+[2018.11.07-03.34.27:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.07-03.34.27:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.07-03.34.27:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.07-03.34.27:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.07-03.34.27:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.07-03.34.27:346][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.07-03.34.27:358][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.07-03.34.27:380][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.07-03.34.27:399][  0]LogInit: FAudioDevice initialized.
+[2018.11.07-03.34.27:399][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.07-03.34.28:483][  0]LogDerivedDataCache: Saved boot cache 1.08s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.07-03.34.28:495][  0]LogInit: Texture streaming: Enabled
+[2018.11.07-03.34.28:541][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.07-03.34.28:565][  0]LogInit: Transaction tracking system initialized
+[2018.11.07-03.34.28:593][  0]BlueprintLog: New page: Editor Load
+[2018.11.07-03.34.28:738][  0]LocalizationService: Localization service is disabled
+[2018.11.07-03.34.28:808][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.07-03.34.28:809][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.07-03.34.28:809][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2018.11.07-03.34.28:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/' took 0.01s
+[2018.11.07-03.34.28:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.07-03.34.28:965][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.07-03.34.28:965][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.07-03.34.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.07-03.34.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.07-03.34.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.07-03.34.28:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.07-03.34.29:086][  0]SourceControl: Source control is disabled
+[2018.11.07-03.34.29:491][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.11.07-03.34.29:531][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.11.07-03.34.29:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.11.07-03.34.29:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.11.07-03.34.29:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.11.07-03.34.29:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.11.07-03.34.29:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.11.07-03.34.29:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.11.07-03.34.30:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.11.07-03.34.30:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.11.07-03.34.30:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.11.07-03.34.30:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.11.07-03.34.30:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.11.07-03.34.30:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.11.07-03.34.30:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.11.07-03.34.30:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.11.07-03.34.30:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.11.07-03.34.30:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.11.07-03.34.30:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.11.07-03.34.30:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Fire01.uasset"
+[2018.11.07-03.34.30:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.11.07-03.34.30:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.11.07-03.34.30:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.11.07-03.34.30:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Light01.uasset"
+[2018.11.07-03.34.31:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.11.07-03.34.31:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Light02.uasset"
+[2018.11.07-03.34.31:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.11.07-03.34.31:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.11.07-03.34.31:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.11.07-03.34.31:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.11.07-03.34.31:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.11.07-03.34.31:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.11.07-03.34.31:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.11.07-03.34.31:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.11.07-03.34.31:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.11.07-03.34.31:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Steam01.uasset"
+[2018.11.07-03.34.31:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.11.07-03.34.31:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.11.07-03.34.31:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.11.07-03.34.32:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.11.07-03.34.32:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.11.07-03.34.32:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.11.07-03.34.32:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.11.07-03.34.32:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.11.07-03.34.32:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.11.07-03.34.32:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.11.07-03.34.32:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.11.07-03.34.32:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.11.07-03.34.32:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.11.07-03.34.32:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.11.07-03.34.32:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.11.07-03.34.32:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.11.07-03.34.32:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.11.07-03.34.34:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.11.07-03.34.34:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.11.07-03.34.34:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.11.07-03.34.34:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.11.07-03.34.34:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.11.07-03.34.34:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/StarterMap.umap"
+[2018.11.07-03.34.35:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.11.07-03.34.35:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.11.07-03.34.35:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.11.07-03.34.35:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.11.07-03.34.35:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.11.07-03.34.35:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.11.07-03.34.36:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.11.07-03.34.36:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.11.07-03.34.36:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.11.07-03.34.36:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.11.07-03.34.36:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.11.07-03.34.36:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.11.07-03.34.36:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.11.07-03.34.36:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.11.07-03.34.36:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.11.07-03.34.36:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.11.07-03.34.36:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.11.07-03.34.36:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.11.07-03.34.36:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.11.07-03.34.36:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.11.07-03.34.36:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.11.07-03.34.36:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.11.07-03.34.36:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.11.07-03.34.36:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.11.07-03.34.36:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.11.07-03.34.36:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.11.07-03.34.36:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.11.07-03.34.36:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.11.07-03.34.36:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.11.07-03.34.37:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.11.07-03.34.37:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.11.07-03.34.37:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.11.07-03.34.37:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.11.07-03.34.37:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.11.07-03.34.37:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.11.07-03.34.38:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.11.07-03.34.38:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.11.07-03.34.38:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.11.07-03.34.38:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.11.07-03.34.38:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.11.07-03.34.38:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.11.07-03.34.38:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.11.07-03.34.38:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.11.07-03.34.38:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.11.07-03.34.38:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.11.07-03.34.38:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.11.07-03.34.38:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.11.07-03.34.38:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.11.07-03.34.38:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.11.07-03.34.38:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.11.07-03.34.38:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.11.07-03.34.38:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.11.07-03.34.38:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.11.07-03.34.38:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.11.07-03.34.38:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.11.07-03.34.38:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.11.07-03.34.38:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.11.07-03.34.38:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.11.07-03.34.38:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.11.07-03.34.39:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.11.07-03.34.39:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.11.07-03.34.39:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.11.07-03.34.39:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.11.07-03.34.39:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.11.07-03.34.39:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.11.07-03.34.39:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Door.uasset"
+[2018.11.07-03.34.39:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.11.07-03.34.40:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.11.07-03.34.40:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.11.07-03.34.40:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.11.07-03.34.40:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.11.07-03.34.40:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.11.07-03.34.40:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.11.07-03.34.40:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.11.07-03.34.40:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.11.07-03.34.40:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.11.07-03.34.40:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.11.07-03.34.40:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.11.07-03.34.40:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.11.07-03.34.40:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.11.07-03.34.40:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.11.07-03.34.40:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.11.07-03.34.40:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.11.07-03.34.40:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.11.07-03.34.40:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.11.07-03.34.40:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.11.07-03.34.40:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.11.07-03.34.41:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.11.07-03.34.41:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.11.07-03.34.41:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.11.07-03.34.41:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.11.07-03.34.41:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.11.07-03.34.41:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.11.07-03.34.41:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.11.07-03.34.41:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.11.07-03.34.41:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.11.07-03.34.41:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.11.07-03.34.41:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.11.07-03.34.41:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.11.07-03.34.41:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.11.07-03.34.41:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.11.07-03.34.41:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.11.07-03.34.41:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.11.07-03.34.41:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.11.07-03.34.41:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.11.07-03.34.41:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.11.07-03.34.41:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.11.07-03.34.41:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.11.07-03.34.41:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.11.07-03.34.41:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.11.07-03.34.42:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.11.07-03.34.42:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.11.07-03.34.42:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.11.07-03.34.42:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.11.07-03.34.42:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.11.07-03.34.42:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.11.07-03.34.42:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.11.07-03.34.43:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.11.07-03.34.43:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.11.07-03.34.43:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.11.07-03.34.43:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.11.07-03.34.43:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.11.07-03.34.43:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.11.07-03.34.43:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.11.07-03.34.43:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.11.07-03.34.43:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.11.07-03.34.43:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.11.07-03.34.43:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.11.07-03.34.43:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.11.07-03.34.44:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.11.07-03.34.44:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.11.07-03.34.44:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.11.07-03.34.44:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.11.07-03.34.44:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.11.07-03.34.45:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.11.07-03.34.45:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.11.07-03.34.45:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.11.07-03.34.45:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.11.07-03.34.45:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.11.07-03.34.45:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.11.07-03.34.46:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.11.07-03.34.46:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.11.07-03.34.46:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.11.07-03.34.46:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.11.07-03.34.46:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.11.07-03.34.46:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.11.07-03.34.46:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.11.07-03.34.46:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.11.07-03.34.47:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.11.07-03.34.47:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.11.07-03.34.47:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.11.07-03.34.47:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.11.07-03.34.48:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.11.07-03.34.48:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.11.07-03.34.48:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.11.07-03.34.48:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.11.07-03.34.48:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.11.07-03.34.48:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.11.07-03.34.48:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.11.07-03.34.49:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.11.07-03.34.49:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.11.07-03.34.49:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.11.07-03.34.49:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.11.07-03.34.50:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.11.07-03.34.50:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.11.07-03.34.50:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.11.07-03.34.50:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.11.07-03.34.50:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.11.07-03.34.50:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.11.07-03.34.50:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.11.07-03.34.51:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.11.07-03.34.51:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.11.07-03.34.51:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.11.07-03.34.51:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.11.07-03.34.51:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.11.07-03.34.51:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.11.07-03.34.51:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.11.07-03.34.51:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.11.07-03.34.52:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.11.07-03.34.52:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.11.07-03.34.52:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.11.07-03.34.52:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.11.07-03.34.52:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.11.07-03.34.52:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.11.07-03.34.52:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.11.07-03.34.53:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.11.07-03.34.53:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.11.07-03.34.53:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.11.07-03.34.53:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.11.07-03.34.53:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.11.07-03.34.53:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.11.07-03.34.53:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.11.07-03.34.54:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.11.07-03.34.54:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.11.07-03.34.54:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.11.07-03.34.54:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.11.07-03.34.54:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.11.07-03.34.54:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.11.07-03.34.54:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.11.07-03.34.54:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.11.07-03.34.54:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.11.07-03.34.54:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.11.07-03.34.55:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.11.07-03.34.55:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.11.07-03.34.55:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.11.07-03.34.55:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.11.07-03.34.55:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.11.07-03.34.55:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.11.07-03.34.55:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.11.07-03.34.55:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.11.07-03.34.56:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.11.07-03.34.56:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.11.07-03.34.56:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.11.07-03.34.57:197][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.11.07-03.34.57:369][  0]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/Floor_400x400C9E7859F4F7C1128BA078CABBEEF8685.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.11.07-03.34.57:397][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.11.07-03.34.57:404][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.07-03.34.57:405][  0]LightingResults: New page: Lighting Build
+[2018.11.07-03.34.57:410][  0]MapCheck: New page: Map Check
+[2018.11.07-03.34.57:410][  0]LightingResults: New page: Lighting Build
+[2018.11.07-03.34.59:156][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.11.07-03.34.59:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.07-03.34.59:243][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.07-03.34.59:299][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.091ms to complete.
+[2018.11.07-03.34.59:299][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.895
+[2018.11.07-03.34.59:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-03.34.59:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-03.34.59:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-03.34.59:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-03.34.59:560][  0]LogCollectionManager: Loaded 0 collections in 0.001335 seconds
+[2018.11.07-03.34.59:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.11.07-03.34.59:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
+[2018.11.07-03.34.59:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.11.07-03.34.59:610][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.07-03.34.59:624][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2018.11.07-03.34.59:633][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.07-03.35.01:117][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.11.07-03.35.01:135][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.11.07-03.35.01:251][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.07-03.35.01:252][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.07-03.35.01:322][  0]LogSlate: Took 0.063774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.07-03.35.01:499][  0]LogRenderer: Reallocating scene render targets to support 1232x548 Format 10 NumSamples 1 (Frame:1).
+[2018.11.07-03.35.01:574][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.07-03.35.01:643][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.07-03.35.01:643][  0]LogLoad: (Engine Initialization) Total time: 40.70 seconds
+[2018.11.07-03.35.01:643][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.07-03.35.01:653][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.07-03.35.01:752][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.07-03.35.05:436][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.35.11:637][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.35.13:710][159]LogSlate: Window 'New Level' being destroyed
+[2018.11.07-03.35.13:714][159]LightingResults: New page: Lighting Build
+[2018.11.07-03.35.13:714][159]MapCheck: New page: Map Check
+[2018.11.07-03.35.13:714][159]LightingResults: New page: Lighting Build
+[2018.11.07-03.35.13:743][159]LogAIModule: Creating AISystem for world Untitled
+[2018.11.07-03.35.13:798][159]LoadErrors: New page: New Map
+[2018.11.07-03.35.16:313][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.35.16:471][472]LogActorFactory: Actor Factory created Cube
+[2018.11.07-03.35.16:565][472]LogAssetRegistry: Asset discovery search completed in 51.7321 seconds
+[2018.11.07-03.35.16:568][472]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.07-03.35.16:568][472]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2018.11.07-03.35.17:098][529]LogActorFactory: Actor Factory created Cube
+[2018.11.07-03.35.18:173][634]LogSlate: Took 0.022253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.07-03.35.18:958][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.35.29:079][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.11.07-03.35.29:098][856]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.11.07-03.35.33:074][310]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.07-03.35.34:606][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.35.50:472][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.35.51:408][440]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.07-03.36.00:546][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.36.27:985][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.36.28:068][762]Cmd: MODE GRID=0
+[2018.11.07-03.36.29:704][957]Cmd: MODE GRID=1
+[2018.11.07-03.36.37:731][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.36.50:862][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.36.58:993][438]LogEditorViewport: Clicking Background
+[2018.11.07-03.36.59:719][525]LogEditorViewport: Clicking Background
+[2018.11.07-03.37.00:069][567]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.11.07-03.37.19:620][876]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2018.11.07-03.37.24:568][462]LogEditorViewport: Clicking Background
+[2018.11.07-03.37.26:230][660]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.11.07-03.37.26:596][701]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.11.07-03.37.27:420][797]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush3)
+[2018.11.07-03.37.31:140][238]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush3)
+[2018.11.07-03.37.32:211][354]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2018.11.07-03.37.35:658][762]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.11.07-03.37.36:384][846]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2018.11.07-03.37.39:550][220]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush3)
+[2018.11.07-03.37.39:957][265]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2018.11.07-03.37.55:666][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.38.03:340][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.38.08:873][653]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.07-03.38.31:270][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.38.38:024][537]LogEditorViewport: Clicking Background
+[2018.11.07-03.38.53:876][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.39.47:061][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.39.54:408][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.12:344][811]Cmd: ACTOR SELECT MATCHINGMATERIAL
+[2018.11.07-03.40.14:965][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.26:221][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.31:511][ 70]Cmd: ACTOR SELECT MATCHINGMATERIAL
+[2018.11.07-03.40.35:919][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.50:324][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.53:349][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.40.57:591][168]Cmd: POLY SELECT ALL
+[2018.11.07-03.40.58:629][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.41.00:906][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.41.05:427][ 88]Cmd: POLY SELECT ALL
+[2018.11.07-03.41.08:713][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.41.23:250][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.41.25:086][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.41.26:243][551]LogEditorViewport: Clicking Background
+[2018.11.07-03.41.30:156][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.41.38:100][ 30]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.07-03.41.38:174][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.41.38:181][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.07-03.41.38:249][ 30]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/ArenaMapB1D1A038432D0A8E02DC0C9BF482DD51.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.07-03.41.38:276][ 30]LogFileHelpers: Saving map 'ArenaMap' took 0.172
+[2018.11.07-03.42.32:633][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.42.43:503][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.42.46:627][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.42.51:062][728]EditorErrors: New page: Actor attachment
+[2018.11.07-03.43.05:292][421]EditorErrors: New page: Actor attachment
+[2018.11.07-03.43.25:337][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.43.26:002][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.43.26:561][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.43.27:443][ 59]LogEditorViewport: Clicking Background
+[2018.11.07-03.43.34:866][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.43.42:181][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.47.49:210][839]MapCheck: New page: Map Check
+[2018.11.07-03.47.49:220][839]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.07-03.47.49:220][839]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.07-03.47.49:285][839]LogEditorServer: Cleared 1 NULL BSP materials after rebuild.
+[2018.11.07-03.47.49:292][839]LightingResults: New page: Lighting Build - Nov 6, 2018, 5:47:49 PM
+[2018.11.07-03.47.49:651][839]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.07-03.47.49:837][839]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.07-03.47.49:980][839]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.07-03.47.51:741][839]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.07-03.47.51:741][839]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12728
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.07-03.48.01:383][839]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.07-03.48.02:121][839]LogEditorBuildUtils: Build time 0:12
+[2018.11.07-03.48.10:227][861]Job is a success!
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.2Mb
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:          1: 12.1% covering 6.3% of volume
+[2018.11.07-03.48.10:616][862]LogVolumetricLightmapImport:          2: 84.8% covering 0.7% of volume
+[2018.11.07-03.48.10:761][862]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.11.07-03.48.10:761][862]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.11.07-03.48.10:761][862]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.11.07-03.48.10:761][862]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2018.11.07-03.48.11:003][862]Lightmass on DESKTOP-VBFITEQ: 6.35 sec total, 4.87 sec importing, 21 ms setup, 397 ms photons, 1.02 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 7.01 sec total, 347 ms processing.
+[2018.11.07-03.48.11:114][862]LogStaticLightingSystem: Illumination: 21.4 sec (71 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2018.11.07-03.48.11:114][862]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2018.11.07-03.48.11:114][862]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 1 textures
+[2018.11.07-03.48.11:396][862]DumpUnbuiltLightIteractions
+[2018.11.07-03.48.11:396][862]Lights with unbuilt interactions: 0
+[2018.11.07-03.48.11:396][862]
+[2018.11.07-03.48.11:396][862]Primitives with unbuilt interactions: 0
+[2018.11.07-03.48.11:481][863]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.07-03.48.11:481][863]MapCheck: New page: ArenaMap - Nov 6, 2018, 5:48:11 PM
+[2018.11.07-03.48.11:561][863]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.173ms to complete.
+[2018.11.07-03.48.18:429][553]MapCheck: New page: Map Check
+[2018.11.07-03.48.18:443][553]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.07-03.48.18:443][553]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.07-03.48.18:516][553]LightingResults: New page: Lighting Build - Nov 6, 2018, 5:48:18 PM
+[2018.11.07-03.48.18:526][553]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.07-03.48.18:530][553]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.07-03.48.18:530][553]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.07-03.48.18:530][553]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.07-03.48.18:531][553]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12728
+[2018.11.07-03.48.23:080][553]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.07-03.48.23:081][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.07-03.48.23:081][553]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.07-03.48.23:081][553]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.07-03.48.23:081][553]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.07-03.48.23:081][553]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.07-03.48.23:304][553]LogEditorBuildUtils: Build time 0:04
+[2018.11.07-03.48.25:143][559]Job is a success!
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.2Mb
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:          1: 12.1% covering 6.3% of volume
+[2018.11.07-03.48.25:589][560]LogVolumetricLightmapImport:          2: 84.8% covering 0.7% of volume
+[2018.11.07-03.48.25:718][560]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.11.07-03.48.25:718][560]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.07-03.48.25:718][560]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.07-03.48.25:718][560]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2018.11.07-03.48.25:743][560]Lightmass on DESKTOP-VBFITEQ: 1.69 sec total, 139 ms importing, 13 ms setup, 429 ms photons, 1.08 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 7.42 sec total, 576 ms processing.
+[2018.11.07-03.48.25:746][560]LogStaticLightingSystem: Illumination: 6.87 sec (67 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2018.11.07-03.48.25:746][560]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2018.11.07-03.48.25:746][560]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 1 textures
+[2018.11.07-03.48.26:084][560]DumpUnbuiltLightIteractions
+[2018.11.07-03.48.26:084][560]Lights with unbuilt interactions: 0
+[2018.11.07-03.48.26:084][560]
+[2018.11.07-03.48.26:084][560]Primitives with unbuilt interactions: 0
+[2018.11.07-03.48.26:163][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.07-03.48.26:164][561]MapCheck: New page: ArenaMap - Nov 6, 2018, 5:48:26 PM
+[2018.11.07-03.48.26:343][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 178.96ms to complete.
+[2018.11.07-03.49.00:729][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.49.00:833][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.07-03.49.00:875][862]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/ArenaMap0E271C7347D0F993D40DF497595A27DC.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.07-03.49.00:894][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.07-03.49.00:946][862]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/ArenaMap_BuiltData879DBDD740E467919716B09720A88CE9.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.07-03.51.09:687][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.51.38:981][738]LogEditorViewport: Clicking Background
+[2018.11.07-03.51.40:176][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-03.51.40:271][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.07-03.51.40:311][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/ArenaMap67660D9E4E60BDE3EA09EC828F5A2E8A.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.07-03.51.40:330][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.07-03.51.40:405][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Saved/ArenaMap_BuiltData251974C144CA81E77B9853B3A01CFE45.tmp' to '../../../../../../Users/Nate/Documents/Unreal Projects/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.07-03.51.52:036][769]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.11.07-03.51.52:037][769]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.07-03.51.52:262][770]Cmd: QUIT_EDITOR
+[2018.11.07-03.51.52:329][770]LogExit: Preparing to exit.
+[2018.11.07-03.51.53:230][770]LogExit: Editor shut down
+[2018.11.07-03.51.53:231][770]LogExit: Transaction tracking system shut down
+[2018.11.07-03.51.53:680][770]LogExit: Object subsystem successfully closed.
+[2018.11.07-03.51.53:705][770]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.07-03.51.53:708][770]LogD3D11RHI: Shutdown
+[2018.11.07-03.51.53:708][770]LogD3D11RHI: CleanupD3DDevice
+[2018.11.07-03.51.53:710][770]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module NewLevelDialog (612)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.07-03.51.53:730][770]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.07-03.51.53:731][770]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.07-03.51.54:443][770]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.07-03.51.54:444][770]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.07-03.51.54:445][770]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.07-03.51.54:445][770]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.07-03.51.54:445][770]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.07-03.51.54:445][770]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.07-03.51.54:500][770]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.07-03.51.54:501][770]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.07-03.51.54:502][770]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.07-03.51.54:646][770]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.07-03.51.54:647][770]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.07-03.51.54:650][770]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.07-03.51.54:651][770]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.07-03.51.54:652][770]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.07-03.51.54:753][770]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.07-03.51.54:854][770]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.07-03.51.54:855][770]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.07-03.51.54:855][770]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.07-03.51.54:856][770]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.07-03.51.54:856][770]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.07-03.51.54:857][770]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.07-03.51.54:859][770]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.07-03.51.54:862][770]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.07-03.51.54:869][770]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.07-03.51.54:870][770]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.07-03.51.54:870][770]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.07-03.51.54:870][770]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.07-03.51.54:870][770]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.07-03.51.54:870][770]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.07-03.51.54:874][770]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.07-03.51.54:875][770]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.07-03.51.54:913][770]LogDerivedDataCache: Shutdown
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.07-03.51.54:913][770]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.07-03.51.54:914][770]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.07-03.51.54:914][770]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.07-03.51.54:914][770]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.07-03.51.54:914][770]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.07-03.51.54:915][770]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.07-03.51.54:915][770]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.07-03.51.54:916][770]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.07-03.51.54:916][770]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.07-03.51.54:927][770]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.07-03.51.54:928][770]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.07-03.51.54:929][770]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.07-03.51.54:930][770]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.07-03.51.54:951][770]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.07-03.51.54:952][770]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.07-03.51.54:952][770]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62934380-40F4-254B-E5B1-6A9045C6A095%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=bf41fa754fda67dc35b905b1d2e69d8c%7C8d03bbcd158d461aba4cdd046a4c8aef%7Cd639e9bb-913e-4d2c-8db0-96243143a061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.07-03.51.54:984][770]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.07-03.51.54:985][770]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.07-03.51.54:985][770]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.07-03.51.54:986][770]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.07-03.51.54:986][770]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.07-03.51.54:987][770]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.07-03.51.54:988][770]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.07-03.51.55:000][770]LogExit: Exiting.
+[2018.11.07-03.51.55:060][770]Log file closed, 11/06/18 22:51:55
