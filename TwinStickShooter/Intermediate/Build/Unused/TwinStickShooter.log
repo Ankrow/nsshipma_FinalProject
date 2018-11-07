@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Parsing headers for TwinStickShooterEditor
+    Running UnrealHeaderTool "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\TwinStickShooter.uproject" "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\TwinStickShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for TwinStickShooterEditor in 9.8357375 seconds
+  Building 5 actions with 8 processes...
+    TwinStickShooter.init.gen.cpp
+    BaseCharacter.cpp
+    BaseCharacter.gen.cpp
+    UE4Editor-TwinStickShooter-2532.lib
+       Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-2532.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-2532.exp
+    UE4Editor-TwinStickShooter-2532.dll
+       Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-2532.suppressed.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-2532.suppressed.exp
+  Deploying TwinStickShooterEditor Win64 Development...
+  Total build time: 13.19 seconds (Parallel executor: 2.00 seconds)

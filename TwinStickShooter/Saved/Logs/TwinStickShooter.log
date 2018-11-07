@@ -347,3 +347,508 @@ LogInit: Object subsystem initialized
 [2018.11.07-03.53.47:429][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.11.07-03.53.47:490][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.322ms to complete.
 [2018.11.07-03.53.47:490][ 35]LogFileHelpers: Loading map 'ArenaMap' took 0.169
+[2018.11.07-03.58.34:981][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.58.36:866][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.58.36:906][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-03.58.36:934][856]LogSlate: Took 0.019978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.07-03.58.46:438][956]Running C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -game -rocket -progress
+[2018.11.07-03.58.47:281][956]Discovering modules, targets and source code for project...
+[2018.11.07-03.58.55:448][956]C:\Program Files\Epic Games\UE_4.20\Engine\Source\ThirdParty\Expat\Expat.Build.cs: warning: Referenced directory 'C:\Program Files\Epic Games\UE_4.20\Engine\Source\ThirdParty\Expat\expat-2.2.0\Win64\VS2015\Release' does not exist.
+[2018.11.07-03.59.03:952][956]LogHotReload: Recompiling module TwinStickShooter...
+[2018.11.07-03.59.03:971][956]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.11.07-03.59.04:297][956]Candidate modules for hot reload:
+[2018.11.07-03.59.04:297][956]  TwinStickShooter
+[2018.11.07-03.59.04:297][956]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,9005 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink -nosharedpch "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.11.07-04.01.59:218][956]Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for hot reloading TwinStickShooterEditor (no existing makefile)
+Compiling game modules for hot reload
+Performing full C++ include scan (no include cache file)
+Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Parsing headers for TwinStickShooterEditor
+  Running UnrealHeaderTool "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\TwinStickShooter.uproject" "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\TwinStickShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for TwinStickShooterEditor in 10.8357826 seconds
+Building 7 actions with 8 processes...
+  PCLaunch.rc
+  TwinStickShooter.cpp
+  TwinStickShooter.init.gen.cpp
+  BaseCharacter.gen.cpp
+  BaseCharacter.cpp
+  UE4Editor-TwinStickShooter-9005.lib
+     Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.exp
+  UE4Editor-TwinStickShooter-9005.dll
+     Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.suppressed.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.suppressed.exp
+Total build time: 174.42 seconds (Parallel executor: 15.02 seconds)
+
+[2018.11.07-04.01.59:229][956]CompilerResultsLog: New page: Compilation - Nov 6, 2018, 6:01:59 PM
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Creating makefile for hot reloading TwinStickShooterEditor (no existing makefile)
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Parsing headers for TwinStickShooterEditor
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\TwinStickShooter.uproject" "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\TwinStickShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Reflection code generated for TwinStickShooterEditor in 10.8357826 seconds
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Building 7 actions with 8 processes...
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   PCLaunch.rc
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   TwinStickShooter.cpp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   TwinStickShooter.init.gen.cpp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   BaseCharacter.gen.cpp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   BaseCharacter.cpp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   UE4Editor-TwinStickShooter-9005.lib
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:      Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.exp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:   UE4Editor-TwinStickShooter-9005.dll
+[2018.11.07-04.01.59:230][956]CompilerResultsLog:      Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.suppressed.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-9005.suppressed.exp
+[2018.11.07-04.01.59:230][956]CompilerResultsLog: Total build time: 174.42 seconds (Parallel executor: 15.02 seconds)
+[2018.11.07-04.01.59:239][956]LogMainFrame: MainFrame: Module compiling took 175.268 seconds
+[2018.11.07-04.01.59:241][956]Reloading module TwinStickShooter after successful compile.
+[2018.11.07-04.01.59:529][956]LogClass: Could not find existing package /Script/TwinStickShooter for HotReload of class BaseCharacter, assuming a new package.
+[2018.11.07-04.01.59:532][956]LogContentBrowser: Native class hierarchy updated for 'TwinStickShooter' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.11.07-04.01.59:591][956]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2574 classes and 607 folders.
+[2018.11.07-04.02.00:288][956]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.11.07-04.02.00:317][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-04.22.32:206][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-04.22.49:258][639]Candidate modules for hot reload:
+[2018.11.07-04.22.49:258][639]  TwinStickShooter
+[2018.11.07-04.22.49:258][639]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,2730 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink -nosharedpch "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.11.07-04.22.49:315][639]Warning: Starting HotReload took  0.1s.
+[2018.11.07-04.22.52:125][974]CompilerResultsLog: New page: Compilation - Nov 6, 2018, 6:22:52 PM
+[2018.11.07-04.22.52:125][974]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.07-04.22.52:125][974]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.07-04.22.52:125][974]CompilerResultsLog: Target is up to date
+[2018.11.07-04.22.52:125][974]CompilerResultsLog: Total build time: 2.50 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.11.07-04.22.52:125][974]LogMainFrame: MainFrame: Module compiling took 2.873 seconds
+[2018.11.07-04.22.52:182][974]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2574 classes and 607 folders.
+[2018.11.07-04.22.52:182][974]Display: HotReload took  3.0s.
+[2018.11.07-04.23.07:436][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.07-04.27.17:384][206]Candidate modules for hot reload:
+[2018.11.07-04.27.17:384][206]  TwinStickShooter
+[2018.11.07-04.27.17:384][206]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,9943 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink -nosharedpch "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.11.07-04.27.17:423][206]Warning: Starting HotReload took  0.1s.
+[2018.11.07-04.27.19:977][513]CompilerResultsLog: New page: Compilation - Nov 6, 2018, 6:27:19 PM
+[2018.11.07-04.27.19:977][513]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.07-04.27.19:977][513]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.07-04.27.19:977][513]CompilerResultsLog: Target is up to date
+[2018.11.07-04.27.19:977][513]CompilerResultsLog: Total build time: 1.92 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.11.07-04.27.19:977][513]LogMainFrame: MainFrame: Module compiling took 2.600 seconds
+[2018.11.07-04.27.20:006][513]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2574 classes and 607 folders.
+[2018.11.07-04.27.20:006][513]Display: HotReload took  2.6s.
+[2018.11.07-04.27.23:623][657]MapCheck: New page: Map Check
+[2018.11.07-04.27.23:664][657]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.07-04.27.23:664][657]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.07-04.27.24:258][657]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile, compiling. 
+[2018.11.07-04.27.24:420][657]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.07-04.27.24:420][657]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.11.07-04.27.24:440][657]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.07-04.27.26:493][657]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.07-04.27.26:493][657]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.07-04.27.26:493][657]TextureStreamingBuild: Display: Compiling optional shaders took 2.241 seconds.
+[2018.11.07-04.27.26:611][657]LogLevel: Display: Export Material TexCoord Scales took 0.118 seconds.
+[2018.11.07-04.27.26:693][657]TextureStreamingBuild: Display: Build Texture Streaming took 0.077 seconds.
+[2018.11.07-04.27.26:738][657]LightingResults: New page: Lighting Build - Nov 6, 2018, 6:27:26 PM
+[2018.11.07-04.27.26:997][657]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.07-04.27.27:085][657]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.07-04.27.27:127][657]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.07-04.27.28:167][657]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.07-04.27.28:168][657]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14896
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.07-04.27.32:928][657]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.07-04.27.33:265][657]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.07-04.27.33:265][657]MapCheck: New page: ArenaMap - Nov 6, 2018, 6:27:33 PM
+[2018.11.07-04.27.33:408][657]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.53ms to complete.
+[2018.11.07-04.27.33:431][657]LogEditorBuildUtils: Build time 0:09
+[2018.11.07-04.27.36:599][664]Job is a success!
+[2018.11.07-04.27.36:756][664]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto13A6915734E0BF2F0CB7396A1707FE761.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto1.umap'
+[2018.11.07-04.27.36:761][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.079
+[2018.11.07-04.27.36:761][664]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.2Mb
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:          1: 12.1% covering 6.3% of volume
+[2018.11.07-04.27.37:051][665]LogVolumetricLightmapImport:          2: 84.8% covering 0.7% of volume
+[2018.11.07-04.27.37:146][665]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.11.07-04.27.37:146][665]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.11.07-04.27.37:146][665]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.11.07-04.27.37:146][665]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2018.11.07-04.27.37:171][665]Lightmass on DESKTOP-VBFITEQ: 2.06 sec total, 176 ms importing, 48 ms setup, 434 ms photons, 1.33 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 9.16 sec total, 517 ms processing.
+[2018.11.07-04.27.37:200][665]LogStaticLightingSystem: Illumination: 10.2 sec (55 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2018.11.07-04.27.37:201][665]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2018.11.07-04.27.37:201][665]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 1 textures
+[2018.11.07-04.27.37:935][665]DumpUnbuiltLightIteractions
+[2018.11.07-04.27.37:935][665]Lights with unbuilt interactions: 0
+[2018.11.07-04.27.37:935][665]
+[2018.11.07-04.27.37:935][665]Primitives with unbuilt interactions: 0
+[2018.11.07-04.27.38:007][666]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.07-04.27.38:007][666]MapCheck: New page: ArenaMap - Nov 6, 2018, 6:27:38 PM
+[2018.11.07-04.27.38:086][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.497ms to complete.
+[2018.11.07-04.27.54:234][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.07-04.27.54:280][ 14]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap31A2A5B54AE946D33E7E96A91AAF637A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.07-04.27.54:324][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.07-04.27.54:349][ 14]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData28E6F26149E4C4B21D1376BFDA6BE378.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.07-05.02.05:425][443]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.11.07-05.02.05:431][443]Candidate modules for hot reload:
+[2018.11.07-05.02.05:431][443]  TwinStickShooter
+[2018.11.07-05.02.05:431][443]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,4956 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink -nosharedpch "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.11.07-05.02.05:460][443]Warning: Starting HotReload took  0.0s.
+[2018.11.07-05.02.27:745][926]CompilerResultsLog: New page: Compilation - Nov 6, 2018, 7:02:27 PM
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Creating makefile for hot reloading TwinStickShooterEditor (modules to compile have changed)
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Parsing headers for TwinStickShooterEditor
+[2018.11.07-05.02.27:754][926]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\TwinStickShooter.uproject" "C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\TwinStickShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Error: C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Source/TwinStickShooter/BaseCharacter.h(24)  : Error: Unknown function specifier 'CPF_BlueprintCallable'
+[2018.11.07-05.02.27:754][926]CompilerResultsLog: Error: UnrealHeaderTool failed for target 'TwinStickShooterEditor' (platform: Win64, module info: C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\TwinStickShooterEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+[2018.11.07-05.02.27:754][926]LogMainFrame: MainFrame: Module compiling took 22.330 seconds
+[2018.11.07-05.02.27:755][926]Warning: HotReload failed, recompile failed
+[2018.11.07-05.02.40:881][ 71]LogAssetEditorManager: Opening Asset editor for Class /Script/TwinStickShooter.BaseCharacter
+[2018.11.07-05.02.44:352][274]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.11.07-05.02.57:365][353]LogSlate: Window 'Message Log' being destroyed
+[2018.11.07-05.02.57:369][353]LogSlate: Window 'Message Log' being destroyed
+[2018.11.07-05.04.03:698][768]Candidate modules for hot reload:
+[2018.11.07-05.04.03:698][768]  TwinStickShooter
+[2018.11.07-05.04.03:698][768]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,5311 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink -nosharedpch "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.11.07-05.04.03:734][768]Warning: Starting HotReload took  0.0s.
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: New page: Compilation - Nov 6, 2018, 7:04:15 PM
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Creating makefile for hot reloading TwinStickShooterEditor (modules to compile have changed)
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Compiling game modules for hot reload
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Building 6 actions with 8 processes...
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   TwinStickShooter.cpp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   TwinStickShooter.init.gen.cpp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   BaseCharacter.cpp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   BaseCharacter.gen.cpp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   UE4Editor-TwinStickShooter-5311.lib
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:      Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-5311.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-5311.exp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:   UE4Editor-TwinStickShooter-5311.dll
+[2018.11.07-05.04.15:939][230]CompilerResultsLog:      Creating library C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-5311.suppressed.lib and object C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-5311.suppressed.exp
+[2018.11.07-05.04.15:939][230]CompilerResultsLog: Total build time: 11.95 seconds (Parallel executor: 6.87 seconds)
+[2018.11.07-05.04.15:939][230]LogMainFrame: MainFrame: Module compiling took 12.248 seconds
+[2018.11.07-05.04.15:973][230]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2574 classes and 607 folders.
+[2018.11.07-05.04.15:973][230]Display: HotReload took 12.3s.
+[2018.11.07-05.04.21:460][872]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.11.07-05.04.21:460][872]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.07-05.04.21:687][873]Cmd: QUIT_EDITOR
+[2018.11.07-05.04.21:778][873]LogExit: Preparing to exit.
+[2018.11.07-05.04.22:825][873]LogExit: Editor shut down
+[2018.11.07-05.04.22:826][873]LogExit: Transaction tracking system shut down
+[2018.11.07-05.04.23:257][873]LogExit: Object subsystem successfully closed.
+[2018.11.07-05.04.23:278][873]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.07-05.04.23:281][873]LogD3D11RHI: Shutdown
+[2018.11.07-05.04.23:281][873]LogD3D11RHI: CleanupD3DDevice
+[2018.11.07-05.04.23:315][873]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module TwinStickShooter (612)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.07-05.04.23:329][873]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.07-05.04.23:330][873]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.07-05.04.23:374][873]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.07-05.04.23:375][873]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.07-05.04.23:430][873]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.07-05.04.23:431][873]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.07-05.04.23:431][873]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.07-05.04.23:431][873]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.07-05.04.23:431][873]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.07-05.04.23:431][873]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.07-05.04.23:432][873]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.07-05.04.23:435][873]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.07-05.04.23:436][873]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.07-05.04.23:453][873]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.07-05.04.23:454][873]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.07-05.04.23:464][873]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.07-05.04.23:465][873]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.07-05.04.23:466][873]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.07-05.04.23:466][873]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.07-05.04.23:466][873]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.07-05.04.23:466][873]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.07-05.04.23:466][873]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.07-05.04.23:467][873]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.07-05.04.23:468][873]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.07-05.04.23:469][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.07-05.04.23:469][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.07-05.04.23:469][873]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.07-05.04.23:469][873]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.07-05.04.23:570][873]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.07-05.04.23:671][873]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.07-05.04.23:672][873]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.07-05.04.23:672][873]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.07-05.04.23:672][873]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.07-05.04.23:672][873]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.07-05.04.23:672][873]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.07-05.04.23:673][873]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.07-05.04.23:674][873]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.07-05.04.23:680][873]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.07-05.04.23:681][873]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.07-05.04.23:682][873]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.07-05.04.23:683][873]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.07-05.04.23:683][873]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.07-05.04.23:683][873]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.07-05.04.23:683][873]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.07-05.04.23:761][873]LogDerivedDataCache: Shutdown
+[2018.11.07-05.04.23:762][873]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.07-05.04.23:762][873]LogXGEController: Cleaning working directory: C:/Users/Nate/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.07-05.04.23:762][873]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.07-05.04.23:762][873]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.07-05.04.23:762][873]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.07-05.04.23:763][873]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.07-05.04.23:764][873]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.07-05.04.23:767][873]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.07-05.04.23:767][873]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.07-05.04.23:769][873]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.07-05.04.23:769][873]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.07-05.04.23:788][873]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.07-05.04.23:789][873]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.07-05.04.23:790][873]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.07-05.04.23:790][873]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.07-05.04.23:790][873]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.07-05.04.23:790][873]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.07-05.04.23:790][873]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.07-05.04.23:792][873]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.07-05.04.23:792][873]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.07-05.04.23:808][873]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.07-05.04.23:808][873]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.07-05.04.23:808][873]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B56A8B1-41A0-CD29-0E0B-5EB22F1CADE5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=bf41fa754fda67dc35b905b1d2e69d8c%7C8d03bbcd158d461aba4cdd046a4c8aef%7Cd639e9bb-913e-4d2c-8db0-96243143a061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.07-05.04.23:832][873]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.07-05.04.23:835][873]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.07-05.04.23:835][873]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.07-05.04.23:835][873]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.07-05.04.23:835][873]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.07-05.04.23:836][873]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.07-05.04.23:836][873]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.07-05.04.23:837][873]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.07-05.04.23:838][873]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.07-05.04.23:839][873]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.07-05.04.23:839][873]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.07-05.04.23:839][873]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.07-05.04.23:839][873]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.07-05.04.23:839][873]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.07-05.04.23:861][873]LogExit: Exiting.
+[2018.11.07-05.04.23:909][873]Log file closed, 11/07/18 00:04:23

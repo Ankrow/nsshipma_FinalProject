@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TwinStickShooter-2667.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\PCLaunch.rc.res"
+/OUT:"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\UE4Editor-TwinStickShooter-2667.lib"
