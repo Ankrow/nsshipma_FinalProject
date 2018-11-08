@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TwinStickShooter.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{3E0EB086-0618-4DE3-A536-58C8807D41E5}</UniqueIdentifier>
+			<UniqueIdentifier>{F643EF47-E313-4CB1-BDF6-971E99CE9952}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TwinStickShooter.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{6FEFF642-1859-451D-9E3E-090C634BE17A}</UniqueIdentifier>
+			<UniqueIdentifier>{45C53931-E9C7-4A81-B6EB-AC292C4F147A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TwinStickShooter">
-			<UniqueIdentifier>{35829AE2-6C89-45CB-B33F-8B322BC5B428}</UniqueIdentifier>
+			<UniqueIdentifier>{2717712E-CD63-482C-B831-2A699D2D2ABF}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\TwinStickShooter\BaseCharacter.cpp">
 			<Filter>Source\TwinStickShooter</Filter>
