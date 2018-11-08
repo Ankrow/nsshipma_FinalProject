@@ -506,3 +506,286 @@ LogInit: Object subsystem initialized
 [2018.11.08-21.22.50:985][510]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
 [2018.11.08-21.23.04:606][ 73]LogSlate: Window 'Project Settings' being destroyed
 [2018.11.08-21.23.04:611][ 73]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.26.35:244][850]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.26.36:951][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.26.36:976][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.26.36:993][ 32]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:26:36 AM)
+[2018.11.08-21.26.36:993][ 32]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.26.36:996][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003533s)
+[2018.11.08-21.26.36:997][ 32]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.26.36:997][ 32]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.11.08-21.26.36:997][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004484s)
+[2018.11.08-21.26.37:037][ 32]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.26.37:050][ 32]LogInit: FAudioDevice initialized.
+[2018.11.08-21.26.37:094][ 32]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.26.37:097][ 32]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.26.37
+[2018.11.08-21.26.37:100][ 32]LogWorld: Bringing up level for play took: 0.003912
+[2018.11.08-21.26.37:124][ 32]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.08-21.26.37:125][ 32]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.911
+[2018.11.08-21.26.42:160][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.26.42:199][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.26.42:231][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.26.42:262][634]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.08-21.26.48:770][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.26.58:419][539]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE068FB0C4D8CC196E70EE8866B129EC1.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.26.58:451][539]LogFileHelpers: Saving map 'ArenaMap' took 0.194
+[2018.11.08-21.26.58:505][539]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter113C74A240E292824E0DC0822ADC6477.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.26.59:668][664]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.27.03:247][ 71]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.11.08-21.27.05:099][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.27.05:587][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.27.05:600][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.27.07:467][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.27.08:267][527]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.08-21.27.08:340][528]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TwinStickShooter
+[2018.11.08-21.27.08:340][528]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.27.08:340][528]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.20
+[2018.11.08-21.27.08:340][528]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.27.08:340][528]LogTemp: BranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.08-21.27.08:373][529]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\nsshipma.ADS.005\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.08-21.27.37:526][411]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.27.37:535][411]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.28.23:334][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.28.27:054][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.28.27:206][259]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap3FC24DD74A1FFB686542BDB004462F18.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.28.27:239][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.08-21.28.27:275][259]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData8A55A96542214A03E84866AFC36DCD63.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.08-21.28.28:434][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.28.28:502][396]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.28.28:524][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.28.28:524][396]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:28:28 AM)
+[2018.11.08-21.28.28:524][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.28.28:527][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002904s)
+[2018.11.08-21.28.28:528][396]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.28.28:528][396]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.11.08-21.28.28:528][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003677s)
+[2018.11.08-21.28.28:592][396]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.28.28:601][396]LogInit: FAudioDevice initialized.
+[2018.11.08-21.28.28:635][396]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.28.28:637][396]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.28.28
+[2018.11.08-21.28.28:638][396]LogWorld: Bringing up level for play took: 0.001337
+[2018.11.08-21.28.28:651][396]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.437
+[2018.11.08-21.28.51:474][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.28.51:509][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.28.51:539][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.28.51:578][135]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.08-21.28.52:632][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.29.05:667][720]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.08-21.29.05:734][721]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TwinStickShooter
+[2018.11.08-21.29.05:734][721]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.29.05:735][721]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.20
+[2018.11.08-21.29.05:735][721]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.29.05:735][721]LogTemp: BranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.08-21.29.05:758][722]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\nsshipma.ADS.005\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.08-21.31.05:888][ 26]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.31.05:894][ 26]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.31.08:173][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.31.08:194][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.31.08:194][291]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:31:08 AM)
+[2018.11.08-21.31.08:194][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.31.08:198][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2018.11.08-21.31.08:198][291]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.31.08:198][291]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.11.08-21.31.08:198][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003828s)
+[2018.11.08-21.31.08:238][291]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.31.08:246][291]LogInit: FAudioDevice initialized.
+[2018.11.08-21.31.08:279][291]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.31.08:282][291]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.31.08
+[2018.11.08-21.31.08:282][291]LogWorld: Bringing up level for play took: 0.001251
+[2018.11.08-21.31.08:294][291]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.083
+[2018.11.08-21.31.11:476][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.31.11:514][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.31.11:545][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.31.11:579][673]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.08-21.31.12:354][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.31.40:932][101]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.31.43:221][352]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.31.43:247][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.31.43:247][352]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:31:43 AM)
+[2018.11.08-21.31.43:247][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.31.43:250][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002951s)
+[2018.11.08-21.31.43:251][352]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.31.43:251][352]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.11.08-21.31.43:251][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003890s)
+[2018.11.08-21.31.43:290][352]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.31.43:299][352]LogInit: FAudioDevice initialized.
+[2018.11.08-21.31.43:330][352]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.31.43:332][352]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.31.43
+[2018.11.08-21.31.43:332][352]LogWorld: Bringing up level for play took: 0.001049
+[2018.11.08-21.31.43:344][352]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.867
+[2018.11.08-21.32.02:020][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.02:059][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.32.02:091][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.02:122][593]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.08-21.32.03:467][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.32.04:331][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.32.04:494][850]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2DB72FE340A34272A86FA5BBDA671A7E.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.32.04:524][850]LogFileHelpers: Saving map 'ArenaMap' took 0.187
+[2018.11.08-21.32.04:580][850]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter2571739944308A1B227FE788B6FF109F.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.32.07:085][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.32.07:177][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.32.07:196][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.32.07:196][153]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:32:07 AM)
+[2018.11.08-21.32.07:196][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.32.07:199][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2018.11.08-21.32.07:200][153]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.32.07:200][153]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.11.08-21.32.07:200][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003616s)
+[2018.11.08-21.32.07:239][153]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.32.07:247][153]LogInit: FAudioDevice initialized.
+[2018.11.08-21.32.07:281][153]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.32.07:283][153]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.32.07
+[2018.11.08-21.32.07:283][153]LogWorld: Bringing up level for play took: 0.001074
+[2018.11.08-21.32.07:296][153]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.085
+[2018.11.08-21.32.08:910][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.08:947][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.32.08:977][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.09:011][348]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.08-21.32.16:560][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.32.16:643][248]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.32.18:579][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.32.18:605][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.32.18:605][440]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:32:18 AM)
+[2018.11.08-21.32.18:605][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.32.18:608][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002705s)
+[2018.11.08-21.32.18:608][440]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.32.18:608][440]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2018.11.08-21.32.18:609][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003523s)
+[2018.11.08-21.32.18:645][440]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.32.18:653][440]LogInit: FAudioDevice initialized.
+[2018.11.08-21.32.18:683][440]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.32.18:685][440]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.32.18
+[2018.11.08-21.32.18:685][440]LogWorld: Bringing up level for play took: 0.001023
+[2018.11.08-21.32.18:697][440]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.486
+[2018.11.08-21.32.23:693][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.23:733][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.32.23:765][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.32.23:797][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.08-21.32.28:505][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.32.28:605][616]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.32.28:624][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.32.28:624][616]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:32:28 AM)
+[2018.11.08-21.32.28:624][616]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.32.28:627][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003086s)
+[2018.11.08-21.32.28:628][616]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.32.28:628][616]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.11.08-21.32.28:628][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003900s)
+[2018.11.08-21.32.28:667][616]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.32.28:674][616]LogInit: FAudioDevice initialized.
+[2018.11.08-21.32.28:706][616]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.32.28:708][616]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.32.28
+[2018.11.08-21.32.28:709][616]LogWorld: Bringing up level for play took: 0.001061
+[2018.11.08-21.32.28:721][616]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.51
+[2018.11.08-21.33.01:366][467]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.11.08-21.33.04:259][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.33.29:198][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.33.29:236][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.33.29:269][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.33.29:300][725]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.08-21.33.48:162][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.33.49:149][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.33.49:316][ 99]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap7E701D0144367DFD285D9C8821153DFF.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.33.49:360][ 99]LogFileHelpers: Saving map 'ArenaMap' took 0.206
+[2018.11.08-21.33.49:411][ 99]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter6FC06E1648F8361ECF0C2EB9CAAC0FA0.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.34.12:706][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.35.30:195][  4]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.08-21.36.04:376][ 49]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.36.07:077][349]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.36.07:103][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.36.07:103][349]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:36:07 AM)
+[2018.11.08-21.36.07:103][349]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.36.07:106][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002759s)
+[2018.11.08-21.36.07:106][349]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.36.07:106][349]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.11.08-21.36.07:106][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003497s)
+[2018.11.08-21.36.07:142][349]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.36.07:152][349]LogInit: FAudioDevice initialized.
+[2018.11.08-21.36.07:182][349]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.36.07:184][349]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.36.07
+[2018.11.08-21.36.07:185][349]LogWorld: Bringing up level for play took: 0.001232
+[2018.11.08-21.36.07:197][349]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.987
+[2018.11.08-21.36.13:242][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.36.13:282][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.36.13:307][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.36.13:347][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.08-21.36.14:508][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.36.30:134][ 79]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.36.36:673][836]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.36.38:173][992]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.36.38:201][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.36.38:201][992]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:36:38 AM)
+[2018.11.08-21.36.38:201][992]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.36.38:206][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004501s)
+[2018.11.08-21.36.38:206][992]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.36.38:207][992]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.11.08-21.36.38:207][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.005466s)
+[2018.11.08-21.36.38:241][992]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.36.38:249][992]LogInit: FAudioDevice initialized.
+[2018.11.08-21.36.38:281][992]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.36.38:284][992]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.36.38
+[2018.11.08-21.36.38:284][992]LogWorld: Bringing up level for play took: 0.001120
+[2018.11.08-21.36.38:296][992]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.087
+[2018.11.08-21.36.40:778][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.36.40:816][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.36.40:849][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.36.40:885][290]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.08-21.36.41:661][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.36.42:580][484]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter71CC67104FCB018B00CFCA93CE40040E.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.38.13:586][263]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.38.14:281][314]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterE63346754B8422E30ED1CABA5417C32A.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.38.28:344][990]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter2D04F9F24437502C715CC9AD0D95CB96.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.38.28:638][ 23]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.40.38:610][419]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.40.39:190][456]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter5DD5CCFC460F7C84736B18B0A3738DBE.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.40.40:719][637]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.40.40:747][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.40.40:747][637]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:40:40 AM)
+[2018.11.08-21.40.40:747][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.40.40:750][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003106s)
+[2018.11.08-21.40.40:751][637]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.40.40:751][637]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.11.08-21.40.40:751][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004026s)
+[2018.11.08-21.40.40:791][637]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.40.40:800][637]LogInit: FAudioDevice initialized.
+[2018.11.08-21.40.40:829][637]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.40.40:831][637]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.40.40
+[2018.11.08-21.40.40:832][637]LogWorld: Bringing up level for play took: 0.001392
+[2018.11.08-21.40.40:844][637]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.636
+[2018.11.08-21.40.47:681][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.40.47:720][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.40.47:753][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.40.47:785][457]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.08-21.40.53:693][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.41.23:285][647]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.08-21.41.23:773][672]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter1369EB2E4064FDECD2B3FA9B3EE30E8F.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.41.25:156][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.41.25:184][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.41.25:184][835]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:41:25 AM)
+[2018.11.08-21.41.25:184][835]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.41.25:187][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002849s)
+[2018.11.08-21.41.25:188][835]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.41.25:188][835]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.11.08-21.41.25:188][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003493s)
+[2018.11.08-21.41.25:224][835]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.41.25:232][835]LogInit: FAudioDevice initialized.
+[2018.11.08-21.41.25:264][835]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.41.25:266][835]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.41.25
+[2018.11.08-21.41.25:266][835]LogWorld: Bringing up level for play took: 0.001041
+[2018.11.08-21.41.25:279][835]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.072
+[2018.11.08-21.41.44:362][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.41.44:400][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.41.44:432][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.41.44:464][124]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.08-21.41.48:252][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.42.55:671][562]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.08-21.42.55:747][562]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TwinStickShooter
+[2018.11.08-21.42.55:747][562]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.42.55:747][562]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.20
+[2018.11.08-21.42.55:747][562]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.08-21.42.55:747][562]LogTemp: BranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = IULB-V-FF052-19/C/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.08-21.42.55:748][562]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\nsshipma.ADS.005\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.08-21.44.31:674][ 10]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.44.31:683][ 10]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.08-21.44.51:111][327]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterA347FDAE40802EF4DF20EFAD4801DBEB.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.08-21.44.53:612][598]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapCAD229974850354CF77DFE812883756C.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.44.53:643][598]LogFileHelpers: Saving map 'ArenaMap' took 0.198
