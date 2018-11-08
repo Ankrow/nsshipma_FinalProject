@@ -789,3 +789,423 @@ LogInit: Object subsystem initialized
 [2018.11.08-21.44.51:111][327]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterA347FDAE40802EF4DF20EFAD4801DBEB.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
 [2018.11.08-21.44.53:612][598]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapCAD229974850354CF77DFE812883756C.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.11.08-21.44.53:643][598]LogFileHelpers: Saving map 'ArenaMap' took 0.198
+[2018.11.08-21.46.07:576][426]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
+[2018.11.08-21.46.07:854][426]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.11.08-21.46.24:209][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.46.24:309][349]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.08-21.46.25:244][422]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter9B0DF5314FE27D9B166776996E77F5AF.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.08-21.46.49:468][285]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass needed to have new flag set bUsedWithSkeletalMesh !
+[2018.11.08-21.46.49:471][285]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.11.08-21.46.49:588][285]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.11.08-21.46.49:588][285]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.11.08-21.46.49:588][285]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.08-21.46.49:588][285]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.08-21.46.59:101][118]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.08-21.47.00:221][217]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.08-21.47.00:281][217]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.08-21.47.00:567][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.08-21.47.00:577][217]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.11.08-21.47.00:640][217]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.08-21.47.01:081][217]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.11.08-21.47.07:708][829]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.08-21.47.08:064][866]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.08-21.47.08:152][875]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.08-21.47.13:143][362]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.08-21.47.17:125][814]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.08-21.47.24:049][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.47.24:242][563]LogAssetEditorManager: Opening Asset editor for Material /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2018.11.08-21.47.24:248][563]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.08-21.47.24:475][563]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.08-21.47.24:572][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.08-21.47.24:577][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.11.08-21.47.24:582][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.08-21.47.25:049][589]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.11.08-21.47.25:234][611]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.11.08-21.47.25:438][635]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.11.08-21.47.25:592][652]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.11.08-21.47.25:875][684]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.11.08-21.47.26:030][702]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.11.08-21.47.26:281][730]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.11.08-21.47.26:444][749]LogShaderCompilers: Display: Shaders left to compile 131
+[2018.11.08-21.47.26:694][777]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.11.08-21.47.26:879][791]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.11.08-21.47.27:065][809]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.11.08-21.47.27:268][830]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.11.08-21.47.27:456][849]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.11.08-21.47.27:646][869]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.11.08-21.47.27:835][889]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.11.08-21.47.28:030][910]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.11.08-21.47.28:234][932]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.11.08-21.47.28:416][950]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.11.08-21.47.28:596][968]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.11.08-21.47.29:090][ 18]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.11.08-21.47.29:256][ 35]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.08-21.47.29:354][ 45]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.11.08-21.47.29:446][ 55]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.11.08-21.47.29:548][ 66]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.11.08-21.47.29:637][ 75]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.11.08-21.47.29:723][ 84]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.11.08-21.47.29:822][ 94]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.08-21.47.29:883][101]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.11.08-21.47.29:998][113]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.11.08-21.47.30:072][121]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.11.08-21.47.30:154][130]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.08-21.47.30:251][141]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.08-21.47.30:571][175]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.11.08-21.47.30:688][188]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.11.08-21.47.30:834][203]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.11.08-21.47.31:092][230]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.11.08-21.47.31:255][246]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.08-21.47.31:343][255]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.11.08-21.47.31:693][291]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.11.08-21.47.31:815][304]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.11.08-21.47.31:931][316]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.08-21.47.32:191][342]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.08-21.47.32:338][358]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.11.08-21.47.32:438][368]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.11.08-21.47.32:821][410]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.11.08-21.47.32:886][417]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.11.08-21.47.33:024][431]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.08-21.47.33:075][436]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.11.08-21.47.33:202][450]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.11.08-21.47.33:230][453]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.11.08-21.47.33:301][461]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.08-21.47.33:387][470]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.08-21.47.33:450][477]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.08-21.47.33:547][488]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.08-21.47.33:556][489]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.08-21.47.33:691][504]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.08-21.47.33:764][512]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.08-21.47.33:771][513]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.11.08-21.47.33:809][517]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.08-21.47.33:934][531]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.08-21.47.33:977][536]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.08-21.47.33:985][537]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.08-21.47.34:018][541]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.08-21.47.34:147][555]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.08-21.47.34:181][559]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.08-21.47.34:189][560]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.08-21.47.34:224][564]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.08-21.47.34:353][578]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.08-21.47.34:399][583]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.08-21.47.34:416][585]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.08-21.47.34:549][600]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.08-21.47.34:558][601]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.08-21.47.34:608][607]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.08-21.47.34:625][609]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.08-21.47.34:753][624]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.08-21.47.34:902][640]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.08-21.47.34:983][649]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.08-21.47.35:052][657]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.08-21.47.35:145][666]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.08-21.47.35:250][678]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.08-21.47.35:322][686]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.08-21.47.35:471][703]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.08-21.47.35:536][710]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.08-21.47.35:598][717]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.08-21.47.35:698][728]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.08-21.47.35:811][740]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.08-21.47.35:878][747]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.08-21.47.36:021][763]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.08-21.47.36:048][766]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.08-21.47.36:146][776]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.08-21.47.36:155][777]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.08-21.47.36:199][782]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.08-21.47.36:249][788]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.08-21.47.36:322][796]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.08-21.47.36:396][804]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.08-21.47.36:405][805]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.08-21.47.36:431][808]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.08-21.47.36:559][822]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.08-21.47.36:585][825]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.08-21.47.36:595][826]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.08-21.47.36:620][829]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.08-21.47.36:753][844]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.08-21.47.36:778][847]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.08-21.47.36:786][848]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.08-21.47.36:814][851]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.08-21.47.36:943][865]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.08-21.47.36:970][868]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.08-21.47.36:979][869]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.08-21.47.37:102][883]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.08-21.47.37:155][889]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.08-21.47.37:164][890]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.08-21.47.37:276][903]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.08-21.47.37:286][904]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.08-21.47.37:314][907]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.08-21.47.37:355][912]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.08-21.47.37:460][924]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.08-21.47.37:625][942]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.08-21.47.37:688][949]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.08-21.47.37:734][954]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.08-21.47.37:838][965]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.08-21.47.37:939][976]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.08-21.47.38:038][987]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.08-21.47.38:154][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.08-21.47.38:190][  4]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.08-21.47.38:292][ 16]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.08-21.47.38:393][ 27]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.08-21.47.38:455][ 34]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.08-21.47.38:545][ 44]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.08-21.47.38:645][ 55]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.08-21.47.38:808][ 73]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.08-21.47.38:835][ 76]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.11.08-21.47.38:856][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.08-21.47.38:873][ 79]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.08-21.47.38:893][ 81]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.08-21.47.39:064][100]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.08-21.48.03:992][ 52]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.08-21.48.04:045][ 54]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.11.08-21.48.04:045][ 54]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.11.08-21.48.04:045][ 54]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.11.08-21.48.04:046][ 54]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.11.08-21.48.04:587][111]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.11.08-21.48.04:596][112]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.11.08-21.48.04:613][114]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.11.08-21.48.04:664][120]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.11.08-21.48.04:750][130]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.11.08-21.48.04:777][133]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.08-21.48.04:862][143]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.11.08-21.48.04:901][147]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.11.08-21.48.04:946][152]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.11.08-21.48.04:993][157]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.11.08-21.48.05:092][166]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.11.08-21.48.05:114][168]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.08-21.48.05:167][173]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.11.08-21.48.05:208][177]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.11.08-21.48.05:274][182]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.11.08-21.48.05:300][184]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.08-21.48.05:350][188]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.08-21.48.05:400][192]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.11.08-21.48.05:451][196]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.11.08-21.48.05:528][203]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.11.08-21.48.05:600][210]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.11.08-21.48.05:631][213]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.08-21.48.05:703][221]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.11.08-21.48.05:735][224]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.11.08-21.48.05:795][230]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.11.08-21.48.05:805][231]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.08-21.48.05:877][239]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.08-21.48.05:916][243]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.11.08-21.48.05:935][245]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.11.08-21.48.06:010][254]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.11.08-21.48.06:196][275]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.11.08-21.48.06:310][287]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.08-21.48.06:379][295]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.11.08-21.48.06:431][300]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.11.08-21.48.06:562][314]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.11.08-21.48.06:612][319]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.08-21.48.06:818][338]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.08-21.48.06:828][339]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.08-21.48.06:904][347]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.08-21.48.06:970][354]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.08-21.48.07:086][367]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.08-21.48.07:217][381]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.08-21.48.07:261][386]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.11.08-21.48.07:359][397]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.08-21.48.07:387][400]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.08-21.48.07:396][401]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.08-21.48.07:503][413]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.08-21.48.07:542][417]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.08-21.48.07:551][418]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.08-21.48.07:630][427]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.08-21.48.07:697][434]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.08-21.48.07:749][440]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.08-21.48.07:789][444]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.08-21.48.07:833][449]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.08-21.48.07:903][457]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.08-21.48.07:959][463]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.08-21.48.08:002][468]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.08-21.48.08:048][473]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.08-21.48.08:101][477]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.08-21.48.08:158][483]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.08-21.48.08:204][488]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.08-21.48.08:256][494]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.08-21.48.08:304][499]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.08-21.48.08:360][505]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.08-21.48.08:453][516]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.08-21.48.08:462][517]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.08-21.48.08:547][527]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.08-21.48.08:595][532]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.08-21.48.08:622][535]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.08-21.48.08:670][540]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.08-21.48.08:762][551]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.08-21.48.08:930][570]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.08-21.48.09:016][580]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.08-21.48.09:049][584]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.08-21.48.09:136][594]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.08-21.48.09:268][609]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.08-21.48.09:325][615]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.08-21.48.09:458][630]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.08-21.48.09:521][637]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.08-21.48.09:581][644]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.08-21.48.09:670][653]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.08-21.48.09:957][666]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.08-21.48.09:958][666]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.08-21.48.09:982][667]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.08-21.48.09:993][668]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.08-21.48.10:074][677]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.08-21.48.10:105][680]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.08-21.48.10:150][685]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.08-21.48.10:194][690]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.08-21.48.10:255][697]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.08-21.48.10:308][703]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.08-21.48.10:335][706]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.08-21.48.10:385][712]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.08-21.48.10:480][723]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.08-21.48.10:487][724]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.08-21.48.10:505][726]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.08-21.48.10:565][733]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.08-21.48.10:661][744]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.08-21.48.10:669][745]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.08-21.48.10:679][746]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.08-21.48.10:747][754]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.08-21.48.10:841][765]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.08-21.48.10:852][766]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.08-21.48.10:862][767]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.08-21.48.10:987][781]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.08-21.48.11:022][785]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.08-21.48.11:039][787]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.08-21.48.11:160][801]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.08-21.48.11:170][802]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.08-21.48.11:179][803]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.08-21.48.11:221][808]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.08-21.48.11:334][821]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.08-21.48.11:463][835]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.08-21.48.11:568][847]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.08-21.48.11:584][849]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.08-21.48.11:711][863]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.08-21.48.11:807][874]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.08-21.48.11:862][880]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.08-21.48.11:985][894]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.08-21.48.12:058][902]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.08-21.48.12:127][910]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.08-21.48.12:205][919]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.08-21.48.12:302][930]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.11.08-21.48.12:581][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.08-21.50.56:282][419]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.08-21.50.57:824][603]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.08-21.51.03:857][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.51.27:997][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.08-21.51.35:093][263]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.08-21.51.38:248][639]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.08-21.51.48:555][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.51.51:310][163]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/M_StatueGlass564D7BE9405626C7B17A379F040D6983.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset'
+[2018.11.08-21.51.51:365][163]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterEA21E60D4786A99BD4FF6E94CD45C6E4.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.08-21.52.35:464][736]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.08-21.52.47:604][185]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyAI.EnemyAI
+[2018.11.08-21.54.53:772][167]BlueprintLog: New page: Compile EnemyAI
+[2018.11.08-21.54.54:175][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2018.11.08-21.54.54:193][190]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAIC1D3103A48FEC577B550CD9325A2F242.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset'
+[2018.11.08-21.56.16:985][ 49]BlueprintLog: New page: Compile EnemyAI
+[2018.11.08-21.56.17:500][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2018.11.08-21.56.17:524][ 87]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAIEEC9C20C4665E975703C6BA73AA5B83E.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset'
+[2018.11.08-21.56.29:597][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.56.29:739][518]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapF1D0E4F34EF35DBC84D5C08CC71FB48D.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.56.29:792][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.08-21.56.29:824][518]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataDD5D588849533FE6AE45CE99C154BCF3.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.08-21.56.30:931][632]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.56.30:965][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.56.30:965][632]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:56:30 AM)
+[2018.11.08-21.56.30:965][632]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.56.30:968][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003325s)
+[2018.11.08-21.56.30:969][632]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.56.30:969][632]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.11.08-21.56.30:969][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004133s)
+[2018.11.08-21.56.31:008][632]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.56.31:017][632]LogInit: FAudioDevice initialized.
+[2018.11.08-21.56.31:051][632]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.56.31:054][632]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.56.31
+[2018.11.08-21.56.31:055][632]LogWorld: Bringing up level for play took: 0.001751
+[2018.11.08-21.56.31:067][632]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.868
+[2018.11.08-21.56.35:075][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.56.35:115][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.56.35:153][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.56.35:177][111]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.08-21.56.35:934][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.56.53:807][334]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.08-21.56.57:378][754]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.08-21.56.57:965][786]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter4DB4483045980D29BB1E4A9C90DF1E98.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.08-21.56.59:634][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.56.59:663][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.56.59:663][983]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:56:59 AM)
+[2018.11.08-21.56.59:663][983]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.56.59:666][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002913s)
+[2018.11.08-21.56.59:666][983]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.56.59:667][983]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.11.08-21.56.59:667][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003627s)
+[2018.11.08-21.56.59:715][983]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.56.59:722][983]LogInit: FAudioDevice initialized.
+[2018.11.08-21.56.59:751][983]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.56.59:753][983]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.56.59
+[2018.11.08-21.56.59:754][983]LogWorld: Bringing up level for play took: 0.001540
+[2018.11.08-21.56.59:767][983]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.431
+[2018.11.08-21.57.06:975][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.57.07:017][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.57.07:052][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.57.07:078][847]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.08-21.57.08:958][ 44]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap05C552A44CC56D8C1E2FD39A851EC04C.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.57.08:993][ 44]LogFileHelpers: Saving map 'ArenaMap' took 0.206
+[2018.11.08-21.57.38:275][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.57.56:438][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.58.00:088][107]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap79068503434255FBF018779DAB637084.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.58.00:124][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.08-21.58.00:151][107]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataE829DF114EAD3D2CCD661DB643FA141B.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.08-21.58.05:075][687]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.58.05:098][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.58.05:099][687]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:58:05 AM)
+[2018.11.08-21.58.05:099][687]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.58.05:102][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003481s)
+[2018.11.08-21.58.05:103][687]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.58.05:103][687]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.11.08-21.58.05:103][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004226s)
+[2018.11.08-21.58.05:139][687]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.58.05:147][687]LogInit: FAudioDevice initialized.
+[2018.11.08-21.58.05:176][687]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.58.05:179][687]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.58.05
+[2018.11.08-21.58.05:179][687]LogWorld: Bringing up level for play took: 0.001582
+[2018.11.08-21.58.05:192][687]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.995
+[2018.11.08-21.58.07:669][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.58.07:707][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.58.07:740][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.58.07:781][984]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.08-21.58.08:642][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.58.40:501][881]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.08-21.58.42:409][ 72]BlueprintLog: New page: Compile EnemyAI
+[2018.11.08-21.58.45:213][354]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap41CECA154764828B41EB24BDD926660D.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.08-21.58.45:249][354]LogFileHelpers: Saving map 'ArenaMap' took 0.202
+[2018.11.08-21.58.45:288][354]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterE211EF6F4D5F3E373F1376AFE26197C5.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.08-21.58.45:295][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2018.11.08-21.58.45:312][354]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAI490019CE40F7D31F678349B67D5F4C76.tmp' to '../../../../../../Users/nsshipma.ADS.005/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyAI.uasset'
+[2018.11.08-21.58.46:024][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.58.46:083][433]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.58.46:112][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.58.46:112][433]PIE: New page: PIE session: ArenaMap (Nov 8, 2018, 11:58:46 AM)
+[2018.11.08-21.58.46:112][433]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.08-21.58.46:116][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003177s)
+[2018.11.08-21.58.46:116][433]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.08-21.58.46:116][433]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2018.11.08-21.58.46:116][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003832s)
+[2018.11.08-21.58.46:156][433]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.08-21.58.46:165][433]LogInit: FAudioDevice initialized.
+[2018.11.08-21.58.46:198][433]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.08-21.58.46:200][433]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.08-16.58.46
+[2018.11.08-21.58.46:200][433]LogWorld: Bringing up level for play took: 0.001595
+[2018.11.08-21.58.46:212][433]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.017
+[2018.11.08-21.58.57:906][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.58.57:949][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.08-21.58.57:982][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.08-21.58.58:008][830]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.08-21.58.59:777][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
