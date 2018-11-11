@@ -401,21 +401,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinStickShooter
-/I C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Source
-/I C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Source\TwinStickShooter
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.14.26428\INCLUDE"
+/I C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinStickShooter
+/I C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Source
+/I C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Source\TwinStickShooter
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
-/FI"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Source\TwinStickShooter\BaseCharacter.cpp"
-/FI"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\Definitions.TwinStickShooter.h"
-/Fo"C:\Users\nsshipma.ADS.005\Documents\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+/FI"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Source\TwinStickShooter\BaseCharacter.cpp"
+/FI"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\Definitions.TwinStickShooter.h"
+/Fo"C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
 /TP
 /GR-
 /W4
