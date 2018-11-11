@@ -2399,3 +2399,102 @@ LogInit: Object subsystem initialized
 [2018.11.11-21.40.12:481][ 84]BlueprintLog: New page: Compile Projectile
 [2018.11.11-21.40.14:285][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
 [2018.11.11-21.40.14:305][279]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileA53FA40F4AA02B4E5AFF36ADFE45639D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-21.53.13:732][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-21.53.56:970][130]BlueprintLog: New page: Compile Weapon
+[2018.11.11-21.54.37:005][814]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.11-21.56.50:748][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.037
+[2018.11.11-21.56.50:750][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapon] ([1] browsable assets)...
+[2018.11.11-21.56.50:768][620]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapon.Weapon]
+[2018.11.11-21.56.50:768][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapon]
+[2018.11.11-21.56.50:813][620]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Weapon_Auto216D9E16A4224C17F3E83E1AC9607550D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/Weapon_Auto2.uasset'
+[2018.11.11-21.56.50:815][620]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.11.11-21.57.23:181][484]BlueprintLog: New page: Compile Weapon
+[2018.11.11-21.57.26:111][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapon" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Weapon.uasset" SILENT=true
+[2018.11.11-21.57.26:136][810]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Weapon7F90585847DF042C5742268270416DD6.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Weapon.uasset'
+[2018.11.11-21.59.52:056][928]BlueprintLog: New page: Compile Weapon
+[2018.11.11-22.01.03:577][374]BlueprintLog: New page: Compile Weapon
+[2018.11.11-22.01.04:070][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapon" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Weapon.uasset" SILENT=true
+[2018.11.11-22.01.04:098][410]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Weapon46B9084B4C153EF7BB9851A2128DDAB2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Weapon.uasset'
+[2018.11.11-22.01.29:096][705]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2018.11.11-22.01.53:884][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.01.53:950][619]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.11-22.02.23:300][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.02.28:792][573]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.11-22.03.18:183][280]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.11-22.05.44:644][533]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.11-22.06.08:627][374]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.11-22.06.08:659][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.11-22.06.08:671][374]PIE: New page: PIE session: ArenaMap (Nov 11, 2018, 12:06:08 PM)
+[2018.11.11-22.06.08:671][374]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.11-22.06.08:675][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003545s)
+[2018.11.11-22.06.08:675][374]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.11-22.06.08:675][374]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.11.11-22.06.08:675][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004264s)
+[2018.11.11-22.06.08:710][374]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.11-22.06.08:725][374]LogInit: FAudioDevice initialized.
+[2018.11.11-22.06.08:783][374]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.11-22.06.08:792][374]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.11-17.06.08
+[2018.11.11-22.06.08:794][374]LogWorld: Bringing up level for play took: 0.005942
+[2018.11.11-22.06.08:838][374]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 10 classes and 0 folders.
+[2018.11.11-22.06.08:857][374]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.405
+[2018.11.11-22.06.17:833][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.06.17:872][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.11-22.06.17:930][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.06.17:951][444]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.11-22.06.18:889][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.07.00:380][474]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto3EA5746E645E5289476DBF6815F3CD900.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto3.umap'
+[2018.11.11-22.07.00:383][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.079
+[2018.11.11-22.07.00:383][474]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2018.11.11-22.07.00:384][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2018.11.11-22.07.00:397][474]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter]
+[2018.11.11-22.07.00:397][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter]
+[2018.11.11-22.07.00:435][474]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter_Auto3417AB87B4BB33BC1BD64E09AE8F2201F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto3.uasset'
+[2018.11.11-22.07.00:436][474]LogFileHelpers: Auto-saving content packages took 0.053
+[2018.11.11-22.07.28:967][545]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.11-22.07.30:501][698]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.11-22.07.30:533][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.11-22.07.30:533][698]PIE: New page: PIE session: ArenaMap (Nov 11, 2018, 12:07:30 PM)
+[2018.11.11-22.07.30:533][698]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.11-22.07.30:537][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003532s)
+[2018.11.11-22.07.30:537][698]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.11-22.07.30:537][698]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2018.11.11-22.07.30:537][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004185s)
+[2018.11.11-22.07.30:571][698]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.11-22.07.30:585][698]LogInit: FAudioDevice initialized.
+[2018.11.11-22.07.30:638][698]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.11-22.07.30:644][698]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.11-17.07.30
+[2018.11.11-22.07.30:646][698]LogWorld: Bringing up level for play took: 0.005515
+[2018.11.11-22.07.30:663][698]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.598
+[2018.11.11-22.07.46:085][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.07.46:121][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.11-22.07.46:146][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.07.46:192][542]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.11-22.07.59:807][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.08.16:936][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.08.17:011][692]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.08.18:595][854]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.11-22.08.18:618][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.11-22.08.18:618][854]PIE: New page: PIE session: ArenaMap (Nov 11, 2018, 12:08:18 PM)
+[2018.11.11-22.08.18:618][854]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.11-22.08.18:621][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003333s)
+[2018.11.11-22.08.18:622][854]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.11-22.08.18:622][854]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.11.11-22.08.18:622][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004070s)
+[2018.11.11-22.08.18:654][854]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.11-22.08.18:668][854]LogInit: FAudioDevice initialized.
+[2018.11.11-22.08.18:698][854]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.11-22.08.18:700][854]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.11-17.08.18
+[2018.11.11-22.08.18:701][854]LogWorld: Bringing up level for play took: 0.001561
+[2018.11.11-22.08.18:714][854]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.548
+[2018.11.11-22.08.26:637][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.08.26:674][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.11-22.08.26:704][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.08.26:741][806]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.11-22.09.01:732][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.11-22.09.02:962][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.11-22.09.03:035][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.11-22.09.03:095][140]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap16BA96AB489B443DD5ABD3B1B854659C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.11-22.09.03:127][140]LogFileHelpers: Saving map 'ArenaMap' took 0.161
+[2018.11.11-22.09.03:178][140]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterA241F1CE43309D95A65FBAAA8A3A087D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.11-22.09.03:197][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.11-22.09.03:220][140]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileB4ED504E40BEDA5A7EB8FD8ABCC1BFAA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
