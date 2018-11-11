@@ -2498,3 +2498,76 @@ LogInit: Object subsystem initialized
 [2018.11.11-22.09.03:178][140]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterA241F1CE43309D95A65FBAAA8A3A087D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
 [2018.11.11-22.09.03:197][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
 [2018.11.11-22.09.03:220][140]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileB4ED504E40BEDA5A7EB8FD8ABCC1BFAA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-22.29.57:749][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-22.29.57:967][863]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
+[2018.11.11-22.32.27:800][118]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/iDamageable.iDamageable
+[2018.11.11-22.32.52:019][994]LogSlate: Took 0.022701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.11-22.33.12:580][457]BlueprintLog: New page: Compile iDamageable
+[2018.11.11-22.33.50:817][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.031
+[2018.11.11-22.33.50:818][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/iDamageable] ([1] browsable assets)...
+[2018.11.11-22.33.50:818][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/iDamageable]
+[2018.11.11-22.33.50:826][ 11]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/iDamageable_Auto4FB5668B64C44CCD17D9A9E86DC04F466.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/iDamageable_Auto4.uasset'
+[2018.11.11-22.33.50:827][ 11]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.11.11-22.34.28:764][542]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.11-22.34.44:921][430]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.11-22.37.46:596][640]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.11-22.39.46:788][921]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.39.46:796][921]LogBlueprint: Error: [Compiler Projectile] The type of  Object  is undetermined.  Connect something to  Cast To iDamageable  to imply a specific type.
+[2018.11.11-22.39.46:796][921]LogBlueprint: Error: [Compiler Projectile] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.11.11-22.39.46:951][921]LogBlueprint: Warning: [Compiler Projectile] [4487.61] Compile of Projectile failed. 2 Fatal Issue(s) 0 Warning(s) [in 162 ms] (/Game/Blueprints/Projectile.Projectile)
+[2018.11.11-22.40.01:968][698]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.40.17:492][514]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.11-22.42.54:974][ 76]LogEditorTransaction: Undo Move Node
+[2018.11.11-22.42.54:991][ 76]LogMaterial: Display: Missing cached shader map for material ProjectileMaterial, compiling. 
+[2018.11.11-22.42.55:004][ 76]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.11-22.42.55:004][ 76]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.11-22.42.55:005][ 76]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.11-22.42.55:005][ 76]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.11-22.42.55:498][129]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.11-22.42.55:518][131]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.11-22.42.55:525][132]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.11-22.42.55:525][132]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.11-22.42.55:619][142]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.11-22.42.55:674][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.11-22.42.56:126][201]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2018.11.11-22.42.56:126][201]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.11.11-22.42.56:126][201]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.11-22.43.39:863][362]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.43.42:729][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.11-22.43.42:792][670]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE1B43F8E41C236FEFD11D1A91F31E46F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.11-22.43.42:821][670]LogFileHelpers: Saving map 'ArenaMap' took 0.159
+[2018.11.11-22.43.42:872][670]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter04A104284866832AABA2AE96EAB2A7E8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.11-22.43.42:971][670]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter1C1F16EF41E0F944909E68AAFA1D6A70.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.11-22.43.42:991][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.11-22.43.43:025][670]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Projectile18DA9F9244503C08896843826E2045D7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-22.43.43:031][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/iDamageable" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/iDamageable.uasset" SILENT=true
+[2018.11.11-22.43.43:040][670]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/iDamageableCA2D6C6848FFD9F552A07FAF4C8EF5E9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/iDamageable.uasset'
+[2018.11.11-22.44.42:519][651]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.44.44:113][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.11-22.44.44:137][815]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Projectile5375D752404CE3C4FBE7A69C2EBEC660.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-22.44.54:593][ 47]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.44.56:086][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.11-22.44.56:111][198]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileDF324D8B45955F77EEBE999A86D465D3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-22.45.03:483][ 79]BlueprintLog: New page: Compile Projectile
+[2018.11.11-22.45.04:222][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.11-22.45.04:249][144]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileA069CA694FEEE68FF74459B2E77F7CD0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.11-22.45.50:656][689]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.11-22.45.50:690][689]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.11-22.45.50:695][689]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2018.11.11-22.45.50:870][689]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2018.11.11-22.45.50:870][689]PIE: New page: PIE session: ArenaMap (Nov 11, 2018, 12:45:50 PM)
+[2018.11.11-22.45.50:870][689]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.11-22.45.50:874][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2018.11.11-22.45.50:875][689]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.11-22.45.50:875][689]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.11.11-22.45.50:875][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004805s)
+[2018.11.11-22.45.50:910][689]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.11-22.45.50:925][689]LogInit: FAudioDevice initialized.
+[2018.11.11-22.45.50:958][689]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.11-22.45.50:960][689]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.11-17.45.50
+[2018.11.11-22.45.50:960][689]LogWorld: Bringing up level for play took: 0.001463
+[2018.11.11-22.45.50:974][689]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.288
+[2018.11.11-22.45.56:083][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.45.56:118][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.11-22.45.56:149][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.11-22.45.56:186][302]LogPlayLevel: Display: Destroying online subsystem :Context_17
