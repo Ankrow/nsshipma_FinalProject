@@ -377,3 +377,25 @@ LogInit: Object subsystem initialized
 [2018.11.12-03.13.28:289][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.11.12-03.13.28:354][801]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap389443DF4C530D7C2215579366B29357.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.11.12-03.13.28:383][801]LogFileHelpers: Saving map 'ArenaMap' took 0.160
+[2018.11.12-16.13.40:341][ 90]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 0 (Connection 44 seems to be dead!)
+[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 1 (Closing connection 44)
+[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 3 (Closing connection 45)
+[2018.11.12-17.02.55:791][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2018.11.12-17.02.58:168][370]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2018.11.12-17.03.26:376][605]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-17.05.38:758][184]LogEditorTransaction: Undo Move Node
+[2018.11.12-17.06.19:057][814]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.12-17.06.19:575][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameModeCB9B0E8F4563DCA830BABAAC0F561028.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.12-17.07.04:882][201]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.12-17.07.05:284][225]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode2F6FE7054C8E4DAF807AA4B5C14B401B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.12-17.08.52:610][261]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter1F0D6D5748DB629903303B88A73E076A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.12-17.08.52:785][273]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.12-17.09.05:964][809]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter471CD040474C7F49763E729221961A68.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.12-17.10.36:089][324]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.12-17.10.36:663][356]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter12B68B43439912EB00ADC9889E901FF0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.12-17.10.43:255][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-17.10.43:329][643]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2C56A741424AEADFA61879A5CE849EF3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-17.10.43:362][643]LogFileHelpers: Saving map 'ArenaMap' took 4.226
