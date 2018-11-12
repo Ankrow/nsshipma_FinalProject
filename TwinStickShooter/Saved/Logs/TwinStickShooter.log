@@ -399,3 +399,109 @@ LogInit: Object subsystem initialized
 [2018.11.12-17.10.43:255][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.11.12-17.10.43:329][643]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2C56A741424AEADFA61879A5CE849EF3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.11.12-17.10.43:362][643]LogFileHelpers: Saving map 'ArenaMap' took 4.226
+[2018.11.12-20.56.16:725][564]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.12-20.56.24:621][184]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemySpawner.EnemySpawner
+[2018.11.12-20.56.50:613][242]BlueprintLog: New page: Compile EnemySpawner
+[2018.11.12-20.56.51:184][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
+[2018.11.12-20.56.51:195][288]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner894D8BA947CCF009E50C8BBF4A58402D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
+[2018.11.12-20.56.58:951][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.57.05:369][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.57.05:461][970]Cmd: MODE GRID=1
+[2018.11.12-20.57.13:819][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-20.58.01:623][822]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto12C0888264FF34DD6F5AFBF8BCDD5106D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto1.umap'
+[2018.11.12-20.58.01:626][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.093
+[2018.11.12-20.58.01:626][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2018.11.12-20.58.01:628][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemySpawner] ([1] browsable assets)...
+[2018.11.12-20.58.01:628][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemySpawner]
+[2018.11.12-20.58.01:646][822]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner_Auto104ACF4E24E3289755320D6BDE191A64E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/EnemySpawner_Auto1.uasset'
+[2018.11.12-20.58.01:647][822]LogFileHelpers: Auto-saving content packages took 0.019
+[2018.11.12-20.59.42:003][250]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.02.20:289][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
+[2018.11.12-21.02.20:307][ 55]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner127428AC4CBDDAF0D96D3AA2B7CBAFEB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
+[2018.11.12-21.02.20:738][ 92]BlueprintLog: New page: Compile EnemySpawner
+[2018.11.12-21.02.57:992][468]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.05.27:423][558]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode2C71F5684618F0027DCBCCA93763F1D9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.12-21.05.27:703][591]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.12-21.05.40:874][143]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.12-21.05.41:405][181]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode490EEEF547DF54BFC6F7248062016BE0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.12-21.05.43:496][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.05.43:565][418]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap7C1AA264451AAD649EB85989CD84F104.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.05.43:596][418]LogFileHelpers: Saving map 'ArenaMap' took 0.167
+[2018.11.12-21.06.28:943][822]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.07.58:823][530]BlueprintLog: New page: Compile EnemySpawner
+[2018.11.12-21.07.59:322][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
+[2018.11.12-21.07.59:348][566]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner8878B61F42ADB6CE556C9D834AE362DF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
+[2018.11.12-21.08.19:060][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
+[2018.11.12-21.08.19:080][903]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner679756ED4D9FF579A8707D9BA59554A5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
+[2018.11.12-21.08.19:427][943]BlueprintLog: New page: Compile EnemySpawner
+[2018.11.12-21.08.56:630][267]Cmd: TRANSACTION UNDO
+[2018.11.12-21.08.56:630][267]LogEditorTransaction: Undo Scale Actors
+[2018.11.12-21.09.00:067][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.09.20:380][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-21.09.21:771][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-21.09.21:842][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.09.21:906][224]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE230604B44EAA9126F082E98C0ECADAC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.09.21:937][224]LogFileHelpers: Saving map 'ArenaMap' took 0.162
+[2018.11.12-21.09.27:485][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-21.09.29:760][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-21.09.29:773][145]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:09:29 AM)
+[2018.11.12-21.09.29:773][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-21.09.29:777][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2018.11.12-21.09.29:777][145]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-21.09.29:777][145]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.11.12-21.09.29:778][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004273s)
+[2018.11.12-21.09.29:813][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-21.09.29:828][145]LogInit: FAudioDevice initialized.
+[2018.11.12-21.09.29:828][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-21.09.29:870][145]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-21.09.29:875][145]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.09.29
+[2018.11.12-21.09.29:900][145]LogWorld: Bringing up level for play took: 0.027624
+[2018.11.12-21.09.29:935][145]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2018.11.12-21.09.29:937][145]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.938
+[2018.11.12-21.09.34:302][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.09.34:342][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-21.09.34:372][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.09.34:404][625]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.12-21.13.11:674][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.14.00:791][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.14.50:198][763]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.12-21.14.50:903][819]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode344D6BF743501227ABE2BD91D1508EC8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.12-21.14.53:925][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.14.53:995][165]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap34B7E5994057F5FB4932569C9EB15DE3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.14.54:025][165]LogFileHelpers: Saving map 'ArenaMap' took 0.167
+[2018.11.12-21.14.54:087][165]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter99E4A5D64407E4F551C9DAAD42C17553.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.12-21.15.39:654][555]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile.Projectile
+[2018.11.12-21.16.39:454][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.12-21.16.39:486][610]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileA4AB04C84BDC662D97AAE6B72FADC00C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.12-21.16.39:836][651]BlueprintLog: New page: Compile Projectile
+[2018.11.12-21.16.40:609][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
+[2018.11.12-21.16.40:636][717]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileD0C2DE1947E2914E61B1D69F0BDEFF11.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
+[2018.11.12-21.25.36:652][217]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.11.12-21.25.58:886][861]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/PlayerBlend.PlayerBlend
+[2018.11.12-21.25.58:997][861]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.12-21.25.59:210][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-21.25.59:233][861]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.12-21.25.59:392][861]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-21.25.59:930][861]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.11.12-21.25.59:938][861]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.12-21.28.03:750][437]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlend1C8BC53C4231C6A7620C5BB056EAB2EF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlend.uasset'
+[2018.11.12-21.28.54:938][248]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.11.12-21.29.07:925][639]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/PlayerBlendRifle.PlayerBlendRifle
+[2018.11.12-21.29.07:938][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-21.29.07:959][639]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-21.29.08:292][639]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.12-21.29.42:662][535]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifleD1F77A0C444C3D38586913883AB7B327.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
+[2018.11.12-21.30.13:382][952]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.12-21.30.13:396][952]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-21.30.25:771][147]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.11.12-21.30.25:771][147]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-21.30.40:877][950]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2018.11.12-21.30.40:877][950]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-21.30.46:824][656]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2018.11.12-21.30.46:824][656]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-21.31.13:825][881]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2018.11.12-21.31.13:825][881]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-21.33.28:479][570]LogSlate: Window 'Save Asset As' being destroyed
+[2018.11.12-21.33.30:390][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlend46F1DF19465760D31BE584AC5685999E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlend.uasset'
+[2018.11.12-21.33.30:429][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifle774DA32C4FF675968B4A6CAB9E66C9C2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
+[2018.11.12-21.33.52:832][422]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifleA0399F8E4CFE190A1B94A1B15F731458.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
