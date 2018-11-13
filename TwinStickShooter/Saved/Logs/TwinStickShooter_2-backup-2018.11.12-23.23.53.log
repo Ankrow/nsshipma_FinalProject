@@ -1,0 +1,850 @@
+﻿Log file open, 11/12/18 23:09:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270814
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.014s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ankr0w" -epicuserid=8d03bbcd158d461aba4cdd046a4c8aef -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.13-04.09.49:378][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-04.09.49:378][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.13-04.09.49:413][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.13-04.09.49:413][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.13-04.09.49:413][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.13-04.09.49:413][  0]LogInit: Computer: DESKTOP-VBFITEQ
+[2018.11.13-04.09.49:413][  0]LogInit: User: Nate
+[2018.11.13-04.09.49:413][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.13-04.09.49:413][  0]LogInit: High frequency timer resolution =3.906267 MHz
+[2018.11.13-04.09.49:413][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.11.13-04.09.49:413][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.13-04.09.49:413][  0]LogMemory: Process Physical Memory: 100.43 MB used, 100.43 MB peak
+[2018.11.13-04.09.49:413][  0]LogMemory: Process Virtual Memory: 91.60 MB used, 91.60 MB peak
+[2018.11.13-04.09.49:414][  0]LogMemory: Physical Memory: 8812.89 MB used,  15711.73 MB free, 24524.62 MB total
+[2018.11.13-04.09.49:414][  0]LogMemory: Virtual Memory: 4640.97 MB used,  15711.73 MB free, 134217728.00 MB total
+[2018.11.13-04.09.49:427][  0]LogInit: Using OS detected language (en-US).
+[2018.11.13-04.09.49:427][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.13-04.09.49:428][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.13-04.09.49:821][  0]LogStreaming: Display: Took  0.393s to InitEngineTextLocalization.
+[2018.11.13-04.09.49:821][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.13-04.09.49:856][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.13-04.09.49:856][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.13-04.09.50:008][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-04.09.50:009][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.13-04.09.50:056][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.11.13-04.09.50:056][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.13-04.09.50:057][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.13-04.09.50:058][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.13-04.09.50:058][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.13-04.09.50:063][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.13-04.09.50:063][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.13-04.09.50:063][  0]LogWindows: EnumDisplayDevices:
+[2018.11.13-04.09.50:064][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.11.13-04.09.50:064][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.11.13-04.09.50:064][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.13-04.09.50:064][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.13-04.09.50:064][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.13-04.09.50:064][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.11.13-04.09.50:064][  0]LogD3D11RHI:   Driver Version: 416.81 (internal:25.21.14.1681, unified:416.81)
+[2018.11.13-04.09.50:064][  0]LogD3D11RHI:      Driver Date: 11-2-2018
+[2018.11.13-04.09.50:065][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.13-04.09.50:096][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.13-04.09.50:123][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.13-04.09.50:222][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/408/).
+[2018.11.13-04.09.50:223][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/9ABDD1A846FA47F26E87B58D5A124984/'.
+[2018.11.13-04.09.50:538][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.13-04.09.50:549][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.13-04.09.50:560][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.13-04.09.50:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.13-04.09.50:584][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.13-04.09.50:594][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.13-04.09.50:606][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.13-04.09.50:618][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.13-04.09.50:623][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.13-04.09.50:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-04.09.50:691][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.13-04.09.50:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-04.09.50:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-04.09.50:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-04.09.50:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-04.09.50:799][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.13-04.09.50:810][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.13-04.09.50:821][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.13-04.09.50:833][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.13-04.09.50:841][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.13-04.09.50:841][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.13-04.09.50:889][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.13-04.09.50:889][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.13-04.09.50:889][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.13-04.09.51:500][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.13-04.09.51:553][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-04.09.51:553][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.13-04.09.51:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.13-04.09.51:553][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.13-04.09.51:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.13-04.09.51:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.13-04.09.51:564][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.13-04.09.51:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.13-04.09.51:577][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.13-04.09.51:577][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.13-04.09.51:596][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.13-04.09.51:599][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.13-04.09.51:600][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.13-04.09.51:675][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.11.13-04.09.51:943][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-04.09.52:057][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.13-04.09.52:060][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.13-04.09.52:060][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.13-04.09.52:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.13-04.09.52:060][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.13-04.09.52:077][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.11.13-04.09.52:523][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.102906 seconds
+[2018.11.13-04.09.52:529][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.13-04.09.52:529][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.13-04.09.52:529][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.13-04.09.53:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.13-04.09.53:265][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.13-04.09.53:477][  0]SourceControl: Source control is disabled
+[2018.11.13-04.09.53:478][  0]SourceControl: Source control is disabled
+[2018.11.13-04.09.53:479][  0]SourceControl: Source control is disabled
+[2018.11.13-04.09.53:479][  0]SourceControl: Source control is disabled
+[2018.11.13-04.09.53:633][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.13-04.09.53:694][  0]LogOcInput: OculusInput pre-init called
+[2018.11.13-04.09.53:748][  0]LogEngine: Initializing Engine...
+[2018.11.13-04.09.53:748][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-04.09.53:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-04.09.53:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-04.09.53:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-04.09.53:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-04.09.53:940][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.13-04.09.53:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.13-04.09.53:966][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-04.09.53:984][  0]LogInit: FAudioDevice initialized.
+[2018.11.13-04.09.53:984][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.13-04.09.54:136][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-04.09.54:160][  0]LogInit: Texture streaming: Enabled
+[2018.11.13-04.09.54:210][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.13-04.09.54:224][  0]LogInit: Transaction tracking system initialized
+[2018.11.13-04.09.54:246][  0]BlueprintLog: New page: Editor Load
+[2018.11.13-04.09.54:318][  0]LocalizationService: Localization service is disabled
+[2018.11.13-04.09.54:381][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.13-04.09.54:381][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.13-04.09.54:382][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2018.11.13-04.09.54:604][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.13-04.09.54:604][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.13-04.09.54:604][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.13-04.09.54:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-04.09.54:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-04.09.54:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-04.09.54:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-04.09.54:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
+[2018.11.13-04.09.54:706][  0]SourceControl: Source control is disabled
+[2018.11.13-04.09.54:706][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-04.09.54:706][  0]LightingResults: New page: Lighting Build
+[2018.11.13-04.09.54:708][  0]MapCheck: New page: Map Check
+[2018.11.13-04.09.54:708][  0]LightingResults: New page: Lighting Build
+[2018.11.13-04.09.55:169][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle
+[2018.11.13-04.09.55:169][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-04.09.55:464][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-04.09.55:472][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.13-04.09.55:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-04.09.55:562][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.312ms to complete.
+[2018.11.13-04.09.55:562][  0]LogFileHelpers: Loading map 'ArenaMap' took 0.856
+[2018.11.13-04.09.56:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.09.56:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.09.56:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.09.56:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.09.56:222][  0]LogCollectionManager: Loaded 0 collections in 0.001289 seconds
+[2018.11.13-04.09.56:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.11.13-04.09.56:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
+[2018.11.13-04.09.56:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.11.13-04.09.56:266][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.13-04.09.56:279][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2573 classes and 605 folders.
+[2018.11.13-04.09.56:292][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.13-04.09.57:143][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.11.13-04.09.57:153][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.11.13-04.09.57:248][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.13-04.09.57:250][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.13-04.09.57:502][  0]LogSlate: Took 0.246343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.13-04.09.57:663][  0]LogRenderer: Reallocating scene render targets to support 1232x548 Format 10 NumSamples 1 (Frame:1).
+[2018.11.13-04.09.57:708][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-04.09.57:777][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.13-04.09.57:777][  0]LogLoad: (Engine Initialization) Total time: 11.56 seconds
+[2018.11.13-04.09.57:777][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.13-04.09.57:787][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-04.09.57:808][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.13-04.09.57:892][  1]LogAssetRegistry: Asset discovery search completed in 6.2394 seconds
+[2018.11.13-04.09.57:893][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.13-04.09.57:893][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.11.13-04.09.58:810][ 92]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-04.10.04:979][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-04.10.06:893][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-04.10.06:993][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-04.10.07:011][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-04.10.07:023][813]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 6:10:07 PM)
+[2018.11.13-04.10.07:023][813]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-04.10.07:026][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003134s)
+[2018.11.13-04.10.07:027][813]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-04.10.07:027][813]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.11.13-04.10.07:027][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003762s)
+[2018.11.13-04.10.07:055][813]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-04.10.07:070][813]LogInit: FAudioDevice initialized.
+[2018.11.13-04.10.07:111][813]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-04.10.07:113][813]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-23.10.07
+[2018.11.13-04.10.07:114][813]LogWorld: Bringing up level for play took: 0.001549
+[2018.11.13-04.10.07:129][813]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.13-04.10.07:131][813]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.133
+[2018.11.13-04.10.21:829][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.10.21:862][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-04.10.21:898][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.10.21:935][576]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.13-04.10.25:786][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-04.10.35:666][622]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-04.10.35:673][622]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.13-04.10.35:849][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.13-04.10.35:851][622]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.13-04.10.35:923][622]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.13-04.10.36:279][622]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.13-04.10.36:304][622]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.13-04.10.38:387][814]LogSlate: Window 'Idle_Rifle_Hip' being destroyed
+[2018.11.13-04.10.54:472][722]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_Hip75F012AE475D31897C7A8388C8C4019E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.10.54:473][722]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.10.54:974][722]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.10.54:974][722]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.10.59:581][722]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.10.59:585][722]EditorErrors: New page: Save Output
+[2018.11.13-04.10.59:585][722]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.01:290][722]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.11.13-04.11.24:926][418]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_Hip0BEF2FA0492DA483809D7B948BA4EFFE.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.24:926][418]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.11.25:428][418]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.11.25:428][418]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.32:753][418]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.11.32:756][418]EditorErrors: New page: Save Output
+[2018.11.13-04.11.32:756][418]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.36:074][808]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.11.36:076][808]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.11.51:669][663]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_Hip859FF10F46B4354E69508691F8725A5D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.51:669][663]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.11.52:171][663]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.11.52:171][663]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.55:155][663]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.11.55:176][663]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_HipA6A0F0694E0030C3AA6937BC39FFB7D8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.55:176][663]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.11.55:678][663]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.11.55:678][663]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.56:608][663]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.11.56:612][663]EditorErrors: New page: Save Output
+[2018.11.13-04.11.56:612][663]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.56:612][663]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.11.58:509][877]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.11.58:511][877]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.13.01:033][ 93]Cmd: TRANSACTION UNDO
+[2018.11.13-04.13.01:033][ 93]LogEditorTransaction: Undo Set Key
+[2018.11.13-04.13.01:130][ 93]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.13-04.13.11:726][313]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-04.13.11:727][313]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-04.13.14:340][615]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_HipE591C4A34209EDBE73C0409050EA2B4E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.14:340][615]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.13.14:841][615]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.13.14:841][615]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.16:617][615]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.13.16:621][615]EditorErrors: New page: Save Output
+[2018.11.13-04.13.16:621][615]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.22:256][261]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.13.22:258][261]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.13.43:446][735]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_HipCA6FCC0B4B978528EA609DB0D82CD80F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.43:446][735]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.13.43:947][735]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.13.43:947][735]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.45:573][735]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.13.45:576][735]EditorErrors: New page: Save Output
+[2018.11.13-04.13.45:576][735]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.13.47:343][941]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.13.47:345][941]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.14.50:018][823]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UE4_Mannequin_Skeleton86CD4FB34C5F51EC9D0E54AFF519F98D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.14.50:019][823]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset', retrying in .5s...
+[2018.11.13-04.14.50:520][823]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'.
+[2018.11.13-04.14.50:520][823]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.14.52:585][823]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.14.52:607][823]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_HipDE2E0E4B4520EA8BB52B1EB3C6B8CB0F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.14.52:608][823]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.14.53:109][823]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.14.53:109][823]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.14.55:136][823]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.14.55:253][823]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/SK_MannequinC67C25B549EA695E67361C9999E1D57E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.14.55:253][823]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset', retrying in .5s...
+[2018.11.13-04.14.55:755][823]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'.
+[2018.11.13-04.14.55:755][823]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.14.57:935][823]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.14.57:939][823]EditorErrors: New page: Save Output
+[2018.11.13-04.14.57:939][823]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.14.57:939][823]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.14.57:939][823]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.14.59:525][823]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.11.13-04.15.09:292][976]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.15.09:294][976]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.15.10:402][ 67]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-04.15.10:415][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.13-04.15.10:441][ 67]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.13-04.15.10:744][ 67]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.13-04.15.14:447][466]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.13-04.15.14:456][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.13-04.15.14:491][466]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.13-04.15.14:703][466]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.13-04.15.16:625][632]LogRenderer: Reallocating scene render targets to support 1232x888 Format 10 NumSamples 1 (Frame:170).
+[2018.11.13-04.15.16:829][652]LogSlate: Window 'SK_Mannequin*' being destroyed
+[2018.11.13-04.15.46:739][490]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2018.11.13-04.15.46:752][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.13-04.15.46:781][490]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.13-04.15.57:482][725]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UE4_Mannequin_Skeleton928991224FCFB1E10EBA11B6B23BA24C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.15.57:483][725]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset', retrying in .5s...
+[2018.11.13-04.15.57:984][725]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'.
+[2018.11.13-04.15.57:984][725]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.16.31:769][725]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.16.31:774][725]EditorErrors: New page: Save Output
+[2018.11.13-04.16.31:774][725]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.16.33:788][917]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.16.33:791][917]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.16.53:805][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-04.17.39:267][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-04.17.39:268][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-04.17.41:643][988]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_Hip0716F4B54138FBF5F1FC80ACEB8C16BF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.17.41:644][988]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.17.42:145][988]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.17.42:145][988]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.17.44:024][988]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.17.44:028][988]EditorErrors: New page: Save Output
+[2018.11.13-04.17.44:029][988]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.17.46:111][201]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.17.46:114][201]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.21.11:586][376]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UE4_Mannequin_SkeletonA0EFFE87499DCF9C13EF5F9B66C14A88.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.21.11:586][376]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset', retrying in .5s...
+[2018.11.13-04.21.12:088][376]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'.
+[2018.11.13-04.21.12:088][376]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.21.13:144][376]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.21.13:148][376]EditorErrors: New page: Save Output
+[2018.11.13-04.21.13:148][376]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.21.14:882][376]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.11.13-04.21.16:225][537]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.21.16:227][537]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.22.11:949][203]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-04.22.11:950][203]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-04.22.14:606][511]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_Hip8CBDD28F4F806E77297608B71EB7BABE.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.22.14:607][511]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.22.15:107][511]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.22.15:107][511]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.22.16:269][511]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.22.16:273][511]EditorErrors: New page: Save Output
+[2018.11.13-04.22.16:273][511]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.22.23:783][511]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.11.13-04.22.26:942][872]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.22.26:944][872]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.23.09:236][ 85]LogSlate: Window 'Switch Project' being destroyed
+[2018.11.13-04.23.09:246][ 86]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.11.13-04.23.11:789][ 86]LogSlate: Window 'Save Content' being destroyed
+[2018.11.13-04.23.11:829][ 86]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Rifle_HipE1F506264F85668B9236648181A7DC99.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.23.11:830][ 86]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset', retrying in .5s...
+[2018.11.13-04.23.12:331][ 86]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'.
+[2018.11.13-04.23.12:331][ 86]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.23.13:971][ 86]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.23.14:025][ 86]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/SK_MannequinDE6F92CF4E5B38A0BC1F4696500D360F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.23.14:025][ 86]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset', retrying in .5s...
+[2018.11.13-04.23.14:527][ 86]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'.
+[2018.11.13-04.23.14:527][ 86]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.23.15:184][ 86]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.23.15:203][ 86]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UE4_Mannequin_Skeleton2617979D40312C414BF363A69811DD00.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.23.15:203][ 86]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset', retrying in .5s...
+[2018.11.13-04.23.15:704][ 86]LogFileManager: Error: Error deleting file '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'.
+[2018.11.13-04.23.15:704][ 86]LogSavePackage: Error: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.23.20:095][ 86]LogSlate: Window 'Message' being destroyed
+[2018.11.13-04.23.20:098][ 86]EditorErrors: New page: Save Output
+[2018.11.13-04.23.20:098][ 86]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Idle_Rifle_Hip.uasset'
+[2018.11.13-04.23.20:098][ 86]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2018.11.13-04.23.20:098][ 86]EditorErrors: Warning: Error saving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.13-04.23.21:562][ 86]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.11.13-04.23.21:648][ 86]LogSlate: Window 'Message Log' being destroyed
+[2018.11.13-04.23.21:650][ 86]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.11.13-04.23.21:650][ 86]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-04.23.21:834][ 87]Cmd: QUIT_EDITOR
+[2018.11.13-04.23.22:198][ 87]LogExit: Preparing to exit.
+[2018.11.13-04.23.22:737][ 87]LogExit: Editor shut down
+[2018.11.13-04.23.22:737][ 87]LogExit: Transaction tracking system shut down
+[2018.11.13-04.23.22:989][ 87]LogExit: Object subsystem successfully closed.
+[2018.11.13-04.23.23:003][ 87]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.13-04.23.23:007][ 87]LogD3D11RHI: Shutdown
+[2018.11.13-04.23.23:007][ 87]LogD3D11RHI: CleanupD3DDevice
+[2018.11.13-04.23.23:010][ 87]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (624)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module PinnedCommandList (622)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module SkeletonEditor (620)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module AnimationEditor (618)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.11.13-04.23.23:026][ 87]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.11.13-04.23.23:027][ 87]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.11.13-04.23.23:028][ 87]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.11.13-04.23.23:035][ 87]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.13-04.23.23:843][ 87]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.13-04.23.23:844][ 87]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.13-04.23.23:899][ 87]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.13-04.23.23:900][ 87]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.13-04.23.24:034][ 87]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.13-04.23.24:035][ 87]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.13-04.23.24:038][ 87]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.13-04.23.24:039][ 87]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module TwinStickShooter (300)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.13-04.23.24:040][ 87]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.13-04.23.24:141][ 87]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.13-04.23.24:241][ 87]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.13-04.23.24:244][ 87]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.13-04.23.24:244][ 87]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.13-04.23.24:244][ 87]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.13-04.23.24:245][ 87]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.13-04.23.24:246][ 87]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.13-04.23.24:249][ 87]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.13-04.23.24:262][ 87]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.13-04.23.24:269][ 87]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.13-04.23.24:270][ 87]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.13-04.23.24:270][ 87]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.13-04.23.24:270][ 87]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.13-04.23.24:270][ 87]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.13-04.23.24:270][ 87]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.13-04.23.24:273][ 87]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.13-04.23.24:274][ 87]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.13-04.23.24:356][ 87]LogDerivedDataCache: Shutdown
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.13-04.23.24:356][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.13-04.23.24:357][ 87]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.13-04.23.24:358][ 87]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.13-04.23.24:358][ 87]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.13-04.23.24:365][ 87]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.13-04.23.24:366][ 87]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.13-04.23.24:367][ 87]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.13-04.23.24:367][ 87]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.13-04.23.24:370][ 87]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.13-04.23.24:370][ 87]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.13-04.23.24:370][ 87]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD13256CD-4709-40D1-87F1-5E8A3542176A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=bf41fa754fda67dc35b905b1d2e69d8c%7C8d03bbcd158d461aba4cdd046a4c8aef%7Cd639e9bb-913e-4d2c-8db0-96243143a061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.13-04.23.24:397][ 87]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.13-04.23.24:398][ 87]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.13-04.23.24:398][ 87]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.13-04.23.24:399][ 87]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.13-04.23.24:400][ 87]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.13-04.23.24:405][ 87]LogExit: Exiting.
+[2018.11.13-04.23.24:409][ 87]Log file closed, 11/12/18 23:23:24
