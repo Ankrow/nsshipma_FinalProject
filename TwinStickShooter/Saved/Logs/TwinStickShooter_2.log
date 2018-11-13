@@ -759,3 +759,1347 @@ LogInit: Object subsystem initialized
 [2018.11.13-04.55.02:959][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.11.13-04.55.02:990][891]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2018.11.13-04.55.04:951][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-04.55.52:565][855]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
+[2018.11.13-04.56.21:590][234]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyAI.EnemyAI
+[2018.11.13-04.56.28:670][ 10]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-04.56.49:128][345]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-04.56.50:679][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-04.56.50:714][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-04.56.50:714][496]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 6:56:50 PM)
+[2018.11.13-04.56.50:714][496]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-04.56.50:718][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003283s)
+[2018.11.13-04.56.50:718][496]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-04.56.50:718][496]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.11.13-04.56.50:718][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003964s)
+[2018.11.13-04.56.50:755][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-04.56.50:769][496]LogInit: FAudioDevice initialized.
+[2018.11.13-04.56.50:799][496]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-04.56.50:801][496]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-23.56.50
+[2018.11.13-04.56.50:801][496]LogWorld: Bringing up level for play took: 0.001306
+[2018.11.13-04.56.50:816][496]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.183
+[2018.11.13-04.56.51:938][628]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.52:398][682]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.52:682][716]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=246.161 Y=-966.002 Z=133.106] for [EnemyCharacter_C]
+[2018.11.13-04.56.52:698][718]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.53:106][767]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.53:390][801]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.53:631][830]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.53:683][836]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-969.900 Y=-754.044 Z=94.187] for [EnemyCharacter_C]
+[2018.11.13-04.56.53:898][862]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.54:157][893]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.56.55:166][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.56.55:200][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-04.56.55:227][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.56.55:266][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.13-04.56.56:213][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-04.58.37:918][887]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-04.58.38:513][911]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterD5CC66D047AC113EE19616923AE34469.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-04.58.39:832][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-04.58.39:863][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-04.58.39:863][ 67]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 6:58:39 PM)
+[2018.11.13-04.58.39:863][ 67]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-04.58.39:866][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003432s)
+[2018.11.13-04.58.39:867][ 67]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-04.58.39:867][ 67]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2018.11.13-04.58.39:867][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004145s)
+[2018.11.13-04.58.39:903][ 67]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-04.58.39:918][ 67]LogInit: FAudioDevice initialized.
+[2018.11.13-04.58.39:954][ 67]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-04.58.39:958][ 67]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-23.58.39
+[2018.11.13-04.58.39:959][ 67]LogWorld: Bringing up level for play took: 0.002734
+[2018.11.13-04.58.39:974][ 67]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.976
+[2018.11.13-04.58.40:932][178]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.41:566][254]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.41:940][299]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.42:149][324]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.42:390][353]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.42:874][411]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.43:258][457]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.44:133][562]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.44:383][592]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.44:608][619]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.45:007][667]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.46:074][795]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.47:091][917]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.47:517][968]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.47:733][994]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.47:950][ 20]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-04.58.48:901][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.58.48:938][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-04.58.48:965][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.58.49:004][137]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.11.13-04.58.49:532][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.00.37:249][952]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.00.37:932][986]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter67ED72144089CEE4031EA3B696B151A9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-05.01.24:489][191]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.01.25:844][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.01.25:876][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.01.25:876][317]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:01:25 PM)
+[2018.11.13-05.01.25:876][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.01.25:880][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003282s)
+[2018.11.13-05.01.25:880][317]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.01.25:880][317]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.11.13-05.01.25:880][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003966s)
+[2018.11.13-05.01.25:915][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.01.25:929][317]LogInit: FAudioDevice initialized.
+[2018.11.13-05.01.25:964][317]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.01.25:966][317]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.01.25
+[2018.11.13-05.01.25:966][317]LogWorld: Bringing up level for play took: 0.001348
+[2018.11.13-05.01.25:979][317]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.981
+[2018.11.13-05.01.29:440][728]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.30:132][811]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.30:283][829]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.30:699][879]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.31:316][953]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.31:915][ 25]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.32:207][ 60]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.01.32:266][ 67]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.01.32:266][ 67]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.01.32:274][ 68]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.01.32:499][ 95]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.33:108][168]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.01.33:467][211]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.01.33:500][215]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.01.33:508][216]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.01.33:508][216]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.01.34:083][285]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.01.34:924][386]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.01.36:001][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.01.36:039][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.01.36:065][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.01.36:104][518]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.13-05.01.36:775][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.01.50:410][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.02.42:304][396]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.02.43:800][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.02.43:833][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.02.43:833][542]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:02:43 PM)
+[2018.11.13-05.02.43:834][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.02.43:837][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2018.11.13-05.02.43:837][542]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.02.43:837][542]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.11.13-05.02.43:837][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003751s)
+[2018.11.13-05.02.43:871][542]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.02.43:885][542]LogInit: FAudioDevice initialized.
+[2018.11.13-05.02.43:912][542]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.02.43:914][542]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.02.43
+[2018.11.13-05.02.43:914][542]LogWorld: Bringing up level for play took: 0.001248
+[2018.11.13-05.02.43:928][542]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.929
+[2018.11.13-05.02.46:492][848]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.46:859][892]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.47:217][935]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.47:883][ 15]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.48:258][ 60]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.48:525][ 92]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.48:758][120]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.48:967][145]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.49:167][169]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.49:309][186]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.49:534][213]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.49:750][239]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.50:234][297]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.50:501][329]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.50:719][355]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.50:933][381]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.51:150][407]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.02.51:701][473]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.02.51:936][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.02.51:977][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.02.51:998][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.02.52:037][504]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.11.13-05.02.52:582][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.03.02:311][712]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.03.03:430][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.03.03:462][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.03.03:462][813]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:03:03 PM)
+[2018.11.13-05.03.03:462][813]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.03.03:465][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003079s)
+[2018.11.13-05.03.03:466][813]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.03.03:466][813]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.11.13-05.03.03:466][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003724s)
+[2018.11.13-05.03.03:504][813]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.03.03:518][813]LogInit: FAudioDevice initialized.
+[2018.11.13-05.03.03:546][813]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.03.03:548][813]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.03.03
+[2018.11.13-05.03.03:548][813]LogWorld: Bringing up level for play took: 0.001196
+[2018.11.13-05.03.03:561][813]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.562
+[2018.11.13-05.03.04:501][924]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.04:792][959]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.05:051][990]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.05:952][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.03.05:988][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.03.06:029][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.03.06:051][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.11.13-05.03.06:947][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.03.27:561][656]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.03.29:502][853]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.03.29:534][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.03.29:534][853]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:03:29 PM)
+[2018.11.13-05.03.29:534][853]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.03.29:538][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003285s)
+[2018.11.13-05.03.29:538][853]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.03.29:538][853]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2018.11.13-05.03.29:538][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003972s)
+[2018.11.13-05.03.29:578][853]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.03.29:592][853]LogInit: FAudioDevice initialized.
+[2018.11.13-05.03.29:622][853]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.03.29:624][853]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.03.29
+[2018.11.13-05.03.29:625][853]LogWorld: Bringing up level for play took: 0.001418
+[2018.11.13-05.03.29:640][853]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.641
+[2018.11.13-05.03.30:562][959]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.30:879][997]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:095][ 23]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:279][ 45]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:470][ 68]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:662][ 91]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:796][107]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.31:871][116]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.32:079][141]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.03.32:254][162]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:545][197]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:545][197]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:553][198]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:554][198]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:562][199]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:562][199]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:570][200]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:570][200]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:578][201]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:579][201]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:587][202]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:587][202]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:596][203]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:596][203]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:604][204]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.32:604][204]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.03.33:504][312]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.03.34:537][436]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.03.34:988][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.03.35:023][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.03.35:048][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.03.35:087][493]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.11.13-05.03.37:168][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.04.27:108][639]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.04.28:966][827]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.04.28:999][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.04.29:000][827]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:04:29 PM)
+[2018.11.13-05.04.29:000][827]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.04.29:003][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003277s)
+[2018.11.13-05.04.29:003][827]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.04.29:004][827]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.11.13-05.04.29:004][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004013s)
+[2018.11.13-05.04.29:035][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.04.29:049][827]LogInit: FAudioDevice initialized.
+[2018.11.13-05.04.29:082][827]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.04.29:084][827]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.04.29
+[2018.11.13-05.04.29:084][827]LogWorld: Bringing up level for play took: 0.001371
+[2018.11.13-05.04.29:097][827]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.099
+[2018.11.13-05.04.30:111][945]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.30:458][987]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.30:725][ 19]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.31:325][ 91]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.31:658][131]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.31:941][165]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.32:242][201]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.32:633][248]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.32:926][283]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.33:117][306]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.33:500][352]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.33:792][387]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.34:059][419]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.34:326][451]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.34:534][476]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.34:766][504]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.34:992][531]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.35:208][557]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.35:425][583]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.35:925][643]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.36:150][670]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.36:376][697]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.36:651][730]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.36:892][759]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.37:134][788]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.37:376][817]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.37:842][873]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.38:067][900]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.38:334][932]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.38:592][963]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.38:826][991]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.39:042][ 17]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.39:351][ 54]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.39:701][ 96]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.39:959][127]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.40:193][155]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.40:410][181]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.40:610][205]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.40:826][231]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.41:242][281]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.41:534][316]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.41:893][359]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.42:227][399]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.42:451][426]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.42:676][453]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.04.45:529][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.05.06:102][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.05.06:146][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.05.06:172][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.05.06:231][164]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.11.13-05.05.09:423][535]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.05.10:569][638]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.05.10:600][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.05.10:600][638]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:05:10 PM)
+[2018.11.13-05.05.10:600][638]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.05.10:604][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003284s)
+[2018.11.13-05.05.10:604][638]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.05.10:604][638]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.11.13-05.05.10:604][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003910s)
+[2018.11.13-05.05.10:641][638]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.05.10:654][638]LogInit: FAudioDevice initialized.
+[2018.11.13-05.05.10:687][638]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.05.10:689][638]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.05.10
+[2018.11.13-05.05.10:689][638]LogWorld: Bringing up level for play took: 0.001165
+[2018.11.13-05.05.10:704][638]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.295
+[2018.11.13-05.05.11:693][753]LogBlueprintUserMessages: [PlayerCharacter_8] 0.905474
+[2018.11.13-05.05.12:026][793]LogBlueprintUserMessages: [PlayerCharacter_8] 0.905474
+[2018.11.13-05.05.12:078][799]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=204.624 Y=1013.813 Z=79.680] for [EnemyCharacter_C]
+[2018.11.13-05.05.12:391][834]LogBlueprintUserMessages: [PlayerCharacter_8] 1.0
+[2018.11.13-05.05.12:716][873]LogBlueprintUserMessages: [PlayerCharacter_8] 0.653513
+[2018.11.13-05.05.12:958][902]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.13:183][929]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.13:433][959]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.13:692][990]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.13:900][ 15]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.14:126][ 42]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.14:142][ 44]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.14:558][ 94]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.14:717][113]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.14:717][113]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.14:725][114]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.14:875][132]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.15:142][164]LogBlueprintUserMessages: [PlayerCharacter_8] -0.999959
+[2018.11.13-05.05.15:525][210]LogBlueprintUserMessages: [PlayerCharacter_8] 0.968464
+[2018.11.13-05.05.15:759][238]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.15:884][253]LogBlueprintUserMessages: [PlayerCharacter_8] 1.0
+[2018.11.13-05.05.15:884][253]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.15:884][253]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.15:892][254]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.16:092][278]LogBlueprintUserMessages: [PlayerCharacter_8] 1.0
+[2018.11.13-05.05.16:092][278]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.05.16:743][356]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.05.17:043][392]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.05.18:402][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.05.18:438][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.05.18:481][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.05.18:506][556]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.11.13-05.05.19:485][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.07.35:252][275]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.07.37:151][466]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.07.37:183][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.07.37:183][466]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:07:37 PM)
+[2018.11.13-05.07.37:183][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.07.37:186][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2018.11.13-05.07.37:187][466]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.07.37:187][466]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.11.13-05.07.37:187][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003872s)
+[2018.11.13-05.07.37:220][466]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.07.37:236][466]LogInit: FAudioDevice initialized.
+[2018.11.13-05.07.37:267][466]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.07.37:269][466]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.07.37
+[2018.11.13-05.07.37:270][466]LogWorld: Bringing up level for play took: 0.001340
+[2018.11.13-05.07.37:282][466]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.284
+[2018.11.13-05.07.44:096][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.07.44:134][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.07.44:162][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.07.44:201][284]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.11.13-05.07.44:837][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.07.51:483][ 39]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.07.52:876][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.07.52:908][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.07.52:908][173]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:07:52 PM)
+[2018.11.13-05.07.52:908][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.07.52:912][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003484s)
+[2018.11.13-05.07.52:912][173]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.07.52:912][173]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.11.13-05.07.52:912][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004185s)
+[2018.11.13-05.07.52:948][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.07.52:962][173]LogInit: FAudioDevice initialized.
+[2018.11.13-05.07.52:994][173]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.07.52:995][173]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.07.52
+[2018.11.13-05.07.52:996][173]LogWorld: Bringing up level for play took: 0.001328
+[2018.11.13-05.07.53:008][173]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.01
+[2018.11.13-05.07.53:815][268]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.54:122][305]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.54:439][343]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.54:614][364]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.55:198][434]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.55:406][459]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.55:623][485]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.56:023][533]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.58:740][859]LogBlueprintUserMessages: [PlayerCharacter_8] Hello
+[2018.11.13-05.07.59:741][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.07.59:778][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.07.59:804][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.07.59:844][982]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.11.13-05.08.00:749][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.08.41:472][890]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.08.44:025][169]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.08.44:055][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.08.44:056][169]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:08:44 PM)
+[2018.11.13-05.08.44:056][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.08.44:059][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003450s)
+[2018.11.13-05.08.44:060][169]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.08.44:060][169]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.11.13-05.08.44:060][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004273s)
+[2018.11.13-05.08.44:091][169]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.08.44:105][169]LogInit: FAudioDevice initialized.
+[2018.11.13-05.08.44:135][169]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.08.44:137][169]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.08.44
+[2018.11.13-05.08.44:138][169]LogWorld: Bringing up level for play took: 0.001310
+[2018.11.13-05.08.44:150][169]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.848
+[2018.11.13-05.08.46:032][391]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1020.347 Y=-209.226 Z=82.891] for [EnemyCharacter_C]
+[2018.11.13-05.08.48:683][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.08.48:720][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.08.48:747][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.08.48:786][711]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.11.13-05.08.49:319][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.08.52:843][190]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.08.53:919][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.08.53:950][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.08.53:950][292]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:08:53 PM)
+[2018.11.13-05.08.53:950][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.08.53:953][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002971s)
+[2018.11.13-05.08.53:954][292]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.08.53:954][292]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2018.11.13-05.08.53:954][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003622s)
+[2018.11.13-05.08.53:986][292]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.08.54:000][292]LogInit: FAudioDevice initialized.
+[2018.11.13-05.08.54:033][292]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.08.54:035][292]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.08.54
+[2018.11.13-05.08.54:035][292]LogWorld: Bringing up level for play took: 0.001244
+[2018.11.13-05.08.54:048][292]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.049
+[2018.11.13-05.08.58:587][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.08.58:626][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.08.58:651][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.08.58:686][834]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.11.13-05.08.59:537][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.09.40:545][763]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.09.42:045][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.09.42:077][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.09.42:077][912]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:09:42 PM)
+[2018.11.13-05.09.42:078][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.09.42:081][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003251s)
+[2018.11.13-05.09.42:081][912]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.09.42:082][912]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.11.13-05.09.42:082][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003992s)
+[2018.11.13-05.09.42:113][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.09.42:128][912]LogInit: FAudioDevice initialized.
+[2018.11.13-05.09.42:160][912]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.09.42:162][912]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.09.42
+[2018.11.13-05.09.42:162][912]LogWorld: Bringing up level for play took: 0.001313
+[2018.11.13-05.09.42:177][912]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.821
+[2018.11.13-05.09.44:184][149]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.09.44:267][159]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.09.46:325][406]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.09.46:384][413]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.09.52:395][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.09.52:433][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.09.52:473][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.09.52:497][135]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.11.13-05.09.53:351][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.12.30:532][642]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.12.32:498][844]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.12.32:531][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.12.32:531][844]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:12:32 PM)
+[2018.11.13-05.12.32:531][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.12.32:535][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003423s)
+[2018.11.13-05.12.32:535][844]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.12.32:536][844]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.11.13-05.12.32:536][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004194s)
+[2018.11.13-05.12.32:569][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.12.32:584][844]LogInit: FAudioDevice initialized.
+[2018.11.13-05.12.32:613][844]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.12.32:615][844]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.12.32
+[2018.11.13-05.12.32:615][844]LogWorld: Bringing up level for play took: 0.001163
+[2018.11.13-05.12.32:628][844]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.37
+[2018.11.13-05.12.33:002][887]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-988.125 Y=-744.114 Z=72.315] for [EnemyCharacter_C]
+[2018.11.13-05.12.34:060][ 14]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.12.34:277][ 40]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.12.35:911][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.12.35:947][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.12.35:975][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.12.36:016][239]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.11.13-05.12.36:661][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.12.42:700][ 24]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.12.43:268][ 46]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter79424635464D4E7D8CA9D591C2D2F674.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-05.12.44:515][193]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.12.44:547][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.12.44:547][193]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:12:44 PM)
+[2018.11.13-05.12.44:547][193]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.12.44:550][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2018.11.13-05.12.44:550][193]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.12.44:550][193]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2018.11.13-05.12.44:550][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003528s)
+[2018.11.13-05.12.44:586][193]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.12.44:600][193]LogInit: FAudioDevice initialized.
+[2018.11.13-05.12.44:627][193]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.12.44:630][193]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.12.44
+[2018.11.13-05.12.44:630][193]LogWorld: Bringing up level for play took: 0.001340
+[2018.11.13-05.12.44:643][193]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.355
+[2018.11.13-05.12.45:021][236]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.12.45:370][278]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.12.56:164][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.12.56:202][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.12.56:228][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.12.56:263][576]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.11.13-05.12.56:629][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.13.04:192][513]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.13.05:863][680]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.13.05:895][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.13.05:895][680]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:13:05 PM)
+[2018.11.13-05.13.05:896][680]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.13.05:898][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002912s)
+[2018.11.13-05.13.05:899][680]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.13.05:899][680]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.11.13-05.13.05:899][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003590s)
+[2018.11.13-05.13.05:934][680]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.13.05:947][680]LogInit: FAudioDevice initialized.
+[2018.11.13-05.13.05:980][680]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.13.05:982][680]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.13.05
+[2018.11.13-05.13.05:982][680]LogWorld: Bringing up level for play took: 0.001179
+[2018.11.13-05.13.05:996][680]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.998
+[2018.11.13-05.13.17:036][998]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.13.17:078][  3]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.13.17:128][  9]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.13.17:220][ 20]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.13.17:386][ 40]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.13.17:403][ 42]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.13.30:731][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.13.30:769][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.13.30:834][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.13.30:857][642]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.11.13-05.13.31:995][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.17.19:587][282]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.17.21:313][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.17.21:349][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.17.21:350][451]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:17:21 PM)
+[2018.11.13-05.17.21:350][451]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.17.21:353][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003426s)
+[2018.11.13-05.17.21:354][451]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.17.21:354][451]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2018.11.13-05.17.21:354][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004128s)
+[2018.11.13-05.17.21:389][451]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.17.21:404][451]LogInit: FAudioDevice initialized.
+[2018.11.13-05.17.21:437][451]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.17.21:440][451]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.17.21
+[2018.11.13-05.17.21:440][451]LogWorld: Bringing up level for play took: 0.002380
+[2018.11.13-05.17.21:461][451]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.462
+[2018.11.13-05.17.23:316][666]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=743.689 Y=-1034.008 Z=58.021] for [EnemyCharacter_C]
+[2018.11.13-05.17.26:499][ 48]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.26:665][ 68]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.26:666][ 68]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.26:674][ 69]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.27:665][188]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.27:807][205]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.27:824][207]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.27:915][218]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.27:915][218]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.27:924][219]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.28:082][238]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.28:957][343]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.29:007][349]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.17.30:907][577]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.17.30:908][577]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.17.30:908][577]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.17.31:428][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.17.31:468][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.17.31:495][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.17.31:530][642]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2018.11.13-05.17.31:914][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.17.42:424][892]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.17.43:977][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.17.44:011][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.17.44:011][ 39]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:17:44 PM)
+[2018.11.13-05.17.44:012][ 39]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.17.44:015][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003140s)
+[2018.11.13-05.17.44:015][ 39]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.17.44:015][ 39]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.11.13-05.17.44:015][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003775s)
+[2018.11.13-05.17.44:053][ 39]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.17.44:066][ 39]LogInit: FAudioDevice initialized.
+[2018.11.13-05.17.44:098][ 39]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.17.44:101][ 39]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.17.44
+[2018.11.13-05.17.44:101][ 39]LogWorld: Bringing up level for play took: 0.002080
+[2018.11.13-05.17.44:116][ 39]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.117
+[2018.11.13-05.17.49:284][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.17.51:807][910]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.17.52:596][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.17.52:643][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.17.52:682][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.17.52:745][985]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.11.13-05.18.22:889][584]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.18.24:113][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.18.24:149][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.18.24:149][692]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:18:24 PM)
+[2018.11.13-05.18.24:149][692]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.18.24:152][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003376s)
+[2018.11.13-05.18.24:153][692]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.18.24:153][692]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.11.13-05.18.24:153][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004057s)
+[2018.11.13-05.18.24:186][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.18.24:200][692]LogInit: FAudioDevice initialized.
+[2018.11.13-05.18.24:234][692]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.18.24:237][692]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.18.24
+[2018.11.13-05.18.24:238][692]LogWorld: Bringing up level for play took: 0.002164
+[2018.11.13-05.18.24:253][692]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.746
+[2018.11.13-05.18.28:315][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.18.28:354][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.18.28:381][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.18.28:418][178]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.11.13-05.18.29:251][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.19.30:290][322]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.19.31:631][447]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.19.31:667][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.19.31:668][447]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:19:31 PM)
+[2018.11.13-05.19.31:668][447]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.19.31:671][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003458s)
+[2018.11.13-05.19.31:672][447]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.19.31:672][447]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.11.13-05.19.31:672][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004288s)
+[2018.11.13-05.19.31:709][447]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.19.31:723][447]LogInit: FAudioDevice initialized.
+[2018.11.13-05.19.31:753][447]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.19.31:755][447]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.19.31
+[2018.11.13-05.19.31:756][447]LogWorld: Bringing up level for play took: 0.001240
+[2018.11.13-05.19.31:771][447]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.772
+[2018.11.13-05.19.37:579][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.19.37:619][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.19.37:646][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.19.37:678][140]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.11.13-05.19.38:508][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.20.47:599][297]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.20.48:798][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.20.48:835][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.20.48:835][404]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:20:48 PM)
+[2018.11.13-05.20.48:835][404]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.20.48:838][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003303s)
+[2018.11.13-05.20.48:839][404]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.20.48:839][404]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.11.13-05.20.48:839][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004124s)
+[2018.11.13-05.20.48:879][404]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.20.48:893][404]LogInit: FAudioDevice initialized.
+[2018.11.13-05.20.48:924][404]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.20.48:926][404]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.20.48
+[2018.11.13-05.20.48:927][404]LogWorld: Bringing up level for play took: 0.001403
+[2018.11.13-05.20.48:940][404]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.058
+[2018.11.13-05.20.49:915][519]LogBlueprintUserMessages: [PlayerCharacter_8] X=-1.000 Y=0.000 Z=0.000
+[2018.11.13-05.20.51:374][694]LogBlueprintUserMessages: [PlayerCharacter_8] X=0.874 Y=0.559 Z=0.000
+[2018.11.13-05.20.52:490][828]LogBlueprintUserMessages: [PlayerCharacter_8] X=0.475 Y=-0.884 Z=0.000
+[2018.11.13-05.20.54:690][ 92]LogBlueprintUserMessages: [PlayerCharacter_8] X=-0.244 Y=1.000 Z=0.000
+[2018.11.13-05.20.55:874][234]LogBlueprintUserMessages: [PlayerCharacter_8] X=-0.727 Y=0.675 Z=0.000
+[2018.11.13-05.20.57:265][401]LogBlueprintUserMessages: [PlayerCharacter_8] X=-0.895 Y=-0.528 Z=0.000
+[2018.11.13-05.20.59:760][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.20.59:794][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.20.59:815][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.20.59:864][704]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2018.11.13-05.21.00:842][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.22.50:248][986]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto272CCD26D444E270A8E6224A2FC57CCDE.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto2.umap'
+[2018.11.13-05.22.50:251][986]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.097
+[2018.11.13-05.22.50:251][986]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.097
+[2018.11.13-05.22.50:253][986]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2018.11.13-05.22.50:289][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter]
+[2018.11.13-05.22.50:289][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter]
+[2018.11.13-05.22.50:355][986]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter_Auto2E03E114D42EE086CC9A1B28A78027619.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto2.uasset'
+[2018.11.13-05.22.50:357][986]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.11.13-05.26.38:313][114]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.26.39:903][273]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.26.39:941][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.26.39:941][273]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:26:39 PM)
+[2018.11.13-05.26.39:941][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.26.39:944][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003143s)
+[2018.11.13-05.26.39:945][273]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.26.39:945][273]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.11.13-05.26.39:945][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003900s)
+[2018.11.13-05.26.39:981][273]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.26.39:994][273]LogInit: FAudioDevice initialized.
+[2018.11.13-05.26.40:021][273]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.26.40:023][273]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.26.40
+[2018.11.13-05.26.40:024][273]LogWorld: Bringing up level for play took: 0.001427
+[2018.11.13-05.26.40:037][273]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.039
+[2018.11.13-05.26.44:352][786]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.26.44:651][822]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.26.46:395][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.26.46:433][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.26.46:457][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.26.46:497][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2018.11.13-05.26.46:977][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.26.53:888][907]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.26.53:924][907]LogBlueprint: Error: [Compiler PlayerCharacter] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.11.13-05.26.54:082][907]LogBlueprint: Warning: [Compiler PlayerCharacter] [3453.12] Compile of PlayerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 193 ms] (/Game/Blueprints/PlayerCharacter.PlayerCharacter)
+[2018.11.13-05.27.07:406][466]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.27.17:136][591]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.27.18:716][746]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.27.18:753][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.27.18:753][746]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:27:18 PM)
+[2018.11.13-05.27.18:753][746]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.27.18:756][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003067s)
+[2018.11.13-05.27.18:757][746]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.27.18:757][746]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.11.13-05.27.18:757][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003670s)
+[2018.11.13-05.27.18:794][746]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.27.18:807][746]LogInit: FAudioDevice initialized.
+[2018.11.13-05.27.18:841][746]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.27.18:843][746]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.27.18
+[2018.11.13-05.27.18:843][746]LogWorld: Bringing up level for play took: 0.001432
+[2018.11.13-05.27.18:856][746]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.143
+[2018.11.13-05.27.23:853][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.27.23:893][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.27.23:919][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.27.23:958][345]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2018.11.13-05.27.24:512][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.27.35:667][736]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.27.35:684][736]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.13-05.27.35:702][736]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2018.11.13-05.27.35:885][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (1 blueprints)
+[2018.11.13-05.27.35:885][736]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:27:35 PM)
+[2018.11.13-05.27.35:885][736]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.27.35:888][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2018.11.13-05.27.35:888][736]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.27.35:889][736]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.11.13-05.27.35:889][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003799s)
+[2018.11.13-05.27.35:919][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.27.35:934][736]LogInit: FAudioDevice initialized.
+[2018.11.13-05.27.35:967][736]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.27.35:969][736]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.27.35
+[2018.11.13-05.27.35:970][736]LogWorld: Bringing up level for play took: 0.001549
+[2018.11.13-05.27.35:983][736]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.985
+[2018.11.13-05.27.38:171][977]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.27.39:472][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.27.39:509][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.27.39:536][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.27.39:576][136]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2018.11.13-05.27.40:364][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.30.07:986][839]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.30.10:281][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.30.10:319][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.30.10:319][ 75]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:30:10 PM)
+[2018.11.13-05.30.10:319][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.30.10:322][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003191s)
+[2018.11.13-05.30.10:323][ 75]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.30.10:323][ 75]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.11.13-05.30.10:323][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004103s)
+[2018.11.13-05.30.10:356][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.30.10:370][ 75]LogInit: FAudioDevice initialized.
+[2018.11.13-05.30.10:398][ 75]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.30.10:401][ 75]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.30.10
+[2018.11.13-05.30.10:401][ 75]LogWorld: Bringing up level for play took: 0.001664
+[2018.11.13-05.30.10:416][ 75]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.583
+[2018.11.13-05.30.14:016][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.30.14:051][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.30.14:078][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.30.14:116][503]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.11.13-05.30.14:691][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.30.26:382][941]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.30.28:072][108]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.30.28:111][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.30.28:112][108]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:30:28 PM)
+[2018.11.13-05.30.28:112][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.30.28:115][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003118s)
+[2018.11.13-05.30.28:115][108]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.30.28:115][108]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2018.11.13-05.30.28:115][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003744s)
+[2018.11.13-05.30.28:152][108]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.30.28:165][108]LogInit: FAudioDevice initialized.
+[2018.11.13-05.30.28:199][108]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.30.28:202][108]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.30.28
+[2018.11.13-05.30.28:203][108]LogWorld: Bringing up level for play took: 0.002333
+[2018.11.13-05.30.28:218][108]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.781
+[2018.11.13-05.30.34:413][846]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.30.34:746][886]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.30.34:746][886]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.30.34:754][887]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.30.39:905][505]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.30.40:088][527]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.30.40:363][560]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.30.40:438][569]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.31.01:873][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.31.01:912][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.31.01:938][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.31.01:974][142]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2018.11.13-05.31.02:908][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.31.44:277][188]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.31.45:649][316]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.31.45:686][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.31.45:686][316]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:31:45 PM)
+[2018.11.13-05.31.45:686][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.31.45:690][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003314s)
+[2018.11.13-05.31.45:690][316]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.31.45:691][316]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.11.13-05.31.45:691][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004352s)
+[2018.11.13-05.31.45:729][316]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.31.45:742][316]LogInit: FAudioDevice initialized.
+[2018.11.13-05.31.45:774][316]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.31.45:777][316]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.31.45
+[2018.11.13-05.31.45:778][316]LogWorld: Bringing up level for play took: 0.002428
+[2018.11.13-05.31.45:793][316]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.794
+[2018.11.13-05.31.52:484][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.31.52:524][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.31.52:565][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.31.52:585][116]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.11.13-05.31.53:138][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.32.02:819][327]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.32.04:328][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.32.04:366][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.32.04:366][474]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:32:04 PM)
+[2018.11.13-05.32.04:366][474]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.32.04:369][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003232s)
+[2018.11.13-05.32.04:369][474]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.32.04:370][474]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.11.13-05.32.04:370][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003916s)
+[2018.11.13-05.32.04:406][474]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.32.04:419][474]LogInit: FAudioDevice initialized.
+[2018.11.13-05.32.04:447][474]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.32.04:449][474]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.32.04
+[2018.11.13-05.32.04:449][474]LogWorld: Bringing up level for play took: 0.001161
+[2018.11.13-05.32.04:464][474]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.535
+[2018.11.13-05.32.08:979][ 12]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:029][ 18]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:029][ 18]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:037][ 19]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:045][ 20]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:046][ 20]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:738][103]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.32.09:804][111]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.32.10:648][209]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-05.32.11:264][283]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-05.32.11:799][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.32.11:839][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.32.11:861][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.32.11:902][350]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2018.11.13-05.32.12:394][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.32.26:795][121]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.32.27:978][226]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.32.28:018][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.32.28:018][226]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:32:28 PM)
+[2018.11.13-05.32.28:019][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.32.28:022][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003216s)
+[2018.11.13-05.32.28:022][226]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.32.28:022][226]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.11.13-05.32.28:023][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004023s)
+[2018.11.13-05.32.28:055][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.32.28:069][226]LogInit: FAudioDevice initialized.
+[2018.11.13-05.32.28:099][226]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.32.28:102][226]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.32.28
+[2018.11.13-05.32.28:102][226]LogWorld: Bringing up level for play took: 0.002058
+[2018.11.13-05.32.28:118][226]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.12
+[2018.11.13-05.32.32:021][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.32.32:060][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.32.32:111][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.32.32:136][687]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.11.13-05.32.32:757][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.33.16:940][992]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.33.18:292][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.33.18:330][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.33.18:330][116]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:33:18 PM)
+[2018.11.13-05.33.18:330][116]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.33.18:334][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2018.11.13-05.33.18:334][116]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.33.18:334][116]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.11.13-05.33.18:334][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004015s)
+[2018.11.13-05.33.18:370][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.33.18:384][116]LogInit: FAudioDevice initialized.
+[2018.11.13-05.33.18:417][116]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.33.18:419][116]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.33.18
+[2018.11.13-05.33.18:420][116]LogWorld: Bringing up level for play took: 0.001268
+[2018.11.13-05.33.18:432][116]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.566
+[2018.11.13-05.33.20:801][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1009.993 Y=-299.141 Z=86.961] for [EnemyCharacter_C]
+[2018.11.13-05.33.24:791][877]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.33.24:807][879]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.33.24:924][893]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.33.24:983][900]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.33.31:861][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.33.31:897][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.33.31:923][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.33.31:959][727]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2018.11.13-05.33.32:418][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.33.37:901][419]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.33.39:052][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.33.39:088][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.33.39:088][522]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:33:39 PM)
+[2018.11.13-05.33.39:088][522]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.33.39:092][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2018.11.13-05.33.39:092][522]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.33.39:092][522]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.11.13-05.33.39:092][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003962s)
+[2018.11.13-05.33.39:125][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.33.39:138][522]LogInit: FAudioDevice initialized.
+[2018.11.13-05.33.39:170][522]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.33.39:174][522]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.33.39
+[2018.11.13-05.33.39:174][522]LogWorld: Bringing up level for play took: 0.002573
+[2018.11.13-05.33.39:190][522]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.191
+[2018.11.13-05.33.44:035][ 99]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.33.44:227][122]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_4)
+[2018.11.13-05.33.46:795][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.33.46:829][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.33.46:854][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.33.46:896][433]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2018.11.13-05.33.47:400][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.33.53:088][160]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.33.54:071][248]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.33.54:106][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.33.54:107][248]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:33:54 PM)
+[2018.11.13-05.33.54:107][248]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.33.54:110][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003399s)
+[2018.11.13-05.33.54:111][248]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.33.54:111][248]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.11.13-05.33.54:111][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004142s)
+[2018.11.13-05.33.54:147][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.33.54:161][248]LogInit: FAudioDevice initialized.
+[2018.11.13-05.33.54:190][248]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.33.54:192][248]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.33.54
+[2018.11.13-05.33.54:192][248]LogWorld: Bringing up level for play took: 0.001171
+[2018.11.13-05.33.54:208][248]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.791
+[2018.11.13-05.34.02:378][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.34.02:417][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.34.02:460][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.34.02:485][225]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2018.11.13-05.34.02:907][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.34.07:023][751]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.34.07:519][766]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter99FFE943483E886B276C469B32E35B5E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-05.34.09:447][994]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.34.09:483][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.34.09:483][994]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:34:09 PM)
+[2018.11.13-05.34.09:483][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.34.09:486][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003122s)
+[2018.11.13-05.34.09:486][994]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.34.09:487][994]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.11.13-05.34.09:487][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003859s)
+[2018.11.13-05.34.09:521][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.34.09:534][994]LogInit: FAudioDevice initialized.
+[2018.11.13-05.34.09:563][994]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.34.09:566][994]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.34.09
+[2018.11.13-05.34.09:566][994]LogWorld: Bringing up level for play took: 0.002110
+[2018.11.13-05.34.09:581][994]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.582
+[2018.11.13-05.34.20:027][242]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.34.20:177][260]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_5)
+[2018.11.13-05.34.31:656][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.34.31:697][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.34.31:739][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.34.31:764][638]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2018.11.13-05.34.32:602][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.35.53:247][131]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.35.54:038][175]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterEDD8031F48A16E900860659A758C3C9E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-05.35.55:280][320]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.35.55:316][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.35.55:316][320]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:35:55 PM)
+[2018.11.13-05.35.55:316][320]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.35.55:319][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003555s)
+[2018.11.13-05.35.55:320][320]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.35.55:320][320]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.11.13-05.35.55:320][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004334s)
+[2018.11.13-05.35.55:356][320]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.35.55:369][320]LogInit: FAudioDevice initialized.
+[2018.11.13-05.35.55:401][320]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.35.55:404][320]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.35.55
+[2018.11.13-05.35.55:404][320]LogWorld: Bringing up level for play took: 0.001506
+[2018.11.13-05.35.55:417][320]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.419
+[2018.11.13-05.36.01:009][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.36.01:046][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.36.01:073][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.36.01:113][989]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2018.11.13-05.36.01:732][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.36.05:736][509]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.13-05.36.06:325][537]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterFF7290B846EACEF4FF55999C064EB617.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.13-05.36.07:509][674]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.36.07:545][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.36.07:545][674]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:36:07 PM)
+[2018.11.13-05.36.07:545][674]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.36.07:549][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003768s)
+[2018.11.13-05.36.07:549][674]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.36.07:549][674]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2018.11.13-05.36.07:549][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004408s)
+[2018.11.13-05.36.07:585][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.36.07:599][674]LogInit: FAudioDevice initialized.
+[2018.11.13-05.36.07:627][674]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.36.07:628][674]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.36.07
+[2018.11.13-05.36.07:629][674]LogWorld: Bringing up level for play took: 0.001444
+[2018.11.13-05.36.07:642][674]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.643
+[2018.11.13-05.36.10:799][ 51]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.36.10:841][ 56]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.36.10:841][ 56]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.36.10:849][ 57]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.36.12:049][201]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.36.12:183][217]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-05.36.16:853][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.36.16:888][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.36.16:914][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.36.16:955][780]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2018.11.13-05.36.46:676][227]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto32902855E4F7E278F4EAF2FB4133D4FCC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto3.umap'
+[2018.11.13-05.36.46:680][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.089
+[2018.11.13-05.36.46:680][227]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2018.11.13-05.38.02:033][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.38.02:187][453]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-05.38.02:208][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-05.38.02:208][453]PIE: New page: PIE session: ArenaMap (Nov 12, 2018, 7:38:02 PM)
+[2018.11.13-05.38.02:208][453]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-05.38.02:212][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003631s)
+[2018.11.13-05.38.02:213][453]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-05.38.02:213][453]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2018.11.13-05.38.02:213][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004475s)
+[2018.11.13-05.38.02:248][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-05.38.02:262][453]LogInit: FAudioDevice initialized.
+[2018.11.13-05.38.02:291][453]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-05.38.02:294][453]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-00.38.02
+[2018.11.13-05.38.02:294][453]LogWorld: Bringing up level for play took: 0.001415
+[2018.11.13-05.38.02:309][453]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.69
+[2018.11.13-05.38.08:075][124]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.38.08:425][166]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-05.38.52:576][460]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.52:584][461]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.52:585][461]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.52:776][484]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.52:776][484]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.52:784][485]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_16)
+[2018.11.13-05.38.56:195][894]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-454.570 Y=1034.000 Z=51.088] for [EnemyCharacter_C]
+[2018.11.13-05.39.08:696][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1034.005 Y=-217.279 Z=53.945] for [EnemyCharacter_C]
+[2018.11.13-05.39.11:361][714]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_27)
+[2018.11.13-05.39.12:696][874]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1023.074 Y=91.398 Z=73.510] for [EnemyCharacter_C]
+[2018.11.13-05.39.14:044][ 36]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_32)
+[2018.11.13-05.39.14:353][ 73]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_27)
+[2018.11.13-05.39.14:354][ 73]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_32)
+[2018.11.13-05.39.15:019][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.39.15:060][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-05.39.15:086][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-05.39.15:122][154]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2018.11.13-05.39.17:250][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-05.39.19:074][419]LogSlate: Window 'Save Content' being destroyed
+[2018.11.13-05.39.19:906][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.13-05.39.19:977][419]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap7A5EEEDF42FD4FCA45E9DEB5CD63AF55.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.13-05.39.20:013][419]LogFileHelpers: Saving map 'ArenaMap' took 0.921
+[2018.11.13-05.39.20:106][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-05.39.20:190][419]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.11.13-05.39.20:438][420]Cmd: QUIT_EDITOR
+[2018.11.13-05.39.21:304][420]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-05.39.21:353][420]LogExit: Preparing to exit.
+[2018.11.13-05.39.21:967][420]LogExit: Editor shut down
+[2018.11.13-05.39.21:968][420]LogExit: Transaction tracking system shut down
+[2018.11.13-05.39.22:278][420]LogExit: Object subsystem successfully closed.
+[2018.11.13-05.39.22:301][420]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.13-05.39.22:305][420]LogD3D11RHI: Shutdown
+[2018.11.13-05.39.22:305][420]LogD3D11RHI: CleanupD3DDevice
+[2018.11.13-05.39.22:309][420]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.13-05.39.22:330][420]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (628)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module AnimationEditor (626)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (624)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module Voice (622)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (618)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.11.13-05.39.22:342][420]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.11.13-05.39.22:343][420]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.11.13-05.39.22:344][420]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.13-05.39.22:996][420]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.13-05.39.22:997][420]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.13-05.39.23:052][420]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.13-05.39.23:058][420]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.13-05.39.23:059][420]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.13-05.39.23:156][420]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.13-05.39.23:157][420]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.13-05.39.23:166][420]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.13-05.39.23:167][420]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.13-05.39.23:168][420]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module TwinStickShooter (300)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.13-05.39.23:169][420]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.13-05.39.23:170][420]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.13-05.39.23:271][420]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.13-05.39.23:372][420]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.13-05.39.23:375][420]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.13-05.39.23:375][420]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.13-05.39.23:375][420]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.13-05.39.23:376][420]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.13-05.39.23:377][420]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.13-05.39.23:380][420]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.13-05.39.23:384][420]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.13-05.39.23:391][420]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.13-05.39.23:392][420]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.13-05.39.23:393][420]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.13-05.39.23:393][420]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.13-05.39.23:393][420]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.13-05.39.23:393][420]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.13-05.39.23:399][420]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.13-05.39.23:400][420]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.13-05.39.23:422][420]LogDerivedDataCache: Shutdown
+[2018.11.13-05.39.23:422][420]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.13-05.39.23:423][420]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.13-05.39.23:424][420]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.13-05.39.23:427][420]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.13-05.39.23:427][420]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.13-05.39.23:429][420]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.13-05.39.23:429][420]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.13-05.39.23:449][420]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.13-05.39.23:450][420]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.13-05.39.23:452][420]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.13-05.39.23:452][420]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.13-05.39.23:466][420]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.13-05.39.23:466][420]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.11.13-05.39.23:466][420]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7408B2-4C47-7066-191D-1B9C470496DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=bf41fa754fda67dc35b905b1d2e69d8c%7C8d03bbcd158d461aba4cdd046a4c8aef%7Cd639e9bb-913e-4d2c-8db0-96243143a061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.13-05.39.23:466][420]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7408B2-4C47-7066-191D-1B9C470496DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=bf41fa754fda67dc35b905b1d2e69d8c%7C8d03bbcd158d461aba4cdd046a4c8aef%7Cd639e9bb-913e-4d2c-8db0-96243143a061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.13-05.39.23:478][420]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.13-05.39.23:481][420]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.13-05.39.23:482][420]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.13-05.39.23:483][420]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.13-05.39.23:483][420]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.13-05.39.23:484][420]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.13-05.39.23:484][420]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.13-05.39.23:484][420]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.13-05.39.23:484][420]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.13-05.39.23:485][420]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.13-05.39.23:485][420]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.13-05.39.23:485][420]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.13-05.39.23:488][420]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.13-05.39.23:489][420]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.13-05.39.23:489][420]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.13-05.39.23:511][420]LogExit: Exiting.
+[2018.11.13-05.39.23:561][420]Log file closed, 11/13/18 00:39:23
