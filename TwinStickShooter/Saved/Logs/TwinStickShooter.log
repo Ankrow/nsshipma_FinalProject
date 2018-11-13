@@ -1,4 +1,4 @@
-﻿Log file open, 11/11/18 21:47:41
+﻿Log file open, 11/13/18 15:58:11
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TwinStickShooter
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.284351
+LogStats: Stats thread started at 0.298400
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.090s to configure plugins.
+LogStreaming: Display: Took  0.115s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -114,17 +114,17 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.20-CL-4233996
-LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
-LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
-LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
-LogInit: Command Line: -EpicPortal  -epicusername="Ankr0w" -epicuserid=8d03bbcd158d461aba4cdd046a4c8aef -epiclocale=en-US
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -147,550 +147,335 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.11.12-02.47.41:327][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.12-02.47.41:327][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.11.12-02.47.41:345][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.11.12-02.47.41:345][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.11.12-02.47.41:345][  0]LogInit: Going up to parent DeviceProfile []
-[2018.11.12-02.47.41:345][  0]LogInit: Computer: DESKTOP-VBFITEQ
-[2018.11.12-02.47.41:345][  0]LogInit: User: Nate
-[2018.11.12-02.47.41:345][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.11.12-02.47.41:345][  0]LogInit: High frequency timer resolution =3.906267 MHz
-[2018.11.12-02.47.41:346][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
-[2018.11.12-02.47.41:346][  0]LogMemory: Platform Memory Stats for Windows
-[2018.11.12-02.47.41:346][  0]LogMemory: Process Physical Memory: 100.15 MB used, 100.15 MB peak
-[2018.11.12-02.47.41:346][  0]LogMemory: Process Virtual Memory: 91.05 MB used, 91.05 MB peak
-[2018.11.12-02.47.41:346][  0]LogMemory: Physical Memory: 7603.80 MB used,  16920.82 MB free, 24524.62 MB total
-[2018.11.12-02.47.41:346][  0]LogMemory: Virtual Memory: 4640.47 MB used,  16920.82 MB free, 134217728.00 MB total
-[2018.11.12-02.47.41:361][  0]LogInit: Using OS detected language (en-US).
-[2018.11.12-02.47.41:361][  0]LogInit: Using OS detected locale (en-US).
-[2018.11.12-02.47.41:362][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.11.12-02.47.41:712][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
-[2018.11.12-02.47.41:712][  0]LogInit: Setting process to per monitor DPI aware
-[2018.11.12-02.47.41:749][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.11.12-02.47.41:749][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.11.12-02.47.41:905][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.12-02.47.41:905][  0]LogD3D11RHI: D3D11 adapters:
-[2018.11.12-02.47.41:962][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
-[2018.11.12-02.47.41:962][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.11.12-02.47.41:964][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.11.12-02.47.41:964][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.11.12-02.47.41:964][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.11.12-02.47.41:970][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.11.12-02.47.41:970][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
-[2018.11.12-02.47.41:970][  0]LogWindows: EnumDisplayDevices:
-[2018.11.12-02.47.41:970][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
-[2018.11.12-02.47.41:970][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
-[2018.11.12-02.47.41:970][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2018.11.12-02.47.41:970][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2018.11.12-02.47.41:970][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.11.12-02.47.41:970][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
-[2018.11.12-02.47.41:970][  0]LogD3D11RHI:   Driver Version: 416.81 (internal:25.21.14.1681, unified:416.81)
-[2018.11.12-02.47.41:970][  0]LogD3D11RHI:      Driver Date: 11-2-2018
-[2018.11.12-02.47.41:970][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
-[2018.11.12-02.47.42:007][  0]LogD3D11RHI: Async texture creation enabled
-[2018.11.12-02.47.42:037][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.11.12-02.47.42:137][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/7816/).
-[2018.11.12-02.47.42:137][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/E89F9DAA46F1B8C82C12D4BAE51DDDD4/'.
-[2018.11.12-02.47.42:359][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.11.12-02.47.42:371][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.11.12-02.47.42:383][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.11.12-02.47.42:395][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.11.12-02.47.42:407][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.11.12-02.47.42:420][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.11.12-02.47.42:431][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.11.12-02.47.42:443][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.11.12-02.47.42:449][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:518][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.12-02.47.42:519][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.11.12-02.47.42:575][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.12-02.47.42:575][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.12-02.47.42:596][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.12-02.47.42:596][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.12-02.47.42:609][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.11.12-02.47.42:621][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.11.12-02.47.42:634][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.11.12-02.47.42:646][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.11.12-02.47.42:653][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.11.12-02.47.42:653][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.11.12-02.47.42:702][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.11.12-02.47.42:702][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.11.12-02.47.42:702][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.11.12-02.47.43:338][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.11.12-02.47.43:388][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.12-02.47.43:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.11.12-02.47.43:389][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.11.12-02.47.43:389][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.11.12-02.47.43:389][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.11.12-02.47.43:389][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.11.12-02.47.43:399][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.11.12-02.47.43:411][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.11.12-02.47.43:411][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.11.12-02.47.43:411][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.11.12-02.47.43:426][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.11.12-02.47.43:427][  0]LogSlate: Using FreeType 2.6.0
-[2018.11.12-02.47.43:428][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.12-02.47.43:493][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
-[2018.11.12-02.47.43:757][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.12-02.47.43:865][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.11.12-02.47.43:867][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.11.12-02.47.43:867][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.11.12-02.47.43:867][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.11.12-02.47.43:867][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.11.12-02.47.43:881][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
-[2018.11.12-02.47.44:297][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100928 seconds
-[2018.11.12-02.47.44:302][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.11.12-02.47.44:302][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.11.12-02.47.44:302][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.11.12-02.47.45:076][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.11.12-02.47.45:088][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.11.12-02.47.45:264][  0]SourceControl: Source control is disabled
-[2018.11.12-02.47.45:264][  0]SourceControl: Source control is disabled
-[2018.11.12-02.47.45:265][  0]SourceControl: Source control is disabled
-[2018.11.12-02.47.45:265][  0]SourceControl: Source control is disabled
-[2018.11.12-02.47.45:447][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.11.12-02.47.45:627][  0]LogOcInput: OculusInput pre-init called
-[2018.11.12-02.47.45:694][  0]LogEngine: Initializing Engine...
-[2018.11.12-02.47.45:695][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.12-02.47.45:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.12-02.47.45:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.12-02.47.45:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.12-02.47.45:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.12-02.47.45:862][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.11.12-02.47.45:873][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.11.12-02.47.45:892][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-02.47.45:907][  0]LogInit: FAudioDevice initialized.
-[2018.11.12-02.47.45:907][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.11.12-02.47.46:473][  0]LogDerivedDataCache: Saved boot cache 0.57s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.12-02.47.46:492][  0]LogInit: Texture streaming: Enabled
-[2018.11.12-02.47.46:512][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.11.12-02.47.46:529][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.11.12-02.47.46:556][  0]LogInit: Transaction tracking system initialized
-[2018.11.12-02.47.46:595][  0]BlueprintLog: New page: Editor Load
-[2018.11.12-02.47.46:656][  0]LocalizationService: Localization service is disabled
-[2018.11.12-02.47.46:733][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.11.12-02.47.46:733][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.11.12-02.47.46:733][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
-[2018.11.12-02.47.46:905][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.11.12-02.47.46:905][  0]LogCook: Display: Mobile HDR setting 1
-[2018.11.12-02.47.46:905][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.11.12-02.47.46:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.12-02.47.46:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.12-02.47.46:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.12-02.47.46:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.12-02.47.47:002][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
-[2018.11.12-02.47.47:002][  0]SourceControl: Source control is disabled
-[2018.11.12-02.47.47:002][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.12-02.47.47:006][  0]LightingResults: New page: Lighting Build
-[2018.11.12-02.47.47:008][  0]MapCheck: New page: Map Check
-[2018.11.12-02.47.47:008][  0]LightingResults: New page: Lighting Build
-[2018.11.12-02.47.47:609][  0]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-02.47.47:616][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.12-02.47.47:633][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.12-02.47.47:692][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.176ms to complete.
-[2018.11.12-02.47.47:692][  0]LogFileHelpers: Loading map 'ArenaMap' took 0.690
-[2018.11.12-02.47.47:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-02.47.47:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-02.47.47:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-02.47.47:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-02.47.47:824][  0]LogCollectionManager: Loaded 0 collections in 0.001534 seconds
-[2018.11.12-02.47.47:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
-[2018.11.12-02.47.47:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
-[2018.11.12-02.47.47:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
-[2018.11.12-02.47.47:867][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.11.12-02.47.47:880][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2573 classes and 605 folders.
-[2018.11.12-02.47.47:886][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.12-02.47.48:168][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.12-02.47.48:172][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.11.12-02.47.48:236][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.11.12-02.47.48:239][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.11.12-02.47.48:249][  0]LogSlate: Took 0.004836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.11.12-02.47.48:367][  0]LogRenderer: Reallocating scene render targets to support 1232x548 Format 10 NumSamples 1 (Frame:1).
-[2018.11.12-02.47.48:417][  0]LogSlate: Took 0.003619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.12-02.47.48:480][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.11.12-02.47.48:480][  0]LogLoad: (Engine Initialization) Total time: 8.79 seconds
-[2018.11.12-02.47.48:480][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.11.12-02.47.48:510][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.11.12-02.47.48:567][  1]LogAssetRegistry: Asset discovery search completed in 5.0963 seconds
-[2018.11.12-02.47.48:569][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.11.12-02.47.48:569][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
-[2018.11.12-02.47.49:510][107]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.12-02.48.06:528][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-02.57.22:404][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-02.57.22:560][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
-[2018.11.12-02.57.23:048][899]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
-[2018.11.12-02.57.23:945][899]LogSlate: Took 0.003918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.11.12-02.57.24:058][900]LogSlate: Took 0.004893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.11.12-02.57.26:250][110]LogSlate: Window 'PlayerCharacter' being destroyed
-[2018.11.12-02.58.19:843][ 94]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterF1E716394CA118E944A4B7BC1DAD75E1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-02.58.20:157][129]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-02.59.13:065][751]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-03.00.11:230][536]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-03.00.11:857][580]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter5E2EF3E34385CF6B4161EC9526903DB7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-03.00.15:073][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-03.00.15:134][950]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap36F6069749AD945B2FEB9CB1830443C4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-03.00.15:165][950]LogFileHelpers: Saving map 'ArenaMap' took 0.161
-[2018.11.12-03.00.43:515][311]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
-[2018.11.12-03.00.54:483][468]LogRenderer: Reallocating scene render targets to support 1232x712 Format 10 NumSamples 1 (Frame:1).
-[2018.11.12-03.01.02:440][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-03.01.24:087][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-03.01.31:731][897]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.01.32:318][938]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter9AC47B2A448E3AB7D52E9DA485927F82.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.07.35:075][716]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter51E975504B0EF8A6688037B346876FA7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.07.35:333][745]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.07.41:383][430]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter6AA13D224499A928BB7AF5A2165847D3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.07.41:714][468]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.07.44:402][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-03.07.44:464][758]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2ECC6CF7483A345E277CB6BF9CB25027.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-03.07.44:494][758]LogFileHelpers: Saving map 'ArenaMap' took 0.159
-[2018.11.12-03.09.24:366][165]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.10.43:614][458]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.10.44:121][491]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterAC4249A14D57CA20AD71389F31D177C5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.10.46:185][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-03.10.46:245][722]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap37495C5F4A1B90FDE6460C9378C40EB4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-03.10.46:279][722]LogFileHelpers: Saving map 'ArenaMap' took 0.160
-[2018.11.12-03.11.13:762][998]BlueprintLog: New page: Compile EnemyCharacter
-[2018.11.12-03.11.14:379][ 39]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterF2B0B32E4C53EFC16B6CFCAC72C19F57.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.12.18:657][704]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter0268C7BE41D168755E54058D08B7E52D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
-[2018.11.12-03.13.25:449][505]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter5D85C4BB491D0BAE85349A9499C5FEA2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-03.13.25:718][535]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-03.13.28:289][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-03.13.28:354][801]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap389443DF4C530D7C2215579366B29357.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-03.13.28:383][801]LogFileHelpers: Saving map 'ArenaMap' took 0.160
-[2018.11.12-16.13.40:341][ 90]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
-[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 0 (Connection 44 seems to be dead!)
-[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 1 (Closing connection 44)
-[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
-[2018.11.12-16.13.41:555][ 93]LogHttp: Warning: 000001F819A320C0: libcurl info message cache 3 (Closing connection 45)
-[2018.11.12-17.02.55:791][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
-[2018.11.12-17.02.58:168][370]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
-[2018.11.12-17.03.26:376][605]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-17.05.38:758][184]LogEditorTransaction: Undo Move Node
-[2018.11.12-17.06.19:057][814]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.12-17.06.19:575][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameModeCB9B0E8F4563DCA830BABAAC0F561028.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.12-17.07.04:882][201]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.12-17.07.05:284][225]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode2F6FE7054C8E4DAF807AA4B5C14B401B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.12-17.08.52:610][261]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter1F0D6D5748DB629903303B88A73E076A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-17.08.52:785][273]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-17.09.05:964][809]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter471CD040474C7F49763E729221961A68.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-17.10.36:089][324]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-17.10.36:663][356]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter12B68B43439912EB00ADC9889E901FF0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-17.10.43:255][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-17.10.43:329][643]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2C56A741424AEADFA61879A5CE849EF3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-17.10.43:362][643]LogFileHelpers: Saving map 'ArenaMap' took 4.226
-[2018.11.12-20.56.16:725][564]LogSlate: Window 'Pick Parent Class' being destroyed
-[2018.11.12-20.56.24:621][184]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemySpawner.EnemySpawner
-[2018.11.12-20.56.50:613][242]BlueprintLog: New page: Compile EnemySpawner
-[2018.11.12-20.56.51:184][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
-[2018.11.12-20.56.51:195][288]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner894D8BA947CCF009E50C8BBF4A58402D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
-[2018.11.12-20.56.58:951][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-20.57.05:369][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-20.57.05:461][970]Cmd: MODE GRID=1
-[2018.11.12-20.57.13:819][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-20.58.01:623][822]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto12C0888264FF34DD6F5AFBF8BCDD5106D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto1.umap'
-[2018.11.12-20.58.01:626][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.093
-[2018.11.12-20.58.01:626][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
-[2018.11.12-20.58.01:628][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemySpawner] ([1] browsable assets)...
-[2018.11.12-20.58.01:628][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemySpawner]
-[2018.11.12-20.58.01:646][822]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner_Auto104ACF4E24E3289755320D6BDE191A64E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/EnemySpawner_Auto1.uasset'
-[2018.11.12-20.58.01:647][822]LogFileHelpers: Auto-saving content packages took 0.019
-[2018.11.12-20.59.42:003][250]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.02.20:289][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
-[2018.11.12-21.02.20:307][ 55]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner127428AC4CBDDAF0D96D3AA2B7CBAFEB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
-[2018.11.12-21.02.20:738][ 92]BlueprintLog: New page: Compile EnemySpawner
-[2018.11.12-21.02.57:992][468]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.05.27:423][558]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode2C71F5684618F0027DCBCCA93763F1D9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.12-21.05.27:703][591]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.12-21.05.40:874][143]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.12-21.05.41:405][181]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode490EEEF547DF54BFC6F7248062016BE0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.12-21.05.43:496][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.05.43:565][418]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap7C1AA264451AAD649EB85989CD84F104.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.05.43:596][418]LogFileHelpers: Saving map 'ArenaMap' took 0.167
-[2018.11.12-21.06.28:943][822]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.07.58:823][530]BlueprintLog: New page: Compile EnemySpawner
-[2018.11.12-21.07.59:322][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
-[2018.11.12-21.07.59:348][566]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner8878B61F42ADB6CE556C9D834AE362DF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
-[2018.11.12-21.08.19:060][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemySpawner" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset" SILENT=true
-[2018.11.12-21.08.19:080][903]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemySpawner679756ED4D9FF579A8707D9BA59554A5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemySpawner.uasset'
-[2018.11.12-21.08.19:427][943]BlueprintLog: New page: Compile EnemySpawner
-[2018.11.12-21.08.56:630][267]Cmd: TRANSACTION UNDO
-[2018.11.12-21.08.56:630][267]LogEditorTransaction: Undo Scale Actors
-[2018.11.12-21.09.00:067][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.09.20:380][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-21.09.21:771][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-21.09.21:842][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.09.21:906][224]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE230604B44EAA9126F082E98C0ECADAC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.09.21:937][224]LogFileHelpers: Saving map 'ArenaMap' took 0.162
-[2018.11.12-21.09.27:485][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-21.09.29:760][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-21.09.29:773][145]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:09:29 AM)
-[2018.11.12-21.09.29:773][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-21.09.29:777][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
-[2018.11.12-21.09.29:777][145]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-21.09.29:777][145]LogPlayLevel: PIE: World Init took: (0.000643s)
-[2018.11.12-21.09.29:778][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004273s)
-[2018.11.12-21.09.29:813][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-21.09.29:828][145]LogInit: FAudioDevice initialized.
-[2018.11.12-21.09.29:828][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-21.09.29:870][145]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-21.09.29:875][145]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.09.29
-[2018.11.12-21.09.29:900][145]LogWorld: Bringing up level for play took: 0.027624
-[2018.11.12-21.09.29:935][145]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
-[2018.11.12-21.09.29:937][145]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.938
-[2018.11.12-21.09.34:302][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.09.34:342][622]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-21.09.34:372][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.09.34:404][625]LogPlayLevel: Display: Destroying online subsystem :Context_11
-[2018.11.12-21.13.11:674][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.14.00:791][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.14.50:198][763]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.12-21.14.50:903][819]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode344D6BF743501227ABE2BD91D1508EC8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.12-21.14.53:925][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.14.53:995][165]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap34B7E5994057F5FB4932569C9EB15DE3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.14.54:025][165]LogFileHelpers: Saving map 'ArenaMap' took 0.167
-[2018.11.12-21.14.54:087][165]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter99E4A5D64407E4F551C9DAAD42C17553.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-21.15.39:654][555]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile.Projectile
-[2018.11.12-21.16.39:454][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
-[2018.11.12-21.16.39:486][610]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileA4AB04C84BDC662D97AAE6B72FADC00C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
-[2018.11.12-21.16.39:836][651]BlueprintLog: New page: Compile Projectile
-[2018.11.12-21.16.40:609][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset" SILENT=true
-[2018.11.12-21.16.40:636][717]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ProjectileD0C2DE1947E2914E61B1D69F0BDEFF11.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Projectile.uasset'
-[2018.11.12-21.25.36:652][217]LogSlate: Window 'Pick Skeleton' being destroyed
-[2018.11.12-21.25.58:886][861]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/PlayerBlend.PlayerBlend
-[2018.11.12-21.25.58:997][861]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.11.12-21.25.59:210][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.11.12-21.25.59:233][861]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
-[2018.11.12-21.25.59:392][861]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.11.12-21.25.59:930][861]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
-[2018.11.12-21.25.59:938][861]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2018.11.12-21.28.03:750][437]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlend1C8BC53C4231C6A7620C5BB056EAB2EF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlend.uasset'
-[2018.11.12-21.28.54:938][248]LogSlate: Window 'Pick Skeleton' being destroyed
-[2018.11.12-21.29.07:925][639]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/PlayerBlendRifle.PlayerBlendRifle
-[2018.11.12-21.29.07:938][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.11.12-21.29.07:959][639]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.11.12-21.29.08:292][639]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2018.11.12-21.29.42:662][535]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifleD1F77A0C444C3D38586913883AB7B327.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
-[2018.11.12-21.30.13:382][952]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
-[2018.11.12-21.30.13:396][952]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.11.12-21.30.25:771][147]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle
-[2018.11.12-21.30.25:771][147]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.11.12-21.30.40:877][950]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle
-[2018.11.12-21.30.40:877][950]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.11.12-21.30.46:824][656]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle
-[2018.11.12-21.30.46:824][656]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.11.12-21.31.13:825][881]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle
-[2018.11.12-21.31.13:825][881]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.11.12-21.33.28:479][570]LogSlate: Window 'Save Asset As' being destroyed
-[2018.11.12-21.33.30:390][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlend46F1DF19465760D31BE584AC5685999E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlend.uasset'
-[2018.11.12-21.33.30:429][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifle774DA32C4FF675968B4A6CAB9E66C9C2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
-[2018.11.12-21.33.52:832][422]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifleA0399F8E4CFE190A1B94A1B15F731458.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
-[2018.11.12-21.37.23:137][804]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
-[2018.11.12-21.37.38:450][804]LogSlate: Window 'Create Animation Blueprint' being destroyed
-[2018.11.12-21.38.02:508][568]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/PlayerAnimationBlueprint.PlayerAnimationBlueprint
-[2018.11.12-21.38.02:617][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.11.12-21.38.02:840][568]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.11.12-21.38.19:376][500]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
-[2018.11.12-21.38.19:383][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.11.12-21.38.19:406][500]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.11.12-21.38.19:698][500]LogRenderer: Reallocating scene render targets to support 1232x888 Format 10 NumSamples 1 (Frame:1).
-[2018.11.12-21.38.20:287][567]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
-[2018.11.12-21.38.20:329][567]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.11.12-21.38.20:383][567]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.11.12-21.40.59:813][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2018.11.12-21.44.58:467][ 52]BlueprintLog: New page: Compile PlayerAnimationBlueprint
-[2018.11.12-21.44.58:967][ 74]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint33985F054AF7C7475602D2B8472F6784.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
-[2018.11.12-21.45.28:213][518]BlueprintLog: New page: Compile PlayerAnimationBlueprint
-[2018.11.12-21.45.29:198][606]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint9BB104B34D6003FD932351A8CA543EC5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
-[2018.11.12-21.45.39:638][695]LogSlate: Window 'Delete Variable' being destroyed
-[2018.11.12-21.45.53:348][276]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprintAA87FC444DB2BC4124CF089F4170EEA1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
-[2018.11.12-21.45.53:682][314]BlueprintLog: New page: Compile PlayerAnimationBlueprint
-[2018.11.12-21.45.53:689][314]LogClass: Warning: Type mismatch in Direction of PlayerAnimationBlueprint_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
-[2018.11.12-21.46.24:299][225]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto2D178E6DA43FD3B6DC9A29F884D543083.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto2.umap'
-[2018.11.12-21.46.24:305][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.083
-[2018.11.12-21.46.24:305][225]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
-[2018.11.12-21.47.14:299][684]BlueprintLog: New page: Compile PlayerAnimationBlueprint
-[2018.11.12-21.47.14:864][719]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint796E6CA14044DE447894D88A1777F078.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
-[2018.11.12-21.47.16:734][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.47.16:806][924]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap943EDB0F46BBAF7EDFBFDEA28C73F8F7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.47.16:837][924]LogFileHelpers: Saving map 'ArenaMap' took 0.178
-[2018.11.12-21.47.28:028][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.57.05:809][ 77]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.57.34:183][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.57.34:260][182]BlueprintLog: New page: Compile PlayerCharacter
-[2018.11.12-21.57.35:710][296]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterF50AAE78411233FD37AC7EA39C3F7F24.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
-[2018.11.12-21.57.37:082][459]LogTemp: Repeating last play command: Simulate
-[2018.11.12-21.57.37:109][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-21.57.37:110][459]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:57:37 AM)
-[2018.11.12-21.57.37:110][459]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003890s)
-[2018.11.12-21.57.37:114][459]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: World Init took: (0.000614s)
-[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004617s)
-[2018.11.12-21.57.37:151][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-21.57.37:164][459]LogInit: FAudioDevice initialized.
-[2018.11.12-21.57.37:196][459]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-21.57.37:198][459]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.57.37
-[2018.11.12-21.57.37:199][459]LogWorld: Bringing up level for play took: 0.001641
-[2018.11.12-21.57.37:211][459]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.213
-[2018.11.12-21.57.39:903][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.57.40:544][779]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_2)
-[2018.11.12-21.57.41:207][858]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_2)
-[2018.11.12-21.57.42:799][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.57.42:847][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-21.57.42:879][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.57.42:904][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_28
-[2018.11.12-21.57.46:497][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.57.48:393][609]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.11.12-21.58.11:634][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.58.11:730][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap42425C3E4705559371CB6C8EBC654FB8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.58.11:763][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
-[2018.11.12-21.58.11:795][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataF99376F04BA3AA9EAB4E76B949ED984E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
-[2018.11.12-21.58.13:020][ 12]LogTemp: Repeating last play command: Simulate
-[2018.11.12-21.58.13:040][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-21.58.13:041][ 12]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:58:13 AM)
-[2018.11.12-21.58.13:041][ 12]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-21.58.13:044][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003381s)
-[2018.11.12-21.58.13:045][ 12]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-21.58.13:045][ 12]LogPlayLevel: PIE: World Init took: (0.000814s)
-[2018.11.12-21.58.13:045][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004300s)
-[2018.11.12-21.58.13:120][ 12]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-21.58.13:149][ 12]LogInit: FAudioDevice initialized.
-[2018.11.12-21.58.13:190][ 12]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-21.58.13:194][ 12]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.58.13
-[2018.11.12-21.58.13:195][ 12]LogWorld: Bringing up level for play took: 0.003476
-[2018.11.12-21.58.13:210][ 12]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.211
-[2018.11.12-21.58.15:899][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.58.15:943][284]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-21.58.15:977][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.58.16:007][286]LogPlayLevel: Display: Destroying online subsystem :Context_29
-[2018.11.12-21.59.04:810][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-21.59.54:371][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.12-21.59.54:446][877]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapEF512AC245F2038A136826BB1FC7E876.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.12-21.59.54:480][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
-[2018.11.12-21.59.54:503][877]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData06C5F0BE43A011792D0A61AA2ABC4BF6.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
-[2018.11.12-21.59.55:645][  0]LogTemp: Repeating last play command: Simulate
-[2018.11.12-21.59.55:666][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-21.59.55:667][  0]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:59:55 AM)
-[2018.11.12-21.59.55:667][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-21.59.55:670][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003476s)
-[2018.11.12-21.59.55:671][  0]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-21.59.55:671][  0]LogPlayLevel: PIE: World Init took: (0.000661s)
-[2018.11.12-21.59.55:671][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004231s)
-[2018.11.12-21.59.55:741][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-21.59.55:755][  0]LogInit: FAudioDevice initialized.
-[2018.11.12-21.59.55:790][  0]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-21.59.55:793][  0]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.59.55
-[2018.11.12-21.59.55:793][  0]LogWorld: Bringing up level for play took: 0.001714
-[2018.11.12-21.59.55:807][  0]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.808
-[2018.11.12-21.59.58:021][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.59.58:062][252]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-21.59.58:095][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-21.59.58:124][253]LogPlayLevel: Display: Destroying online subsystem :Context_30
-[2018.11.12-22.00.01:744][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.00.31:718][553]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
-[2018.11.12-22.00.33:859][759]Cmd: DELETE
-[2018.11.12-22.00.33:859][759]Cmd: ACTOR DELETE
-[2018.11.12-22.00.33:882][759]LogEditorActor: Deleted Actor: PlayerCharacter_C
-[2018.11.12-22.00.33:964][759]LogEditorActor: Deleted 1 Actors (0.105 secs)
-[2018.11.12-22.00.36:223][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.00.47:369][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.00.47:458][153]LogTemp: Repeating last play command: Simulate
-[2018.11.12-22.00.47:482][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-22.00.47:482][153]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:00:47 PM)
-[2018.11.12-22.00.47:483][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003237s)
-[2018.11.12-22.00.47:486][153]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: World Init took: (0.000551s)
-[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003869s)
-[2018.11.12-22.00.47:564][153]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-22.00.47:590][153]LogInit: FAudioDevice initialized.
-[2018.11.12-22.00.47:626][153]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-22.00.47:630][153]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.00.47
-[2018.11.12-22.00.47:631][153]LogWorld: Bringing up level for play took: 0.003440
-[2018.11.12-22.00.47:645][153]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.646
-[2018.11.12-22.00.52:420][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.00.52:465][650]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-22.00.52:517][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.00.52:543][651]LogPlayLevel: Display: Destroying online subsystem :Context_31
-[2018.11.12-22.00.57:033][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-22.00.58:498][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.12-22.01.00:945][653]LogSlate: Window 'Undo History' being destroyed
-[2018.11.12-22.01.00:948][653]LogSlate: Window 'Undo History' being destroyed
-[2018.11.12-22.01.07:523][442]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
-[2018.11.12-22.01.13:235][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.01.44:910][ 75]LogTemp: Repeating last play command: Simulate
-[2018.11.12-22.01.44:933][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-22.01.44:933][ 75]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:01:44 PM)
-[2018.11.12-22.01.44:933][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-22.01.44:936][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
-[2018.11.12-22.01.44:937][ 75]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-22.01.44:937][ 75]LogPlayLevel: PIE: World Init took: (0.000612s)
-[2018.11.12-22.01.44:937][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003897s)
-[2018.11.12-22.01.45:019][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-22.01.45:033][ 75]LogInit: FAudioDevice initialized.
-[2018.11.12-22.01.45:061][ 75]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-22.01.45:063][ 75]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.01.45
-[2018.11.12-22.01.45:064][ 75]LogWorld: Bringing up level for play took: 0.002015
-[2018.11.12-22.01.45:077][ 75]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.079
-[2018.11.12-22.01.48:526][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.01.48:570][432]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-22.01.48:601][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.01.48:629][434]LogPlayLevel: Display: Destroying online subsystem :Context_32
-[2018.11.12-22.01.50:931][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
-[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
-[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
-[2018.11.12-22.02.36:441][376]LogTemp: Repeating last play command: Simulate
-[2018.11.12-22.02.36:464][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.12-22.02.36:464][376]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:02:36 PM)
-[2018.11.12-22.02.36:464][376]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003451s)
-[2018.11.12-22.02.36:468][376]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: World Init took: (0.000553s)
-[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004084s)
-[2018.11.12-22.02.36:507][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.12-22.02.36:521][376]LogInit: FAudioDevice initialized.
-[2018.11.12-22.02.36:551][376]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.12-22.02.36:553][376]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.02.36
-[2018.11.12-22.02.36:553][376]LogWorld: Bringing up level for play took: 0.001669
-[2018.11.12-22.02.36:566][376]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.433
-[2018.11.12-22.02.36:946][420]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
-[2018.11.12-22.02.38:488][604]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
-[2018.11.12-22.02.39:405][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.02.49:469][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.12-22.03.06:235][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.03.06:279][475]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.12-22.03.06:316][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.12-22.03.06:335][476]LogPlayLevel: Display: Destroying online subsystem :Context_33
-[2018.11.12-22.03.17:521][243]LogSlate: Window 'Switch Project' being destroyed
-[2018.11.12-22.03.17:530][244]Cmd: CLOSE_SLATE_MAINFRAME
-[2018.11.12-22.03.19:483][244]LogSlate: Window 'Save Content' being destroyed
-[2018.11.12-22.03.19:674][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.12-22.03.19:750][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.12-22.03.19:817][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.12-22.03.19:904][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.11.12-22.03.21:484][244]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
-[2018.11.12-22.03.21:752][245]Cmd: QUIT_EDITOR
-[2018.11.12-22.03.21:896][245]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.11.12-22.03.21:909][245]LogExit: Preparing to exit.
+[2018.11.13-20.58.12:039][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-20.58.12:039][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.13-20.58.12:051][  0]LogHAL: Display: Platform has ~ 32 GB [34308362240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.13-20.58.12:051][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.13-20.58.12:051][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.13-20.58.12:051][  0]LogInit: Computer: IULB-V-FF052-19
+[2018.11.13-20.58.12:051][  0]LogInit: User: nsshipma
+[2018.11.13-20.58.12:051][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.13-20.58.12:051][  0]LogInit: High frequency timer resolution =3.328126 MHz
+[2018.11.13-20.58.12:052][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.11.13-20.58.12:052][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.13-20.58.12:052][  0]LogMemory: Process Physical Memory: 101.19 MB used, 101.19 MB peak
+[2018.11.13-20.58.12:052][  0]LogMemory: Process Virtual Memory: 89.47 MB used, 89.47 MB peak
+[2018.11.13-20.58.12:052][  0]LogMemory: Physical Memory: 5832.68 MB used,  26886.33 MB free, 32719.00 MB total
+[2018.11.13-20.58.12:052][  0]LogMemory: Virtual Memory: 547.26 MB used,  26886.33 MB free, 134217728.00 MB total
+[2018.11.13-20.58.12:071][  0]LogInit: Using OS detected language (en-US).
+[2018.11.13-20.58.12:071][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.13-20.58.12:072][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.13-20.58.12:412][  0]LogStreaming: Display: Took  0.341s to InitEngineTextLocalization.
+[2018.11.13-20.58.12:412][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.13-20.58.12:456][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.13-20.58.12:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.13-20.58.12:696][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-20.58.12:696][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.13-20.58.12:777][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.13-20.58.12:777][  0]LogD3D11RHI:       8079/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.13-20.58.12:780][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.13-20.58.12:780][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.13-20.58.12:781][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.13-20.58.12:788][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.13-20.58.12:788][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.13-20.58.12:788][  0]LogWindows: EnumDisplayDevices:
+[2018.11.13-20.58.12:789][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.13-20.58.12:789][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.13-20.58.12:789][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.13-20.58.12:789][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.13-20.58.12:790][  0]LogWindows:    4. 'Freedom Scientific Accessibility Display Driver' (P:0 D:0)
+[2018.11.13-20.58.12:790][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.13-20.58.12:790][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.13-20.58.12:790][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.11.13-20.58.12:790][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.11.13-20.58.12:790][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.11.13-20.58.12:840][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.13-20.58.12:862][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.13-20.58.12:905][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/15040/).
+[2018.11.13-20.58.12:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nsshipma.ADS.006/AppData/Local/Temp/UnrealShaderWorkingDir/8090C3574F7E88B8C9D3BFA1FC0A97D9/'.
+[2018.11.13-20.58.13:196][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.13-20.58.13:214][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.13-20.58.13:227][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.13-20.58.13:239][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.13-20.58.13:252][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.13-20.58.13:266][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.13-20.58.13:280][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.13-20.58.13:293][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.13-20.58.13:299][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-20.58.13:370][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.13-20.58.13:429][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-20.58.13:429][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-20.58.13:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-20.58.13:456][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-20.58.13:467][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.13-20.58.13:478][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.13-20.58.13:489][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.13-20.58.13:501][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.13-20.58.13:509][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.13-20.58.13:510][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.13-20.58.13:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.13-20.58.13:565][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.13-20.58.13:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.13-20.58.14:326][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/nsshipma.ADS.006/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nsshipma.ADS.006/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.13-20.58.14:382][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.13-20.58.14:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.13-20.58.14:408][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nsshipma.ADS.006/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.13-20.58.14:408][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.13-20.58.14:408][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.13-20.58.14:425][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.13-20.58.14:426][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.13-20.58.14:427][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.13-20.58.14:499][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.11.13-20.58.14:808][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-20.58.14:943][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.13-20.58.14:947][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.13-20.58.14:947][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.13-20.58.14:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.13-20.58.14:947][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.13-20.58.14:964][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.11.13-20.58.15:535][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.152291 seconds
+[2018.11.13-20.58.15:543][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.13-20.58.15:543][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.13-20.58.15:543][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.13-20.58.16:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.13-20.58.16:425][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.13-20.58.16:568][  0]SourceControl: Source control is disabled
+[2018.11.13-20.58.16:568][  0]SourceControl: Source control is disabled
+[2018.11.13-20.58.16:569][  0]SourceControl: Source control is disabled
+[2018.11.13-20.58.16:570][  0]SourceControl: Source control is disabled
+[2018.11.13-20.58.16:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.13-20.58.16:806][  0]LogOcInput: OculusInput pre-init called
+[2018.11.13-20.58.16:860][  0]LogEngine: Initializing Engine...
+[2018.11.13-20.58.16:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-20.58.16:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-20.58.16:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-20.58.16:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-20.58.16:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-20.58.17:057][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.13-20.58.17:069][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.13-20.58.17:079][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.13-20.58.17:100][  0]LogInit: FAudioDevice initialized.
+[2018.11.13-20.58.17:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.13-20.58.17:183][  0]LogDerivedDataCache: Saved boot cache 0.08s 87MB C:/Users/nsshipma.ADS.006/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-20.58.17:187][  0]LogInit: Texture streaming: Enabled
+[2018.11.13-20.58.17:202][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.13-20.58.17:218][  0]LogInit: Transaction tracking system initialized
+[2018.11.13-20.58.17:240][  0]BlueprintLog: New page: Editor Load
+[2018.11.13-20.58.17:311][  0]LocalizationService: Localization service is disabled
+[2018.11.13-20.58.17:585][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.13-20.58.17:585][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.13-20.58.17:585][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.13-20.58.17:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-20.58.17:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-20.58.17:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-20.58.17:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-20.58.17:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
+[2018.11.13-20.58.17:691][  0]SourceControl: Source control is disabled
+[2018.11.13-20.58.17:691][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-20.58.17:691][  0]LightingResults: New page: Lighting Build
+[2018.11.13-20.58.17:694][  0]MapCheck: New page: Map Check
+[2018.11.13-20.58.17:694][  0]LightingResults: New page: Lighting Build
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2018.11.13-20.58.19:226][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.11.13-20.58.19:226][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Enemy_Walk.Enemy_Walk
+[2018.11.13-20.58.19:227][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Enemy_Walk.Enemy_Walk) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.19:229][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle
+[2018.11.13-20.58.19:229][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Enemy_Idle.Enemy_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: T_FPGun_M (AutoDXT, 2048X2048)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: T_FPGun_AO (BGRA8, 512X512)
+[2018.11.13-20.58.19:703][  0]LogTexture: Display: Building textures: UE4_LOGO_CARD (AutoDXT, 4096X4096)
+[2018.11.13-20.58.19:703][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.13-20.58.19:865][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.13-20.58.19:930][  0]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.11.13-20.58.19:930][  0]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.13-20.58.19:930][  0]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.13-20.58.19:930][  0]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.13-20.58.19:930][  0]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.13-20.58.19:931][  0]LogSkeletalMesh: Building Skeletal Mesh UnrealMannequinMesh...
+[2018.11.13-20.58.20:137][  0]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (AutoDXT, 4096X4096)
+[2018.11.13-20.58.20:137][  0]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh.UnrealMannequinMesh
+[2018.11.13-20.58.20:933][  0]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2018.11.13-20.58.20:964][  0]LogMaterial: Display: Missing cached shader map for material EnemyProjectileMaterial, compiling. 
+[2018.11.13-20.58.20:986][  0]LogMaterial: Display: Missing cached shader map for material EnemyEyeMaterial, compiling. 
+[2018.11.13-20.58.24:315][  0]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2018.11.13-20.58.24:380][  0]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2018.11.13-20.58.24:399][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.11.13-20.58.24:404][  0]LogMaterial: Display: Missing cached shader map for material ProjectileMaterial, compiling. 
+[2018.11.13-20.58.24:471][  0]LogShaderCompilers: Display: Shaders left to compile 378
+[2018.11.13-20.58.24:471][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_1.Death_1
+[2018.11.13-20.58.24:471][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:474][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.11.13-20.58.24:474][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:478][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_3.Death_3
+[2018.11.13-20.58.24:478][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:480][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Death_2.Death_2
+[2018.11.13-20.58.24:480][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:530][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2018.11.13-20.58.24:530][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:532][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2018.11.13-20.58.24:532][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:533][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.11.13-20.58.24:533][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:535][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2018.11.13-20.58.24:535][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.13-20.58.24:558][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-20.58.24:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.13-20.58.24:608][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-20.58.24:714][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.341ms to complete.
+[2018.11.13-20.58.24:714][  0]LogFileHelpers: Loading map 'ArenaMap' took 7.023
+[2018.11.13-20.58.24:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.24:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.25:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.25:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.25:070][  0]LogCollectionManager: Loaded 0 collections in 0.002290 seconds
+[2018.11.13-20.58.25:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.11.13-20.58.25:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Developers/nsshipma/Collections/' took 0.01s
+[2018.11.13-20.58.25:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.11.13-20.58.25:144][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.13-20.58.25:161][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2573 classes and 605 folders.
+[2018.11.13-20.58.25:177][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.13-20.58.26:036][  0]LogShaderCompilers: Display: Shaders left to compile 368
+[2018.11.13-20.58.26:036][  0]LogShaderCompilers: Display: Shaders left to compile 358
+[2018.11.13-20.58.26:036][  0]LogShaderCompilers: Display: Shaders left to compile 348
+[2018.11.13-20.58.26:036][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.13-20.58.26:052][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.13-20.58.26:112][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.13-20.58.26:116][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.13-20.58.26:133][  0]LogSlate: Took 0.007018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.13-20.58.26:365][  0]LogShaderCompilers: Display: Shaders left to compile 338
+[2018.11.13-20.58.26:365][  0]LogShaderCompilers: Display: Shaders left to compile 328
+[2018.11.13-20.58.26:365][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.11.13-20.58.26:608][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-20.58.26:632][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.13-20.58.26:664][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.13-20.58.26:665][  0]LogLoad: (Engine Initialization) Total time: 16.23 seconds
+[2018.11.13-20.58.26:665][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.13-20.58.26:675][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-20.58.26:738][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.13-20.58.27:190][  2]LogAssetRegistry: Asset discovery search completed in 12.7132 seconds
+[2018.11.13-20.58.27:192][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.13-20.58.27:193][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.11.13-20.58.27:315][  4]LogShaderCompilers: Display: Shaders left to compile 318
+[2018.11.13-20.58.27:740][ 30]LogSlate: Took 0.008760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-20.58.28:337][ 78]LogShaderCompilers: Display: Shaders left to compile 308
+[2018.11.13-20.58.29:100][149]LogShaderCompilers: Display: Shaders left to compile 298
+[2018.11.13-20.58.29:124][151]LogShaderCompilers: Display: Shaders left to compile 288
+[2018.11.13-20.58.29:570][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-20.58.29:727][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TurretEnemy.TurretEnemy
+[2018.11.13-20.58.30:615][203]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.11.13-20.58.31:735][203]LogShaderCompilers: Display: Shaders left to compile 278
+[2018.11.13-20.58.31:735][203]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.11.13-20.58.31:735][203]LogShaderCompilers: Display: Shaders left to compile 258
+[2018.11.13-20.58.31:735][203]LogShaderCompilers: Display: Shaders left to compile 248
+[2018.11.13-20.58.32:019][203]LogSlate: Took 0.006517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.13-20.58.32:288][204]LogSlate: Took 0.005838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.13-20.58.32:411][208]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.11.13-20.58.32:782][223]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.11.13-20.58.32:980][233]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.11.13-20.58.33:515][263]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.11.13-20.58.33:983][292]LogSlate: Window 'TurretEnemy' being destroyed
+[2018.11.13-20.58.34:520][340]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.11.13-20.58.35:204][402]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.11.13-20.58.35:654][437]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.11.13-20.58.36:061][469]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.11.13-20.58.36:470][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile.Projectile
+[2018.11.13-20.58.36:828][505]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.11.13-20.58.38:071][621]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.11.13-20.58.38:398][656]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.11.13-20.58.38:398][656]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.11.13-20.58.38:648][682]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.13-20.58.40:175][852]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.13-20.58.40:185][853]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.13-20.58.40:404][877]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.13-20.58.40:736][913]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.13-20.58.42:199][ 80]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.13-20.58.42:556][120]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.13-20.58.42:599][125]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.13-20.58.43:512][223]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.13-20.58.44:501][328]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.13-20.58.45:261][410]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.13-20.58.45:413][427]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-20.58.45:446][427]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.13-20.58.45:446][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-20.58.45:475][427]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 10:58:45 AM)
+[2018.11.13-20.58.45:475][427]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-20.58.45:482][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006541s)
+[2018.11.13-20.58.45:482][427]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-20.58.45:483][427]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.11.13-20.58.45:483][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.007675s)
+[2018.11.13-20.58.45:609][427]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.13-20.58.45:619][427]LogInit: FAudioDevice initialized.
+[2018.11.13-20.58.45:672][427]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-20.58.45:677][427]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-15.58.45
+[2018.11.13-20.58.45:679][427]LogWorld: Bringing up level for play took: 0.005145
+[2018.11.13-20.58.45:700][427]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.11.13-20.58.45:707][427]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.311
+[2018.11.13-20.58.51:551][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.51:591][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-20.58.51:618][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-20.58.51:642][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.13-20.58.52:741][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-20.59.24:380][897]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2018.11.13-21.00.04:434][297]BlueprintLog: New page: Compile TurretEnemy
+[2018.11.13-21.01.31:945][629]LogSlate: Took 0.004757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.13-21.03.36:525][173]BlueprintLog: New page: Compile TurretEnemy
+[2018.11.13-21.03.37:251][225]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/TurretEnemy51FC9D7D48FD89564F6BDE9B00D96B21.tmp' to '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TurretEnemy.uasset'
+[2018.11.13-21.03.44:925][137]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-21.03.44:956][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-21.03.44:956][137]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 11:03:44 AM)
+[2018.11.13-21.03.44:956][137]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-21.03.44:959][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003354s)
+[2018.11.13-21.03.44:960][137]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-21.03.44:960][137]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.11.13-21.03.44:960][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004317s)
+[2018.11.13-21.03.44:997][137]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.13-21.03.45:006][137]LogInit: FAudioDevice initialized.
+[2018.11.13-21.03.45:041][137]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-21.03.45:043][137]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-16.03.45
+[2018.11.13-21.03.45:043][137]LogWorld: Bringing up level for play took: 0.001710
+[2018.11.13-21.03.45:057][137]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.336
+[2018.11.13-21.03.49:926][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-21.03.49:972][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-21.03.50:002][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-21.03.50:026][720]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.13-21.03.51:709][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-21.03.52:604][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-21.03.52:776][ 11]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap7E6BD992464364CBEC319282F190DBE0.tmp' to '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.13-21.03.52:818][ 11]LogFileHelpers: Saving map 'ArenaMap' took 0.209
+[2018.11.13-21.03.52:911][ 11]LogSavePackage: Moving '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterD507D40F4CD51FF8D5487981702DA67A.tmp' to '../../../../../../Users/nsshipma.ADS.006/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
