@@ -1,0 +1,1328 @@
+﻿Log file open, 11/13/18 17:55:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.276623
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.091s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ankr0w" -epicuserid=8d03bbcd158d461aba4cdd046a4c8aef -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.13-22.55.25:666][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-22.55.25:666][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.13-22.55.25:679][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.13-22.55.25:679][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.13-22.55.25:679][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.13-22.55.25:679][  0]LogInit: Computer: DESKTOP-VBFITEQ
+[2018.11.13-22.55.25:679][  0]LogInit: User: Nate
+[2018.11.13-22.55.25:679][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.13-22.55.25:679][  0]LogInit: High frequency timer resolution =3.906267 MHz
+[2018.11.13-22.55.25:679][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.11.13-22.55.25:679][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.13-22.55.25:679][  0]LogMemory: Process Physical Memory: 99.96 MB used, 99.96 MB peak
+[2018.11.13-22.55.25:679][  0]LogMemory: Process Virtual Memory: 90.85 MB used, 90.85 MB peak
+[2018.11.13-22.55.25:679][  0]LogMemory: Physical Memory: 7933.43 MB used,  16591.19 MB free, 24524.62 MB total
+[2018.11.13-22.55.25:679][  0]LogMemory: Virtual Memory: 4640.47 MB used,  16591.19 MB free, 134217728.00 MB total
+[2018.11.13-22.55.25:698][  0]LogInit: Using OS detected language (en-US).
+[2018.11.13-22.55.25:698][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.13-22.55.25:699][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.13-22.55.26:057][  0]LogStreaming: Display: Took  0.359s to InitEngineTextLocalization.
+[2018.11.13-22.55.26:057][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.13-22.55.26:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.13-22.55.26:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.13-22.55.26:262][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-22.55.26:262][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.13-22.55.26:321][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.11.13-22.55.26:321][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.13-22.55.26:323][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.13-22.55.26:323][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.13-22.55.26:323][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.13-22.55.26:329][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.13-22.55.26:329][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.13-22.55.26:329][  0]LogWindows: EnumDisplayDevices:
+[2018.11.13-22.55.26:329][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.11.13-22.55.26:329][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.11.13-22.55.26:330][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.13-22.55.26:330][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.13-22.55.26:330][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.13-22.55.26:330][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.11.13-22.55.26:330][  0]LogD3D11RHI:   Driver Version: 416.81 (internal:25.21.14.1681, unified:416.81)
+[2018.11.13-22.55.26:330][  0]LogD3D11RHI:      Driver Date: 11-2-2018
+[2018.11.13-22.55.26:330][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.13-22.55.26:369][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.13-22.55.26:403][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.13-22.55.26:501][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/12252/).
+[2018.11.13-22.55.26:501][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/C39E3E704E9C99B8181C9AA6DB1F8D55/'.
+[2018.11.13-22.55.26:694][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.13-22.55.26:706][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.13-22.55.26:717][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.13-22.55.26:729][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.13-22.55.26:742][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.13-22.55.26:753][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.13-22.55.26:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.13-22.55.26:777][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.13-22.55.26:783][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-22.55.26:859][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.13-22.55.26:916][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-22.55.26:916][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-22.55.26:940][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-22.55.26:940][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-22.55.26:950][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.13-22.55.26:962][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.13-22.55.26:973][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.13-22.55.26:985][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.13-22.55.26:993][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.13-22.55.26:993][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.13-22.55.27:042][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.13-22.55.27:042][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.13-22.55.27:042][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.13-22.55.27:719][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.13-22.55.27:771][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-22.55.27:772][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.13-22.55.27:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.13-22.55.27:772][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.13-22.55.27:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.13-22.55.27:772][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.13-22.55.27:784][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.13-22.55.27:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.13-22.55.27:796][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.13-22.55.27:796][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.13-22.55.27:815][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.13-22.55.27:816][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.13-22.55.27:816][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.13-22.55.27:884][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.11.13-22.55.28:197][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-22.55.28:315][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.13-22.55.28:318][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.13-22.55.28:318][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.13-22.55.28:318][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.13-22.55.28:318][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.13-22.55.28:334][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.11.13-22.55.28:823][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.123422 seconds
+[2018.11.13-22.55.28:829][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.13-22.55.28:829][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.13-22.55.28:829][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.13-22.55.29:614][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.13-22.55.29:626][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.13-22.55.29:760][  0]SourceControl: Source control is disabled
+[2018.11.13-22.55.29:760][  0]SourceControl: Source control is disabled
+[2018.11.13-22.55.29:761][  0]SourceControl: Source control is disabled
+[2018.11.13-22.55.29:762][  0]SourceControl: Source control is disabled
+[2018.11.13-22.55.29:932][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.13-22.55.29:997][  0]LogOcInput: OculusInput pre-init called
+[2018.11.13-22.55.30:053][  0]LogEngine: Initializing Engine...
+[2018.11.13-22.55.30:054][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-22.55.30:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-22.55.30:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-22.55.30:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-22.55.30:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-22.55.30:249][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.13-22.55.30:266][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.13-22.55.30:280][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-22.55.30:324][  0]LogInit: FAudioDevice initialized.
+[2018.11.13-22.55.30:325][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.13-22.55.30:883][  0]LogDerivedDataCache: Saved boot cache 0.56s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-22.55.30:909][  0]LogInit: Texture streaming: Enabled
+[2018.11.13-22.55.30:942][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.13-22.55.30:967][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-22.55.30:997][  0]LogInit: Transaction tracking system initialized
+[2018.11.13-22.55.31:020][  0]BlueprintLog: New page: Editor Load
+[2018.11.13-22.55.31:090][  0]LocalizationService: Localization service is disabled
+[2018.11.13-22.55.31:161][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.13-22.55.31:161][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.13-22.55.31:162][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2018.11.13-22.55.31:349][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.13-22.55.31:349][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.13-22.55.31:349][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.13-22.55.31:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-22.55.31:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-22.55.31:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-22.55.31:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-22.55.31:457][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
+[2018.11.13-22.55.31:457][  0]SourceControl: Source control is disabled
+[2018.11.13-22.55.31:457][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-22.55.31:461][  0]LightingResults: New page: Lighting Build
+[2018.11.13-22.55.31:463][  0]MapCheck: New page: Map Check
+[2018.11.13-22.55.31:463][  0]LightingResults: New page: Lighting Build
+[2018.11.13-22.55.32:854][  0]LogMaterial: Display: Missing cached shader map for material CustomTechTile, compiling. 
+[2018.11.13-22.55.32:910][  0]LogMaterial: Display: Missing cached shader map for material CustomTechTileWall, compiling. 
+[2018.11.13-22.55.32:941][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.13-22.55.32:941][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.13-22.55.32:941][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.13-22.55.32:941][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.13-22.55.32:941][  0]LogMaterial: Display: Missing cached shader map for material TechPulseCustom, compiling. 
+[2018.11.13-22.55.33:138][  0]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.13-22.55.33:245][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-22.55.33:258][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.13-22.55.33:280][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-22.55.33:385][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.426ms to complete.
+[2018.11.13-22.55.33:385][  0]LogFileHelpers: Loading map 'ArenaMap' took 1.928
+[2018.11.13-22.55.33:622][  0]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.13-22.55.33:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.33:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.33:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.33:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.33:676][  0]LogCollectionManager: Loaded 0 collections in 0.002197 seconds
+[2018.11.13-22.55.33:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.11.13-22.55.33:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
+[2018.11.13-22.55.33:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.11.13-22.55.33:735][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.13-22.55.33:750][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2573 classes and 605 folders.
+[2018.11.13-22.55.33:759][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.13-22.55.35:039][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.13-22.55.35:047][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.11.13-22.55.35:150][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.13-22.55.35:152][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.13-22.55.35:192][  0]LogSlate: Took 0.031958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.13-22.55.35:347][  0]LogRenderer: Reallocating scene render targets to support 1232x548 Format 10 NumSamples 1 (Frame:1).
+[2018.11.13-22.55.35:417][  0]LogSlate: Took 0.007384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-22.55.35:504][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.13-22.55.35:504][  0]LogLoad: (Engine Initialization) Total time: 11.46 seconds
+[2018.11.13-22.55.35:504][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.13-22.55.35:538][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.13-22.55.35:620][  1]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.13-22.55.36:577][ 38]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-22.55.37:308][ 90]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.13-22.55.37:339][ 92]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.13-22.55.37:840][145]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.13-22.55.39:098][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.13-22.55.43:905][811]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.13-22.55.45:227][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-22.55.49:553][314]LogAssetRegistry: Asset discovery search completed in 21.6911 seconds
+[2018.11.13-22.55.49:555][314]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2018.11.13-22.55.52:977][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-22.55.53:060][698]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-22.55.53:079][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-22.55.53:091][698]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 12:55:53 PM)
+[2018.11.13-22.55.53:091][698]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-22.55.53:094][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2018.11.13-22.55.53:094][698]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-22.55.53:094][698]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.11.13-22.55.53:094][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003279s)
+[2018.11.13-22.55.53:119][698]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-22.55.53:132][698]LogInit: FAudioDevice initialized.
+[2018.11.13-22.55.53:178][698]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-22.55.53:181][698]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-17.55.53
+[2018.11.13-22.55.53:182][698]LogWorld: Bringing up level for play took: 0.002751
+[2018.11.13-22.55.53:208][698]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.11.13-22.55.53:216][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-22.55.53:216][698]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-22.55.53:218][698]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.346
+[2018.11.13-22.55.57:121][156]LogBlueprintUserMessages: [TurretEnemy_C_0] Hello
+[2018.11.13-22.55.59:428][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.59:459][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-22.55.59:480][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-22.55.59:532][438]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.13-22.56.04:390][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-22.56.04:538][905]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TurretEnemy.TurretEnemy
+[2018.11.13-22.56.04:926][905]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.13-22.56.05:833][905]LogSlate: Took 0.013884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.13-22.56.06:151][906]LogSlate: Took 0.003502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.13-22.56.08:223][107]LogSlate: Window 'TurretEnemy' being destroyed
+[2018.11.13-22.56.21:703][645]BlueprintLog: New page: Compile TurretEnemy
+[2018.11.13-22.56.22:360][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TurretEnemy" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TurretEnemy.uasset" SILENT=true
+[2018.11.13-22.56.22:404][693]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretEnemy925D8DDE42D9A58C912FF091B2F969FC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TurretEnemy.uasset'
+[2018.11.13-22.56.29:243][371]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BaseTile.BaseTile
+[2018.11.13-22.57.53:429][721]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TileType1.TileType1
+[2018.11.13-22.57.53:854][722]LogRenderer: Reallocating scene render targets to support 1232x712 Format 10 NumSamples 1 (Frame:1).
+[2018.11.13-22.58.01:479][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-22.58.45:454][542]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.13-22.58.45:496][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-22.58.45:600][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-22.58.53:464][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.58.53:464][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Self  and  Room : Self Object Reference is not compatible with Base Tile Object Reference.
+[2018.11.13-22.58.53:464][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.58.53:555][ 81]LogBlueprint: Warning: [Compiler TileType1] [0209.51] Compile of TileType1 failed. 3 Fatal Issue(s) 0 Warning(s) [in 98 ms] (/Game/Blueprints/TileType1.TileType1)
+[2018.11.13-22.58.53:568][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.58.53:568][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Self  and  Room : Self Object Reference is not compatible with Base Tile Object Reference.
+[2018.11.13-22.58.53:568][ 81]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.58.53:569][ 81]LogBlueprint: Warning: [Compiler TileType1] [0209.53] Compile of TileType1 failed. 3 Fatal Issue(s) 0 Warning(s) [in 9 ms] (/Game/Blueprints/TileType1.TileType1)
+[2018.11.13-22.58.55:156][187]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TileType1.TileType1
+[2018.11.13-22.58.57:546][360]LogSlate: Window 'TileType1*' being destroyed
+[2018.11.13-22.59.08:191][599]BlueprintLog: New page: Compile TileType1
+[2018.11.13-22.59.08:205][599]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.59.08:205][599]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Self  and  Room : Self Object Reference is not compatible with Base Tile Object Reference.
+[2018.11.13-22.59.08:205][599]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-22.59.08:322][599]LogBlueprint: Warning: [Compiler TileType1] [0224.28] Compile of TileType1 failed. 3 Fatal Issue(s) 0 Warning(s) [in 130 ms] (/Game/Blueprints/TileType1.TileType1)
+[2018.11.13-22.59.08:861][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TileType1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TileType1.uasset" SILENT=true
+[2018.11.13-22.59.08:903][655]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TileType1100A610044B09FAF161739927301C539.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TileType1.uasset'
+[2018.11.13-22.59.32:263][ 74]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BaseTile.BaseTile
+[2018.11.13-22.59.37:164][551]LogSlate: Window 'BaseTile' being destroyed
+[2018.11.13-23.00.56:713][758]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.00.57:462][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.00.57:520][820]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTileCECCC7DF44DFEF306BDEBDA905457A04.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.01.01:841][315]LogSlate: Took 0.003658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.13-23.02.45:688][431]LogEditorTransaction: Undo Delete current selection
+[2018.11.13-23.07.08:593][389]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.07.09:304][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.07.09:365][433]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile84A4F32049095E7888B3C8B2CD48ECF5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.08.05:855][ 82]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.08.05:876][ 82]LogBlueprint: Error: [Compiler BaseTile] The current value of the ' Enemy Spawn Points ' pin is invalid: Array inputs (like 'Enemy Spawn Points') must have an input wired into them (try connecting a MakeArray node).
+[2018.11.13-23.08.06:015][ 82]LogBlueprint: Warning: [Compiler BaseTile] [0761.97] Compile of BaseTile failed. 1 Fatal Issue(s) 0 Warning(s) [in 159 ms] (/Game/Blueprints/BaseTile.BaseTile)
+[2018.11.13-23.08.23:289][ 86]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.08.24:495][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.08.24:549][201]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile36A8B0DA468B1A91F4750580369B176E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.SKEL_Type1_C' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1_C' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:581][337]LogMetaData: Removing '/Game/Blueprints/Type1.Type1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BaseTile_Child.PackageMetaData'
+[2018.11.13-23.08.58:619][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.08.58:637][337]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1B85058ED4843200EDD39838632B2600A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.09.00:190][454]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Type1.Type1
+[2018.11.13-23.09.50:625][328]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.10.20:663][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.10.25:003][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.10.39:262][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.10.50:671][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.11.18:713][735]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.11.29:768][  1]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.11.30:729][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.11.30:778][ 87]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type129753D9942E8BB21FA57DDAD1734142F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.11.33:429][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.13-23.11.33:495][402]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap91B806134D65528B08FF1DB7A77F8713.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.13-23.11.33:531][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.13-23.11.33:563][402]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData11F2CD8545F78CB53632BC8699BE1B6E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.13-23.11.36:878][781]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile)
+[2018.11.13-23.11.40:211][167]Cmd: DELETE
+[2018.11.13-23.11.40:212][167]Cmd: ACTOR DELETE
+[2018.11.13-23.11.40:214][167]LogEditorActor: Deleted Actor: BaseTile_C
+[2018.11.13-23.11.40:243][167]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.11.13-23.11.43:245][414]LogEditorViewport: Clicking Background
+[2018.11.13-23.11.43:624][459]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.11.13-23.11.49:755][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.11.51:612][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.11.53:641][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.11.53:672][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.13-23.11.53:679][596]LogPlayLevel: [PlayLevel] Compiling TileType1 before play...
+[2018.11.13-23.11.53:685][596]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-23.11.53:686][596]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Self  and  Room : Self Object Reference is not compatible with Base Tile Object Reference.
+[2018.11.13-23.11.53:686][596]LogBlueprint: Error: [Compiler TileType1] Can't connect pins  Room  and  Self : Base Tile Object Reference is not compatible with Self Object Reference.
+[2018.11.13-23.11.53:687][596]LogBlueprint: Warning: [Compiler TileType1] [0989.64] Compile of TileType1 failed. 3 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/Blueprints/TileType1.TileType1)
+[2018.11.13-23.11.53:807][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2018.11.13-23.11.53:807][596]BlueprintLog: Blueprint TileType1 failed to compile
+[2018.11.13-23.11.58:853][596]LogSlate: Window 'Message' being destroyed
+[2018.11.13-23.12.04:738][280]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.12.05:865][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.12.05:908][384]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1942C25264D9FD079D9A857A627AE5776.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.12.07:790][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.13-23.12.07:855][606]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap3B6F56BD4B841ACF0851DD9699CBF036.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.13-23.12.07:891][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.13-23.12.07:919][606]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataF04A28C14A79838006A58688F20F0AE4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.13-23.12.09:086][744]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.12.09:112][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.12.10:873][744]LogSlate: Window 'Message' being destroyed
+[2018.11.13-23.12.13:253][ 27]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.12.14:242][118]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.12.21:647][523]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.13-23.12.21:728][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.13-23.12.23:871][686]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.12.23:891][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.12.23:891][686]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:12:23 PM)
+[2018.11.13-23.12.23:891][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.12.23:894][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2018.11.13-23.12.23:894][686]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.12.23:895][686]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.11.13-23.12.23:895][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003369s)
+[2018.11.13-23.12.23:925][686]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.12.23:939][686]LogInit: FAudioDevice initialized.
+[2018.11.13-23.12.23:973][686]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.12.23:975][686]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.12.23
+[2018.11.13-23.12.23:975][686]LogWorld: Bringing up level for play took: 0.001342
+[2018.11.13-23.12.23:990][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=52.125 Y=-0.000 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.12.23:990][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=52.125 Y=-0.000 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.12.23:991][686]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.12.23:991][686]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.12.23:992][686]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.88
+[2018.11.13-23.12.28:379][209]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:004A
+[2018.11.13-23.12.28:379][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.28:379][209]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:0096
+[2018.11.13-23.12.28:379][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.28:379][209]LogScript: Warning: Attempted to assign to None
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00AB
+[2018.11.13-23.12.28:379][209]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.28:379][209]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00D6
+[2018.11.13-23.12.28:379][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Branch
+[2018.11.13-23.12.28:379][209]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:010D
+[2018.11.13-23.12.28:380][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.12.30:154][422]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.12.30:154][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.30:154][422]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.12.30:154][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.30:154][422]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.12.30:154][422]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.12.30:154][422]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.12.30:154][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.12.30:154][422]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.12.30:154][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.12.33:597][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.12.33:631][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.12.33:653][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.12.33:704][837]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.13-23.12.34:825][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.12.42:464][753]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BaseTile.BaseTile
+[2018.11.13-23.12.43:680][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Type1.Type1
+[2018.11.13-23.12.46:370][ 13]LogSlate: Window 'Type1' being destroyed
+[2018.11.13-23.13.11:253][906]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.13.11:832][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.13.11:877][950]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1C090A71F4F65F2985FEEEAB450F00E05.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.13.13:114][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.13.13:144][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.13.13:144][ 86]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:13:13 PM)
+[2018.11.13-23.13.13:144][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.13.13:147][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002668s)
+[2018.11.13-23.13.13:147][ 86]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.13.13:147][ 86]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.11.13-23.13.13:147][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003285s)
+[2018.11.13-23.13.13:184][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.13.13:197][ 86]LogInit: FAudioDevice initialized.
+[2018.11.13-23.13.13:225][ 86]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.13.13:227][ 86]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.13.13
+[2018.11.13-23.13.13:227][ 86]LogWorld: Bringing up level for play took: 0.001367
+[2018.11.13-23.13.13:241][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=52.125 Y=-0.000 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.13.13:242][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=52.125 Y=-0.000 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.13.13:242][ 86]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.13.13:242][ 86]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.13.13:243][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.371
+[2018.11.13-23.13.15:184][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.13.15:226][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.13.15:252][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.13.15:290][318]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.13-23.13.19:245][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.14.08:405][440]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.14.08:941][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.14.09:000][471]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile4803474949A224CDF5E7929C20193247.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.14.10:472][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.14.10:507][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.14.10:507][645]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:14:10 PM)
+[2018.11.13-23.14.10:507][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.14.10:510][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002765s)
+[2018.11.13-23.14.10:510][645]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.14.10:510][645]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2018.11.13-23.14.10:510][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003453s)
+[2018.11.13-23.14.10:546][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.14.10:560][645]LogInit: FAudioDevice initialized.
+[2018.11.13-23.14.10:590][645]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.14.10:593][645]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.14.10
+[2018.11.13-23.14.10:594][645]LogWorld: Bringing up level for play took: 0.002649
+[2018.11.13-23.14.10:611][645]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-24.111 Y=0.549 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.14.10:612][645]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-24.111 Y=0.549 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.14.10:612][645]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.14.10:612][645]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.14.10:613][645]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.258
+[2018.11.13-23.14.13:690][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.14.13:725][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.14.13:751][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.14.13:790][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.13-23.14.15:153][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.14.44:603][665]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.14.46:928][901]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.14.46:961][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.14.46:961][901]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:14:46 PM)
+[2018.11.13-23.14.46:961][901]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.14.46:964][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2018.11.13-23.14.46:964][901]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.14.46:964][901]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2018.11.13-23.14.46:964][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003328s)
+[2018.11.13-23.14.47:002][901]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.14.47:015][901]LogInit: FAudioDevice initialized.
+[2018.11.13-23.14.47:049][901]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.14.47:052][901]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.14.47
+[2018.11.13-23.14.47:052][901]LogWorld: Bringing up level for play took: 0.001520
+[2018.11.13-23.14.47:072][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.14.47:072][901]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.14.47:074][901]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.202
+[2018.11.13-23.14.51:113][381]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_2
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:004A
+[2018.11.13-23.14.51:113][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:113][381]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_2
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:0096
+[2018.11.13-23.14.51:113][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:113][381]LogScript: Warning: Attempted to assign to None
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_2
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00AB
+[2018.11.13-23.14.51:113][381]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:113][381]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_2
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00D6
+[2018.11.13-23.14.51:113][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Branch
+[2018.11.13-23.14.51:113][381]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_2
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:010D
+[2018.11.13-23.14.51:113][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.14.51:654][446]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:004A
+[2018.11.13-23.14.51:654][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:654][446]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:0096
+[2018.11.13-23.14.51:654][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:654][446]LogScript: Warning: Attempted to assign to None
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00AB
+[2018.11.13-23.14.51:654][446]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.51:654][446]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00D6
+[2018.11.13-23.14.51:654][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Branch
+[2018.11.13-23.14.51:654][446]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_0
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:010D
+[2018.11.13-23.14.51:654][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.14.54:196][751]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_1
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:004A
+[2018.11.13-23.14.54:196][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.54:196][751]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_1
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:0096
+[2018.11.13-23.14.54:196][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.54:196][751]LogScript: Warning: Attempted to assign to None
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_1
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00AB
+[2018.11.13-23.14.54:196][751]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.54:196][751]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_1
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:00D6
+[2018.11.13-23.14.54:196][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Branch
+[2018.11.13-23.14.54:196][751]LogScript: Warning: Accessed None trying to read property Room
+	TurretEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TurretEnemy_C_1
+	Function /Game/Blueprints/TurretEnemy.TurretEnemy_C:ExecuteUbergraph_TurretEnemy:010D
+[2018.11.13-23.14.54:197][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  TurretEnemy Function:  Execute Ubergraph Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.14.55:130][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.14.55:130][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:130][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.14.55:130][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:130][863]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.14.55:130][863]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.14.55:131][863]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.14.55:131][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.14.55:938][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.14.55:978][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.14.56:000][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.14.56:042][962]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.13-23.14.57:283][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.14.58:875][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.14.58:918][296]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1996F3A664F4202C574EA7E81B46CE26C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.14.59:781][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.14.59:835][393]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTileDDBE78B14CB2601F9333D2B0730A652B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.15.47:127][940]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.15.48:335][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.15.48:368][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.15.48:368][ 57]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:15:48 PM)
+[2018.11.13-23.15.48:368][ 57]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.15.48:371][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003043s)
+[2018.11.13-23.15.48:372][ 57]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.15.48:372][ 57]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.11.13-23.15.48:372][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003996s)
+[2018.11.13-23.15.48:408][ 57]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.15.48:422][ 57]LogInit: FAudioDevice initialized.
+[2018.11.13-23.15.48:454][ 57]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.15.48:457][ 57]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.15.48
+[2018.11.13-23.15.48:457][ 57]LogWorld: Bringing up level for play took: 0.001461
+[2018.11.13-23.15.48:471][ 57]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-24.111 Y=0.549 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.15.48:472][ 57]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-24.111 Y=0.549 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.15.48:472][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.15.48:472][ 57]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.15.48:473][ 57]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.4
+[2018.11.13-23.15.51:637][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.15.51:674][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.15.51:698][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.15.51:740][438]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.13-23.15.52:164][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.20.23:242][447]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.21.18:177][826]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.21.22:771][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.22.10:849][ 60]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.22.11:592][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.22.11:643][119]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type11AFFFD044DF4E25098AA7DA0A3CA9E20.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.22.21:840][333]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.22.30:186][294]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.22.30:788][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.22.30:845][329]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile30B7108A42C4A62B80FCFF968169C644.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.22.32:107][471]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.22.32:141][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.22.32:141][471]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:22:32 PM)
+[2018.11.13-23.22.32:141][471]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.22.32:144][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002742s)
+[2018.11.13-23.22.32:145][471]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.22.32:145][471]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.11.13-23.22.32:145][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003535s)
+[2018.11.13-23.22.32:183][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.22.32:198][471]LogInit: FAudioDevice initialized.
+[2018.11.13-23.22.32:229][471]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.22.32:232][471]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.22.32
+[2018.11.13-23.22.32:232][471]LogWorld: Bringing up level for play took: 0.002005
+[2018.11.13-23.22.32:250][471]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-524.111 Y=-499.451 Z=138.000] for [TurretEnemy_C]
+[2018.11.13-23.22.32:250][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.22.32:250][471]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.22.32:252][471]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.62
+[2018.11.13-23.22.36:531][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.22.36:569][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.22.36:597][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.22.36:637][981]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.13-23.22.39:611][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.23.07:512][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.23.11:151][ 70]BlueprintLog: New page: Compile Type1
+[2018.11.13-23.23.12:045][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
+[2018.11.13-23.23.12:088][144]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1D80F2B5A4F73D5007B024AA50F470A3C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
+[2018.11.13-23.23.30:105][292]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.23.30:633][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.13-23.23.30:696][317]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTileF01B08834ACDAB4154DCE98916D92E7E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.13-23.23.33:109][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.13-23.23.33:182][589]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE87F6AE84E163AA102E9C2A40019F32D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.13-23.23.33:218][589]LogFileHelpers: Saving map 'ArenaMap' took 0.185
+[2018.11.13-23.23.35:392][845]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.23.35:427][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.23.35:428][845]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:23:35 PM)
+[2018.11.13-23.23.35:428][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.23.35:430][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002605s)
+[2018.11.13-23.23.35:431][845]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.23.35:431][845]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.11.13-23.23.35:431][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003407s)
+[2018.11.13-23.23.35:466][845]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.23.35:480][845]LogInit: FAudioDevice initialized.
+[2018.11.13-23.23.35:514][845]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.23.35:516][845]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.23.35
+[2018.11.13-23.23.35:516][845]LogWorld: Bringing up level for play took: 0.002207
+[2018.11.13-23.23.35:533][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.23.35:533][845]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.23.35:534][845]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.661
+[2018.11.13-23.23.39:794][354]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-23.23.39:927][370]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-23.23.43:036][742]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.23.43:036][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:036][742]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.23.43:036][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:036][742]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.23.43:036][742]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:036][742]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.23.43:036][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.23.43:036][742]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.23.43:036][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.23.43:653][816]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.23.43:653][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:653][816]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.23.43:653][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:653][816]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.23.43:653][816]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.43:653][816]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.23.43:653][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.23.43:653][816]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.23.43:653][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.23.45:411][ 27]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.23.45:411][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:411][ 27]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.23.45:411][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:411][ 27]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2018.11.13-23.23.45:411][ 27]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:411][ 27]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00C2
+[2018.11.13-23.23.45:412][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.23.45:412][ 27]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00F9
+[2018.11.13-23.23.45:412][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.23.45:695][ 61]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2018.11.13-23.23.45:695][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:695][ 61]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_0
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2018.11.13-23.23.45:695][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:695][ 61]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.23.45:695][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.23.45:695][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.23.51:078][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.23.51:113][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.23.51:139][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.23.51:186][707]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.13-23.23.52:659][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.23.52:815][847]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
+[2018.11.13-23.24.56:376][272]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.13-23.24.57:694][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.24.57:717][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.24.57:717][402]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:24:57 PM)
+[2018.11.13-23.24.57:717][402]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.24.57:720][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002512s)
+[2018.11.13-23.24.57:720][402]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.24.57:721][402]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.11.13-23.24.57:721][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003228s)
+[2018.11.13-23.24.57:756][402]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.24.57:771][402]LogInit: FAudioDevice initialized.
+[2018.11.13-23.24.57:806][402]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.24.57:809][402]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.24.57
+[2018.11.13-23.24.57:810][402]LogWorld: Bringing up level for play took: 0.002510
+[2018.11.13-23.24.57:830][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.24.57:830][402]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.24.57:833][402]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.96
+[2018.11.13-23.25.00:993][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.00:993][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.00:993][775]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.00:993][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.25.00:993][775]LogBlueprintUserMessages: [EnemyCharacter_C_0] t
+[2018.11.13-23.25.00:993][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.25.03:409][ 65]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:418][ 66]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:418][ 66]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:484][ 74]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:485][ 74]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:493][ 75]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:493][ 75]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:501][ 76]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.03:635][ 92]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.05:338][292]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-23.25.06:387][418]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-23.25.06:629][447]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_1)
+[2018.11.13-23.25.06:629][447]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_2)
+[2018.11.13-23.25.06:629][447]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_3)
+[2018.11.13-23.25.11:160][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.25.11:196][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.25.11:221][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.25.11:269][992]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.13-23.25.11:915][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.25.12:006][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.25.12:029][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.25.12:029][ 76]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:25:12 PM)
+[2018.11.13-23.25.12:029][ 76]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.25.12:032][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002878s)
+[2018.11.13-23.25.12:032][ 76]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.25.12:033][ 76]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.11.13-23.25.12:033][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003718s)
+[2018.11.13-23.25.12:066][ 76]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.25.12:080][ 76]LogInit: FAudioDevice initialized.
+[2018.11.13-23.25.12:110][ 76]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.25.12:112][ 76]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.25.12
+[2018.11.13-23.25.12:113][ 76]LogWorld: Bringing up level for play took: 0.001386
+[2018.11.13-23.25.12:128][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.25.12:128][ 76]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.25.12:128][ 76]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.743
+[2018.11.13-23.25.15:517][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.15:517][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.15:517][480]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.15:517][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.25.15:517][480]LogBlueprintUserMessages: [EnemyCharacter_C_0] t
+[2018.11.13-23.25.15:517][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.25.18:824][877]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.25.18:825][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.18:825][877]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.25.18:825][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.18:825][877]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.25.18:825][877]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.18:825][877]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.25.18:825][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.25.18:825][877]LogBlueprintUserMessages: [EnemyCharacter_C_2] t
+[2018.11.13-23.25.18:825][877]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.25.18:825][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.25.21:375][183]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.25.21:375][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.21:375][183]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.25.21:375][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.21:375][183]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.25.21:375][183]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.21:375][183]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.25.21:375][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.25.21:375][183]LogBlueprintUserMessages: [EnemyCharacter_C_1] t
+[2018.11.13-23.25.21:375][183]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.25.21:375][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.25.23:678][459]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.25.23:678][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.23:678][459]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.25.23:678][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.23:678][459]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.25.23:678][459]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.25.23:678][459]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.25.23:678][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.25.23:678][459]LogBlueprintUserMessages: [EnemyCharacter_C_3] t
+[2018.11.13-23.25.23:678][459]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.25.23:679][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.25.25:462][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.25.25:502][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.25.25:531][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.25.25:577][675]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.13-23.25.26:274][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.26.15:060][531]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.26.16:651][683]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.26.16:690][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.26.16:690][683]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:26:16 PM)
+[2018.11.13-23.26.16:690][683]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.26.16:693][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002701s)
+[2018.11.13-23.26.16:693][683]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.26.16:693][683]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.11.13-23.26.16:693][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003383s)
+[2018.11.13-23.26.16:732][683]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.26.16:748][683]LogInit: FAudioDevice initialized.
+[2018.11.13-23.26.16:780][683]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.26.16:782][683]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.26.16
+[2018.11.13-23.26.16:783][683]LogWorld: Bringing up level for play took: 0.001756
+[2018.11.13-23.26.16:804][683]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.26.16:804][683]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.26.16:805][683]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.067
+[2018.11.13-23.26.20:546][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.20:547][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.20:547][126]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.20:547][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.26.20:547][126]LogBlueprintUserMessages: [EnemyCharacter_C_0] t
+[2018.11.13-23.26.20:547][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.26.21:880][286]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.26.21:880][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.21:880][286]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.26.21:880][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.21:880][286]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.26.21:880][286]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.21:880][286]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.26.21:881][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.26.21:881][286]LogBlueprintUserMessages: [EnemyCharacter_C_3] t
+[2018.11.13-23.26.21:881][286]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.26.21:881][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.26.23:654][498]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.26.23:654][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.23:654][498]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.26.23:654][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.23:654][498]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.26.23:654][498]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.23:654][498]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.26.23:654][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.26.23:654][498]LogBlueprintUserMessages: [EnemyCharacter_C_1] t
+[2018.11.13-23.26.23:654][498]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.26.23:655][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.26.25:421][710]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.26.25:421][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.25:421][710]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.26.25:421][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.25:421][710]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0172
+[2018.11.13-23.26.25:421][710]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.26.25:421][710]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:019D
+[2018.11.13-23.26.25:421][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.26.25:421][710]LogBlueprintUserMessages: [EnemyCharacter_C_2] t
+[2018.11.13-23.26.25:421][710]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0069
+[2018.11.13-23.26.25:421][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.26.29:685][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.26.29:722][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.26.29:752][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.26.29:796][223]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.13-23.26.31:052][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.27.06:402][542]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.27.20:403][154]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.27.29:784][203]BlueprintLog: New page: Compile BaseTile
+[2018.11.13-23.27.31:458][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.27.31:496][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.27.31:496][362]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:27:31 PM)
+[2018.11.13-23.27.31:496][362]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.27.31:500][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003505s)
+[2018.11.13-23.27.31:500][362]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.27.31:501][362]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.11.13-23.27.31:501][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004257s)
+[2018.11.13-23.27.31:537][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.27.31:552][362]LogInit: FAudioDevice initialized.
+[2018.11.13-23.27.31:587][362]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.27.31:590][362]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.27.31
+[2018.11.13-23.27.31:591][362]LogWorld: Bringing up level for play took: 0.002719
+[2018.11.13-23.27.31:606][362]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.27.31:608][362]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.27.31:609][362]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.27.31:611][362]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.27.31:612][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.27.31:612][362]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.27.31:613][362]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.741
+[2018.11.13-23.27.37:925][114]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.27.37:925][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.37:925][114]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_3
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.27.37:925][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.37:925][114]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.37:925][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.27.37:925][114]LogBlueprintUserMessages: [EnemyCharacter_C_3] t
+[2018.11.13-23.27.37:925][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.27.40:084][373]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.27.40:084][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:084][373]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_1
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.27.40:084][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:085][373]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:085][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.27.40:085][373]LogBlueprintUserMessages: [EnemyCharacter_C_1] t
+[2018.11.13-23.27.40:085][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.27.40:368][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:368][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:368][407]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:368][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.27.40:368][407]LogBlueprintUserMessages: [EnemyCharacter_C_0] t
+[2018.11.13-23.27.40:368][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.27.40:900][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:900][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:900][471]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.40:900][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.27.40:900][471]LogBlueprintUserMessages: [EnemyCharacter_C_3] t
+[2018.11.13-23.27.40:900][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.27.42:775][696]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0111
+[2018.11.13-23.27.42:776][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.42:776][696]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.EnemyCharacter_C_2
+	Function /Game/Blueprints/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:015D
+[2018.11.13-23.27.42:776][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.42:776][696]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.27.42:776][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.27.42:776][696]LogBlueprintUserMessages: [EnemyCharacter_C_2] t
+[2018.11.13-23.27.42:776][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.27.45:360][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.27.45:398][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.27.45:428][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.27.45:460][  7]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.13-23.27.47:523][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.28.15:639][510]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.13-23.28.19:090][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.28.19:112][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.28.19:112][895]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:28:19 PM)
+[2018.11.13-23.28.19:112][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.28.19:115][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2018.11.13-23.28.19:116][895]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.28.19:116][895]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.11.13-23.28.19:116][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003875s)
+[2018.11.13-23.28.19:152][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.28.19:167][895]LogInit: FAudioDevice initialized.
+[2018.11.13-23.28.19:201][895]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.28.19:204][895]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.28.19
+[2018.11.13-23.28.19:204][895]LogWorld: Bringing up level for play took: 0.001606
+[2018.11.13-23.28.19:218][895]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.28.19:219][895]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.28.19:219][895]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.28.19:220][895]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.28.19:220][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.28.19:221][895]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.28.19:221][895]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.349
+[2018.11.13-23.28.22:673][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.22:673][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.22:673][307]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.22:674][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.28.22:674][307]LogBlueprintUserMessages: [EnemyCharacter_C_0] 
+[2018.11.13-23.28.22:674][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.28.24:582][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.24:582][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.24:582][536]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.24:582][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.28.24:582][536]LogBlueprintUserMessages: [EnemyCharacter_C_3] 
+[2018.11.13-23.28.24:583][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.28.27:482][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.27:482][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.27:482][884]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.27:482][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.28.27:482][884]LogBlueprintUserMessages: [EnemyCharacter_C_1] 
+[2018.11.13-23.28.27:482][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.28.28:974][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.28:975][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.28:975][ 63]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.28:975][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.28.28:975][ 63]LogBlueprintUserMessages: [EnemyCharacter_C_2] 
+[2018.11.13-23.28.28:975][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.28.29:540][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.29:540][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.29:540][131]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.28.29:540][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.28.29:540][131]LogBlueprintUserMessages: [EnemyCharacter_C_1] 
+[2018.11.13-23.28.29:540][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2018.11.13-23.28.30:475][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.28.30:515][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.28.30:545][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.28.30:575][244]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.13-23.28.31:624][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.29.06:854][498]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.13-23.29.08:222][622]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-23.29.08:244][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-23.29.08:244][622]PIE: New page: PIE session: ArenaMap (Nov 13, 2018, 1:29:08 PM)
+[2018.11.13-23.29.08:244][622]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.13-23.29.08:247][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002828s)
+[2018.11.13-23.29.08:247][622]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.13-23.29.08:248][622]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.11.13-23.29.08:248][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003774s)
+[2018.11.13-23.29.08:281][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-23.29.08:296][622]LogInit: FAudioDevice initialized.
+[2018.11.13-23.29.08:330][622]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.13-23.29.08:333][622]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.13-18.29.08
+[2018.11.13-23.29.08:333][622]LogWorld: Bringing up level for play took: 0.001921
+[2018.11.13-23.29.08:346][622]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.29.08:348][622]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.29.08:349][622]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.29.08:350][622]LogBlueprintUserMessages: [Type1_2] fail
+[2018.11.13-23.29.08:350][622]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.13-23.29.08:350][622]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.13-23.29.08:351][622]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.521
+[2018.11.13-23.29.10:456][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.10:456][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.10:456][871]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.10:456][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.29.10:456][871]LogBlueprintUserMessages: [EnemyCharacter_C_0] Hello
+[2018.11.13-23.29.14:190][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.14:190][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.14:190][316]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.14:190][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.29.14:190][316]LogBlueprintUserMessages: [EnemyCharacter_C_3] Hello
+[2018.11.13-23.29.15:316][450]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-23.29.15:782][506]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-23.29.15:791][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.15:791][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.15:791][507]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.15:791][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.29.15:791][507]LogBlueprintUserMessages: [EnemyCharacter_C_1] Hello
+[2018.11.13-23.29.16:566][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.16:566][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.16:566][600]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.11.13-23.29.16:566][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2018.11.13-23.29.16:566][600]LogBlueprintUserMessages: [EnemyCharacter_C_2] Hello
+[2018.11.13-23.29.17:900][760]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-23.29.18:017][774]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.13-23.29.20:952][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.29.20:995][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-23.29.21:041][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-23.29.21:075][127]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.11.13-23.29.22:420][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-23.30.03:568][127]BlueprintLog: New page: Compile EnemyCharacter
+[2018.11.13-23.30.04:291][174]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterA7D76EC942C474C0375F3EA9C69CC0F3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/EnemyCharacter.uasset'
+[2018.11.13-23.30.22:813][379]LogUObjectArray: Warning: Other object in slot
+[2018.11.13-23.30.23:663][379]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.849 s
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: 
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: Stack: 
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc44747136 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc44480c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc4449b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc3ff10c6b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc3ff2009e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc3da6da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc3cafec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc3cabf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc41158204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc4139e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc411b281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc41188190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc4117b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc7e09d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc7e090270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc7e09f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc7e08c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffca7356cc1 USER32.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffca7356693 USER32.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ffc7e0a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ff653b854e5 UE4Editor.exe!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ff653b95b3c UE4Editor.exe!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ff653b95bba UE4Editor.exe!UnknownFunction []
+[2018.11.13-23.30.23:663][379]LogOutputDevice: Error: [Callstack] 0x00007ff653ba3dac UE4Editor.exe!UnknownFunction []
+[2018.11.13-23.30.23:664][379]LogOutputDevice: Error: [Callstack] 0x00007ff653ba5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.13-23.30.23:664][379]LogOutputDevice: Error: [Callstack] 0x00007ffca6a73034 KERNEL32.DLL!UnknownFunction []
+[2018.11.13-23.30.23:664][379]LogOutputDevice: Error: [Callstack] 0x00007ffca7db1461 ntdll.dll!UnknownFunction []
+[2018.11.13-23.30.23:664][379]LogOutputDevice: Error: 
+[2018.11.13-23.30.23:668][379]LogStats:                SubmitErrorReport -  0.000 s
