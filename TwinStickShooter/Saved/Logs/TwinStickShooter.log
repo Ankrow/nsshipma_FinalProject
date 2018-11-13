@@ -505,3 +505,192 @@ LogInit: Object subsystem initialized
 [2018.11.12-21.33.30:390][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlend46F1DF19465760D31BE584AC5685999E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlend.uasset'
 [2018.11.12-21.33.30:429][780]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifle774DA32C4FF675968B4A6CAB9E66C9C2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
 [2018.11.12-21.33.52:832][422]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerBlendRifleA0399F8E4CFE190A1B94A1B15F731458.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerBlendRifle.uasset'
+[2018.11.12-21.37.23:137][804]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.11.12-21.37.38:450][804]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.11.12-21.38.02:508][568]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/PlayerAnimationBlueprint.PlayerAnimationBlueprint
+[2018.11.12-21.38.02:617][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-21.38.02:840][568]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-21.38.19:376][500]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2018.11.12-21.38.19:383][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-21.38.19:406][500]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-21.38.19:698][500]LogRenderer: Reallocating scene render targets to support 1232x888 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-21.38.20:287][567]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.12-21.38.20:329][567]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-21.38.20:383][567]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-21.40.59:813][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.12-21.44.58:467][ 52]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.11.12-21.44.58:967][ 74]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint33985F054AF7C7475602D2B8472F6784.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
+[2018.11.12-21.45.28:213][518]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.11.12-21.45.29:198][606]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint9BB104B34D6003FD932351A8CA543EC5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
+[2018.11.12-21.45.39:638][695]LogSlate: Window 'Delete Variable' being destroyed
+[2018.11.12-21.45.53:348][276]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprintAA87FC444DB2BC4124CF089F4170EEA1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
+[2018.11.12-21.45.53:682][314]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.11.12-21.45.53:689][314]LogClass: Warning: Type mismatch in Direction of PlayerAnimationBlueprint_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2018.11.12-21.46.24:299][225]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto2D178E6DA43FD3B6DC9A29F884D543083.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto2.umap'
+[2018.11.12-21.46.24:305][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.083
+[2018.11.12-21.46.24:305][225]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2018.11.12-21.47.14:299][684]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.11.12-21.47.14:864][719]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint796E6CA14044DE447894D88A1777F078.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/PlayerAnimationBlueprint.uasset'
+[2018.11.12-21.47.16:734][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.47.16:806][924]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap943EDB0F46BBAF7EDFBFDEA28C73F8F7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.47.16:837][924]LogFileHelpers: Saving map 'ArenaMap' took 0.178
+[2018.11.12-21.47.28:028][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.57.05:809][ 77]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.57.34:183][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.57.34:260][182]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.12-21.57.35:710][296]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterF50AAE78411233FD37AC7EA39C3F7F24.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.12-21.57.37:082][459]LogTemp: Repeating last play command: Simulate
+[2018.11.12-21.57.37:109][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-21.57.37:110][459]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:57:37 AM)
+[2018.11.12-21.57.37:110][459]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003890s)
+[2018.11.12-21.57.37:114][459]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.11.12-21.57.37:114][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004617s)
+[2018.11.12-21.57.37:151][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-21.57.37:164][459]LogInit: FAudioDevice initialized.
+[2018.11.12-21.57.37:196][459]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-21.57.37:198][459]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.57.37
+[2018.11.12-21.57.37:199][459]LogWorld: Bringing up level for play took: 0.001641
+[2018.11.12-21.57.37:211][459]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.213
+[2018.11.12-21.57.39:903][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.57.40:544][779]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_2)
+[2018.11.12-21.57.41:207][858]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_2)
+[2018.11.12-21.57.42:799][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.57.42:847][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-21.57.42:879][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.57.42:904][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.12-21.57.46:497][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.57.48:393][609]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-21.58.11:634][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.58.11:730][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap42425C3E4705559371CB6C8EBC654FB8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.58.11:763][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.12-21.58.11:795][890]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataF99376F04BA3AA9EAB4E76B949ED984E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.12-21.58.13:020][ 12]LogTemp: Repeating last play command: Simulate
+[2018.11.12-21.58.13:040][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-21.58.13:041][ 12]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:58:13 AM)
+[2018.11.12-21.58.13:041][ 12]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-21.58.13:044][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003381s)
+[2018.11.12-21.58.13:045][ 12]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-21.58.13:045][ 12]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.11.12-21.58.13:045][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004300s)
+[2018.11.12-21.58.13:120][ 12]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-21.58.13:149][ 12]LogInit: FAudioDevice initialized.
+[2018.11.12-21.58.13:190][ 12]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-21.58.13:194][ 12]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.58.13
+[2018.11.12-21.58.13:195][ 12]LogWorld: Bringing up level for play took: 0.003476
+[2018.11.12-21.58.13:210][ 12]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.211
+[2018.11.12-21.58.15:899][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.58.15:943][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-21.58.15:977][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.58.16:007][286]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.12-21.59.04:810][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-21.59.54:371][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.12-21.59.54:446][877]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapEF512AC245F2038A136826BB1FC7E876.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.12-21.59.54:480][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.12-21.59.54:503][877]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData06C5F0BE43A011792D0A61AA2ABC4BF6.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.12-21.59.55:645][  0]LogTemp: Repeating last play command: Simulate
+[2018.11.12-21.59.55:666][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-21.59.55:667][  0]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 11:59:55 AM)
+[2018.11.12-21.59.55:667][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-21.59.55:670][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003476s)
+[2018.11.12-21.59.55:671][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-21.59.55:671][  0]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.11.12-21.59.55:671][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004231s)
+[2018.11.12-21.59.55:741][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-21.59.55:755][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-21.59.55:790][  0]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-21.59.55:793][  0]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-16.59.55
+[2018.11.12-21.59.55:793][  0]LogWorld: Bringing up level for play took: 0.001714
+[2018.11.12-21.59.55:807][  0]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.808
+[2018.11.12-21.59.58:021][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.59.58:062][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-21.59.58:095][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-21.59.58:124][253]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.12-22.00.01:744][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.00.31:718][553]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.11.12-22.00.33:859][759]Cmd: DELETE
+[2018.11.12-22.00.33:859][759]Cmd: ACTOR DELETE
+[2018.11.12-22.00.33:882][759]LogEditorActor: Deleted Actor: PlayerCharacter_C
+[2018.11.12-22.00.33:964][759]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2018.11.12-22.00.36:223][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.00.47:369][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.00.47:458][153]LogTemp: Repeating last play command: Simulate
+[2018.11.12-22.00.47:482][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-22.00.47:482][153]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:00:47 PM)
+[2018.11.12-22.00.47:483][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003237s)
+[2018.11.12-22.00.47:486][153]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2018.11.12-22.00.47:486][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003869s)
+[2018.11.12-22.00.47:564][153]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-22.00.47:590][153]LogInit: FAudioDevice initialized.
+[2018.11.12-22.00.47:626][153]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-22.00.47:630][153]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.00.47
+[2018.11.12-22.00.47:631][153]LogWorld: Bringing up level for play took: 0.003440
+[2018.11.12-22.00.47:645][153]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.646
+[2018.11.12-22.00.52:420][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.00.52:465][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-22.00.52:517][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.00.52:543][651]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.12-22.00.57:033][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-22.00.58:498][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-22.01.00:945][653]LogSlate: Window 'Undo History' being destroyed
+[2018.11.12-22.01.00:948][653]LogSlate: Window 'Undo History' being destroyed
+[2018.11.12-22.01.07:523][442]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2018.11.12-22.01.13:235][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.01.44:910][ 75]LogTemp: Repeating last play command: Simulate
+[2018.11.12-22.01.44:933][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-22.01.44:933][ 75]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:01:44 PM)
+[2018.11.12-22.01.44:933][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-22.01.44:936][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
+[2018.11.12-22.01.44:937][ 75]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-22.01.44:937][ 75]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.11.12-22.01.44:937][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003897s)
+[2018.11.12-22.01.45:019][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-22.01.45:033][ 75]LogInit: FAudioDevice initialized.
+[2018.11.12-22.01.45:061][ 75]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-22.01.45:063][ 75]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.01.45
+[2018.11.12-22.01.45:064][ 75]LogWorld: Bringing up level for play took: 0.002015
+[2018.11.12-22.01.45:077][ 75]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.079
+[2018.11.12-22.01.48:526][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.01.48:570][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-22.01.48:601][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.01.48:629][434]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.12-22.01.50:931][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.11.12-22.02.27:377][441]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.11.12-22.02.36:441][376]LogTemp: Repeating last play command: Simulate
+[2018.11.12-22.02.36:464][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-22.02.36:464][376]PIE: New page: SIE session: ArenaMap (Nov 12, 2018, 12:02:36 PM)
+[2018.11.12-22.02.36:464][376]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003451s)
+[2018.11.12-22.02.36:468][376]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.11.12-22.02.36:468][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004084s)
+[2018.11.12-22.02.36:507][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-22.02.36:521][376]LogInit: FAudioDevice initialized.
+[2018.11.12-22.02.36:551][376]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.12-22.02.36:553][376]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.12-17.02.36
+[2018.11.12-22.02.36:553][376]LogWorld: Bringing up level for play took: 0.001669
+[2018.11.12-22.02.36:566][376]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.433
+[2018.11.12-22.02.36:946][420]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.12-22.02.38:488][604]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.11.12-22.02.39:405][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.02.49:469][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-22.03.06:235][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.03.06:279][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-22.03.06:316][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-22.03.06:335][476]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.12-22.03.17:521][243]LogSlate: Window 'Switch Project' being destroyed
+[2018.11.12-22.03.17:530][244]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.11.12-22.03.19:483][244]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-22.03.19:674][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.12-22.03.19:750][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.12-22.03.19:817][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.12-22.03.19:904][244]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.12-22.03.21:484][244]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.11.12-22.03.21:752][245]Cmd: QUIT_EDITOR
+[2018.11.12-22.03.21:896][245]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-22.03.21:909][245]LogExit: Preparing to exit.
