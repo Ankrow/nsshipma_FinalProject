@@ -4024,13 +4024,3 @@ LogInit: Object subsystem initialized
 [2018.11.14-06.32.56:023][907]LogOutputDevice: Error: [Callstack] 0x00007ffca7db1461 ntdll.dll!UnknownFunction []
 [2018.11.14-06.32.56:023][907]LogOutputDevice: Error: 
 [2018.11.14-06.32.56:025][907]LogStats:                SubmitErrorReport -  0.000 s
-[2018.11.14-06.32.56:261][907]LogStats:                    SendNewReport -  0.236 s
-[2018.11.14-06.32.56:261][907]LogStats:             FDebug::EnsureFailed -  0.240 s
-[2018.11.14-06.33.24:987][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.11.14-06.33.25:996][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type1" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset" SILENT=true
-[2018.11.14-06.33.26:052][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type195EBADA543D8CD911670FAA4B5DB5DE3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type1.uasset'
-[2018.11.14-06.33.26:066][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type0" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type0.uasset" SILENT=true
-[2018.11.14-06.33.26:114][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type0CDB7994449117C77D25B7CBA0D6D0021.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type0.uasset'
-[2018.11.14-06.33.26:136][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Type2" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type2.uasset" SILENT=true
-[2018.11.14-06.33.26:221][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type20AA451B9400281928D24DB9A3291583C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Type2.uasset'
-[2018.11.14-06.33.26:333][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/CustomTechTilePillar41A4064649B49EF54A02268DA04BEE19.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/CustomTechTilePillar.uasset'
