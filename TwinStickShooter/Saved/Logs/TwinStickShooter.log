@@ -1,4 +1,4 @@
-﻿Log file open, 11/14/18 21:36:46
+﻿Log file open, 11/16/18 00:30:16
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TwinStickShooter
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.272920
+LogStats: Stats thread started at 0.277319
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.108s to configure plugins.
+LogStreaming: Display: Took  0.088s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -147,468 +147,565 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.007s to delete old logs.
+LogStreaming: Display: Took  0.003s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.11.15-02.36.47:104][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.15-02.36.47:104][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.11.15-02.36.47:137][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.11.15-02.36.47:137][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.11.15-02.36.47:137][  0]LogInit: Going up to parent DeviceProfile []
-[2018.11.15-02.36.47:138][  0]LogInit: Computer: DESKTOP-VBFITEQ
-[2018.11.15-02.36.47:138][  0]LogInit: User: Nate
-[2018.11.15-02.36.47:138][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.11.15-02.36.47:138][  0]LogInit: High frequency timer resolution =3.906248 MHz
-[2018.11.15-02.36.47:139][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
-[2018.11.15-02.36.47:139][  0]LogMemory: Platform Memory Stats for Windows
-[2018.11.15-02.36.47:139][  0]LogMemory: Process Physical Memory: 101.54 MB used, 101.54 MB peak
-[2018.11.15-02.36.47:139][  0]LogMemory: Process Virtual Memory: 89.35 MB used, 89.35 MB peak
-[2018.11.15-02.36.47:139][  0]LogMemory: Physical Memory: 7550.34 MB used,  16974.28 MB free, 24524.62 MB total
-[2018.11.15-02.36.47:139][  0]LogMemory: Virtual Memory: 4638.71 MB used,  16974.28 MB free, 134217728.00 MB total
-[2018.11.15-02.36.47:174][  0]LogInit: Using OS detected language (en-US).
-[2018.11.15-02.36.47:174][  0]LogInit: Using OS detected locale (en-US).
-[2018.11.15-02.36.47:175][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.11.15-02.36.47:522][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
-[2018.11.15-02.36.47:522][  0]LogInit: Setting process to per monitor DPI aware
-[2018.11.15-02.36.47:548][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.11.15-02.36.47:548][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.11.15-02.36.47:699][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.15-02.36.47:699][  0]LogD3D11RHI: D3D11 adapters:
-[2018.11.15-02.36.47:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
-[2018.11.15-02.36.47:750][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.11.15-02.36.47:752][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.11.15-02.36.47:752][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.11.15-02.36.47:752][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.11.15-02.36.47:757][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.11.15-02.36.47:758][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
-[2018.11.15-02.36.47:758][  0]LogWindows: EnumDisplayDevices:
-[2018.11.15-02.36.47:758][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
-[2018.11.15-02.36.47:758][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
-[2018.11.15-02.36.47:758][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2018.11.15-02.36.47:758][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2018.11.15-02.36.47:758][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.11.15-02.36.47:758][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
-[2018.11.15-02.36.47:758][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
-[2018.11.15-02.36.47:758][  0]LogD3D11RHI:      Driver Date: 11-12-2018
-[2018.11.15-02.36.47:758][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
-[2018.11.15-02.36.47:791][  0]LogD3D11RHI: Async texture creation enabled
-[2018.11.15-02.36.47:824][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.11.15-02.36.47:921][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/4840/).
-[2018.11.15-02.36.47:921][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/7D7B4CF44EDEDA197FB7038CD60BE058/'.
-[2018.11.15-02.36.48:269][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.11.15-02.36.48:280][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.11.15-02.36.48:291][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.11.15-02.36.48:303][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.11.15-02.36.48:314][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.11.15-02.36.48:326][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.11.15-02.36.48:338][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.11.15-02.36.48:349][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.11.15-02.36.48:355][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.11.15-02.36.48:424][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.11.15-02.36.48:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.15-02.36.48:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.11.15-02.36.48:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.15-02.36.48:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.11.15-02.36.48:511][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.11.15-02.36.48:522][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.11.15-02.36.48:533][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.11.15-02.36.48:545][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.11.15-02.36.48:551][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.11.15-02.36.48:552][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.11.15-02.36.48:598][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.11.15-02.36.48:598][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.11.15-02.36.48:598][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.11.15-02.36.49:233][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.11.15-02.36.49:281][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.15-02.36.49:320][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.11.15-02.36.49:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.11.15-02.36.49:320][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.11.15-02.36.49:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.11.15-02.36.49:320][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.11.15-02.36.49:331][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.11.15-02.36.49:343][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.11.15-02.36.49:343][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.11.15-02.36.49:343][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.11.15-02.36.49:379][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.11.15-02.36.49:381][  0]LogSlate: Using FreeType 2.6.0
-[2018.11.15-02.36.49:382][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.11.15-02.36.49:450][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
-[2018.11.15-02.36.49:728][  0]LogInit: Selected Device Profile: [Windows]
-[2018.11.15-02.36.49:843][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.11.15-02.36.49:846][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.11.15-02.36.49:846][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.11.15-02.36.49:846][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.11.15-02.36.49:846][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.11.15-02.36.49:861][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
-[2018.11.15-02.36.50:274][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.082780 seconds
-[2018.11.15-02.36.50:280][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.11.15-02.36.50:280][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.11.15-02.36.50:280][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.11.15-02.36.50:968][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.11.15-02.36.50:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.11.15-02.36.51:142][  0]SourceControl: Source control is disabled
-[2018.11.15-02.36.51:142][  0]SourceControl: Source control is disabled
-[2018.11.15-02.36.51:143][  0]SourceControl: Source control is disabled
-[2018.11.15-02.36.51:143][  0]SourceControl: Source control is disabled
-[2018.11.15-02.36.51:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.11.15-02.36.51:451][  0]LogOcInput: OculusInput pre-init called
-[2018.11.15-02.36.51:541][  0]LogEngine: Initializing Engine...
-[2018.11.15-02.36.51:542][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.11.15-02.36.51:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.15-02.36.51:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.15-02.36.51:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.15-02.36.51:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.15-02.36.51:714][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.11.15-02.36.51:726][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.11.15-02.36.51:742][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.15-02.36.51:758][  0]LogInit: FAudioDevice initialized.
-[2018.11.15-02.36.51:758][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.11.15-02.36.51:923][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.11.15-02.36.51:935][  0]LogInit: Texture streaming: Enabled
-[2018.11.15-02.36.51:948][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.11.15-02.36.51:959][  0]LogInit: Transaction tracking system initialized
-[2018.11.15-02.36.51:979][  0]BlueprintLog: New page: Editor Load
-[2018.11.15-02.36.52:042][  0]LocalizationService: Localization service is disabled
-[2018.11.15-02.36.52:114][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.11.15-02.36.52:114][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
-[2018.11.15-02.36.52:115][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
-[2018.11.15-02.36.52:281][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.11.15-02.36.52:281][  0]LogCook: Display: Mobile HDR setting 1
-[2018.11.15-02.36.52:281][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.11.15-02.36.52:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.11.15-02.36.52:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.11.15-02.36.52:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.11.15-02.36.52:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.11.15-02.36.52:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
-[2018.11.15-02.36.52:388][  0]SourceControl: Source control is disabled
-[2018.11.15-02.36.52:388][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.11.15-02.36.52:389][  0]LightingResults: New page: Lighting Build
-[2018.11.15-02.36.52:391][  0]MapCheck: New page: Map Check
-[2018.11.15-02.36.52:391][  0]LightingResults: New page: Lighting Build
-[2018.11.15-02.36.53:008][  0]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.15-02.36.53:014][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.11.15-02.36.53:037][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.11.15-02.36.53:101][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.298ms to complete.
-[2018.11.15-02.36.53:102][  0]LogFileHelpers: Loading map 'ArenaMap' took 0.713
-[2018.11.15-02.36.53:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.36.53:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.36.53:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.36.53:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.36.53:260][  0]LogCollectionManager: Loaded 0 collections in 0.001392 seconds
-[2018.11.15-02.36.53:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
-[2018.11.15-02.36.53:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
-[2018.11.15-02.36.53:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
-[2018.11.15-02.36.53:305][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.11.15-02.36.53:316][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2573 classes and 605 folders.
-[2018.11.15-02.36.53:322][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.15-02.36.53:357][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.15-02.36.53:361][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.11.15-02.36.53:375][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.11.15-02.36.53:377][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.11.15-02.36.53:381][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.11.15-02.36.53:450][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.11.15-02.36.53:491][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.15-02.36.53:555][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.11.15-02.36.53:555][  0]LogLoad: (Engine Initialization) Total time: 8.05 seconds
-[2018.11.15-02.36.53:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.11.15-02.36.53:566][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.11.15-02.36.53:591][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.11.15-02.36.53:681][  1]LogAssetRegistry: Asset discovery search completed in 4.2540 seconds
-[2018.11.15-02.36.53:683][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.11.15-02.36.53:683][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
-[2018.11.15-02.36.54:589][ 87]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.11.15-02.37.04:921][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.37.10:258][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.37.10:350][800]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.15-02.37.10:371][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.15-02.37.10:383][800]PIE: New page: PIE session: ArenaMap (Nov 14, 2018, 4:37:10 PM)
-[2018.11.15-02.37.10:383][800]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.15-02.37.10:386][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
-[2018.11.15-02.37.10:386][800]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.15-02.37.10:386][800]LogPlayLevel: PIE: World Init took: (0.000575s)
-[2018.11.15-02.37.10:386][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003185s)
-[2018.11.15-02.37.10:413][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.15-02.37.10:426][800]LogInit: FAudioDevice initialized.
-[2018.11.15-02.37.10:474][800]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.15-02.37.10:476][800]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.14-21.37.10
-[2018.11.15-02.37.10:476][800]LogWorld: Bringing up level for play took: 0.001253
-[2018.11.15-02.37.10:492][800]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0677
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:068C
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0781
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0796
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0677
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:497][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:068C
-[2018.11.15-02.37.10:497][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:507][800]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'RoomArray' of length 7 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:507][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0CAD
-[2018.11.15-02.37.10:507][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:507][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0CC2
-[2018.11.15-02.37.10:507][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomArray' of length 11 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A17
-[2018.11.15-02.37.10:514][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A2C
-[2018.11.15-02.37.10:514][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomArray' of length 11 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0781
-[2018.11.15-02.37.10:514][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:514][800]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0796
-[2018.11.15-02.37.10:514][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.37.10:533][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
-[2018.11.15-02.37.10:533][800]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
-[2018.11.15-02.37.10:534][800]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.61
-[2018.11.15-02.37.22:773][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.37.22:842][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.37.22:881][133]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.15-02.37.22:903][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.37.22:947][137]LogPlayLevel: Display: Destroying online subsystem :Context_11
-[2018.11.15-02.37.25:328][379]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
-[2018.11.15-02.37.25:702][379]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
-[2018.11.15-02.37.26:396][379]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.11.15-02.37.26:641][380]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.11.15-02.38.14:596][748]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.15-02.38.16:954][960]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameModeE62B1C904F476E3E52EDA3BC561C30C4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
-[2018.11.15-02.38.18:176][102]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.15-02.38.18:198][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.15-02.38.18:199][102]PIE: New page: PIE session: ArenaMap (Nov 14, 2018, 4:38:18 PM)
-[2018.11.15-02.38.18:199][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.15-02.38.18:201][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002168s)
-[2018.11.15-02.38.18:201][102]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.15-02.38.18:201][102]LogPlayLevel: PIE: World Init took: (0.000638s)
-[2018.11.15-02.38.18:202][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002917s)
-[2018.11.15-02.38.18:232][102]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.15-02.38.18:248][102]LogInit: FAudioDevice initialized.
-[2018.11.15-02.38.18:282][102]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.15-02.38.18:284][102]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.14-21.38.18
-[2018.11.15-02.38.18:284][102]LogWorld: Bringing up level for play took: 0.001368
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A17
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A2C
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A17
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Accessed None
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0A2C
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:300][102]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
-	TwinStickGameMode_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.TwinStickGameMode_C_0
-	Function /Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode:0677
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:300][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:302][102]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:303][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:303][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:303][102]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:303][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:303][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:306][102]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'RoomArray' of length 5 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:306][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:306][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:310][102]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'RoomArray' of length 7 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:310][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:310][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:310][102]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'RoomArray' of length 7 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:310][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:310][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:318][102]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomArray' of length 9 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:318][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:318][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:318][102]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomArray' of length 9 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:319][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:319][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:335][102]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'RoomArray' of length 12 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:335][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:335][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:348][102]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'RoomArray' of length 16 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:348][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:349][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:354][102]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'RoomArray' of length 18 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:354][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:354][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:359][102]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'RoomArray' of length 20 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.38.18:359][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:359][102]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.38.18:361][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
-[2018.11.15-02.38.18:361][102]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
-[2018.11.15-02.38.18:362][102]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.781
-[2018.11.15-02.38.21:797][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.38.21:833][482]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.15-02.38.21:861][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.38.21:898][484]LogPlayLevel: Display: Destroying online subsystem :Context_13
-[2018.11.15-02.38.22:695][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.38.42:508][851]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.15-02.39.26:767][ 14]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2018.11.15-02.39.45:736][241]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.15-02.40.24:501][705]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.15-02.40.26:146][866]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.15-02.40.26:170][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.15-02.40.26:170][866]PIE: New page: PIE session: ArenaMap (Nov 14, 2018, 4:40:26 PM)
-[2018.11.15-02.40.26:170][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.15-02.40.26:172][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
-[2018.11.15-02.40.26:173][866]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.15-02.40.26:173][866]LogPlayLevel: PIE: World Init took: (0.000645s)
-[2018.11.15-02.40.26:173][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002920s)
-[2018.11.15-02.40.26:205][866]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.15-02.40.26:219][866]LogInit: FAudioDevice initialized.
-[2018.11.15-02.40.26:250][866]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.15-02.40.26:252][866]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.14-21.40.26
-[2018.11.15-02.40.26:253][866]LogWorld: Bringing up level for play took: 0.001582
-[2018.11.15-02.40.26:275][866]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:275][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:275][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:276][866]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:276][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:276][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:276][866]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:276][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:276][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:280][866]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:281][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:281][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:281][866]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:281][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:281][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:281][866]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:281][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:282][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:287][866]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'RoomArray' of length 4 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:287][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:287][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:300][866]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomArray' of length 9 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:300][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:300][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:302][866]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'RoomArray' of length 10 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:302][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:302][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:316][866]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'RoomArray' of length 17 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:316][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:316][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:318][866]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'RoomArray' of length 18 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.40.26:318][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:318][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.40.26:324][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
-[2018.11.15-02.40.26:324][866]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
-[2018.11.15-02.40.26:325][866]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.819
-[2018.11.15-02.40.29:557][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.40.29:591][225]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.15-02.40.29:618][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.40.29:658][227]LogPlayLevel: Display: Destroying online subsystem :Context_14
-[2018.11.15-02.40.30:299][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.40.46:321][108]LogEditorTransaction: Undo Delete current selection
-[2018.11.15-02.40.59:217][561]BlueprintLog: New page: Compile TwinStickGameMode
-[2018.11.15-02.41.00:574][685]LogTemp: Repeating last play command: Selected Viewport
-[2018.11.15-02.41.00:596][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.11.15-02.41.00:596][685]PIE: New page: PIE session: ArenaMap (Nov 14, 2018, 4:41:00 PM)
-[2018.11.15-02.41.00:596][685]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
-[2018.11.15-02.41.00:598][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002032s)
-[2018.11.15-02.41.00:599][685]LogAIModule: Creating AISystem for world ArenaMap
-[2018.11.15-02.41.00:599][685]LogPlayLevel: PIE: World Init took: (0.000531s)
-[2018.11.15-02.41.00:599][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002649s)
-[2018.11.15-02.41.00:636][685]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.11.15-02.41.00:650][685]LogInit: FAudioDevice initialized.
-[2018.11.15-02.41.00:684][685]LogLoad: Game class is 'TwinStickGameMode_C'
-[2018.11.15-02.41.00:686][685]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.14-21.41.00
-[2018.11.15-02.41.00:686][685]LogWorld: Bringing up level for play took: 0.001454
-[2018.11.15-02.41.00:702][685]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'RoomArray' of length 2 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:702][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:702][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:704][685]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'RoomArray' of length 3 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:704][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:704][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:713][685]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomArray' of length 8 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:713][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:713][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:713][685]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomArray' of length 8 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:713][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:713][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:718][685]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomArray' of length 11 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:718][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:718][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:718][685]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomArray' of length 11 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:718][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:719][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:721][685]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'RoomArray' of length 12 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:721][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:721][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:723][685]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'RoomArray' of length 13 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:723][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:723][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:728][685]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'RoomArray' of length 16 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:728][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:728][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:730][685]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'RoomArray' of length 17 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C'!
-[2018.11.15-02.41.00:730][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:730][685]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  TwinStickGameMode Function:  Execute Ubergraph Twin Stick Game Mode Graph:  EventGraph Node:  Set NextSpawnLocation
-[2018.11.15-02.41.00:738][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
-[2018.11.15-02.41.00:738][685]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
-[2018.11.15-02.41.00:739][685]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.405
-[2018.11.15-02.41.03:848][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.41.03:899][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.11.15-02.41.03:926][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.11.15-02.41.03:948][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_15
-[2018.11.15-02.41.04:597][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.11.15-02.41.48:361][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.11.15-02.41.48:430][248]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap689B20FE4B7541371AA0F18A59846DCF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
-[2018.11.15-02.41.48:466][248]LogFileHelpers: Saving map 'ArenaMap' took 0.179
-[2018.11.15-02.41.48:565][248]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode82D5FD7044D20A6366EFDF836BDF272C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.16-05.30.17:018][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.16-05.30.17:018][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.16-05.30.17:046][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.16-05.30.17:046][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.16-05.30.17:046][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.16-05.30.17:047][  0]LogInit: Computer: DESKTOP-VBFITEQ
+[2018.11.16-05.30.17:047][  0]LogInit: User: Nate
+[2018.11.16-05.30.17:047][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.16-05.30.17:047][  0]LogInit: High frequency timer resolution =3.906248 MHz
+[2018.11.16-05.30.17:047][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.11.16-05.30.17:047][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.16-05.30.17:047][  0]LogMemory: Process Physical Memory: 101.10 MB used, 101.10 MB peak
+[2018.11.16-05.30.17:047][  0]LogMemory: Process Virtual Memory: 93.10 MB used, 93.10 MB peak
+[2018.11.16-05.30.17:047][  0]LogMemory: Physical Memory: 8141.63 MB used,  16383.00 MB free, 24524.62 MB total
+[2018.11.16-05.30.17:047][  0]LogMemory: Virtual Memory: 4642.53 MB used,  16383.00 MB free, 134217728.00 MB total
+[2018.11.16-05.30.17:066][  0]LogInit: Using OS detected language (en-US).
+[2018.11.16-05.30.17:066][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.16-05.30.17:067][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.16-05.30.17:426][  0]LogStreaming: Display: Took  0.360s to InitEngineTextLocalization.
+[2018.11.16-05.30.17:426][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.16-05.30.17:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.16-05.30.17:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.16-05.30.17:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.16-05.30.17:630][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.16-05.30.17:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.11.16-05.30.17:679][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.16-05.30.17:681][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.16-05.30.17:681][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.16-05.30.17:681][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.16-05.30.17:687][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.16-05.30.17:687][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.16-05.30.17:687][  0]LogWindows: EnumDisplayDevices:
+[2018.11.16-05.30.17:687][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.11.16-05.30.17:687][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.11.16-05.30.17:687][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.16-05.30.17:688][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.11.16-05.30.17:688][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.16-05.30.17:688][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.11.16-05.30.17:688][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.11.16-05.30.17:688][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.11.16-05.30.17:688][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.11.16-05.30.17:720][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.16-05.30.17:746][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.16-05.30.17:842][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/13508/).
+[2018.11.16-05.30.17:843][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/1AB81E3F4E261BC3FA87E6AD8B9C6157/'.
+[2018.11.16-05.30.18:150][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.16-05.30.18:161][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.16-05.30.18:173][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.16-05.30.18:184][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.16-05.30.18:197][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.16-05.30.18:208][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.16-05.30.18:219][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.16-05.30.18:231][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.16-05.30.18:236][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-05.30.18:304][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.16-05.30.18:360][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.16-05.30.18:360][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.16-05.30.18:380][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.16-05.30.18:380][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.16-05.30.18:397][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.16-05.30.18:408][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.16-05.30.18:418][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.16-05.30.18:429][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.16-05.30.18:437][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.16-05.30.18:437][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.16-05.30.18:484][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.16-05.30.18:484][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.16-05.30.18:484][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.16-05.30.19:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.16-05.30.19:148][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.16-05.30.19:148][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.16-05.30.19:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.16-05.30.19:149][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.16-05.30.19:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.16-05.30.19:149][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.16-05.30.19:159][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.16-05.30.19:172][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.16-05.30.19:172][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.16-05.30.19:172][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.16-05.30.19:188][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.16-05.30.19:190][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.16-05.30.19:190][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.16-05.30.19:256][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.11.16-05.30.19:532][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.16-05.30.19:645][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.16-05.30.19:648][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.16-05.30.19:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.16-05.30.19:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.16-05.30.19:648][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.16-05.30.19:663][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.11.16-05.30.20:131][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103508 seconds
+[2018.11.16-05.30.20:138][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.16-05.30.20:138][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.16-05.30.20:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.16-05.30.20:849][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.16-05.30.20:862][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.16-05.30.21:050][  0]SourceControl: Source control is disabled
+[2018.11.16-05.30.21:051][  0]SourceControl: Source control is disabled
+[2018.11.16-05.30.21:052][  0]SourceControl: Source control is disabled
+[2018.11.16-05.30.21:052][  0]SourceControl: Source control is disabled
+[2018.11.16-05.30.21:206][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.16-05.30.21:261][  0]LogOcInput: OculusInput pre-init called
+[2018.11.16-05.30.21:314][  0]LogEngine: Initializing Engine...
+[2018.11.16-05.30.21:315][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.16-05.30.21:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.16-05.30.21:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-05.30.21:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.16-05.30.21:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-05.30.21:514][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.16-05.30.21:530][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.16-05.30.21:547][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.16-05.30.21:565][  0]LogInit: FAudioDevice initialized.
+[2018.11.16-05.30.21:565][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.16-05.30.21:909][  0]LogDerivedDataCache: Saved boot cache 0.34s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.16-05.30.21:953][  0]LogInit: Texture streaming: Enabled
+[2018.11.16-05.30.21:972][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.16-05.30.21:985][  0]LogInit: Transaction tracking system initialized
+[2018.11.16-05.30.22:010][  0]BlueprintLog: New page: Editor Load
+[2018.11.16-05.30.22:076][  0]LocalizationService: Localization service is disabled
+[2018.11.16-05.30.22:141][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.16-05.30.22:141][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.11.16-05.30.22:141][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2018.11.16-05.30.22:304][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.16-05.30.22:304][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.16-05.30.22:304][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.16-05.30.22:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.16-05.30.22:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-05.30.22:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.16-05.30.22:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-05.30.22:404][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
+[2018.11.16-05.30.22:404][  0]SourceControl: Source control is disabled
+[2018.11.16-05.30.22:404][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-05.30.22:405][  0]LightingResults: New page: Lighting Build
+[2018.11.16-05.30.22:407][  0]MapCheck: New page: Map Check
+[2018.11.16-05.30.22:407][  0]LightingResults: New page: Lighting Build
+[2018.11.16-05.30.24:980][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.16-05.30.24:987][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-05.30.25:007][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-05.30.25:072][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.391ms to complete.
+[2018.11.16-05.30.25:072][  0]LogFileHelpers: Loading map 'ArenaMap' took 2.668
+[2018.11.16-05.30.25:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.25:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.25:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.25:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.25:341][  0]LogCollectionManager: Loaded 0 collections in 0.001581 seconds
+[2018.11.16-05.30.25:385][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.11.16-05.30.25:385][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
+[2018.11.16-05.30.25:385][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.11.16-05.30.25:385][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.16-05.30.25:395][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2573 classes and 605 folders.
+[2018.11.16-05.30.25:401][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.16-05.30.25:827][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.16-05.30.25:831][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.16-05.30.25:863][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.16-05.30.25:864][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.16-05.30.25:874][  0]LogSlate: Took 0.005454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.16-05.30.25:881][  0]LogSlate: Took 0.004290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.16-05.30.26:019][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.16-05.30.26:073][  0]LogSlate: Took 0.005248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.16-05.30.26:146][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.16-05.30.26:146][  0]LogLoad: (Engine Initialization) Total time: 10.74 seconds
+[2018.11.16-05.30.26:146][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.16-05.30.26:168][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.16-05.30.26:189][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.16-05.30.26:253][  1]LogAssetRegistry: Asset discovery search completed in 7.0199 seconds
+[2018.11.16-05.30.26:255][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.16-05.30.26:255][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000209 seconds (updated 0 objects)
+[2018.11.16-05.30.27:178][ 88]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.16-05.30.29:420][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.30.29:512][366]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-05.30.29:535][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-05.30.29:547][366]PIE: New page: PIE session: ArenaMap (Nov 15, 2018, 7:30:29 PM)
+[2018.11.16-05.30.29:547][366]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.16-05.30.29:550][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002238s)
+[2018.11.16-05.30.29:550][366]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.16-05.30.29:550][366]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.11.16-05.30.29:550][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003284s)
+[2018.11.16-05.30.29:579][366]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.16-05.30.29:593][366]LogInit: FAudioDevice initialized.
+[2018.11.16-05.30.29:636][366]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.16-05.30.29:639][366]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.16-00.30.29
+[2018.11.16-05.30.29:639][366]LogWorld: Bringing up level for play took: 0.001724
+[2018.11.16-05.30.29:660][366]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.11.16-05.30.29:725][366]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.16-05.30.29:726][366]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.16-05.30.29:728][366]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.862
+[2018.11.16-05.30.40:467][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.30.40:554][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.40:589][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.16-05.30.40:610][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.30.40:657][347]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.16-05.30.53:567][251]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2018.11.16-05.30.54:163][251]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.16-05.30.55:151][251]LogSlate: Took 0.003340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.16-05.30.55:415][252]LogSlate: Took 0.003704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.16-05.31.03:344][102]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BaseTile.BaseTile
+[2018.11.16-05.31.06:236][320]LogSlate: Window 'BaseTile' being destroyed
+[2018.11.16-05.33.19:094][371]LogSlate: Took 0.003772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.16-05.38.33:506][768]LogEditorTransaction: Undo Move Node
+[2018.11.16-05.38.59:714][886]BlueprintLog: New page: Compile BaseTile
+[2018.11.16-05.39.00:516][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.16-05.39.00:668][933]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTileF5625B5F4B5C0ED87F66759E23D587A0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.16-05.39.06:399][612]LogRenderer: Reallocating scene render targets to support 1208x696 Format 10 NumSamples 1 (Frame:1).
+[2018.11.16-05.39.11:917][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.39.27:208][952]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.27:286][953]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.16-05.39.27:287][953]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.39.27:287][953]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.39.27:287][953]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.16-05.39.28:860][107]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/CustomTechTileDoor.CustomTechTileDoor
+[2018.11.16-05.39.28:864][107]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.28:885][107]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.29:229][107]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.29:250][107]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.29:253][107]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.29:311][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.11.16-05.39.29:318][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_3, compiling. 
+[2018.11.16-05.39.29:325][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.11.16-05.39.29:332][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.11.16-05.39.29:338][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.11.16-05.39.29:344][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2018.11.16-05.39.29:350][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_26, compiling. 
+[2018.11.16-05.39.29:532][108]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.16-05.39.29:745][128]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.16-05.39.29:802][135]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.16-05.39.29:998][157]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.16-05.39.30:074][166]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.16-05.39.30:192][180]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.16-05.39.30:268][188]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.16-05.39.30:398][203]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.16-05.39.30:510][216]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.16-05.39.30:570][223]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.16-05.39.30:693][237]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.16-05.39.30:961][268]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.16-05.39.31:110][284]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.16-05.39.31:152][289]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.16-05.39.31:244][300]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.31:269][303]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.31:546][333]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.39.31:579][337]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.39.31:604][340]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.16-05.39.31:673][348]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.16-05.39.31:867][366]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.16-05.39.31:988][374]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.16-05.39.32:076][384]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.16-05.39.32:142][392]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.39.32:142][392]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.16-05.39.32:388][419]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.16-05.39.32:425][423]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.16-05.39.32:525][435]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.16-05.39.32:648][448]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.16-05.39.32:679][452]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.16-05.39.32:879][474]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.16-05.39.32:929][480]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.16-05.39.32:937][481]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.16-05.39.33:036][492]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.39.33:054][493]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.11.16-05.39.33:054][493]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.11.16-05.39.33:054][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.11.16-05.39.33:054][493]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.16-05.39.33:055][493]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.16-05.39.33:055][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.16-05.39.33:055][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.16-05.39.33:205][506]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.16-05.39.33:216][507]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.16-05.39.33:272][512]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.16-05.39.33:327][518]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.16-05.39.33:440][529]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.16-05.39.33:525][537]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.16-05.39.33:579][543]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.16-05.39.33:596][545]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.16-05.39.33:760][561]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.16-05.39.33:813][567]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.16-05.39.37:916][ 55]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.37:938][ 56]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.37:939][ 56]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.37:939][ 56]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.39.37:939][ 56]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.39.37:994][ 62]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.38:016][ 62]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.38:186][ 76]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.38:202][ 78]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.38:202][ 78]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.39.38:211][ 79]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.39.38:370][ 95]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.38:402][ 95]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.38:482][101]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.38:518][105]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.38:546][107]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.39.38:546][107]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.39.38:740][127]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.16-05.39.38:773][130]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.16-05.39.38:783][132]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.16-05.39.38:792][133]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.16-05.39.38:896][144]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.16-05.39.38:942][149]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.39.38:960][151]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.16-05.39.38:999][155]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.16-05.39.39:080][164]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.16-05.39.39:283][184]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.16-05.39.39:386][195]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.16-05.39.39:415][198]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.16-05.39.39:514][208]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.16-05.39.39:633][220]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.16-05.39.39:750][232]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.16-05.39.39:835][241]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.39.39:880][246]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.16-05.39.39:922][251]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.16-05.39.40:153][273]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.16-05.39.40:192][277]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.16-05.39.40:271][286]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.16-05.39.40:364][295]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.16-05.39.40:443][303]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.16-05.39.40:609][319]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.16-05.39.40:715][330]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.16-05.39.40:786][338]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Base pass shader with Surface Lightmap: 152 instructions
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.16-05.39.41:104][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.16-05.39.41:766][451]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.41:784][451]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.41:805][452]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.41:806][452]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.41:806][452]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.39.41:806][452]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.39.42:023][471]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.16-05.39.42:052][474]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.16-05.39.42:072][476]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.16-05.39.42:080][477]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.16-05.39.42:196][487]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.16-05.39.42:234][491]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.39.42:243][492]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.16-05.39.42:261][494]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.16-05.39.42:371][506]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.16-05.39.42:548][521]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.16-05.39.42:670][533]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.16-05.39.42:691][534]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.16-05.39.42:773][543]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.16-05.39.42:843][550]LogMaterialEditor: Saving and Compiling material CustomTechTileDoor
+[2018.11.16-05.39.43:470][550]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.16-05.39.43:471][550]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.16-05.39.43:492][550]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.43:586][550]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.43:604][550]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.39.43:604][550]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.39.43:610][550]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.43:672][550]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CustomTechTileDoor, compiling. 
+[2018.11.16-05.39.45:944][550]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.16-05.39.45:944][550]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.16-05.39.45:944][550]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.16-05.39.45:944][550]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.16-05.39.45:945][550]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.16-05.39.45:946][550]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.16-05.39.45:947][550]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.39.45:948][550]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.16-05.39.45:950][550]TextureStreamingBuild: Display: Compiling optional shaders took 2.284 seconds.
+[2018.11.16-05.39.48:359][550]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/CustomTechTileDoor0CFAB999438DF69F5905E8BFAB8ACCC5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/CustomTechTileDoor.uasset'
+[2018.11.16-05.39.48:369][550]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.11.16-05.39.48:369][550]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.11.16-05.39.48:369][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.11.16-05.39.48:369][550]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.16-05.39.48:370][550]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.16-05.39.48:370][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.16-05.39.48:370][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.16-05.39.59:653][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.16-05.40.05:823][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.16-05.40.07:697][620]LogEditorTransaction: Undo Replace component used material
+[2018.11.16-05.40.07:712][620]LogMaterial: Display: Missing cached shader map for material CustomTechTileDoor, compiling. 
+[2018.11.16-05.40.07:737][620]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.16-05.40.07:737][620]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.16-05.40.07:737][620]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.16-05.40.07:737][620]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.16-05.40.07:951][639]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.16-05.40.07:959][640]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.16-05.40.08:128][659]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.16-05.40.08:135][660]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.16-05.40.08:306][680]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.16-05.40.08:321][682]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.16-05.40.08:329][683]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.16-05.40.08:353][686]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.16-05.40.08:471][700]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.16-05.40.08:651][721]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.16-05.40.08:745][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.40.08:784][733]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.16-05.40.08:812][736]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.16-05.40.08:889][744]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.16-05.40.09:022][757]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.16-05.40.09:133][767]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.16-05.40.09:243][778]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.16-05.40.09:297][784]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.16-05.40.09:310][785]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.16-05.40.09:582][810]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.16-05.40.09:582][810]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.16-05.40.09:711][824]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.16-05.40.09:768][829]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.16-05.40.09:836][836]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.16-05.40.10:011][851]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.16-05.40.10:102][860]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.16-05.40.10:197][870]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.16-05.40.10:482][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.16-05.40.12:716][982]LogSlate: Window 'Message' being destroyed
+[2018.11.16-05.40.44:081][645]BlueprintLog: New page: Compile BaseTile
+[2018.11.16-05.40.44:841][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BaseTile" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset" SILENT=true
+[2018.11.16-05.40.45:053][687]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile19B9AC344581088EF7ADC6A6EF15928A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/BaseTile.uasset'
+[2018.11.16-05.41.57:865][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.026
+[2018.11.16-05.41.57:867][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TwinStickGameMode] ([1] browsable assets)...
+[2018.11.16-05.41.57:867][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TwinStickGameMode]
+[2018.11.16-05.41.57:984][ 48]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode_Auto17EBDFDFE45FBCB846F2009BA365CC31C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/TwinStickGameMode_Auto1.uasset'
+[2018.11.16-05.41.57:986][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Type0] ([1] browsable assets)...
+[2018.11.16-05.41.58:001][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Type0.Type0]
+[2018.11.16-05.41.58:002][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Type0]
+[2018.11.16-05.41.58:046][ 48]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type0_Auto13443AFE34B0FA63BCEC2AC9DC414B59C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/Type0_Auto1.uasset'
+[2018.11.16-05.41.58:047][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Type1] ([1] browsable assets)...
+[2018.11.16-05.41.58:062][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Type1.Type1]
+[2018.11.16-05.41.58:062][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Type1]
+[2018.11.16-05.41.58:164][ 48]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type1_Auto1D901C79A42408BF8DF010B8F84D458A4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/Type1_Auto1.uasset'
+[2018.11.16-05.41.58:171][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Type2] ([1] browsable assets)...
+[2018.11.16-05.41.58:212][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Type2.Type2]
+[2018.11.16-05.41.58:213][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Type2]
+[2018.11.16-05.41.58:296][ 48]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Type2_Auto17F52C42F44E601823392B49BAC82961F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/Type2_Auto1.uasset'
+[2018.11.16-05.41.58:298][ 48]LogFileHelpers: Auto-saving content packages took 0.431
+[2018.11.16-05.42.12:375][700]BlueprintLog: New page: Compile TwinStickGameMode
+[2018.11.16-05.42.13:187][747]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickGameMode20CCD65440A3504B879A90BB5D1E5545.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickGameMode.uasset'
+[2018.11.16-05.42.14:434][894]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-05.42.14:460][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-05.42.14:461][894]PIE: New page: PIE session: ArenaMap (Nov 15, 2018, 7:42:14 PM)
+[2018.11.16-05.42.14:461][894]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.16-05.42.14:463][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002010s)
+[2018.11.16-05.42.14:463][894]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.16-05.42.14:464][894]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.11.16-05.42.14:464][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002996s)
+[2018.11.16-05.42.14:500][894]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.16-05.42.14:515][894]LogInit: FAudioDevice initialized.
+[2018.11.16-05.42.14:547][894]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.16-05.42.14:549][894]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.16-00.42.14
+[2018.11.16-05.42.14:550][894]LogWorld: Bringing up level for play took: 0.001340
+[2018.11.16-05.42.14:639][894]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.16-05.42.14:640][894]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.16-05.42.14:642][894]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.223
+[2018.11.16-05.42.29:561][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.42.33:385][934]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2018.11.16-05.42.33:476][945]LogBlueprintUserMessages: [Projectile_C_1] Hello
+[2018.11.16-05.42.33:517][950]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2018.11.16-05.42.33:576][957]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2018.11.16-05.42.33:609][961]LogBlueprintUserMessages: [Projectile_C_1] Hello
+[2018.11.16-05.42.33:676][969]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2018.11.16-05.42.33:709][973]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2018.11.16-05.42.33:809][985]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2018.11.16-05.42.33:859][991]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2018.11.16-05.42.33:951][  2]LogBlueprintUserMessages: [Projectile_C_5] Hello
+[2018.11.16-05.42.33:993][  7]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2018.11.16-05.42.34:084][ 18]LogBlueprintUserMessages: [Projectile_C_5] Hello
+[2018.11.16-05.42.34:093][ 19]LogBlueprintUserMessages: [Projectile_C_6] Hello
+[2018.11.16-05.42.34:184][ 30]LogBlueprintUserMessages: [Projectile_C_6] Hello
+[2018.11.16-05.42.34:293][ 43]LogBlueprintUserMessages: [Projectile_C_7] Hello
+[2018.11.16-05.42.35:070][136]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2018.11.16-05.42.35:162][147]LogBlueprintUserMessages: [Projectile_C_1] Hello
+[2018.11.16-05.42.35:262][159]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2018.11.16-05.42.35:362][171]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2018.11.16-05.42.35:545][193]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2018.11.16-05.42.35:637][204]LogBlueprintUserMessages: [Projectile_C_5] Hello
+[2018.11.16-05.42.35:737][216]LogBlueprintUserMessages: [Projectile_C_6] Hello
+[2018.11.16-05.42.35:837][228]LogBlueprintUserMessages: [Projectile_C_7] Hello
+[2018.11.16-05.42.35:929][239]LogBlueprintUserMessages: [Projectile_C_8] Hello
+[2018.11.16-05.42.36:029][251]LogBlueprintUserMessages: [Projectile_C_9] Hello
+[2018.11.16-05.42.36:129][263]LogBlueprintUserMessages: [Projectile_C_10] Hello
+[2018.11.16-05.42.36:237][276]LogBlueprintUserMessages: [Projectile_C_11] Hello
+[2018.11.16-05.42.36:329][287]LogBlueprintUserMessages: [Projectile_C_12] Hello
+[2018.11.16-05.42.36:529][311]LogBlueprintUserMessages: [Projectile_C_13] Hello
+[2018.11.16-05.42.36:728][335]LogBlueprintUserMessages: [Projectile_C_14] Hello
+[2018.11.16-05.42.36:928][359]LogBlueprintUserMessages: [Projectile_C_15] Hello
+[2018.11.16-05.42.40:816][824]LogBlueprintUserMessages: [Projectile_C_35] Hello
+[2018.11.16-05.42.51:878][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.42.51:914][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.16-05.42.51:944][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.42.51:982][152]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.16-05.42.57:868][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-05.43.01:852][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile.Projectile
+[2018.11.16-05.43.12:020][181]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyCharacter.EnemyCharacter
+[2018.11.16-05.44.08:457][799]BlueprintLog: New page: Compile Projectile
+[2018.11.16-05.44.10:057][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.16-05.44.10:090][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.16-05.44.10:090][961]PIE: New page: PIE session: ArenaMap (Nov 15, 2018, 7:44:10 PM)
+[2018.11.16-05.44.10:090][961]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.16-05.44.10:093][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002153s)
+[2018.11.16-05.44.10:093][961]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.16-05.44.10:093][961]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.11.16-05.44.10:094][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003222s)
+[2018.11.16-05.44.10:129][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.16-05.44.10:143][961]LogInit: FAudioDevice initialized.
+[2018.11.16-05.44.10:176][961]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.16-05.44.10:179][961]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.16-00.44.10
+[2018.11.16-05.44.10:180][961]LogWorld: Bringing up level for play took: 0.002260
+[2018.11.16-05.44.10:251][961]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.16-05.44.10:251][961]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.16-05.44.10:252][961]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.613
+[2018.11.16-05.44.35:102][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.44.35:136][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.16-05.44.35:168][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-05.44.35:202][934]LogPlayLevel: Display: Destroying online subsystem :Context_20
