@@ -15999,3 +15999,1556 @@ Script call stack:
 [2018.11.30-17.28.47:255][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.11.30-17.28.47:338][469]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap28F79447453693E363168F90EC3F928E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.11.30-17.28.47:391][469]LogFileHelpers: Saving map 'ArenaMap' took 0.215
+[2018.11.30-17.45.30:787][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong2_BaseColor.png)
+[2018.11.30-17.45.31:232][700]LogTexture: Display: Building textures: LaserGun_phong2_BaseColor (AutoDXT, 4096X4096)
+[2018.11.30-17.45.32:295][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong2_Normal.png)
+[2018.11.30-17.45.32:663][700]LogTexture: Display: Building textures: LaserGun_phong2_Normal (BC5, 4096X4096)
+[2018.11.30-17.45.33:480][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong2_OcclusionRoughnessMetallic.png)
+[2018.11.30-17.45.33:850][700]LogTexture: Display: Building textures: LaserGun_phong2_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2018.11.30-17.45.35:235][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong3_BaseColor.png)
+[2018.11.30-17.45.35:466][700]LogTexture: Display: Building textures: LaserGun_phong3_BaseColor (AutoDXT, 4096X4096)
+[2018.11.30-17.45.36:229][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong3_Normal.png)
+[2018.11.30-17.45.36:527][700]LogTexture: Display: Building textures: LaserGun_phong3_Normal (BC5, 4096X4096)
+[2018.11.30-17.45.37:303][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong3_OcclusionRoughnessMetallic.png)
+[2018.11.30-17.45.37:561][700]LogTexture: Display: Building textures: LaserGun_phong3_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2018.11.30-17.45.38:308][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zEC6AC5CDF\LaserGun_phong4_BaseColor.png)
+[2018.11.30-17.45.38:594][700]LogTexture: Display: Building textures: LaserGun_phong4_BaseColor (AutoDXT, 4096X4096)
+[2018.11.30-17.45.51:250][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-17.47.00:155][629]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/LaserGunMaterial.LaserGunMaterial
+[2018.11.30-17.47.00:158][629]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.00:240][629]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.00:252][629]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.00:270][629]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.47.00:270][629]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.47.00:270][629]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.47.00:270][629]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.47.01:070][705]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.47.01:145][714]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.47.01:187][719]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.47.01:202][721]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.47.01:261][728]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.47.01:318][735]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.47.01:361][740]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.47.01:368][741]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.47.01:468][753]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.47.01:653][775]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.47.01:972][808]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.47.01:997][810]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.47.02:010][811]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.47.02:113][819]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.47.02:224][826]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.47.02:374][836]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.47.02:453][842]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.47.03:028][863]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.47.03:028][863]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.47.03:028][863]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.47.03:028][863]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.47.08:452][183]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.08:465][183]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.47.08:465][183]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.47.08:465][183]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.47.08:465][183]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.47.08:465][183]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.47.08:495][183]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.08:500][183]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.47.08:500][183]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.47.08:529][183]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.47.08:532][183]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.47.28:712][880]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.28:803][880]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.47.28:804][880]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.47.28:804][880]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.47.28:804][880]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.47.28:815][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.47.28:867][880]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.29:421][926]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.47.29:464][931]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.47.29:464][931]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.47.29:470][932]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.47.29:695][957]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.47.29:712][959]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.47.29:720][960]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.47.29:737][962]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.47.29:908][981]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.47.29:908][981]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.47.29:924][983]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.47.29:932][984]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.47.30:069][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.47.30:081][  1]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.47.30:087][  2]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.47.30:305][ 26]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.47.30:326][ 28]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.47.30:485][ 46]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.47.30:494][ 47]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.47.30:568][ 56]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.47.30:700][ 71]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.47.30:837][ 87]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.47.30:882][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.47.31:161][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.47.41:389][777]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.41:401][777]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.47.41:401][777]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.47.41:401][777]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.47.41:401][777]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.47.41:401][777]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.47.41:403][777]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.41:404][777]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.47.41:404][777]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.47.41:436][777]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.47.41:439][777]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.47.57:367][401]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.57:368][401]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.47.57:368][401]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.47.57:374][401]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.47.59:291][623]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.47.59:292][623]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.47.59:292][623]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.48.07:510][588]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.07:525][588]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.07:525][588]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.07:525][588]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.07:525][588]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.07:528][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.48.07:556][588]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.08:048][640]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.48.08:088][645]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.48.08:088][645]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.08:105][647]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.08:321][670]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.08:329][671]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.08:346][673]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.48.08:356][674]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.48.08:538][694]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.48.08:549][695]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.48.08:549][695]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.48.08:558][696]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.48.08:706][713]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.48.08:715][714]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.48.08:750][718]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.48.08:964][736]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.48.08:974][737]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.48.09:093][751]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.48.09:141][756]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.48.09:207][764]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.48.09:388][784]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.48.09:453][792]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.48.09:486][796]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.30-17.48.09:781][830]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.48.15:801][546]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.15:815][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.48.15:817][546]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.15:818][546]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.48.15:818][546]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.48.15:848][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.48.15:852][546]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.48.42:923][304]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.42:938][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.48.42:953][304]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.42:953][304]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.42:953][304]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.42:953][304]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.42:967][304]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.43:485][358]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.48.43:526][363]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.48.43:534][364]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.43:534][364]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.43:779][390]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.43:779][390]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.43:779][390]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.48.43:796][392]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.48.43:965][410]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.48.43:973][411]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.48.43:997][414]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.48.44:004][415]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.48.44:116][427]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.48.44:133][429]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.48.44:174][434]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.48.44:389][457]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.48.44:408][459]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.48.44:494][469]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.48.44:542][474]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.48.44:630][484]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.48.44:773][498]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.48.44:861][508]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.48.44:902][513]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.48.45:189][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.48.46:445][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.026
+[2018.11.30-17.48.46:447][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong3_Normal] ([1] browsable assets)...
+[2018.11.30-17.48.46:453][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong3_Normal.LaserGun_phong3_Normal]
+[2018.11.30-17.48.46:453][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong3_Normal]
+[2018.11.30-17.48.46:965][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_Normal_Auto69369045D482E57BCAADF8C9DB98BDC95.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong3_Normal_Auto6.uasset'
+[2018.11.30-17.48.46:971][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.11.30-17.48.46:989][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic]
+[2018.11.30-17.48.46:989][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic]
+[2018.11.30-17.48.47:373][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_OcclusionRoughne0CCCF0FC4212EAAAEAA365B07B6601BC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic_Auto6.uasset'
+[2018.11.30-17.48.47:397][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong4_BaseColor] ([1] browsable assets)...
+[2018.11.30-17.48.47:418][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong4_BaseColor.LaserGun_phong4_BaseColor]
+[2018.11.30-17.48.47:418][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong4_BaseColor]
+[2018.11.30-17.48.47:823][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong4_BaseColor_Auto673A039BC4C0704502412C2A2CF1D31CB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong4_BaseColor_Auto6.uasset'
+[2018.11.30-17.48.47:826][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGunMaterial] ([1] browsable assets)...
+[2018.11.30-17.48.47:871][688]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LaserGunMaterial.LaserGunMaterial]
+[2018.11.30-17.48.47:871][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGunMaterial]
+[2018.11.30-17.48.47:891][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunMaterial_Auto6CBC2AB0C4BDDFBBB46EC71BFA1A7D98C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGunMaterial_Auto6.uasset'
+[2018.11.30-17.48.47:893][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong2_BaseColor] ([1] browsable assets)...
+[2018.11.30-17.48.47:903][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong2_BaseColor.LaserGun_phong2_BaseColor]
+[2018.11.30-17.48.47:903][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong2_BaseColor]
+[2018.11.30-17.48.48:287][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_BaseColor_Auto60D2D3DC3494C7A5318C448BA15671FCA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong2_BaseColor_Auto6.uasset'
+[2018.11.30-17.48.48:291][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong2_Normal] ([1] browsable assets)...
+[2018.11.30-17.48.48:318][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong2_Normal.LaserGun_phong2_Normal]
+[2018.11.30-17.48.48:318][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong2_Normal]
+[2018.11.30-17.48.49:107][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_Normal_Auto61DD2DA944D4280741108F3BF14C2B47D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong2_Normal_Auto6.uasset'
+[2018.11.30-17.48.49:113][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.11.30-17.48.49:147][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic]
+[2018.11.30-17.48.49:147][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic]
+[2018.11.30-17.48.49:651][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_OcclusionRoughneD8C9396E41CB818721DBBB824D0D6D85.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic_Auto6.uasset'
+[2018.11.30-17.48.49:655][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun_phong3_BaseColor] ([1] browsable assets)...
+[2018.11.30-17.48.49:674][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/LaserGun_phong3_BaseColor.LaserGun_phong3_BaseColor]
+[2018.11.30-17.48.49:674][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun_phong3_BaseColor]
+[2018.11.30-17.48.50:246][688]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_BaseColor_Auto62396114D4EA48071149F77AAF5ECDCBB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun_phong3_BaseColor_Auto6.uasset'
+[2018.11.30-17.48.50:250][688]LogFileHelpers: Auto-saving content packages took 3.805
+[2018.11.30-17.48.52:535][947]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.52:550][947]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.52:550][947]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.52:550][947]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.52:550][947]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.52:550][947]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.48.52:768][968]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.52:768][968]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.52:783][970]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.48.52:783][970]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.48.52:940][987]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.48.52:950][988]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.48.53:042][999]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.48.53:042][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.48.53:068][  2]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.48.53:283][ 20]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.48.53:302][ 21]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.48.53:446][ 36]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.48.53:446][ 36]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.48.53:543][ 46]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.48.53:655][ 58]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.48.53:775][ 70]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.48.53:869][ 80]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.48.53:880][ 81]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.48.54:002][ 94]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.48.54:139][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.48.55:226][236]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.48.55:241][236]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.48.55:241][236]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.48.55:241][236]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.55:241][236]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.55:244][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.48.55:466][255]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.48.55:507][260]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.48.55:515][261]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.48.55:522][262]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.48.55:622][273]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.48.55:668][278]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.48.55:685][280]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.48.55:691][281]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.48.55:808][294]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.48.55:921][305]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.48.56:037][318]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.48.56:063][321]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.48.56:184][335]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.48.56:262][344]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.48.56:287][347]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.48.56:444][364]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.48.56:480][368]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.48.56:580][380]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.48.56:640][386]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.48.56:812][405]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.48.56:813][405]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.48.56:813][405]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.48.56:813][405]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.48.56:813][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.48.56:813][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.49.22:821][487]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.49.22:960][487]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.30-17.49.26:055][813]LogTexture: Display: Building textures: LaserGun_phong2_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2018.11.30-17.49.27:297][813]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.49.27:298][813]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.49.27:298][813]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.49.27:344][813]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.49.37:236][374]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_OcclusionRoughne9ECBE7CC494E9D902F9D48AE8EAEF00C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.uasset'
+[2018.11.30-17.49.48:866][960]LogMaterialEditor: Saving and Compiling material LaserGunMaterial
+[2018.11.30-17.49.53:243][960]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.11.30-17.49.54:620][125]LogMaterialEditor: Applying material LaserGunMaterial
+[2018.11.30-17.49.56:471][125]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.11.30-17.50.05:826][246]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.05:826][246]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.05:826][246]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.05:837][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.50.09:991][741]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.09:992][741]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.09:992][741]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.10:001][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.50.12:218][  3]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.12:218][  3]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.12:219][  3]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.12:223][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.50.20:524][995]LogMaterialEditor: Saving and Compiling material LaserGunMaterial
+[2018.11.30-17.50.21:919][995]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.11.30-17.50.27:297][995]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.27:297][995]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.27:297][995]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.27:320][995]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.27:321][995]LogMaterial: Warning: /Game/Materials/LaserGunMaterial.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.27:321][995]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.27:326][995]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.50.27:326][995]LogMaterial: Warning: /Game/Materials/LaserGunMaterial.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.50.27:326][995]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.50.27:419][995]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGunMaterial, compiling. 
+[2018.11.30-17.50.27:420][995]TextureStreamingBuild: Display: Compiling optional shaders took 0.024 seconds.
+[2018.11.30-17.50.27:550][995]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunMaterialC7A05765490B91D3C3B27796B875DB17.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGunMaterial.uasset'
+[2018.11.30-17.51.09:895][992]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.09:896][992]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.09:896][992]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.51.09:901][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.51.09:918][992]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.51.09:918][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.51.09:932][992]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.09:932][992]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.09:932][992]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.51.40:790][892]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.40:791][892]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.40:791][892]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.51.40:798][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.51.43:681][231]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.43:682][231]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.43:682][231]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.51.43:690][231]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.51.46:983][621]LogMaterialEditor: Applying material LaserGunMaterial
+[2018.11.30-17.51.49:246][621]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.11.30-17.51.52:662][ 29]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.52:662][ 29]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.52:662][ 29]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.51.52:672][ 29]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.51.52:696][ 29]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.52:696][ 29]LogMaterial: Warning: /Engine/Transient.LaserGunMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.51.52:696][ 29]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.51.52:698][ 29]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.11.30-17.51.56:944][528]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.56:980][528]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.51.56:980][528]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.51.56:980][528]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.51.56:980][528]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.51.56:983][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.51.57:011][528]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.57:510][580]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.51.57:559][586]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.51.57:567][587]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.51.57:567][587]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.51.57:811][610]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.51.57:811][610]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.51.57:819][611]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.51.57:830][612]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.51.58:010][631]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.51.58:010][631]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.51.58:010][631]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.51.58:060][637]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.51.58:189][651]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.51.58:189][651]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.51.58:189][651]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.51.58:410][674]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.51.58:426][675]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.51.58:591][693]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.51.58:663][701]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.51.58:670][702]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.51.58:673][702]LogMaterialEditor: Applying material LaserGunMaterial
+[2018.11.30-17.51.59:206][702]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.51.59:206][702]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.51.59:206][702]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.51.59:218][702]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.59:258][702]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.51.59:258][702]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.51.59:258][702]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.51.59:258][702]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.51.59:269][702]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.59:287][702]LogMaterial: Display: Missing cached shader map for material LaserGunMaterial, compiling. 
+[2018.11.30-17.51.59:342][702]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGunMaterial, compiling. 
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.00:641][702]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.00:644][702]TextureStreamingBuild: Display: Compiling optional shaders took 1.306 seconds.
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.52.02:870][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.52.03:178][976]LogMaterialEditor: Saving and Compiling material LaserGunMaterial
+[2018.11.30-17.52.03:249][976]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunMaterial37858D7940F34C100A75099D3F55FB09.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGunMaterial.uasset'
+[2018.11.30-17.52.30:551][542]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/LaserGun2.LaserGun2
+[2018.11.30-17.52.30:554][542]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.30:635][542]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.30:646][542]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.30:672][542]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.30:672][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.30:672][542]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.30:672][542]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.31:159][583]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.52.31:192][587]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.52.31:208][589]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.52.31:208][589]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.52.31:324][602]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.52.31:374][608]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.31:374][608]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.52.31:374][608]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.52.31:459][618]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.52.31:598][633]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.52.31:738][650]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.52.31:764][653]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.52.31:813][659]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.52.31:941][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.52.31:978][678]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.52.32:128][696]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.32:148][698]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.52.32:438][732]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.52.32:438][732]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.52.32:438][732]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.52.32:438][732]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.52.36:432][206]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.36:444][206]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.52.36:470][207]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.36:470][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.36:470][207]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.36:470][207]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.36:630][223]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.52.36:647][225]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.52.36:670][228]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.52.36:670][228]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.52.36:813][244]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.52.36:821][245]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.36:821][245]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.52.36:821][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.52.36:949][260]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.52.37:065][272]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.52.37:192][287]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.52.37:200][288]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.52.37:290][298]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.52.37:433][314]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.52.37:433][314]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.52.37:572][330]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.37:657][339]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.52.37:900][366]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.52.37:900][366]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.52.37:900][366]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.52.37:900][366]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.52.50:067][817]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.50:084][817]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.50:084][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.50:084][817]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.50:084][817]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.50:084][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.52.50:112][817]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.50:284][834]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.52.50:292][835]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.52.50:301][836]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.50:335][840]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.50:520][859]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.50:527][860]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.50:543][862]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.52.50:569][865]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.52.50:708][880]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.52.50:716][881]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.52.50:724][882]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.52.50:748][885]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.50:840][895]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.52.50:856][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.52.50:873][899]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.52.51:075][920]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.52.51:104][923]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.52.51:217][936]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.52.51:239][938]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.52.51:317][946]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.52.51:441][960]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.52.51:548][972]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.51:619][979]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.52.51:864][  6]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.52.51:864][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.52.51:864][  6]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.52.51:864][  6]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.52.53:484][200]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.53:498][200]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.52.53:513][200]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.53:513][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.53:513][200]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.53:513][200]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.53:718][220]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.53:725][221]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.53:725][221]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.52.53:741][223]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.52.53:896][240]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.52.53:896][240]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.52.53:905][241]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.52.53:922][243]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.54:057][258]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.52.54:170][269]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.52.54:281][282]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.52.54:315][286]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.52.54:428][299]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.52.54:507][308]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.52.54:558][314]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.52.54:691][329]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.52.54:737][330]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.52.54:866][344]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.54:878][345]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.52.55:055][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.52.57:213][620]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.52.57:224][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.52.57:249][621]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.52.57:249][621]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.52.57:249][621]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.52.57:249][621]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.52.57:441][640]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.52.57:451][641]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.52.57:451][641]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.52.57:465][643]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.52.57:613][659]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.52.57:620][660]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.52.57:629][661]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.52.57:629][661]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.52.57:776][678]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.52.57:864][687]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.52.57:989][700]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.52.58:033][705]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.52.58:139][716]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.52.58:225][726]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.52.58:233][727]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.52.58:425][746]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.52.58:480][752]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.52.58:763][784]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.52.58:763][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.52.58:763][784]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.52.58:763][784]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.52.58:763][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.52.58:764][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.05:684][605]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.05:701][605]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.53.05:716][605]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.05:716][605]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.05:716][605]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.05:716][605]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.05:730][605]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.05:915][623]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.53.05:931][625]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.53.05:938][626]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.05:938][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.06:174][650]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.06:182][651]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.06:183][651]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.06:224][656]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.06:356][669]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.06:373][671]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.06:391][673]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.06:391][673]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.06:501][685]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.06:519][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.06:552][691]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.06:764][713]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.06:781][715]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.06:917][731]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.06:924][732]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.07:006][741]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.07:125][754]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.07:240][766]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.07:320][775]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.53.07:571][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.11:112][227]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.11:126][227]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-17.53.11:141][227]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.11:141][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.11:141][227]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.11:141][227]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.11:321][245]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.11:355][249]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.11:363][250]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.11:363][250]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.11:486][262]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.11:502][264]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.11:535][268]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.11:544][269]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.11:629][279]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.11:777][294]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.11:873][305]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.11:915][310]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.11:999][319]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.12:094][329]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.12:156][336]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.12:298][351]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.12:350][357]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.12:401][363]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.12:486][372]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.30-17.53.12:663][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.16:152][804]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.16:164][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.53.16:191][805]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.16:191][805]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.16:191][805]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.16:191][805]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.16:382][824]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.16:389][825]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.16:400][826]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.16:407][827]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.16:558][843]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.16:558][843]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.16:575][845]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.16:575][845]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.16:709][860]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.16:821][871]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.16:945][885]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.16:955][886]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.17:088][900]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.17:166][908]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.17:205][912]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.17:354][927]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.17:395][931]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.30-17.53.17:698][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.25:952][924]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.25:968][924]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.25:968][924]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.25:968][924]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.25:968][924]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.25:971][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.53.25:998][924]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.26:160][938]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.53.26:193][942]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.53.26:200][943]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.26:201][943]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.26:458][971]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.26:458][971]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.26:458][971]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.26:458][971]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.26:644][991]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.26:652][992]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.26:660][993]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.26:667][994]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.26:785][  6]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.26:803][  8]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.26:820][ 10]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.27:014][ 30]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.27:026][ 31]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.27:177][ 48]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.27:188][ 49]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.27:264][ 57]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.27:396][ 71]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.27:508][ 83]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.27:575][ 90]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.30-17.53.27:825][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.29:536][322]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.29:548][322]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.29:548][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.29:548][322]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.29:548][322]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.29:550][322]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.53.29:775][343]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.29:782][344]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.29:782][344]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.29:782][344]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.29:925][359]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.29:943][361]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.29:952][362]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.29:960][363]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.30:078][376]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.30:189][386]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.30:310][399]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.30:338][402]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.30:459][414]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.30:573][426]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.30:581][427]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.30:737][443]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.30:815][450]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.30:876][457]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.30:929][463]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.53.31:100][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.36:028][ 71]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.36:044][ 71]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.36:044][ 71]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.36:044][ 71]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.36:044][ 71]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.36:047][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.53.36:228][ 85]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.36:266][ 89]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.36:284][ 91]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.36:292][ 92]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.36:425][106]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.36:441][108]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.36:459][110]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.36:468][111]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.36:581][124]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.36:720][133]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.36:857][142]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.36:872][143]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.36:970][149]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.37:073][156]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.37:102][158]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.37:254][168]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.37:283][170]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.37:406][179]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.37:421][180]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.53.37:588][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.44:033][324]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.44:045][324]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.44:045][324]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.44:045][324]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.44:045][324]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.44:048][324]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.53.44:250][342]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.44:270][344]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.44:292][347]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.53.44:292][347]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.53.44:400][359]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.53.44:443][364]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.53.44:451][365]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.53.44:462][366]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.44:551][376]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.53.44:692][390]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.53.44:808][402]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.53.44:855][407]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.53.44:926][413]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.53.45:015][423]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.53.45:063][428]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.53.45:239][446]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.53.45:248][447]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.53.45:334][457]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.45:408][465]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.53.45:589][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.53.46:683][616]LogMaterialEditor: Saving and Compiling material LaserGun2
+[2018.11.30-17.53.47:209][616]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.47:259][616]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.53.47:259][616]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.53.47:259][616]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.53.47:259][616]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.53.47:267][616]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.47:284][616]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.53.47:337][616]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGun2, compiling. 
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.53.48:555][616]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.53.48:557][616]TextureStreamingBuild: Display: Compiling optional shaders took 1.226 seconds.
+[2018.11.30-17.53.50:561][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LaserGun2" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun2.uasset" SILENT=true
+[2018.11.30-17.53.50:577][616]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun2EAF2F3C445B287DC8A4047A3E76BB612.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun2.uasset'
+[2018.11.30-17.54.15:521][404]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/LaserGun3.LaserGun3
+[2018.11.30-17.54.15:524][404]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.15:605][404]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.15:617][404]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.15:632][404]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.15:632][404]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.15:632][404]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.15:632][404]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.16:164][450]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.54.16:170][451]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.54.16:179][452]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.54.16:180][452]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.54.16:312][467]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.54.16:328][469]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.54.16:335][470]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.54.16:353][472]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.54.16:463][485]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.54.16:574][496]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.54.16:714][512]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.54.16:730][514]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.54.16:816][524]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.54.16:928][536]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.54.16:953][539]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.54.17:122][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.54.17:147][561]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.54.17:422][593]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.54.17:422][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.54.17:422][593]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.54.17:423][593]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.54.21:025][ 20]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.21:036][ 20]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.54.21:058][ 21]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.21:058][ 21]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.21:058][ 21]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.21:058][ 21]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.21:228][ 39]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.54.21:253][ 42]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.54.21:263][ 43]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.54.21:271][ 44]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.54.21:375][ 56]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.54.21:401][ 59]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.54.21:417][ 61]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.54.21:417][ 61]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.54.21:533][ 75]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.54.21:650][ 87]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.54.21:748][ 97]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.54.21:799][103]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.54.21:867][111]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.54.21:975][123]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.54.22:026][127]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.54.22:166][142]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.54.22:195][145]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.54.22:469][177]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.54.22:469][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.54.22:469][177]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.54.22:469][177]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.54.25:037][462]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.25:052][462]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.25:052][462]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.25:052][462]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.25:052][462]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.25:055][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.54.25:083][462]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.25:225][475]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.54.25:259][479]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.54.25:268][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.25:275][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.25:487][503]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.25:487][503]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.25:487][503]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.54.25:538][509]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.54.25:667][522]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.54.25:682][524]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.54.25:690][525]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.54.25:690][525]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.54.25:818][540]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.54.25:828][541]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.54.25:836][542]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.54.26:031][562]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.54.26:042][563]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.54.26:198][580]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.54.26:199][580]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.54.26:268][588]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.54.26:410][603]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.54.26:518][615]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.54.26:598][624]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.54.26:840][652]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.30-17.54.26:840][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.30-17.54.26:840][652]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-17.54.26:841][652]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-17.54.27:847][772]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.27:861][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.54.27:875][772]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.54.27:875][772]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.54.27:875][772]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.27:875][772]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.28:072][791]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.28:082][792]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.28:090][793]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.54.28:114][796]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.54.28:230][808]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.54.28:247][810]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.54.28:255][811]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.54.28:272][813]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.54.28:383][826]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.54.28:505][838]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.54.28:616][850]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.54.28:642][853]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.54.28:750][865]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.54.28:837][875]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.54.28:865][878]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.54.29:015][892]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.54.29:062][897]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.54.29:170][909]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.54.29:191][911]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.54.29:405][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.54.29:421][935]LogMaterialEditor: Applying material LaserGun3
+[2018.11.30-17.54.29:934][935]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.29:979][935]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.54.29:979][935]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.54.29:979][935]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.54.29:979][935]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.54.29:987][935]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.30:002][935]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.54.30:054][935]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGun3, compiling. 
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.54.31:237][935]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.54.31:239][935]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.54.33:561][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.55.03:827][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-17.55.04:529][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-17.55.05:154][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_Normal1169CE464C5812B25FEAFA98A01A0E22.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong3_Normal.uasset'
+[2018.11.30-17.55.05:913][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_OcclusionRoughneDAF0500B44C61A52418CFF886808EF8E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.uasset'
+[2018.11.30-17.55.06:413][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong4_BaseColorDBDD215F4BFE019CF435618FD16325B4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong4_BaseColor.uasset'
+[2018.11.30-17.55.06:463][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LaserGun3" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun3.uasset" SILENT=true
+[2018.11.30-17.55.06:541][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun3438EEFF847CBDF8A49305899BE695CBA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun3.uasset'
+[2018.11.30-17.55.06:621][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LaserGun" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset" SILENT=true
+[2018.11.30-17.55.06:746][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun2C2BA1024F5A10F8C9567BB96813E77C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset'
+[2018.11.30-17.55.07:553][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_BaseColorE9BF00A442AF3ECC4857F6B3FE6CC618.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong2_BaseColor.uasset'
+[2018.11.30-17.55.09:125][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong2_Normal9D30E0C74F65CEE3B52E70A386746647.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong2_Normal.uasset'
+[2018.11.30-17.55.09:910][852]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_BaseColor1314B46249BBA72BC129838DDB334C66.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong3_BaseColor.uasset'
+[2018.11.30-17.55.54:338][705]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/LaserGun_phong2_Normal.LaserGun_phong2_Normal
+[2018.11.30-17.55.57:954][104]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/LaserGun_phong2_OcclusionRoughnessMetallic.LaserGun_phong2_OcclusionRoughnessMetallic
+[2018.11.30-17.56.00:829][399]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/LaserGun_phong3_Normal.LaserGun_phong3_Normal
+[2018.11.30-17.56.10:275][ 90]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic
+[2018.11.30-17.56.12:361][304]LogTexture: Display: Building textures: LaserGun_phong3_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2018.11.30-17.56.12:912][304]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.12:912][304]LogMaterial: Warning: C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Content\Materials\LaserGun2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.56.12:912][304]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic
+[2018.11.30-17.56.12:914][304]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.12:915][304]LogMaterial: Warning: /Engine/Transient.LaserGun2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.56.12:915][304]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic
+[2018.11.30-17.56.12:933][304]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.13:211][305]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.56.13:212][305]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.56.13:212][305]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.56.14:084][409]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.14:084][409]LogMaterial: Warning: C:\Users\Nate\Documents\GitHub\nsshipma_FinalProject\TwinStickShooter\Content\Materials\LaserGun2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.30-17.56.14:084][409]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic
+[2018.11.30-17.56.14:093][409]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.LaserGun_phong3_OcclusionRoughnessMetallic
+[2018.11.30-17.56.15:509][553]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_phong3_OcclusionRoughneD1FC288F423BA912C4376383C78A2E69.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun_phong3_OcclusionRoughnessMetallic.uasset'
+[2018.11.30-17.56.21:453][251]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.21:465][251]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.56.21:465][251]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.56.21:465][251]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.56.21:465][251]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.56.21:467][251]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.56.21:495][251]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.21:663][265]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.56.21:680][267]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.56.21:698][269]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.56.21:913][290]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.56.21:922][291]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.56.21:957][295]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.56.21:967][296]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.56.22:120][306]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.56.22:120][306]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.56.22:120][306]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.56.22:150][308]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.56.22:301][317]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.56.22:310][318]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.56.22:319][319]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.56.22:329][320]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.56.22:578][339]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.56.22:717][351]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.56.22:728][352]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.56.22:738][353]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.56.22:939][369]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.56.22:948][369]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.56.22:951][369]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.22:977][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-17.56.23:006][369]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.23:104][377]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.56.23:136][380]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.56.23:155][382]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.56.23:293][396]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.56.23:380][404]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.56.23:397][406]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.56.23:408][407]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.56.23:494][416]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.56.23:574][424]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.56.23:582][425]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.56.23:591][426]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.56.23:681][436]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.56.23:720][440]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.56.23:745][443]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.56.23:754][444]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.56.23:983][466]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.56.24:058][474]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.56.24:102][479]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.56.24:111][480]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.56.24:300][497]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.56.24:362][503]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.56.24:504][518]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.56.24:534][521]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.56.24:815][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.56.25:115][587]LogMaterialEditor: Applying material LaserGun2
+[2018.11.30-17.56.29:681][587]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.29:731][587]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.56.29:731][587]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.56.29:731][587]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.56.29:731][587]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.56.29:742][587]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.29:758][587]LogMaterial: Display: Missing cached shader map for material LaserGun2, compiling. 
+[2018.11.30-17.56.29:810][587]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGun2, compiling. 
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.56.30:993][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.56.30:995][587]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-17.56.33:378][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.56.37:709][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.56.40:874][742]LogMaterialEditor: Saving and Compiling material LaserGun2
+[2018.11.30-17.56.40:898][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LaserGun2" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun2.uasset" SILENT=true
+[2018.11.30-17.56.41:031][742]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun2D6480E6C4E419689B62C539E1938EF02.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun2.uasset'
+[2018.11.30-17.57.00:942][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.57.01:017][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-17.57.01:071][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-17.57.01:071][ 11]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 7:57:01 AM)
+[2018.11.30-17.57.01:071][ 11]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-17.57.01:073][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002305s)
+[2018.11.30-17.57.01:074][ 11]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-17.57.01:074][ 11]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.11.30-17.57.01:074][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003074s)
+[2018.11.30-17.57.01:111][ 11]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-17.57.01:127][ 11]LogInit: FAudioDevice initialized.
+[2018.11.30-17.57.01:169][ 11]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-17.57.01:175][ 11]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-12.57.01
+[2018.11.30-17.57.01:176][ 11]LogWorld: Bringing up level for play took: 0.004772
+[2018.11.30-17.57.01:223][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-17.57.01:223][ 11]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-17.57.01:225][ 11]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.027
+[2018.11.30-17.57.06:342][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-17.57.06:379][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-17.57.06:429][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-17.57.06:455][623]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2018.11.30-17.57.08:251][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.58.07:716][151]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/LaserGunAmmoTracker.LaserGunAmmoTracker
+[2018.11.30-17.58.07:982][151]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-17.58.16:290][132]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGunAmmoTracker, compiling. 
+[2018.11.30-17.58.16:699][132]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.58.16:700][132]TextureStreamingBuild: Display: Compiling optional shaders took 0.414 seconds.
+[2018.11.30-17.58.16:837][132]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunAmmoTracker3B5A260F4E006D899881C2AA4015D18B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGunAmmoTracker.uasset'
+[2018.11.30-17.58.33:197][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.58.56:936][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.59.03:038][230]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/LaserGun3.LaserGun3
+[2018.11.30-17.59.03:040][230]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.03:123][230]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.03:135][230]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.03:149][230]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.59.03:150][230]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.59.03:150][230]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.03:150][230]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.03:175][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.59.03:663][272]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.03:697][276]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.03:705][277]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.59.03:713][278]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.59.03:844][293]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.59.03:861][295]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.59.03:870][296]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.59.03:877][297]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.59.04:016][313]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.59.04:109][323]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.59.04:252][340]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.59.04:277][343]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.59.04:378][355]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.59.04:470][366]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.59.04:479][367]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.59.04:649][387]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.59.04:701][393]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.59.04:775][402]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.59.04:808][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.59.05:027][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.59.09:711][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.59.12:760][352]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-17.59.12:872][353]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.59.12:872][353]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.59.12:872][353]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.59.14:456][543]LogSlate: Window 'Platform Stats' being destroyed
+[2018.11.30-17.59.14:459][543]LogSlate: Window 'Platform Stats' being destroyed
+[2018.11.30-17.59.30:344][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.59.34:302][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-17.59.45:140][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.45:152][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.30-17.59.45:160][ 42]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.59.45:160][ 42]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.59.45:160][ 42]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.59.45:160][ 42]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.59.45:163][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.30-17.59.45:218][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.45:257][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.30-17.59.45:669][ 84]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-17.59.45:702][ 88]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-17.59.45:711][ 89]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.59.45:719][ 90]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.59.45:885][109]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.45:901][111]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.45:918][113]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.59.45:925][114]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.59.46:079][131]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.59.46:079][131]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.59.46:112][135]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.59.46:122][136]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.59.46:271][153]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.59.46:415][169]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.59.46:483][177]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.59.46:523][182]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.59.46:640][195]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.59.46:731][206]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.59.46:782][212]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.59.46:904][226]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.59.46:955][232]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.59.47:039][242]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.59.47:096][248]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.59.47:282][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.59.56:376][355]LogEditorTransaction: Undo Rename Node
+[2018.11.30-17.59.56:378][355]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.56:394][355]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.11.30-17.59.56:411][355]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.59.56:411][355]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.59.56:411][355]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.56:411][355]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.56:641][369]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.56:651][370]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.56:652][370]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.59.56:661][371]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-17.59.56:803][385]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-17.59.56:804][386]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-17.59.56:822][387]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-17.59.56:831][388]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-17.59.56:941][402]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-17.59.57:062][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-17.59.57:171][428]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-17.59.57:196][431]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-17.59.57:310][444]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-17.59.57:403][455]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-17.59.57:429][458]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-17.59.57:570][474]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-17.59.57:630][481]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-17.59.57:715][491]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-17.59.57:751][495]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-17.59.57:940][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-17.59.59:674][721]LogEditorTransaction: Undo Material Editor: Convert
+[2018.11.30-17.59.59:676][721]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.59:687][721]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-17.59.59:698][721]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-17.59.59:698][721]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-17.59.59:698][721]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.59:698][721]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.59:725][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-17.59.59:891][731]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-17.59.59:912][733]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-17.59.59:937][736]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-17.59.59:937][736]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-18.00.00:079][750]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-18.00.00:086][750]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-18.00.00:103][752]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-18.00.00:113][753]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-18.00.00:239][768]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-18.00.00:350][780]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-18.00.00:453][792]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-18.00.00:480][795]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-18.00.00:608][810]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-18.00.00:689][819]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-18.00.00:723][823]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-18.00.00:901][843]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-18.00.00:919][845]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-18.00.01:053][858]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-18.00.01:063][859]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-18.00.01:242][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-18.00.05:424][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.00.08:065][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.00.23:519][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.00.33:571][386]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-18.00.33:582][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.11.30-18.00.33:591][386]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-18.00.33:592][386]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-18.00.33:592][386]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-18.00.33:592][386]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-18.00.33:595][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.11.30-18.00.33:634][386]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-18.00.33:675][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.11.30-18.00.34:081][427]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-18.00.34:123][432]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-18.00.34:130][433]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-18.00.34:130][433]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-18.00.34:284][450]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-18.00.34:326][455]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-18.00.34:351][458]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-18.00.34:359][459]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-18.00.34:445][469]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-18.00.34:489][474]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-18.00.34:555][482]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-18.00.34:555][482]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-18.00.34:607][488]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-18.00.34:797][509]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-18.00.34:832][513]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-18.00.34:950][527]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-18.00.34:972][529]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-18.00.35:067][540]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-18.00.35:185][553]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-18.00.35:302][567]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-18.00.35:336][571]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-18.00.35:396][578]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-18.00.35:493][589]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-18.00.35:662][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-18.00.46:014][849]LogMaterialEditor: Applying material LaserGun3
+[2018.11.30-18.00.46:488][849]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.11.30-18.00.46:549][849]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-18.00.46:549][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-18.00.46:549][849]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-18.00.46:549][849]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-18.00.46:559][849]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-18.00.46:576][849]LogMaterial: Display: Missing cached shader map for material LaserGun3, compiling. 
+[2018.11.30-18.00.46:658][849]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGun3, compiling. 
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-18.00.47:828][849]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-18.00.47:829][849]TextureStreamingBuild: Display: Compiling optional shaders took 1.176 seconds.
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.30-18.00.50:125][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-18.02.33:582][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.02.48:407][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.03.52:558][154]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LaserGunAmmoTracker, compiling. 
+[2018.11.30-18.03.52:976][154]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-18.03.52:978][154]TextureStreamingBuild: Display: Compiling optional shaders took 0.423 seconds.
+[2018.11.30-18.03.53:049][154]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunAmmoTracker399FD508490994F15377AE86C8232E7D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGunAmmoTracker.uasset'
+[2018.11.30-18.04.47:488][492]BlueprintLog: New page: Compile LaserGun
+[2018.11.30-18.04.50:557][808]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto75DBB99114B06B373276E3C88A0EA4A8A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto7.umap'
+[2018.11.30-18.04.50:563][808]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.130
+[2018.11.30-18.04.50:563][808]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.130
+[2018.11.30-18.04.50:565][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LaserGun3] ([1] browsable assets)...
+[2018.11.30-18.04.50:586][808]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LaserGun3.LaserGun3]
+[2018.11.30-18.04.50:586][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LaserGun3]
+[2018.11.30-18.04.50:791][808]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun3_Auto79E4627D74D4F7D8AE16431A9AB95DDF8.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Materials/LaserGun3_Auto7.uasset'
+[2018.11.30-18.04.50:794][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/LaserGun] ([1] browsable assets)...
+[2018.11.30-18.04.50:831][808]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/LaserGun.LaserGun]
+[2018.11.30-18.04.50:831][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/LaserGun]
+[2018.11.30-18.04.50:960][808]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun_Auto75677775740D634619A99959D3D030424.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/LaserGun_Auto7.uasset'
+[2018.11.30-18.04.50:961][808]LogFileHelpers: Auto-saving content packages took 0.396
+[2018.11.30-18.05.18:060][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-18.05.21:207][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.05.55:791][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.30-18.05.55:878][256]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapFFEE4A3C426E0867DC2C96A5571C9354.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.30-18.05.55:918][256]LogFileHelpers: Saving map 'ArenaMap' took 9.431
+[2018.11.30-18.05.55:921][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LaserGun3" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun3.uasset" SILENT=true
+[2018.11.30-18.05.55:958][256]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun3B79876D1497B290B350F65A2BD882907.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/LaserGun3.uasset'
+[2018.11.30-18.05.56:004][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LaserGun" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset" SILENT=true
+[2018.11.30-18.05.56:111][256]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGun8EB2FE4F4543A1E863B4998E1DF9AD8F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset'
+[2018.11.30-18.08.42:243][576]BlueprintLog: New page: Compile LaserGun
+[2018.11.30-18.08.52:106][698]BlueprintLog: New page: Compile LaserGun
+[2018.11.30-18.08.52:796][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LaserGun" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset" SILENT=true
+[2018.11.30-18.08.52:856][753]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserGunF46C1F584E3C9C139051CF91E51399DC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/LaserGun.uasset'
+[2018.11.30-18.08.55:752][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.30-18.08.55:832][ 94]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap3FBBB946444BCDCD684650BE0C908F26.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.30-18.08.55:868][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.11.30-18.08.55:922][ 94]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData7DD945BC412BE5DD7BD3918227295844.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.11.30-18.14.35:638][228]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.14.37:335][382]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.14.37:391][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.14.37:391][382]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:14:37 AM)
+[2018.11.30-18.14.37:391][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.14.37:393][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002333s)
+[2018.11.30-18.14.37:394][382]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.14.37:394][382]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.11.30-18.14.37:394][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003305s)
+[2018.11.30-18.14.37:434][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.14.37:450][382]LogInit: FAudioDevice initialized.
+[2018.11.30-18.14.37:479][382]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.14.37:481][382]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.14.37
+[2018.11.30-18.14.37:481][382]LogWorld: Bringing up level for play took: 0.001259
+[2018.11.30-18.14.37:501][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.14.37:502][382]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.14.37:503][382]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.25
+[2018.11.30-18.14.40:887][777]LogBlueprintUserMessages: [Type3_C_0] Hello
+[2018.11.30-18.14.57:706][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.14.57:743][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.14.57:774][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.14.57:807][795]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2018.11.30-18.15.03:649][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.16.12:869][697]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.16.13:763][729]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter8FB8793D4053509C1F8A6C85E849858D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.30-18.16.27:154][210]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.16.28:447][313]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.16.28:503][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.16.28:504][313]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:16:28 AM)
+[2018.11.30-18.16.28:504][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.16.28:506][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002309s)
+[2018.11.30-18.16.28:507][313]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.16.28:507][313]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.11.30-18.16.28:507][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003194s)
+[2018.11.30-18.16.28:543][313]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.16.28:558][313]LogInit: FAudioDevice initialized.
+[2018.11.30-18.16.28:593][313]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.16.28:594][313]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.16.28
+[2018.11.30-18.16.28:595][313]LogWorld: Bringing up level for play took: 0.001485
+[2018.11.30-18.16.28:615][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.16.28:615][313]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.16.28:616][313]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.637
+[2018.11.30-18.16.31:585][667]LogBlueprintUserMessages: [Type3_C_0] Hello
+[2018.11.30-18.16.34:581][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.16.34:621][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.16.34:651][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.16.34:683][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2018.11.30-18.16.36:097][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.16.40:053][651]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.16.40:813][675]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterE92A179C4826F340A2087092411035C4.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.11.30-18.16.41:702][774]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.16.41:757][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.16.41:757][774]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:16:41 AM)
+[2018.11.30-18.16.41:758][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.16.41:760][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002094s)
+[2018.11.30-18.16.41:760][774]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.16.41:761][774]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.11.30-18.16.41:761][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003000s)
+[2018.11.30-18.16.41:799][774]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.16.41:813][774]LogInit: FAudioDevice initialized.
+[2018.11.30-18.16.41:843][774]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.16.41:845][774]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.16.41
+[2018.11.30-18.16.41:845][774]LogWorld: Bringing up level for play took: 0.001323
+[2018.11.30-18.16.41:865][774]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.16.41:865][774]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.16.41:866][774]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.613
+[2018.11.30-18.17.04:344][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.04:380][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.17.04:412][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.04:443][465]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2018.11.30-18.17.05:189][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.17.05:297][567]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.17.05:321][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.17.05:321][567]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:17:05 AM)
+[2018.11.30-18.17.05:321][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.17.05:323][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002009s)
+[2018.11.30-18.17.05:323][567]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.17.05:324][567]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.11.30-18.17.05:324][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002702s)
+[2018.11.30-18.17.05:357][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.17.05:371][567]LogInit: FAudioDevice initialized.
+[2018.11.30-18.17.05:404][567]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.17.05:405][567]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.17.05
+[2018.11.30-18.17.05:405][567]LogWorld: Bringing up level for play took: 0.001167
+[2018.11.30-18.17.05:425][567]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.17.05:425][567]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.17.05:426][567]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.173
+[2018.11.30-18.17.18:091][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.18:133][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.17.18:163][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.18:195][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2018.11.30-18.17.19:483][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.17.19:549][248]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.17.19:572][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.17.19:572][248]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:17:19 AM)
+[2018.11.30-18.17.19:572][248]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.17.19:574][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002059s)
+[2018.11.30-18.17.19:574][248]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.17.19:575][248]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.11.30-18.17.19:575][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002894s)
+[2018.11.30-18.17.19:610][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.17.19:624][248]LogInit: FAudioDevice initialized.
+[2018.11.30-18.17.19:657][248]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.17.19:659][248]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.17.19
+[2018.11.30-18.17.19:659][248]LogWorld: Bringing up level for play took: 0.001158
+[2018.11.30-18.17.19:679][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.17.19:680][248]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.17.19:680][248]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.427
+[2018.11.30-18.17.23:034][648]LogBlueprintUserMessages: [Type3_C_1] Hello
+[2018.11.30-18.17.37:351][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.37:392][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.17.37:422][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.17.37:455][366]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2018.11.30-18.17.43:780][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.18.00:979][ 87]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.18.02:289][197]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.30-18.18.02:346][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-18.18.02:346][197]PIE: New page: PIE session: ArenaMap (Nov 30, 2018, 8:18:02 AM)
+[2018.11.30-18.18.02:346][197]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.11.30-18.18.02:349][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2018.11.30-18.18.02:349][197]LogAIModule: Creating AISystem for world ArenaMap
+[2018.11.30-18.18.02:349][197]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2018.11.30-18.18.02:349][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002914s)
+[2018.11.30-18.18.02:395][197]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-18.18.02:408][197]LogInit: FAudioDevice initialized.
+[2018.11.30-18.18.02:440][197]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.11.30-18.18.02:442][197]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.11.30-13.18.02
+[2018.11.30-18.18.02:443][197]LogWorld: Bringing up level for play took: 0.001242
+[2018.11.30-18.18.02:463][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.11.30-18.18.02:463][197]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.11.30-18.18.02:464][197]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.788
+[2018.11.30-18.18.05:383][545]LogBlueprintUserMessages: [Type3_C_0] Hello
+[2018.11.30-18.18.06:436][671]LogBlueprintUserMessages: [PlayerCharacter_8] Sick dodge bro
+[2018.11.30-18.18.06:445][672]LogBlueprintUserMessages: [PlayerCharacter_8] Sick dodge bro
+[2018.11.30-18.18.10:669][178]LogBlueprintUserMessages: [PlayerCharacter_8] Sick dodge bro
+[2018.11.30-18.18.10:678][179]LogBlueprintUserMessages: [PlayerCharacter_8] Sick dodge bro
+[2018.11.30-18.18.16:327][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.18.16:366][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-18.18.16:398][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-18.18.16:430][855]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2018.11.30-18.18.17:584][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-18.18.22:815][584]BlueprintLog: New page: Compile PlayerCharacter
+[2018.11.30-18.18.25:091][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.30-18.18.25:179][792]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapA9ACBCCE47C02F9520ED25B71E22121F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.11.30-18.18.25:239][792]LogFileHelpers: Saving map 'ArenaMap' took 0.247
+[2018.11.30-18.18.25:387][792]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter0875FAB8420A4A076856AAA491076772.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
