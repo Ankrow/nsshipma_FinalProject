@@ -8261,3 +8261,362 @@ LogInit: Object subsystem initialized
 [2018.12.01-18.17.32:709][716]LogPlayLevel: Display: Destroying online subsystem :Context_181
 [2018.12.01-18.17.47:091][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.12.01-18.17.47:995][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.18.26:171][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-18.18.26:360][525]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapE0E565274041A47156203BBE386BE477.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.01-18.18.26:570][525]LogFileHelpers: Saving map 'ArenaMap' took 38.547
+[2018.12.01-18.18.26:785][525]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMapMaterialF8ED718B4FB3505AF43018B14FB7F2D3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMapMaterial.uasset'
+[2018.12.01-18.19.21:748][528]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.21:748][528]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.23:032][676]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.23:032][676]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.26:027][ 21]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.26:027][ 21]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.12.01-18.19.35:511][140]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.19.35:511][140]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.21.12:855][693]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.21.13:556][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.21.13:612][743]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMap9F0B7420471F8E368055C2BF08E8D290.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.21.15:541][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-18.21.15:707][968]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap22FF07F94BBD4AEDC2290DB66F3CFFF9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.01-18.21.15:834][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.12.01-18.21.16:001][968]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataFD42534A4A9B4C969489019958BDE1EC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.12.01-18.21.17:017][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.21.17:050][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.21.17:050][ 83]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:21:17 AM)
+[2018.12.01-18.21.17:050][ 83]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.21.17:053][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002347s)
+[2018.12.01-18.21.17:053][ 83]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.21.17:054][ 83]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.12.01-18.21.17:054][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003207s)
+[2018.12.01-18.21.17:091][ 83]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.21.17:105][ 83]LogInit: FAudioDevice initialized.
+[2018.12.01-18.21.17:142][ 83]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.21.17:145][ 83]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.21.17
+[2018.12.01-18.21.17:145][ 83]LogWorld: Bringing up level for play took: 0.002288
+[2018.12.01-18.21.17:176][ 83]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.21.17:176][ 83]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.21.17:179][ 83]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.078
+[2018.12.01-18.21.22:580][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.21.22:617][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.21.22:651][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.21.22:703][722]LogPlayLevel: Display: Destroying online subsystem :Context_182
+[2018.12.01-18.21.23:475][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.21.45:434][775]BlueprintLog: New page: Compile TwinStickHUD
+[2018.12.01-18.21.45:967][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TwinStickHUD" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickHUD.uasset" SILENT=true
+[2018.12.01-18.21.46:022][808]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TwinStickHUDA2F2D8864139F5B158DB1CAF4C837789.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/TwinStickHUD.uasset'
+[2018.12.01-18.25.20:784][917]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.25.21:421][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.25.21:561][943]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMap03181AD24DBF99DBF27130A09176B568.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.26.39:155][376]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.26.39:155][376]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.27.03:850][864]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.27.03:850][864]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.27.06:569][179]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.27.06:569][179]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.31.09:400][310]LogVSAccessor: Warning: Could not get DTE interface from returned Visual Studio instance
+[2018.12.01-18.31.20:093][271]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.31.21:090][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.31.21:147][347]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMapEE281682436EBEC796179385411CDD66.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.33.54:206][847]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto29468CAB349B8D6223779E497CC6C60F0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto2.umap'
+[2018.12.01-18.33.54:210][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.100
+[2018.12.01-18.33.54:210][847]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2018.12.01-18.33.54:212][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2018.12.01-18.33.54:225][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter]
+[2018.12.01-18.33.54:225][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter]
+[2018.12.01-18.33.54:337][847]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter_Auto2C53571314097FDB96769408214BF6C76.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto2.uasset'
+[2018.12.01-18.33.54:359][847]LogFileHelpers: Auto-saving content packages took 0.148
+[2018.12.01-18.34.03:772][478]BlueprintLog: New page: Compile PlayerCharacter
+[2018.12.01-18.34.04:746][504]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter52BCA239460E7AD32173FD8E7F340018.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.12.01-18.34.06:732][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.34.06:793][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.34.06:793][692]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:34:06 AM)
+[2018.12.01-18.34.06:793][692]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.34.06:795][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002352s)
+[2018.12.01-18.34.06:796][692]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.34.06:796][692]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.12.01-18.34.06:796][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003173s)
+[2018.12.01-18.34.06:835][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.34.06:849][692]LogInit: FAudioDevice initialized.
+[2018.12.01-18.34.06:884][692]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.34.06:887][692]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.34.06
+[2018.12.01-18.34.06:888][692]LogWorld: Bringing up level for play took: 0.002437
+[2018.12.01-18.34.06:921][692]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.34.06:921][692]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.34.06:924][692]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.177
+[2018.12.01-18.34.08:255][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.34.08:298][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.34.08:331][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.34.08:381][839]LogPlayLevel: Display: Destroying online subsystem :Context_183
+[2018.12.01-18.34.21:594][759]BlueprintLog: New page: Compile PlayerCharacter
+[2018.12.01-18.34.22:050][759]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.20/Engine/Source/Runtime/Engine/Classes/Engine/SceneCapture2D.h 
+[2018.12.01-18.34.22:682][759]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacter3D0F45FE485E8A1627E692A95F76A47B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.12.01-18.34.25:939][759]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.20/Engine/Source/Runtime/Engine/Classes/Engine/SceneCapture2D.h : 42
+[2018.12.01-18.34.25:940][759]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.12.01-18.34.25:946][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:947][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:948][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:949][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:950][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:951][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:952][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:953][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:954][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:958][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:958][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:958][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:960][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:961][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:961][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:983][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:994][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.25:994][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:011][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:013][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:013][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:015][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:015][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:015][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:015][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:015][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:034][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:040][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:040][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:041][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:041][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:043][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:048][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:048][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:057][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:062][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:064][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:071][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:071][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:071][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:072][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:077][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.26:078][759]LogVSAccessor: Warning: Couldn't access module table
+[2018.12.01-18.34.27:950][763]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerCharacterDC45EA0344794E6DE6516E9B2626BCDE.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/PlayerCharacter.uasset'
+[2018.12.01-18.36.00:202][290]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCapturePrimitiveRenderMode' with an invalid value of ''
+[2018.12.01-18.36.00:202][290]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCapturePrimitiveRenderMode' with an invalid value of ''
+[2018.12.01-18.36.09:023][285]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.36.10:205][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.36.10:255][372]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMapEAEB0D3D4CAA9ABAF200898F6F061F67.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.38.22:293][396]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.38.23:018][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.38.23:079][448]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMap32619A2D4481CB5C5DF4A0BFD396229D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.38.25:060][682]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.38.25:100][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.38.25:100][682]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:38:25 AM)
+[2018.12.01-18.38.25:100][682]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.38.25:103][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002417s)
+[2018.12.01-18.38.25:103][682]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.38.25:104][682]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.12.01-18.38.25:104][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003503s)
+[2018.12.01-18.38.25:142][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.38.25:156][682]LogInit: FAudioDevice initialized.
+[2018.12.01-18.38.25:190][682]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.38.25:192][682]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.38.25
+[2018.12.01-18.38.25:192][682]LogWorld: Bringing up level for play took: 0.001273
+[2018.12.01-18.38.25:234][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.38.25:234][682]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.38.25:236][682]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.135
+[2018.12.01-18.38.31:321][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.38.31:361][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.38.31:388][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.38.31:440][407]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2018.12.01-18.38.33:264][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.38.49:169][349]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.38.49:844][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.38.49:955][390]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMap31B8AA244E12F20F81F717863DE384F1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.38.50:975][503]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.38.51:006][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.38.51:006][503]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:38:51 AM)
+[2018.12.01-18.38.51:007][503]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.38.51:009][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002136s)
+[2018.12.01-18.38.51:009][503]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.38.51:009][503]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.12.01-18.38.51:009][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002949s)
+[2018.12.01-18.38.51:045][503]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.38.51:058][503]LogInit: FAudioDevice initialized.
+[2018.12.01-18.38.51:087][503]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.38.51:089][503]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.38.51
+[2018.12.01-18.38.51:090][503]LogWorld: Bringing up level for play took: 0.001362
+[2018.12.01-18.38.51:122][503]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.38.51:122][503]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.38.51:125][503]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.024
+[2018.12.01-18.38.53:481][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.38.53:519][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.38.53:549][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.38.53:622][779]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2018.12.01-18.38.54:262][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.40.13:494][931]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.40.15:044][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.40.15:076][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.40.15:076][ 80]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:40:15 AM)
+[2018.12.01-18.40.15:076][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.40.15:078][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002129s)
+[2018.12.01-18.40.15:079][ 80]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.40.15:079][ 80]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2018.12.01-18.40.15:079][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002810s)
+[2018.12.01-18.40.15:114][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.40.15:127][ 80]LogInit: FAudioDevice initialized.
+[2018.12.01-18.40.15:157][ 80]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.40.15:159][ 80]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.40.15
+[2018.12.01-18.40.15:159][ 80]LogWorld: Bringing up level for play took: 0.001414
+[2018.12.01-18.40.15:179][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.40.15:179][ 80]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.40.15:180][ 80]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.079
+[2018.12.01-18.40.20:434][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.40.20:469][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.40.20:501][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.40.20:556][702]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2018.12.01-18.40.21:013][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.41.09:518][422]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.41.09:518][422]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.41.25:264][292]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.41.25:264][292]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureCompositeMode' with an invalid value of ''
+[2018.12.01-18.41.38:999][882]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.41.39:728][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MiniMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset" SILENT=true
+[2018.12.01-18.41.39:783][924]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/MiniMap32C768F44D6EA59B04A4DCA1AA7671B3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/MiniMap.uasset'
+[2018.12.01-18.41.41:667][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.41.41:703][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.41.41:703][141]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:41:41 AM)
+[2018.12.01-18.41.41:703][141]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.41.41:705][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002376s)
+[2018.12.01-18.41.41:706][141]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.41.41:706][141]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.12.01-18.41.41:706][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003113s)
+[2018.12.01-18.41.41:743][141]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.41.41:757][141]LogInit: FAudioDevice initialized.
+[2018.12.01-18.41.41:793][141]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.41.41:797][141]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.41.41
+[2018.12.01-18.41.41:797][141]LogWorld: Bringing up level for play took: 0.002268
+[2018.12.01-18.41.41:832][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.41.41:832][141]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.41.41:837][141]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.735
+[2018.12.01-18.41.44:841][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.41.44:879][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.41.44:927][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.41.44:949][494]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2018.12.01-18.41.59:757][213]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.42.01:277][349]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.42.01:309][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.42.01:309][349]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:42:01 AM)
+[2018.12.01-18.42.01:310][349]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.42.01:312][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002046s)
+[2018.12.01-18.42.01:312][349]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.42.01:312][349]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.12.01-18.42.01:312][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002753s)
+[2018.12.01-18.42.01:348][349]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.42.01:361][349]LogInit: FAudioDevice initialized.
+[2018.12.01-18.42.01:393][349]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.42.01:394][349]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.42.01
+[2018.12.01-18.42.01:395][349]LogWorld: Bringing up level for play took: 0.001139
+[2018.12.01-18.42.01:421][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.42.01:421][349]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.42.01:424][349]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.323
+[2018.12.01-18.42.06:289][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.42.06:336][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.42.06:381][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.42.06:413][917]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2018.12.01-18.42.11:713][523]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCapturePrimitiveRenderMode' with an invalid value of ''
+[2018.12.01-18.42.11:713][523]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCapturePrimitiveRenderMode' with an invalid value of ''
+[2018.12.01-18.42.12:748][645]BlueprintLog: New page: Compile MiniMap
+[2018.12.01-18.42.15:214][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-18.42.15:246][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.42.15:246][830]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:42:15 AM)
+[2018.12.01-18.42.15:246][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.01-18.42.15:248][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2018.12.01-18.42.15:249][830]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.01-18.42.15:249][830]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.12.01-18.42.15:249][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002696s)
+[2018.12.01-18.42.15:289][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.42.15:302][830]LogInit: FAudioDevice initialized.
+[2018.12.01-18.42.15:339][830]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.01-18.42.15:342][830]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.01-13.42.15
+[2018.12.01-18.42.15:342][830]LogWorld: Bringing up level for play took: 0.002433
+[2018.12.01-18.42.15:376][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.01-18.42.15:376][830]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.01-18.42.15:379][830]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.277
+[2018.12.01-18.42.17:974][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.42.18:016][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.42.18:046][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.42.18:093][135]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2018.12.01-18.44.01:509][586]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.44.01:510][586]LogClass: Warning: In asset 'None', there is an enum property of type 'ESceneCaptureSource' with an invalid value of ''
+[2018.12.01-18.44.07:070][ 99]LogSlate: Window 'Message' being destroyed
+[2018.12.01-18.44.08:738][ 99]LogSlate: Window 'Save Content' being destroyed
+[2018.12.01-18.44.09:740][ 99]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.01-18.44.10:009][ 99]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2018.12.01-18.44.10:810][100]Cmd: QUIT_EDITOR
+[2018.12.01-18.44.12:762][100]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-18.44.12:915][100]LogExit: Preparing to exit.
