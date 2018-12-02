@@ -10401,3 +10401,1806 @@ Make sure 'BaseTile_C' has been compiled for  Generate Walls
 [2018.12.02-05.44.47:661][616]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BaseTile479A59374CAE4F4558D26A8AF0EFFC21.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Rooms/BaseTile.uasset'
 [2018.12.02-05.45.04:749][810]LogSlate: Window 'Message Log' being destroyed
 [2018.12.02-05.45.04:752][810]LogSlate: Window 'Message Log' being destroyed
+[2018.12.02-05.45.31:986][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.45.59:373][877]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-05.45.59:998][913]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Shockwave2CDF2213431A3BA515B116AFBFAB66A6.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/Shockwave.uasset'
+[2018.12.02-05.46.42:308][750]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.42:326][750]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.42:341][750]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.46.42:341][750]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.46.42:341][750]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.46.42:341][750]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.46.42:922][817]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.46.42:929][818]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.46.42:945][820]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.46.42:955][821]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.46.43:055][832]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.46.43:089][836]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.46.43:222][849]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.43:383][859]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.46.43:406][861]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.46.43:416][862]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.46.43:546][874]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.46.43:573][877]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.46.43:590][879]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.46.43:709][891]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.46.43:719][892]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.46.43:719][892]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.46.43:762][897]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.46.44:074][925]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.46.44:094][927]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.46.44:120][930]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.46.44:306][952]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.46.44:583][976]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.46.44:603][979]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.46.44:619][981]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.46.44:835][  3]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.46.44:941][ 15]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.46.44:980][ 19]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.46.45:053][ 26]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.45:100][ 28]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.46.45:214][ 39]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.46.45:272][ 45]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.46.45:342][ 52]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.46.45:382][ 56]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.46.45:420][ 60]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.46.45:449][ 62]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.46.45:514][ 69]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.46.45:552][ 73]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.46.45:588][ 77]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.46.45:596][ 78]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.46.45:668][ 86]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.46.45:913][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.46.45:980][114]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.46.45:989][115]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.46.46:271][143]LogMaterialEditor: Saving and Compiling material ShockwaveMaterial
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.46.46:875][143]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.46.46:876][143]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.46.46:900][143]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.46:986][143]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.46.47:001][143]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.47:034][143]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.47:111][143]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-05.46.47:121][143]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ShockwaveMaterial, compiling. 
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.46.49:526][143]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.46.49:527][143]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.46.49:528][143]TextureStreamingBuild: Display: Compiling optional shaders took 2.414 seconds.
+[2018.12.02-05.46.49:579][143]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.46.52:430][143]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.46.52:722][143]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveMaterial718255E34206ECBC3021689F773E2F8D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/ShockwaveMaterial.uasset'
+[2018.12.02-05.46.52:755][143]MaterialEditorStats: Base pass shader: 70 instructions
+[2018.12.02-05.46.52:755][143]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 91 instructions
+[2018.12.02-05.46.52:755][143]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.02-05.46.52:755][143]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.02-05.46.52:755][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.46.52:756][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.46.54:448][334]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.46.54:486][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.46.54:486][334]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:46:54 PM)
+[2018.12.02-05.46.54:486][334]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.46.54:489][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002425s)
+[2018.12.02-05.46.54:489][334]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.46.54:490][334]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.12.02-05.46.54:490][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003318s)
+[2018.12.02-05.46.54:530][334]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.46.54:544][334]LogInit: FAudioDevice initialized.
+[2018.12.02-05.46.54:576][334]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.46.54:580][334]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.46.54
+[2018.12.02-05.46.54:581][334]LogWorld: Bringing up level for play took: 0.003341
+[2018.12.02-05.46.54:634][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.46.54:634][334]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.46.54:638][334]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.327
+[2018.12.02-05.47.06:642][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.06:677][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.47.06:710][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.06:745][716]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2018.12.02-05.47.07:765][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.47.08:140][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.47.08:179][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.47.08:180][883]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:47:08 PM)
+[2018.12.02-05.47.08:180][883]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.47.08:182][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002359s)
+[2018.12.02-05.47.08:183][883]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.47.08:183][883]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.12.02-05.47.08:183][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003080s)
+[2018.12.02-05.47.08:223][883]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.47.08:236][883]LogInit: FAudioDevice initialized.
+[2018.12.02-05.47.08:272][883]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.47.08:274][883]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.47.08
+[2018.12.02-05.47.08:274][883]LogWorld: Bringing up level for play took: 0.001302
+[2018.12.02-05.47.08:317][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.47.08:317][883]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.47.08:318][883]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.647
+[2018.12.02-05.47.13:273][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.13:311][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.47.13:355][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.13:380][449]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2018.12.02-05.47.14:368][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.47.14:460][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.47.14:499][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.47.14:499][578]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:47:14 PM)
+[2018.12.02-05.47.14:499][578]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.47.14:501][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002328s)
+[2018.12.02-05.47.14:502][578]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.47.14:502][578]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.12.02-05.47.14:502][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003032s)
+[2018.12.02-05.47.14:544][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.47.14:557][578]LogInit: FAudioDevice initialized.
+[2018.12.02-05.47.14:592][578]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.47.14:594][578]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.47.14
+[2018.12.02-05.47.14:595][578]LogWorld: Bringing up level for play took: 0.001331
+[2018.12.02-05.47.14:622][578]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.47.14:622][578]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.47.14:623][578]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.342
+[2018.12.02-05.47.21:919][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.21:959][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.47.22:028][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.47.22:053][419]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2018.12.02-05.47.22:451][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.47.29:826][336]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.47.29:851][337]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.47.29:851][337]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.47.29:851][337]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.47.29:851][337]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.47.30:416][399]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.47.30:425][400]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.47.30:425][400]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.47.30:433][401]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.47.30:542][412]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.47.30:598][418]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.47.30:822][438]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.47.30:822][438]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.47.30:905][447]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.47.30:906][447]LogMaterialEditor: Saving and Compiling material ShockwaveMaterial
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.47.31:520][447]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.47.31:534][447]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.47.31:611][447]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.47.31:634][447]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.47.31:662][447]LogMaterial: Display: Missing cached shader map for material ShockwaveMaterial, compiling. 
+[2018.12.02-05.47.31:737][447]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-05.47.31:746][447]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ShockwaveMaterial, compiling. 
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.47.34:272][447]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.47.34:275][447]TextureStreamingBuild: Display: Compiling optional shaders took 2.537 seconds.
+[2018.12.02-05.47.34:314][447]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.47.37:695][447]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-05.47.37:823][447]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveMaterial935A0165418134689DAEEE90D40E7AE0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/ShockwaveMaterial.uasset'
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: Base pass shader: 70 instructions
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 91 instructions
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.47.37:831][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.48.47:878][832]LogEditorViewport: Clicking Background
+[2018.12.02-05.48.52:332][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.49.02:717][567]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-05.49.04:326][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.49.04:365][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.49.04:366][734]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:49:04 PM)
+[2018.12.02-05.49.04:366][734]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.49.04:368][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002441s)
+[2018.12.02-05.49.04:369][734]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.49.04:369][734]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.12.02-05.49.04:369][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003252s)
+[2018.12.02-05.49.04:410][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.49.04:425][734]LogInit: FAudioDevice initialized.
+[2018.12.02-05.49.04:460][734]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.49.04:463][734]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.49.04
+[2018.12.02-05.49.04:463][734]LogWorld: Bringing up level for play took: 0.002282
+[2018.12.02-05.49.04:511][734]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.49.04:511][734]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.49.04:514][734]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.451
+[2018.12.02-05.49.07:424][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.49.07:462][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.49.07:495][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.49.07:520][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2018.12.02-05.49.10:806][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.49.17:273][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.49.26:549][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.49.26:633][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.49.26:673][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.49.26:673][999]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:49:26 PM)
+[2018.12.02-05.49.26:673][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.49.26:676][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2018.12.02-05.49.26:677][999]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.49.26:677][999]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2018.12.02-05.49.26:677][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003907s)
+[2018.12.02-05.49.26:719][999]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.49.26:732][999]LogInit: FAudioDevice initialized.
+[2018.12.02-05.49.26:771][999]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.49.26:775][999]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.49.26
+[2018.12.02-05.49.26:776][999]LogWorld: Bringing up level for play took: 0.003652
+[2018.12.02-05.49.26:844][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.49.26:844][999]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.49.26:847][999]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.118
+[2018.12.02-05.49.35:758][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.49.35:794][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.49.35:827][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.49.35:868][989]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2018.12.02-05.49.39:856][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.49.45:141][975]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-05.49.45:881][ 18]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Shockwave64171FD146BC8359FC5EF09E2E31A854.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/Shockwave.uasset'
+[2018.12.02-05.49.47:036][155]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.49.47:074][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.49.47:074][155]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:49:47 PM)
+[2018.12.02-05.49.47:075][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.49.47:078][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002812s)
+[2018.12.02-05.49.47:078][155]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.49.47:078][155]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.12.02-05.49.47:078][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003582s)
+[2018.12.02-05.49.47:120][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.49.47:134][155]LogInit: FAudioDevice initialized.
+[2018.12.02-05.49.47:171][155]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.49.47:176][155]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.49.47
+[2018.12.02-05.49.47:178][155]LogWorld: Bringing up level for play took: 0.004789
+[2018.12.02-05.49.47:238][155]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.49.47:238][155]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.49.47:240][155]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.275
+[2018.12.02-05.50.01:321][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.50.01:361][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.50.01:393][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.50.01:419][791]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2018.12.02-05.50.05:355][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-05.50.06:337][324]LogEditorViewport: Clicking Background
+[2018.12.02-05.50.06:811][380]LogEditorViewport: Clicking on Actor (LMB): ShockwaveEnemy_C (ShockwaveEnemy)
+[2018.12.02-05.50.08:505][570]Cmd: DELETE
+[2018.12.02-05.50.08:505][570]Cmd: ACTOR DELETE
+[2018.12.02-05.50.08:508][570]LogEditorActor: Deleted Actor: ShockwaveEnemy_C
+[2018.12.02-05.50.08:539][570]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.12.02-05.50.34:330][912]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_Auto7F1384A044388B6FE35FC88A9BC897A34.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/ArenaMap_Auto7.umap'
+[2018.12.02-05.50.34:336][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.224
+[2018.12.02-05.50.34:337][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
+[2018.12.02-05.53.00:063][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.53.02:012][517]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nate\Downloads\18183__testrack__dirty-pulse-lfo.wav)
+[2018.12.02-05.53.07:681][926]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/18183__testrack__dirty-pulse-lfo_Cue.18183__testrack__dirty-pulse-lfo_Cue
+[2018.12.02-05.53.16:786][968]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 18183__testrack__dirty-pulse-lfo...
+[2018.12.02-05.53.16:786][968]LogTemp: Couldn't find amount to resample to.
+[2018.12.02-05.53.16:910][968]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 930768 while cooking SoundWave /Game/SFX/18183__testrack__dirty-pulse-lfo.18183__testrack__dirty-pulse-lfo.
+[2018.12.02-05.54.38:586][246]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Nate\Downloads\336742__bazz-boy__wobble.mp3)
+[2018.12.02-05.55.02:061][653]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-05.55.03:939][736]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-05.55.04:359][736]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-05.55.04:595][736]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-05.55.04:737][736]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-05.55.04:916][736]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-05.55.14:150][803]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nate\Downloads\336742__bazz-boy__wobble (1).wav)
+[2018.12.02-05.55.23:270][532]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-05.55.25:200][750]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/336742__bazz-boy__wobble__1__Cue.336742__bazz-boy__wobble__1__Cue
+[2018.12.02-05.55.26:964][940]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 336742__bazz-boy__wobble__1_...
+[2018.12.02-05.55.26:965][940]LogTemp: Couldn't find amount to resample to.
+[2018.12.02-05.55.26:989][940]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 244224 while cooking SoundWave /Game/SFX/336742__bazz-boy__wobble__1_.336742__bazz-boy__wobble__1_.
+[2018.12.02-05.55.27:914][ 42]LogSlate: Window '336742__bazz-boy__wobble__1__Cue*' being destroyed
+[2018.12.02-05.56.08:736][870]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/336742__bazz-boy__wobble__1__Cue628FBE6445FAA40277EA9ABD61BA1480.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/336742__bazz-boy__wobble__1__Cue.uasset'
+[2018.12.02-05.56.17:777][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/ShockwaveSFX" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/ShockwaveSFX.uasset" SILENT=true
+[2018.12.02-05.56.17:786][922]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveSFX4C67E25D485B77E441BE5EB903C29A1A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/ShockwaveSFX.uasset'
+[2018.12.02-05.56.18:025][922]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/336742__bazz-boy__wobble__1__Cue4474B5224FEDFAA7770E268D917BB226.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/336742__bazz-boy__wobble__1__Cue.uasset'
+[2018.12.02-05.56.21:574][230]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-05.56.32:262][441]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/ShockwaveSFX_Cue.ShockwaveSFX_Cue
+[2018.12.02-05.56.41:764][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/ShockwaveSFX_Cue" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/ShockwaveSFX_Cue.uasset" SILENT=true
+[2018.12.02-05.56.41:773][522]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveSFX_CueD817FE5E4FDCD292A75334833A776D84.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/ShockwaveSFX_Cue.uasset'
+[2018.12.02-05.56.42:953][657]LogSlate: Window 'ShockwaveSFX_Cue' being destroyed
+[2018.12.02-05.56.42:957][657]LogSlate: Window 'ShockwaveSFX_Cue' being destroyed
+[2018.12.02-05.56.50:772][479]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Shockwave.Shockwave
+[2018.12.02-05.56.53:431][716]LogSlate: Window 'Shockwave' being destroyed
+[2018.12.02-05.57.29:817][893]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-05.57.31:507][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-05.57.31:538][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-05.57.31:538][ 66]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 7:57:31 PM)
+[2018.12.02-05.57.31:538][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-05.57.31:541][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2018.12.02-05.57.31:541][ 66]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-05.57.31:541][ 66]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.12.02-05.57.31:541][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003192s)
+[2018.12.02-05.57.31:575][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-05.57.31:590][ 66]LogInit: FAudioDevice initialized.
+[2018.12.02-05.57.31:628][ 66]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-05.57.31:634][ 66]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-00.57.31
+[2018.12.02-05.57.31:635][ 66]LogWorld: Bringing up level for play took: 0.004061
+[2018.12.02-05.57.31:701][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-05.57.31:701][ 66]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-05.57.31:704][ 66]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.738
+[2018.12.02-05.57.43:003][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.57.43:041][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-05.57.43:071][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-05.57.43:104][383]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2018.12.02-05.57.44:432][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-05.57.44:530][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-05.57.44:630][552]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap22C43E124A26D25964FD9095400AF7CA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.02-05.57.44:671][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.12.02-05.57.44:743][552]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltData6C496E794C10546249744F949387580A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.12.02-05.57.46:637][761]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Shockwave71F0C62A469BAD8EF9B916A5D37A69EE.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/Shockwave.uasset'
+[2018.12.02-05.58.39:990][561]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Items/HealthPickupMaterial_Inst.HealthPickupMaterial_Inst
+[2018.12.02-05.58.44:658][ 53]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Items/HealthPickupMaterial.HealthPickupMaterial
+[2018.12.02-05.58.44:679][ 53]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.58.44:798][ 53]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.58.44:816][ 53]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.58.44:847][ 53]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.58.44:847][ 53]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.58.44:847][ 53]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.58.44:847][ 53]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.58.44:861][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.02-05.58.44:865][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.12.02-05.58.44:869][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.02-05.58.44:873][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.02-05.58.45:444][ 97]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.58.45:444][ 97]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.58.45:462][ 99]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.58.45:507][104]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.58.45:648][118]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.58.45:675][121]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.58.45:702][124]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.58.45:740][128]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.58.45:806][134]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.58.45:844][138]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.58.45:880][142]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.58.45:916][146]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.58.45:983][153]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.58.46:014][156]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.58.46:056][160]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.58.46:096][164]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.58.46:158][170]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.58.46:210][175]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.58.46:273][181]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.58.46:332][187]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.58.46:407][195]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.58.46:449][199]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.58.46:498][204]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.58.46:519][206]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.58.46:580][212]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.58.46:613][215]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.58.46:653][219]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.58.46:672][221]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.58.46:754][230]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.58.46:920][244]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.58.47:099][260]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.58.47:122][262]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.58.47:165][266]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.58.47:328][281]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.58.47:341][282]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.58.47:561][301]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.58.47:572][302]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.58.47:624][307]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.58.47:697][314]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.58.47:811][323]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.58.47:956][336]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.58.47:983][339]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.58.48:082][349]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.58.48:145][354]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.58.48:163][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.58.48:204][359]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.58.48:270][365]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.58.48:390][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-05.58.48:390][375]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-05.59.02:201][  7]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.02:236][  7]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.02:236][  7]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.02:236][  7]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.02:236][  7]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.02:239][  7]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.02:290][  7]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.12.02-05.59.02:374][  8]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2018.12.02-05.59.02:406][  9]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-05.59.02:406][  9]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-05.59.02:423][ 11]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.59.02:469][ 16]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.59.02:551][ 24]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.59.02:576][ 27]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.59.02:587][ 28]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.59.02:691][ 39]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.02:703][ 40]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.02:788][ 49]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.02:823][ 52]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.02:868][ 57]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.02:932][ 64]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.02:949][ 66]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.02:986][ 70]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.03:030][ 75]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.03:097][ 82]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.03:119][ 84]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.03:167][ 89]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.03:201][ 92]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.03:266][ 98]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.03:298][101]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.03:357][106]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.03:433][113]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.03:504][120]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.03:545][124]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.03:625][132]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.03:634][133]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.03:665][136]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.03:693][139]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.03:765][146]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.03:778][147]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.03:833][153]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.04:027][169]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.04:105][177]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.04:191][186]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.04:217][188]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.04:356][201]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.04:442][206]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.04:445][206]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.04:566][210]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-05.59.04:622][215]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-05.59.04:661][219]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.59.04:765][229]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.59.04:837][235]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.59.04:859][237]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.59.04:870][238]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.59.04:941][245]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.05:015][248]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.05:066][253]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.05:087][255]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.05:150][261]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.05:170][263]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.05:251][270]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.05:297][274]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.05:329][277]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.05:339][278]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.05:415][285]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.05:464][289]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.05:533][295]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.05:533][295]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.05:590][301]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.05:627][305]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.05:709][312]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.05:745][315]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.05:793][320]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.05:899][331]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.05:921][333]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.05:966][338]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.05:997][341]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.06:055][347]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.06:077][349]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.06:116][353]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.06:134][355]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.06:211][363]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.06:225][363]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.06:373][371]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.59.06:478][381]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.59.06:534][387]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.59.06:542][388]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.59.06:591][393]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.59.06:663][400]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.06:686][402]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.06:754][409]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.06:788][412]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.06:837][417]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.06:890][422]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.06:958][429]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.06:984][432]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.07:004][434]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.07:060][440]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.07:134][447]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.07:154][449]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.07:174][451]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.07:218][456]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.07:304][464]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.07:336][467]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.07:347][468]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.07:469][479]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.07:502][482]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.07:558][488]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.07:640][496]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.07:662][498]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.07:682][500]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.07:717][504]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.07:808][513]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.07:819][514]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.07:829][515]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.07:881][521]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.08:077][539]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.08:221][554]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.08:259][558]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.08:281][560]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.08:434][576]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.08:490][581]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.08:667][599]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.08:698][602]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.08:734][606]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.08:852][617]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.08:939][625]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.09:042][635]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.59.09:273][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.59.09:741][712]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.09:814][713]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.09:814][713]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.09:814][713]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.09:814][713]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.09:945][724]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.09:955][725]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.09:972][727]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.10:016][732]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.10:095][739]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.10:135][743]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.10:186][748]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.10:248][754]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.10:258][755]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.10:313][757]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.10:333][759]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.10:400][765]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.10:423][767]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.10:476][772]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.10:497][774]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.10:578][781]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.10:590][782]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.10:655][788]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.10:743][796]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.10:764][798]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.10:831][805]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.10:904][812]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.10:932][815]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.10:944][816]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.10:999][822]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.11:068][828]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.11:078][829]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.11:097][831]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.11:155][837]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.11:344][851]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.11:474][862]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.11:512][865]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.11:558][869]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.11:691][881]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.11:754][886]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.11:915][901]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.11:940][903]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.59.12:005][909]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.59.12:106][918]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-05.59.12:173][924]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.59.12:530][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.59.13:713][101]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.13:773][102]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.13:773][102]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.13:773][102]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.13:773][102]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.13:940][118]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.13:940][118]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.13:948][119]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.13:976][122]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.14:093][133]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.14:119][135]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.14:184][142]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.14:208][144]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.14:249][148]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.14:290][152]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.14:396][161]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.14:429][164]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.14:450][166]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.14:513][172]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.14:608][180]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.14:672][186]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.14:672][186]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.14:711][190]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.14:834][201]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.14:845][202]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.14:900][208]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.15:005][217]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.15:035][220]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.15:061][223]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.15:071][224]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.15:155][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.15:216][238]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.15:216][238]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.15:235][240]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.15:478][261]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.15:563][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.15:639][278]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.15:660][280]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.15:793][293]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.15:881][301]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.16:012][314]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.16:061][319]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.59.16:116][325]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.59.16:246][337]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-05.59.16:306][344]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-05.59.16:627][379]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.59.16:627][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.59.16:628][379]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.59.16:628][379]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.59.16:628][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.59.16:628][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.59.16:639][380]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.16:658][380]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.16:682][381]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.16:682][381]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.16:682][381]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.16:682][381]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.16:869][400]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.16:869][400]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.16:878][401]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.16:939][408]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.17:016][415]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.17:042][418]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.17:098][424]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.17:159][430]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.17:187][433]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.17:199][434]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.17:263][441]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.17:336][448]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.17:355][450]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.17:386][453]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.17:451][459]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.17:493][463]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.17:525][466]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.17:567][470]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.17:667][478]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.17:710][482]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.17:765][488]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.17:837][495]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.17:879][499]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.17:936][505]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.17:963][506]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.17:963][506]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.17:986][508]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.18:043][511]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.18:130][518]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.18:140][519]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.18:162][521]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.18:263][530]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.18:290][532]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.18:317][535]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.18:367][540]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.18:451][547]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.18:481][550]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.18:503][552]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.18:539][556]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.18:619][562]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.18:653][565]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.18:665][566]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.18:706][570]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.18:778][576]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.18:825][580]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.18:837][581]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.18:955][590]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.18:998][594]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.19:027][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.19:126][606]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.19:159][609]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.19:178][611]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.19:186][612]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.19:297][622]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.19:318][624]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.19:328][625]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.19:359][628]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.19:577][646]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.19:610][648]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.19:645][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.12.02-05.59.19:699][650]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.59.19:742][654]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.59.19:743][654]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.19:871][665]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.19:911][669]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.19:920][670]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.19:969][675]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.20:081][685]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.20:090][686]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.20:127][690]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.20:154][693]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.20:254][702]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.20:286][705]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.20:305][707]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.20:325][709]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.20:423][718]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.20:457][721]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.20:475][723]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.20:485][724]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.20:597][734]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.20:637][738]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.20:657][740]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.20:777][751]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.20:806][754]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.20:835][757]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.20:942][767]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.20:942][767]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.20:983][771]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.21:023][775]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.21:099][781]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.21:131][784]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.21:142][785]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.21:171][788]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.21:389][805]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.21:503][816]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.21:563][822]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.21:575][823]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.21:722][836]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.21:796][842]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.21:944][856]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.22:001][861]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.22:045][865]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.22:147][874]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.59.22:243][882]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.59.22:332][890]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-05.59.22:401][896]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.59.22:581][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-05.59.28:093][565]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.28:120][566]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.28:120][566]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.28:120][566]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.28:120][566]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.28:289][581]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.28:299][582]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.28:329][585]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.28:370][589]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.28:453][596]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.28:483][599]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.28:550][605]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.28:595][609]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.28:614][611]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.28:653][615]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.28:713][620]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.28:772][625]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.28:782][626]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.28:821][630]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.28:895][636]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.28:930][639]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.28:951][641]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.28:981][644]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.29:104][654]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.29:127][656]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.29:176][661]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.29:271][670]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.29:313][674]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.29:340][676]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.29:351][676]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.29:428][684]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.29:478][688]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.29:478][688]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.29:522][692]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.29:742][709]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.29:953][727]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.29:981][729]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.29:997][730]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.30:198][746]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.30:258][751]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.30:422][766]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.30:459][769]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.59.30:477][770]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.30:498][770]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.30:641][781]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-05.59.30:698][786]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-05.59.30:710][787]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-05.59.30:821][796]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-05.59.30:853][798]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-05.59.30:872][800]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-05.59.30:948][807]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-05.59.30:989][810]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-05.59.31:031][814]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.31:088][819]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-05.59.31:144][824]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-05.59.31:176][827]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-05.59.31:201][829]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-05.59.31:254][834]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-05.59.31:324][840]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-05.59.31:344][842]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-05.59.31:366][844]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-05.59.31:414][849]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-05.59.31:491][856]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.31:513][858]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-05.59.31:525][859]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-05.59.31:669][871]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-05.59.31:688][873]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-05.59.31:739][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-05.59.31:833][886]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-05.59.31:882][890]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-05.59.31:891][891]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-05.59.31:892][891]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-05.59.31:988][900]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.32:027][903]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-05.59.32:047][905]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-05.59.32:058][906]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-05.59.32:288][925]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-05.59.32:313][927]LogMaterialEditor: Applying material HealthPickupMaterial
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-05.59.32:950][927]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-05.59.33:001][927]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.33:078][927]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-05.59.33:099][927]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.33:122][927]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.02-05.59.33:127][927]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.33:219][927]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.12.02-05.59.33:227][927]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HealthPickupMaterial, compiling. 
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-05.59.35:564][927]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-05.59.35:565][927]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-05.59.35:565][927]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-05.59.35:566][927]TextureStreamingBuild: Display: Compiling optional shaders took 2.344 seconds.
+[2018.12.02-05.59.35:597][927]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-05.59.35:599][927]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-05.59.37:327][ 80]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-05.59.38:836][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-06.00.03:365][986]LogEditorTransaction: Undo Edit DisolveAmount
+[2018.12.02-06.00.03:389][986]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.03:420][986]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.03:420][986]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.03:420][986]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.03:420][986]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.03:769][ 17]LogEditorTransaction: Undo Override Parameter
+[2018.12.02-06.00.03:790][ 17]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.03:920][ 22]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.03:920][ 22]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.03:948][ 25]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.04:046][ 35]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.04:098][ 40]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.04:106][ 41]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.04:115][ 42]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.04:116][ 42]LogEditorTransaction: Undo Create Pin Link
+[2018.12.02-06.00.04:120][ 42]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.04:159][ 42]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.04:278][ 46]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.04:286][ 47]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.04:286][ 47]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.04:341][ 53]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.04:452][ 63]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.04:469][ 65]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.04:481][ 66]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.04:491][ 67]LogEditorTransaction: Undo Create Pin Link
+[2018.12.02-06.00.04:499][ 67]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.04:537][ 67]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.04:616][ 68]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.04:616][ 68]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.04:636][ 70]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.04:690][ 76]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.04:758][ 82]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.04:796][ 86]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.04:806][ 87]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.04:920][ 98]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.00.04:933][ 99]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.00.04:942][100]LogEditorTransaction: Undo Create Pin Link
+[2018.12.02-06.00.04:950][100]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.04:990][100]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.04:993][100]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.05:024][100]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.12.02-06.00.05:039][100]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.05:106][101]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-06.00.05:140][104]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.05:152][105]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.05:180][108]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.05:260][116]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.05:311][120]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.05:385][128]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.05:394][129]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.05:478][138]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.00.05:489][139]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.00.05:573][147]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.00.05:633][152]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-06.00.05:652][154]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-06.00.05:691][158]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-06.00.05:757][164]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-06.00.05:808][169]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-06.00.05:818][170]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-06.00.05:846][173]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-06.00.05:920][180]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-06.00.05:984][186]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-06.00.05:994][187]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-06.00.06:081][195]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-06.00.06:153][202]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-06.00.06:182][205]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-06.00.06:262][213]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-06.00.06:284][215]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-06.00.06:335][220]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-06.00.06:344][221]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-06.00.06:428][229]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-06.00.06:450][231]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-06.00.06:462][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-06.00.06:507][237]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-06.00.06:701][254]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-06.00.06:838][266]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-06.00.06:905][272]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-06.00.06:915][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-06.00.07:068][287]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-06.00.07:114][291]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-06.00.07:128][292]LogEditorTransaction: Undo Edit Const B
+[2018.12.02-06.00.07:133][292]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.07:178][292]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.07:281][296]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-06.00.07:323][300]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-06.00.07:366][304]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.07:470][314]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.07:544][320]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.07:564][322]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.07:594][325]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.07:654][331]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.07:710][336]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.07:766][342]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.00.07:789][344]LogEditorTransaction: Undo Move Node
+[2018.12.02-06.00.07:805][344]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.00.07:807][344]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.07:876][345]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.07:889][346]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.07:959][353]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.07:983][355]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.08:015][358]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.08:063][363]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.08:120][368]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.08:178][374]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.00.08:190][375]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.00.08:268][383]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.00.08:288][385]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-06.00.08:360][392]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-06.00.08:415][397]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-06.00.08:425][398]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-06.00.08:464][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-06.00.08:527][408]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-06.00.08:580][412]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-06.00.08:600][414]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-06.00.08:640][418]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-06.00.08:641][418]LogEditorTransaction: Undo Material Editor: New Expression
+[2018.12.02-06.00.08:645][418]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.08:684][418]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.08:687][418]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.08:762][418]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.08:762][418]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.08:852][426]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.08:904][431]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.08:943][435]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.00.09:018][443]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.00.09:074][448]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.00.09:101][451]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.00.09:129][454]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.00.09:225][463]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.00.09:249][465]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-06.00.09:302][471]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-06.00.09:332][474]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-06.00.09:391][480]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-06.00.09:418][482]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-06.00.09:470][487]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-06.00.09:502][490]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-06.00.09:571][497]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-06.00.09:593][499]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-06.00.09:647][504]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-06.00.09:691][508]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-06.00.09:756][514]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-06.00.09:825][520]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-06.00.09:863][524]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-06.00.09:955][533]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-06.00.09:988][536]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-06.00.10:046][542]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-06.00.10:114][548]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-06.00.10:123][549]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-06.00.10:174][554]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-06.00.10:192][556]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-06.00.10:238][560]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-06.00.10:283][565]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-06.00.10:479][582]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-06.00.10:591][591]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-06.00.10:654][598]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-06.00.10:711][603]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-06.00.10:833][614]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-06.00.10:891][619]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-06.00.11:085][636]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-06.00.11:085][636]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-06.00.11:172][645]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-06.00.11:240][651]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-06.00.11:320][658]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-06.00.11:652][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-06.00.23:468][980]LogMaterialEditor: Saving and Compiling material HealthPickupMaterial
+[2018.12.02-06.00.24:138][980]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.24:214][980]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.00.24:214][980]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.00.24:214][980]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.00.24:214][980]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.00.24:227][980]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.24:256][980]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.24:368][980]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HealthPickupMaterial, compiling. 
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.02-06.00.26:563][980]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.00.26:564][980]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-06.00.26:566][980]TextureStreamingBuild: Display: Compiling optional shaders took 2.205 seconds.
+[2018.12.02-06.00.26:598][980]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-06.00.29:077][980]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-06.00.29:175][980]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/HealthPickupMaterialB574A11D43D648DBE1EAF29B330567C7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/Items/HealthPickupMaterial.uasset'
+[2018.12.02-06.00.47:555][916]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/DisolveGradient.DisolveGradient
+[2018.12.02-06.00.47:565][916]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.12.02-06.02.00:393][755]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nate\Desktop\20150221_disintegrate-2-s1.png)
+[2018.12.02-06.02.00:425][755]LogTexture: Display: Building textures: 20150221_disintegrate-2-s1 (AutoDXT, 512X512)
+[2018.12.02-06.02.11:793][735]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ReverseDisolveGradientC023C8844EEC3090A34CFAB374A63733.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/ReverseDisolveGradient.uasset'
+[2018.12.02-06.02.20:570][738]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.20:591][738]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.02.20:591][738]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.02.20:591][738]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.02.20:591][738]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.02.20:594][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.12.02-06.02.20:623][738]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.21:126][788]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-06.02.21:126][788]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-06.02.21:135][789]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.02.21:189][795]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.02.21:321][805]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.02.21:379][811]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-06.02.21:388][812]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-06.02.21:432][816]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-06.02.21:490][821]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-06.02.21:566][827]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-06.02.21:612][831]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-06.02.21:677][837]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.02.21:689][838]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-06.02.21:781][847]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-06.02.21:796][848]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-06.02.21:864][854]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-06.02.21:884][856]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-06.02.21:956][863]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-06.02.21:978][865]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-06.02.22:034][870]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-06.02.22:055][872]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-06.02.22:126][878]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-06.02.22:151][880]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-06.02.22:204][885]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-06.02.22:309][894]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-06.02.22:321][895]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-06.02.22:362][899]LogMaterialEditor: Applying material HealthPickupMaterial
+[2018.12.02-06.02.22:976][899]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-06.02.22:976][899]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-06.02.22:977][899]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-06.02.23:019][899]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.23:083][899]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-06.02.23:083][899]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-06.02.23:083][899]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-06.02.23:102][899]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.23:131][899]LogMaterial: Display: Missing cached shader map for material HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.23:234][899]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.02-06.02.23:241][899]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HealthPickupMaterial, compiling. 
+[2018.12.02-06.02.25:492][899]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.02-06.02.25:492][899]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-06.02.25:492][899]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.02-06.02.25:492][899]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-06.02.25:493][899]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-06.02.25:495][899]TextureStreamingBuild: Display: Compiling optional shaders took 2.261 seconds.
+[2018.12.02-06.02.25:527][899]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-06.02.27:083][ 41]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-06.02.28:452][205]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.12.02-06.02.28:452][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.12.02-06.02.28:452][205]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.02-06.02.28:452][205]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.02-06.02.28:452][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.02-06.02.28:453][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.02-06.03.12:275][333]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/HealthPickupMaterial57E4629F4967729459C81A971AF35E8D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/Items/HealthPickupMaterial.uasset'
+[2018.12.02-06.03.12:325][333]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HealthPickupMaterial_Inst, compiling. 
+[2018.12.02-06.03.12:969][333]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-06.03.12:970][333]TextureStreamingBuild: Display: Compiling optional shaders took 0.649 seconds.
+[2018.12.02-06.03.13:286][333]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/HealthPickupMaterial_InstE80AFC9A4C7E118109FCAE8C975F71D0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/Items/HealthPickupMaterial_Inst.uasset'
+[2018.12.02-06.03.16:233][673]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HealthPickupMaterial_Inst, compiling. 
+[2018.12.02-06.03.16:369][673]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-06.03.16:369][673]TextureStreamingBuild: Display: Compiling optional shaders took 0.140 seconds.
+[2018.12.02-06.03.16:457][673]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/HealthPickupMaterial_Inst9147E61749CA1F362B998E835585AD42.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/Items/HealthPickupMaterial_Inst.uasset'
+[2018.12.02-06.03.19:788][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.03.19:814][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.03.19:814][ 67]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:03:19 PM)
+[2018.12.02-06.03.19:814][ 67]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.03.19:817][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002772s)
+[2018.12.02-06.03.19:818][ 67]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.03.19:818][ 67]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.12.02-06.03.19:818][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003598s)
+[2018.12.02-06.03.19:853][ 67]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.03.19:868][ 67]LogInit: FAudioDevice initialized.
+[2018.12.02-06.03.19:900][ 67]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.03.19:904][ 67]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.03.19
+[2018.12.02-06.03.19:904][ 67]LogWorld: Bringing up level for play took: 0.002672
+[2018.12.02-06.03.19:954][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.03.19:954][ 67]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.03.19:956][ 67]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.991
+[2018.12.02-06.03.21:239][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.03.21:279][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.03.21:306][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.03.21:341][218]LogPlayLevel: Display: Destroying online subsystem :Context_195
+[2018.12.02-06.03.24:559][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.03.29:318][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.03.32:894][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.03.32:977][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.03.33:004][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.03.33:004][362]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:03:33 PM)
+[2018.12.02-06.03.33:004][362]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.03.33:007][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2018.12.02-06.03.33:007][362]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.03.33:007][362]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.12.02-06.03.33:007][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003140s)
+[2018.12.02-06.03.33:045][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.03.33:058][362]LogInit: FAudioDevice initialized.
+[2018.12.02-06.03.33:088][362]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.03.33:091][362]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.03.33
+[2018.12.02-06.03.33:092][362]LogWorld: Bringing up level for play took: 0.002331
+[2018.12.02-06.03.33:144][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.03.33:144][362]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.03.33:146][362]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.182
+[2018.12.02-06.03.37:199][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.03.37:235][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.03.37:261][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.03.37:303][829]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2018.12.02-06.03.41:344][313]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_C (HealthPickup)
+[2018.12.02-06.03.42:266][420]Cmd: DELETE
+[2018.12.02-06.03.42:266][420]Cmd: ACTOR DELETE
+[2018.12.02-06.03.42:268][420]LogEditorActor: Deleted Actor: HealthPickup_C
+[2018.12.02-06.03.42:296][420]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.12.02-06.03.43:619][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.03.43:726][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-06.03.43:890][589]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap207C44CA446CF64A90E8AD9E3D3C3D28.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.02-06.03.44:064][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.12.02-06.03.44:228][589]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataB55D30DB4C90765C20213482F71F2EAA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.12.02-06.06.50:744][310]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.06.50:767][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.06.50:767][310]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:06:50 PM)
+[2018.12.02-06.06.50:767][310]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.06.50:770][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002774s)
+[2018.12.02-06.06.50:771][310]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.06.50:771][310]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.12.02-06.06.50:771][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003601s)
+[2018.12.02-06.06.50:809][310]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.06.50:825][310]LogInit: FAudioDevice initialized.
+[2018.12.02-06.06.50:863][310]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.06.50:867][310]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.06.50
+[2018.12.02-06.06.50:867][310]LogWorld: Bringing up level for play took: 0.002329
+[2018.12.02-06.06.50:913][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.06.50:913][310]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.06.50:915][310]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.051
+[2018.12.02-06.07.06:629][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.06:669][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.07.06:698][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.06:730][147]LogPlayLevel: Display: Destroying online subsystem :Context_197
+[2018.12.02-06.07.08:177][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.07.08:260][330]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.07.08:283][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.07.08:283][330]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:07:08 PM)
+[2018.12.02-06.07.08:283][330]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.07.08:285][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2018.12.02-06.07.08:285][330]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.07.08:286][330]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.12.02-06.07.08:286][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002673s)
+[2018.12.02-06.07.08:318][330]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.07.08:331][330]LogInit: FAudioDevice initialized.
+[2018.12.02-06.07.08:361][330]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.07.08:363][330]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.07.08
+[2018.12.02-06.07.08:363][330]LogWorld: Bringing up level for play took: 0.001212
+[2018.12.02-06.07.08:409][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.07.08:410][330]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.07.08:411][330]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.554
+[2018.12.02-06.07.14:794][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.14:831][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.07.14:855][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.14:897][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2018.12.02-06.07.15:867][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.07.15:934][214]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.07.15:955][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.07.15:955][214]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:07:15 PM)
+[2018.12.02-06.07.15:955][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.07.15:958][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002386s)
+[2018.12.02-06.07.15:958][214]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.07.15:958][214]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.12.02-06.07.15:958][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003033s)
+[2018.12.02-06.07.15:991][214]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.07.16:004][214]LogInit: FAudioDevice initialized.
+[2018.12.02-06.07.16:035][214]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.07.16:039][214]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.07.16
+[2018.12.02-06.07.16:039][214]LogWorld: Bringing up level for play took: 0.002097
+[2018.12.02-06.07.16:113][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.07.16:113][214]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.07.16:115][214]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.151
+[2018.12.02-06.07.28:526][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.28:560][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.07.28:583][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.07.28:623][681]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2018.12.02-06.12.10:281][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.12.12:473][116]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nate\Downloads\417731__wcoltd__laser1.wav)
+[2018.12.02-06.12.21:818][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/EnemyLaserSFX" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserSFX.uasset" SILENT=true
+[2018.12.02-06.12.21:827][924]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyLaserSFXC23FA01A40D176195FF1D883E7F89A02.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserSFX.uasset'
+[2018.12.02-06.12.30:838][964]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/EnemyLaserSFX_Cue.EnemyLaserSFX_Cue
+[2018.12.02-06.12.39:979][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/EnemyLaserSFX_Cue" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserSFX_Cue.uasset" SILENT=true
+[2018.12.02-06.12.40:069][  6]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyLaserSFX_Cue96278F794C979EA8DD87CAA7C3B604C1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserSFX_Cue.uasset'
+[2018.12.02-06.12.41:486][158]LogSlate: Window 'EnemyLaserSFX_Cue' being destroyed
+[2018.12.02-06.12.41:491][158]LogSlate: Window 'EnemyLaserSFX_Cue' being destroyed
+[2018.12.02-06.12.49:489][936]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/TurretEnemy.TurretEnemy
+[2018.12.02-06.12.52:195][146]LogSlate: Window 'TurretEnemy' being destroyed
+[2018.12.02-06.13.47:112][272]BlueprintLog: New page: Compile TurretEnemy
+[2018.12.02-06.13.48:027][307]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretEnemy154980FA443D5F7B0BFBC5AF34AFD72D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretEnemy.uasset'
+[2018.12.02-06.13.52:101][637]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Shockwave.Shockwave
+[2018.12.02-06.14.03:894][938]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-06.14.04:688][974]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveB31F80D44CA80047A0E8B4BDFF7779A6.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/Shockwave.uasset'
+[2018.12.02-06.14.25:236][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.14.26:363][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.14.26:405][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.14.26:405][244]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:14:26 PM)
+[2018.12.02-06.14.26:405][244]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.14.26:408][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002604s)
+[2018.12.02-06.14.26:408][244]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.14.26:408][244]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.12.02-06.14.26:408][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003299s)
+[2018.12.02-06.14.26:446][244]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.14.26:460][244]LogInit: FAudioDevice initialized.
+[2018.12.02-06.14.26:496][244]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.14.26:503][244]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.14.26
+[2018.12.02-06.14.26:505][244]LogWorld: Bringing up level for play took: 0.006129
+[2018.12.02-06.14.26:607][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.14.26:607][244]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.14.26:612][244]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.354
+[2018.12.02-06.14.26:676][245]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EnemyLaserSFX...
+[2018.12.02-06.14.26:676][245]LogTemp: Couldn't find amount to resample to.
+[2018.12.02-06.14.26:685][245]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 53984 while cooking SoundWave /Game/SFX/EnemyLaserSFX.EnemyLaserSFX.
+[2018.12.02-06.14.37:275][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.14.37:316][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.14.37:358][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.14.37:383][430]LogPlayLevel: Display: Destroying online subsystem :Context_202
+[2018.12.02-06.14.39:130][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.14.39:211][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-06.14.39:348][647]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap0D590EE14D5479A7F17D709F3A4BF1E5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.02-06.14.39:389][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap_BuiltData" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset" SILENT=true
+[2018.12.02-06.14.39:459][647]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap_BuiltDataA26916494EA445C6FA04DDA10CC177A5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap_BuiltData.uasset'
+[2018.12.02-06.15.23:798][295]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nate\Downloads\440167__mozfoo__laser-beam-1.wav)
+[2018.12.02-06.15.36:045][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/EnemyLaserBeamSFX" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeamSFX.uasset" SILENT=true
+[2018.12.02-06.15.36:055][497]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyLaserBeamSFX952CD4464C0A8D3FD54823A4CD3B92D5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeamSFX.uasset'
+[2018.12.02-06.15.40:602][  1]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/SFX/EnemyLaserSFX.EnemyLaserSFX
+[2018.12.02-06.15.49:828][ 39]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/EnemyLaserBeamSFX_Cue.EnemyLaserBeamSFX_Cue
+[2018.12.02-06.15.55:197][666]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EnemyLaserBeamSFX...
+[2018.12.02-06.15.55:197][666]LogTemp: Couldn't find amount to resample to.
+[2018.12.02-06.15.55:235][666]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 179098 while cooking SoundWave /Game/SFX/EnemyLaserBeamSFX.EnemyLaserBeamSFX.
+[2018.12.02-06.16.21:120][656]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-06.16.29:370][493]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-06.16.32:759][626]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-06.16.59:046][305]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Nate\Downloads\169991__peepholecircus__laser-beam.wav)
+[2018.12.02-06.17.10:867][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/EnemyLaserBeam" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeam.uasset" SILENT=true
+[2018.12.02-06.17.10:876][534]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyLaserBeamE909829546852C193AAFFC9B7485E192.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeam.uasset'
+[2018.12.02-06.17.16:401][160]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/SFX/EnemyLaserBeam_Cue.EnemyLaserBeam_Cue
+[2018.12.02-06.17.18:250][362]LogSlate: Window 'EnemyLaserBeam_Cue*' being destroyed
+[2018.12.02-06.17.19:209][477]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EnemyLaserBeam...
+[2018.12.02-06.17.19:210][477]LogTemp: Couldn't find amount to resample to.
+[2018.12.02-06.17.19:403][477]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2603520 while cooking SoundWave /Game/SFX/EnemyLaserBeam.EnemyLaserBeam.
+[2018.12.02-06.17.46:927][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/EnemyLaserBeam_Cue" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeam_Cue.uasset" SILENT=true
+[2018.12.02-06.17.46:936][763]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyLaserBeam_Cue183FC9E149A4DF4D4E40A29BBD6A2A8A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/SFX/EnemyLaserBeam_Cue.uasset'
+[2018.12.02-06.18.05:298][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy
+[2018.12.02-06.18.09:789][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy
+[2018.12.02-06.20.51:317][512]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.12.02-06.20.51:318][512]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.12.02-06.20.51:322][512]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-06.20.51:322][512]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-06.21.41:419][616]BlueprintLog: New page: Compile LaserTurretEnemy
+[2018.12.02-06.21.42:431][646]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserTurretEnemyE5A4674F4C7DE4FCFF8D988AF71C496D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/LaserTurretEnemy.uasset'
+[2018.12.02-06.21.44:170][836]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.21.44:205][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.21.44:205][836]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:21:44 PM)
+[2018.12.02-06.21.44:205][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.21.44:208][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002832s)
+[2018.12.02-06.21.44:209][836]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.21.44:209][836]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.12.02-06.21.44:209][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003707s)
+[2018.12.02-06.21.44:247][836]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.21.44:261][836]LogInit: FAudioDevice initialized.
+[2018.12.02-06.21.44:292][836]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.21.44:294][836]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.21.44
+[2018.12.02-06.21.44:295][836]LogWorld: Bringing up level for play took: 0.001638
+[2018.12.02-06.21.44:346][836]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.21.44:346][836]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.21.44:349][836]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.617
+[2018.12.02-06.21.46:470][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.21.46:508][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.21.46:551][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.21.46:577][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_205
+[2018.12.02-06.21.47:307][158]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy)
+[2018.12.02-06.21.48:206][256]Cmd: DELETE
+[2018.12.02-06.21.48:206][256]Cmd: ACTOR DELETE
+[2018.12.02-06.21.48:208][256]LogEditorActor: Deleted Actor: TurretEnemy_C
+[2018.12.02-06.21.48:235][256]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.12.02-06.21.53:619][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.21.59:852][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.22.00:940][461]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.22.00:991][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.22.00:991][461]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:22:00 PM)
+[2018.12.02-06.22.00:992][461]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.22.00:994][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002649s)
+[2018.12.02-06.22.00:995][461]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.22.00:995][461]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.12.02-06.22.00:995][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003388s)
+[2018.12.02-06.22.01:034][461]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.22.01:047][461]LogInit: FAudioDevice initialized.
+[2018.12.02-06.22.01:085][461]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.22.01:092][461]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.22.01
+[2018.12.02-06.22.01:093][461]LogWorld: Bringing up level for play took: 0.005748
+[2018.12.02-06.22.01:185][461]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.22.01:185][461]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.22.01:188][461]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.223
+[2018.12.02-06.22.03:370][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.22.03:413][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.22.03:442][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.22.03:468][672]LogPlayLevel: Display: Destroying online subsystem :Context_206
+[2018.12.02-06.22.04:525][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.22.14:676][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.22.25:892][215]BlueprintLog: New page: Compile LaserTurretEnemy
+[2018.12.02-06.22.27:912][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.22.27:967][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.22.27:968][394]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:22:27 PM)
+[2018.12.02-06.22.27:968][394]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.22.27:971][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002886s)
+[2018.12.02-06.22.27:971][394]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.22.27:971][394]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.12.02-06.22.27:971][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003539s)
+[2018.12.02-06.22.28:011][394]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.22.28:025][394]LogInit: FAudioDevice initialized.
+[2018.12.02-06.22.28:060][394]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.22.28:063][394]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.22.28
+[2018.12.02-06.22.28:064][394]LogWorld: Bringing up level for play took: 0.002678
+[2018.12.02-06.22.28:115][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.22.28:115][394]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.22.28:116][394]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.151
+[2018.12.02-06.22.34:510][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.22.34:547][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.22.34:576][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.22.34:609][100]LogPlayLevel: Display: Destroying online subsystem :Context_207
+[2018.12.02-06.22.35:355][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.23.31:850][321]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Shockwave.Shockwave
+[2018.12.02-06.23.44:586][738]BlueprintLog: New page: Compile Shockwave
+[2018.12.02-06.23.45:265][769]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Shockwave7A87082641411FC8F1E846857EB0B9BA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/Shockwave.uasset'
+[2018.12.02-06.23.46:246][884]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.23.46:275][884]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.02-06.23.46:296][884]LogPlayLevel: [PlayLevel] Compiling ShockwaveEnemy before play...
+[2018.12.02-06.23.46:496][884]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2018.12.02-06.23.46:496][884]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:23:46 PM)
+[2018.12.02-06.23.46:496][884]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.23.46:499][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2018.12.02-06.23.46:500][884]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.23.46:500][884]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.12.02-06.23.46:500][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003681s)
+[2018.12.02-06.23.46:539][884]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.23.46:552][884]LogInit: FAudioDevice initialized.
+[2018.12.02-06.23.46:584][884]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.23.46:587][884]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.23.46
+[2018.12.02-06.23.46:587][884]LogWorld: Bringing up level for play took: 0.001755
+[2018.12.02-06.23.46:635][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.23.46:635][884]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.23.46:637][884]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.328
+[2018.12.02-06.23.48:526][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.23.48:589][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.23.48:634][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.23.48:660][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_209
+[2018.12.02-06.24.02:082][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.24.03:280][773]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy)
+[2018.12.02-06.24.04:099][818]Cmd: DELETE
+[2018.12.02-06.24.04:099][818]Cmd: ACTOR DELETE
+[2018.12.02-06.24.04:105][818]LogEditorActor: Deleted Actor: LaserTurretEnemy_C
+[2018.12.02-06.24.04:136][818]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.12.02-06.24.04:748][855]LogEditorViewport: Clicking on Actor (LMB): ShockwaveEnemy_C (ShockwaveEnemy)
+[2018.12.02-06.24.05:931][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.24.07:001][982]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.24.07:035][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.24.07:035][982]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:24:07 PM)
+[2018.12.02-06.24.07:035][982]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.24.07:038][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002793s)
+[2018.12.02-06.24.07:039][982]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.24.07:039][982]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.12.02-06.24.07:039][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003498s)
+[2018.12.02-06.24.07:078][982]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.24.07:092][982]LogInit: FAudioDevice initialized.
+[2018.12.02-06.24.07:125][982]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.24.07:128][982]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.24.07
+[2018.12.02-06.24.07:128][982]LogWorld: Bringing up level for play took: 0.001617
+[2018.12.02-06.24.07:179][982]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.24.07:179][982]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.24.07:184][982]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.219
+[2018.12.02-06.24.10:507][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.24.10:549][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.24.10:579][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.24.10:604][366]LogPlayLevel: Display: Destroying online subsystem :Context_210
+[2018.12.02-06.24.13:088][502]LogEditorViewport: Clicking on Actor (LMB): ShockwaveEnemy_C (ShockwaveEnemy)
+[2018.12.02-06.24.15:148][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.24.15:233][617]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.24.15:265][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.24.15:266][617]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:24:15 PM)
+[2018.12.02-06.24.15:266][617]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.24.15:269][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002821s)
+[2018.12.02-06.24.15:269][617]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.24.15:269][617]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2018.12.02-06.24.15:269][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003525s)
+[2018.12.02-06.24.15:308][617]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.24.15:322][617]LogInit: FAudioDevice initialized.
+[2018.12.02-06.24.15:353][617]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.24.15:355][617]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.24.15
+[2018.12.02-06.24.15:355][617]LogWorld: Bringing up level for play took: 0.001884
+[2018.12.02-06.24.15:386][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.24.15:386][617]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.24.15:388][617]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.423
+[2018.12.02-06.24.20:744][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.24.20:787][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.24.20:838][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.24.20:867][210]LogPlayLevel: Display: Destroying online subsystem :Context_211
+[2018.12.02-06.24.24:442][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-06.24.24:627][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-06.24.25:654][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-06.24.28:823][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-06.24.28:981][487]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap4172F6A84DE0D143A2081FB43169BBC2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.02-06.24.29:023][487]LogFileHelpers: Saving map 'ArenaMap' took 3.364
+[2018.12.02-06.24.29:341][487]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveEnemy13761C16440B4EFDBA16AFA331769DB2.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/ShockwaveEnemy.uasset'
+[2018.12.02-06.24.29:599][487]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserTurretEnemyF7DEF855453BA2F2AC1D64B1CC856EE3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/LaserTurretEnemy.uasset'
+[2018.12.02-06.24.56:036][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.25.22:348][891]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/BaseTile.BaseTile
+[2018.12.02-06.27.52:452][ 84]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/TurretAI.TurretAI
+[2018.12.02-06.29.19:954][686]LogEditorTransaction: Undo Resize Node
+[2018.12.02-06.30.33:215][563]BlueprintLog: New page: Compile LaserTurretEnemy
+[2018.12.02-06.30.34:321][612]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/LaserTurretEnemy804B38934F725C3DF540B0B9C97AFDF5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/LaserTurretEnemy.uasset'
+[2018.12.02-06.30.36:150][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.30.36:181][823]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.02-06.30.36:187][823]LogPlayLevel: [PlayLevel] Compiling TurretAI before play...
+[2018.12.02-06.30.36:356][823]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2018.12.02-06.30.36:356][823]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:30:36 PM)
+[2018.12.02-06.30.36:356][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.30.36:359][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2018.12.02-06.30.36:359][823]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.30.36:359][823]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.12.02-06.30.36:360][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003449s)
+[2018.12.02-06.30.36:398][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.30.36:413][823]LogInit: FAudioDevice initialized.
+[2018.12.02-06.30.36:444][823]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.30.36:447][823]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.30.36
+[2018.12.02-06.30.36:448][823]LogWorld: Bringing up level for play took: 0.002870
+[2018.12.02-06.30.36:488][823]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.30.36:488][823]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.30.36:490][823]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.475
+[2018.12.02-06.30.38:754][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.30.38:794][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.30.38:840][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.30.38:868][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_214
+[2018.12.02-06.30.39:660][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.31.33:221][988]BlueprintLog: New page: Compile ShockwaveEnemy
+[2018.12.02-06.31.33:985][ 14]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ShockwaveEnemy2E8BBB9B404647F4305112B3EF8DDFF3.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/ShockwaveEnemy.uasset'
+[2018.12.02-06.31.36:359][191]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/TurretEnemy.TurretEnemy
+[2018.12.02-06.32.23:295][219]BlueprintLog: New page: Compile TurretEnemy
+[2018.12.02-06.32.24:021][240]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretEnemy14DBF45043E7196BA396E8806B49F1ED.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretEnemy.uasset'
+[2018.12.02-06.32.25:614][409]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.32.25:650][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.32.25:650][409]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:32:25 PM)
+[2018.12.02-06.32.25:651][409]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.32.25:653][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002678s)
+[2018.12.02-06.32.25:654][409]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.32.25:654][409]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2018.12.02-06.32.25:654][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003383s)
+[2018.12.02-06.32.25:696][409]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.32.25:711][409]LogInit: FAudioDevice initialized.
+[2018.12.02-06.32.25:750][409]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.32.25:756][409]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.32.25
+[2018.12.02-06.32.25:757][409]LogWorld: Bringing up level for play took: 0.004949
+[2018.12.02-06.32.25:825][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.32.25:825][409]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.32.25:828][409]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.862
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:0454
+[2018.12.02-06.32.32:527][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:04A0
+[2018.12.02-06.32.32:527][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Attempted to assign to None
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:04B5
+[2018.12.02-06.32.32:527][137]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:036A
+[2018.12.02-06.32.32:527][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  EventGraph Node:  Set RoomClear
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:039E
+[2018.12.02-06.32.32:527][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  EventGraph Node:  Branch
+[2018.12.02-06.32.32:527][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:03D5
+[2018.12.02-06.32.32:528][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  EventGraph Node:  Open Doors
+[2018.12.02-06.32.32:528][137]LogScript: Warning: Accessed None trying to read property Room
+	ShockwaveEnemy_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.ShockwaveEnemy_10
+	Function /Game/Blueprints/Enemies/ShockwaveEnemy.ShockwaveEnemy_C:ExecuteUbergraph_ShockwaveEnemy:03FB
+[2018.12.02-06.32.32:528][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  ShockwaveEnemy Function:  Execute Ubergraph Shockwave Enemy Graph:  EventGraph Node:  Generate Portal
+[2018.12.02-06.32.48:058][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.32.48:100][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.32.48:135][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.32.48:170][907]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2018.12.02-06.32.49:037][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.32.49:125][ 16]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.12.02-06.32.49:132][ 16]Candidate modules for hot reload:
+[2018.12.02-06.32.49:132][ 16]  TwinStickShooter
+[2018.12.02-06.32.49:132][ 16]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,525 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" -canskiplink "C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/TwinStickShooter.uproject" ]
+[2018.12.02-06.32.50:216][ 16]Warning: Starting HotReload took  1.1s.
+[2018.12.02-06.32.51:141][ 96]CompilerResultsLog: New page: Compilation - Dec 1, 2018, 8:32:51 PM
+[2018.12.02-06.32.51:141][ 96]LogMainFrame: MainFrame: Module compiling took 2.016 seconds
+[2018.12.02-06.32.51:141][ 96]Warning: HotReload failed, recompile failed
+[2018.12.02-06.32.58:791][999]LogEditorViewport: Clicking on Actor (LMB): ShockwaveEnemy_C (ShockwaveEnemy)
+[2018.12.02-06.32.59:715][ 89]Cmd: DELETE
+[2018.12.02-06.32.59:715][ 89]Cmd: ACTOR DELETE
+[2018.12.02-06.32.59:717][ 89]LogEditorActor: Deleted Actor: ShockwaveEnemy_C
+[2018.12.02-06.32.59:753][ 89]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.12.02-06.33.00:479][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.33.00:548][182]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.33.00:586][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.33.00:587][182]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:33:00 PM)
+[2018.12.02-06.33.00:587][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.33.00:590][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2018.12.02-06.33.00:590][182]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.33.00:590][182]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.12.02-06.33.00:590][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003490s)
+[2018.12.02-06.33.00:633][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.33.00:647][182]LogInit: FAudioDevice initialized.
+[2018.12.02-06.33.00:676][182]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.33.00:678][182]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.33.00
+[2018.12.02-06.33.00:679][182]LogWorld: Bringing up level for play took: 0.001268
+[2018.12.02-06.33.00:724][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.33.00:724][182]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.33.00:725][182]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.24
+[2018.12.02-06.33.09:771][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.33.09:805][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.33.09:855][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.33.09:884][124]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2018.12.02-06.33.11:969][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.33.28:277][271]BlueprintLog: New page: Compile TurretAI
+[2018.12.02-06.33.28:976][309]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretAI7FDC757744B7A00E0CC5EE93F3669D11.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretAI.uasset'
+[2018.12.02-06.33.30:691][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.33.30:733][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.33.30:733][511]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:33:30 PM)
+[2018.12.02-06.33.30:733][511]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.33.30:736][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002632s)
+[2018.12.02-06.33.30:737][511]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.33.30:737][511]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.12.02-06.33.30:737][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003338s)
+[2018.12.02-06.33.30:777][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.33.30:791][511]LogInit: FAudioDevice initialized.
+[2018.12.02-06.33.30:821][511]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.33.30:823][511]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.33.30
+[2018.12.02-06.33.30:824][511]LogWorld: Bringing up level for play took: 0.001283
+[2018.12.02-06.33.30:881][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.33.30:881][511]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.33.30:884][511]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.081
+[2018.12.02-06.33.35:946][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.33.35:983][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.33.36:016][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.33.36:044][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2018.12.02-06.33.36:849][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-06.33.36:940][159]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-06.33.36:976][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-06.33.36:976][159]PIE: New page: PIE session: ArenaMap (Dec 1, 2018, 8:33:36 PM)
+[2018.12.02-06.33.36:977][159]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.02-06.33.36:979][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002213s)
+[2018.12.02-06.33.36:979][159]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.02-06.33.36:979][159]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.12.02-06.33.36:979][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.002871s)
+[2018.12.02-06.33.37:019][159]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.02-06.33.37:033][159]LogInit: FAudioDevice initialized.
+[2018.12.02-06.33.37:067][159]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.02-06.33.37:070][159]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-01.33.37
+[2018.12.02-06.33.37:070][159]LogWorld: Bringing up level for play took: 0.001641
+[2018.12.02-06.33.37:099][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.02-06.33.37:099][159]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.02-06.33.37:100][159]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.135
+[2018.12.02-06.34.17:036][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.34.17:074][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-06.34.17:129][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-06.34.17:157][236]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2018.12.02-06.34.18:852][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-06.34.20:180][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-06.34.20:616][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-06.34.20:787][590]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapFED84DE14B454EAF79BE0E8FFD387E07.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.02-06.34.20:888][590]LogFileHelpers: Saving map 'ArenaMap' took 0.702
