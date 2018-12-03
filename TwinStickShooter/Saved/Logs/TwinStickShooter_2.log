@@ -9886,3 +9886,515 @@ Make sure 'TurretBoss_C' has been compiled for  Get DeltaTime
 [2018.12.03-04.35.12:642][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.12.03-04.35.12:859][870]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap722FB3004429844846C7A394A06F41DC.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.12.03-04.35.12:989][870]LogFileHelpers: Saving map 'ArenaMap' took 0.438
+[2018.12.03-04.36.15:395][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.37.38:212][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.37.41:229][571]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/TurretEnemy.TurretEnemy
+[2018.12.03-04.38.25:752][149]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.38.26:746][182]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss33308D514D51FC5AA58B0DA68BA8C45C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.38.27:763][265]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.38.27:811][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.38.27:811][265]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:38:27 PM)
+[2018.12.03-04.38.27:811][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.38.27:813][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002512s)
+[2018.12.03-04.38.27:814][265]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.38.27:814][265]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.12.03-04.38.27:814][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003203s)
+[2018.12.03-04.38.27:853][265]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.38.27:867][265]LogInit: FAudioDevice initialized.
+[2018.12.03-04.38.27:901][265]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.38.27:906][265]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.38.27
+[2018.12.03-04.38.27:907][265]LogWorld: Bringing up level for play took: 0.003993
+[2018.12.03-04.38.27:977][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.38.27:977][265]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.38.27:979][265]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.408
+[2018.12.03-04.38.37:971][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.38.38:052][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.38.38:105][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.38.38:131][264]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2018.12.03-04.38.45:548][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.39.16:015][124]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.39.18:831][381]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.39.18:874][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.39.18:875][381]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:39:18 PM)
+[2018.12.03-04.39.18:875][381]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.39.18:877][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2018.12.03-04.39.18:878][381]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.39.18:878][381]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2018.12.03-04.39.18:878][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003198s)
+[2018.12.03-04.39.18:917][381]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.39.18:931][381]LogInit: FAudioDevice initialized.
+[2018.12.03-04.39.18:961][381]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.39.18:965][381]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.39.18
+[2018.12.03-04.39.18:966][381]LogWorld: Bringing up level for play took: 0.003342
+[2018.12.03-04.39.19:030][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.39.19:030][381]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.39.19:032][381]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.538
+[2018.12.03-04.39.26:573][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.39.26:615][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.39.26:648][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.39.26:674][675]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2018.12.03-04.39.28:139][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.39.32:709][282]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.39.34:094][403]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.39.34:134][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.39.34:134][403]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:39:34 PM)
+[2018.12.03-04.39.34:134][403]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.39.34:137][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002945s)
+[2018.12.03-04.39.34:138][403]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.39.34:138][403]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.12.03-04.39.34:138][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003625s)
+[2018.12.03-04.39.34:177][403]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.39.34:190][403]LogInit: FAudioDevice initialized.
+[2018.12.03-04.39.34:218][403]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.39.34:221][403]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.39.34
+[2018.12.03-04.39.34:221][403]LogWorld: Bringing up level for play took: 0.001529
+[2018.12.03-04.39.34:267][403]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.39.34:267][403]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.39.34:268][403]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.698
+[2018.12.03-04.39.37:669][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.39.37:710][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.39.37:742][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.39.37:770][744]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2018.12.03-04.39.45:575][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.40.14:261][308]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.40.15:113][341]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss7EBC8A2644C3105C535B29896C519E69.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.41.58:906][232]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.41.59:626][232]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAI7420097E42B346F232D8A4803EED61B9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.42.39:339][481]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.42.45:338][116]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.42.46:027][117]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAI3927FB8B4999DFCDBA8E4FB6E809DB28.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.42.47:729][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-04.42.47:897][295]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapF67FB2024D411F3E4A5312A6E2DB0E3B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.03-04.42.47:946][295]LogFileHelpers: Saving map 'ArenaMap' took 0.313
+[2018.12.03-04.42.48:882][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.42.48:918][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.42.48:918][402]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:42:48 PM)
+[2018.12.03-04.42.48:918][402]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.42.48:920][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002581s)
+[2018.12.03-04.42.48:921][402]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.42.48:921][402]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.12.03-04.42.48:921][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003287s)
+[2018.12.03-04.42.48:962][402]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.42.48:976][402]LogInit: FAudioDevice initialized.
+[2018.12.03-04.42.49:005][402]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.42.49:007][402]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.42.49
+[2018.12.03-04.42.49:007][402]LogWorld: Bringing up level for play took: 0.001648
+[2018.12.03-04.42.49:055][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.42.49:055][402]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.42.49:057][402]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.514
+[2018.12.03-04.42.57:157][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.42.57:243][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.42.57:287][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.42.57:321][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.42.57:344][139]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2018.12.03-04.43.03:030][267]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.43.03:067][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.43.03:067][267]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:43:03 PM)
+[2018.12.03-04.43.03:067][267]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.43.03:071][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003240s)
+[2018.12.03-04.43.03:071][267]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.43.03:072][267]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.12.03-04.43.03:072][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004329s)
+[2018.12.03-04.43.03:118][267]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.43.03:132][267]LogInit: FAudioDevice initialized.
+[2018.12.03-04.43.03:162][267]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.43.03:163][267]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.43.03
+[2018.12.03-04.43.03:164][267]LogWorld: Bringing up level for play took: 0.001709
+[2018.12.03-04.43.03:201][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.43.03:201][267]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.43.03:203][267]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.368
+[2018.12.03-04.43.16:107][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.43.18:009][403]LogBlueprintUserMessages: [TurretBoss_2] 980.0
+[2018.12.03-04.43.18:102][411]LogBlueprintUserMessages: [TurretBoss_2] 960.0
+[2018.12.03-04.43.18:246][424]LogBlueprintUserMessages: [TurretBoss_2] 940.0
+[2018.12.03-04.43.18:427][440]LogBlueprintUserMessages: [TurretBoss_2] 920.0
+[2018.12.03-04.43.18:653][460]LogBlueprintUserMessages: [TurretBoss_2] 900.0
+[2018.12.03-04.43.18:820][475]LogBlueprintUserMessages: [TurretBoss_2] 880.0
+[2018.12.03-04.43.18:936][485]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.43.27:838][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.43.27:910][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.43.27:956][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.43.27:998][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.43.28:038][196]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2018.12.03-04.43.49:433][425]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.43.50:023][425]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAI68784C33408A7F1140B4469D727E0E3E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.43.50:769][466]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAI7983216A47D40AA84459CDB1034C0172.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.43.53:805][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-04.43.53:938][768]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap2B086D2A4791B9F0756591B99BB5A406.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.03-04.43.53:984][768]LogFileHelpers: Saving map 'ArenaMap' took 0.288
+[2018.12.03-04.43.54:694][841]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.43.54:725][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.43.54:725][841]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:43:54 PM)
+[2018.12.03-04.43.54:725][841]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.43.54:729][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003376s)
+[2018.12.03-04.43.54:729][841]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.43.54:729][841]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.12.03-04.43.54:729][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004243s)
+[2018.12.03-04.43.54:775][841]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.43.54:789][841]LogInit: FAudioDevice initialized.
+[2018.12.03-04.43.54:822][841]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.43.54:825][841]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.43.54
+[2018.12.03-04.43.54:826][841]LogWorld: Bringing up level for play took: 0.002406
+[2018.12.03-04.43.54:859][841]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.43.54:859][841]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.43.54:860][841]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.709
+[2018.12.03-04.44.10:862][ 72]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.44.20:802][862]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.44.31:913][763]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.44.33:516][891]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ProjectileAttack) or object (None)
+[2018.12.03-04.44.44:571][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.44.44:650][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.44.44:757][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.44.44:796][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.44.44:821][746]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2018.12.03-04.45.10:578][226]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.45.10:612][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.45.10:612][226]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:45:10 PM)
+[2018.12.03-04.45.10:612][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.45.10:615][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003024s)
+[2018.12.03-04.45.10:616][226]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.45.10:616][226]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.12.03-04.45.10:616][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003847s)
+[2018.12.03-04.45.10:662][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.45.10:678][226]LogInit: FAudioDevice initialized.
+[2018.12.03-04.45.10:713][226]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.45.10:714][226]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.45.10
+[2018.12.03-04.45.10:715][226]LogWorld: Bringing up level for play took: 0.001747
+[2018.12.03-04.45.10:749][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.45.10:750][226]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.45.10:751][226]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.819
+[2018.12.03-04.45.22:087][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.45.28:640][351]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.45.38:599][  2]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.45.49:797][763]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.45.51:458][881]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (ProjectileAttack) or object (None)
+[2018.12.03-04.46.07:096][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.46.07:264][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.46.07:303][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.46.07:468][114]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2018.12.03-04.47.07:408][314]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.47.08:337][349]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss306879184AAF8FC7BDBCE39B4BDB2F5C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.47.23:949][990]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.47.24:876][  2]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAIB64F8B70438D90B161D328A74AEDEEEF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.47.28:524][342]BlueprintLog: New page: Compile BossAI
+[2018.12.03-04.47.29:300][345]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAIEA66CE0A4F250844A20E8E8BD9762214.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
+[2018.12.03-04.47.31:353][554]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.47.31:399][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.47.31:399][554]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:47:31 PM)
+[2018.12.03-04.47.31:399][554]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.47.31:404][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004432s)
+[2018.12.03-04.47.31:405][554]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.47.31:405][554]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.12.03-04.47.31:405][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.005435s)
+[2018.12.03-04.47.31:451][554]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.47.31:470][554]LogInit: FAudioDevice initialized.
+[2018.12.03-04.47.31:507][554]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.47.31:509][554]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.47.31
+[2018.12.03-04.47.31:509][554]LogWorld: Bringing up level for play took: 0.001753
+[2018.12.03-04.47.31:545][554]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.47.31:545][554]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.47.31:546][554]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.025
+[2018.12.03-04.47.47:481][837]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.47.57:412][671]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.48.08:523][582]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.48.20:543][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.48.26:252][ 40]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.48.36:185][930]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.48.41:012][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.48.41:097][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.48.41:135][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.48.41:164][373]LogPlayLevel: Display: Destroying online subsystem :Context_191
+[2018.12.03-04.48.42:762][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.49.16:176][981]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.49.16:206][981]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.03-04.49.16:329][981]LogPlayLevel: [PlayLevel] Compiling TurretBoss before play...
+[2018.12.03-04.49.16:578][981]LogPlayLevel: PlayLevel: Blueprint regeneration took 371 ms (1 blueprints)
+[2018.12.03-04.49.16:578][981]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:49:16 PM)
+[2018.12.03-04.49.16:578][981]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.49.16:581][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002773s)
+[2018.12.03-04.49.16:581][981]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.49.16:581][981]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2018.12.03-04.49.16:581][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003436s)
+[2018.12.03-04.49.16:624][981]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.49.16:640][981]LogInit: FAudioDevice initialized.
+[2018.12.03-04.49.16:672][981]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.49.16:674][981]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.49.16
+[2018.12.03-04.49.16:675][981]LogWorld: Bringing up level for play took: 0.001558
+[2018.12.03-04.49.16:711][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.49.16:711][981]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.49.16:712][981]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.141
+[2018.12.03-04.49.32:447][123]LogBlueprintUserMessages: [TurretBoss_2] Hello
+[2018.12.03-04.49.39:901][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.49.39:979][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.49.40:021][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.49.40:058][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.49.40:083][666]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2018.12.03-04.49.42:169][899]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2018.12.03-04.49.51:063][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.49.58:890][367]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Enemies/TechPulseCustom_Inst.TechPulseCustom_Inst
+[2018.12.03-04.50.21:006][819]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TechPulseCustom_Inst, compiling. 
+[2018.12.03-04.50.21:750][819]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-04.50.21:752][819]TextureStreamingBuild: Display: Compiling optional shaders took 0.772 seconds.
+[2018.12.03-04.50.21:873][819]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TechPulseCustom_Inst5F5D887E4CE01556CD81E0A3A58BD6D0.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Materials/Enemies/TechPulseCustom_Inst.uasset'
+[2018.12.03-04.50.28:631][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.51.06:492][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.51.22:403][712]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/BossType.BossType
+[2018.12.03-04.51.39:106][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.51.40:367][422]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.51.40:402][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.51.40:403][422]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:51:40 PM)
+[2018.12.03-04.51.40:403][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.51.40:406][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003667s)
+[2018.12.03-04.51.40:407][422]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.51.40:408][422]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2018.12.03-04.51.40:408][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.004951s)
+[2018.12.03-04.51.40:459][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.51.40:473][422]LogInit: FAudioDevice initialized.
+[2018.12.03-04.51.40:510][422]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.51.40:513][422]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.51.40
+[2018.12.03-04.51.40:514][422]LogWorld: Bringing up level for play took: 0.002716
+[2018.12.03-04.51.40:551][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.51.40:551][422]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.51.40:553][422]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.982
+[2018.12.03-04.51.49:138][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.51.49:182][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.51.49:222][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.51.49:251][163]LogPlayLevel: Display: Destroying online subsystem :Context_195
+[2018.12.03-04.51.50:327][279]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2018.12.03-04.51.51:116][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.51.56:154][834]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.51.58:397][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.51.58:442][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.51.58:442][999]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:51:58 PM)
+[2018.12.03-04.51.58:443][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.51.58:445][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002744s)
+[2018.12.03-04.51.58:446][999]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.51.58:446][999]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.12.03-04.51.58:446][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003801s)
+[2018.12.03-04.51.58:496][999]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.51.58:511][999]LogInit: FAudioDevice initialized.
+[2018.12.03-04.51.58:549][999]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.51.58:552][999]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.51.58
+[2018.12.03-04.51.58:552][999]LogWorld: Bringing up level for play took: 0.002403
+[2018.12.03-04.51.58:592][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.51.58:592][999]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.51.58:594][999]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.024
+[2018.12.03-04.52.02:287][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.52.02:327][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.52.02:365][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.52.02:398][313]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2018.12.03-04.52.03:132][393]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2018.12.03-04.52.06:687][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.52.06:763][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.52.06:796][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.52.06:796][734]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:52:06 PM)
+[2018.12.03-04.52.06:796][734]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.52.06:798][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002351s)
+[2018.12.03-04.52.06:799][734]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.52.06:799][734]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.12.03-04.52.06:799][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003046s)
+[2018.12.03-04.52.06:846][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.52.06:860][734]LogInit: FAudioDevice initialized.
+[2018.12.03-04.52.06:895][734]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.52.06:897][734]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.52.06
+[2018.12.03-04.52.06:898][734]LogWorld: Bringing up level for play took: 0.001662
+[2018.12.03-04.52.06:933][734]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.52.06:933][734]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.52.06:934][734]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.636
+[2018.12.03-04.52.11:128][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.52.11:173][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.52.11:213][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.52.11:245][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_197
+[2018.12.03-04.52.14:089][381]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2018.12.03-04.52.17:771][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.52.25:007][333]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.52.25:806][348]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBossE17A1F534B43041418B0F5930F562B62.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.54.07:304][650]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.56.12:635][301]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.56.13:456][336]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss30AF0D494591B656B73B5EBEF9E67A05.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.57.09:654][704]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.57.10:405][742]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss74E44E6A41A8DC35460126BCDBE08B2F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.57.15:691][343]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.57.16:474][382]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss350EA7184F6C7315648338B30C4CAFF7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.57.17:683][507]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.57.17:729][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.57.17:729][507]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:57:17 PM)
+[2018.12.03-04.57.17:729][507]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.57.17:732][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002629s)
+[2018.12.03-04.57.17:732][507]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.57.17:732][507]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.12.03-04.57.17:732][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003278s)
+[2018.12.03-04.57.17:771][507]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.57.17:785][507]LogInit: FAudioDevice initialized.
+[2018.12.03-04.57.17:820][507]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.57.17:824][507]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.57.17
+[2018.12.03-04.57.17:824][507]LogWorld: Bringing up level for play took: 0.003167
+[2018.12.03-04.57.17:900][507]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.57.17:900][507]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.57.17:903][507]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.332
+[2018.12.03-04.57.37:708][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.57.37:748][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.57.37:778][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.57.37:807][731]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2018.12.03-04.57.39:580][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.58.09:305][255]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.58.10:115][278]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss15DF0EDB4645DD002B1303A6C1180400.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.58.10:887][321]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.58.10:926][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.58.10:926][321]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:58:10 PM)
+[2018.12.03-04.58.10:926][321]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.58.10:929][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002599s)
+[2018.12.03-04.58.10:930][321]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.58.10:930][321]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.12.03-04.58.10:930][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003405s)
+[2018.12.03-04.58.10:969][321]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.58.10:984][321]LogInit: FAudioDevice initialized.
+[2018.12.03-04.58.11:018][321]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.58.11:023][321]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.58.11
+[2018.12.03-04.58.11:024][321]LogWorld: Bringing up level for play took: 0.003946
+[2018.12.03-04.58.11:097][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.58.11:097][321]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.58.11:100][321]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.47
+[2018.12.03-04.58.30:464][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.58.30:508][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.58.30:560][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.58.30:591][345]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2018.12.03-04.58.33:626][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.58.54:579][ 38]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-04.58.55:545][ 66]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss23C5E46F478CCA908C6D029DA60BE04E.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-04.58.57:466][278]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-04.58.57:498][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-04.58.57:498][278]PIE: New page: PIE session: ArenaMap (Dec 2, 2018, 6:58:57 PM)
+[2018.12.03-04.58.57:498][278]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.03-04.58.57:501][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002930s)
+[2018.12.03-04.58.57:501][278]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.03-04.58.57:502][278]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.12.03-04.58.57:502][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003692s)
+[2018.12.03-04.58.57:540][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-04.58.57:552][278]LogInit: FAudioDevice initialized.
+[2018.12.03-04.58.57:580][278]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.03-04.58.57:582][278]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.02-23.58.57
+[2018.12.03-04.58.57:583][278]LogWorld: Bringing up level for play took: 0.001526
+[2018.12.03-04.58.57:642][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.03-04.58.57:642][278]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.03-04.58.57:644][278]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.074
+[2018.12.03-04.59.14:673][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.59.14:717][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-04.59.14:748][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-04.59.14:778][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_200
+[2018.12.03-04.59.25:093][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-04.59.33:970][584]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Enemies/EnemyEyeMaterial.EnemyEyeMaterial
+[2018.12.03-04.59.33:972][584]LogMaterial: Display: Missing cached shader map for material EnemyEyeMaterial, compiling. 
+[2018.12.03-04.59.34:071][584]LogMaterial: Display: Missing cached shader map for material EnemyEyeMaterial, compiling. 
+[2018.12.03-04.59.34:083][584]LogMaterial: Display: Missing cached shader map for material EnemyEyeMaterial, compiling. 
+[2018.12.03-04.59.34:112][584]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.34:112][584]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.34:112][584]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.03-04.59.34:112][584]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-04.59.34:125][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.03-04.59.34:130][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.03-04.59.34:783][641]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.34:847][647]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.34:855][648]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.03-04.59.34:856][648]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-04.59.34:975][659]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.03-04.59.35:008][662]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.03-04.59.35:076][670]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.03-04.59.35:076][670]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.03-04.59.35:110][674]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.03-04.59.35:295][693]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.03-04.59.35:585][712]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-04.59.35:602][714]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.03-04.59.35:641][717]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.03-04.59.35:730][722]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.03-04.59.35:801][726]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.03-04.59.35:981][736]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-04.59.36:003][737]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-04.59.36:032][737]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Enemies/LaserTurretEyeMaterial.LaserTurretEyeMaterial
+[2018.12.03-04.59.36:036][737]LogMaterial: Display: Missing cached shader map for material LaserTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.36:158][737]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-04.59.36:158][737]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-04.59.36:158][737]LogMaterial: Display: Missing cached shader map for material LaserTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.36:173][737]LogMaterial: Display: Missing cached shader map for material LaserTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.36:203][737]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.03-04.59.36:216][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.03-04.59.36:224][737]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.03-04.59.36:308][737]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.03-04.59.36:371][738]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.03-04.59.36:371][738]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.03-04.59.36:380][738]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.12.03-04.59.36:380][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.12.03-04.59.36:380][738]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.03-04.59.36:380][738]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.03-04.59.36:475][743]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.03-04.59.36:514][747]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.03-04.59.36:543][750]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.36:553][751]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.36:674][762]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.03-04.59.36:684][763]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-04.59.36:710][766]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.03-04.59.36:729][768]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.03-04.59.36:805][775]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.03-04.59.36:832][778]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.03-04.59.36:859][781]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.03-04.59.37:058][797]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.03-04.59.37:102][801]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-04.59.37:201][811]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.03-04.59.37:245][814]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.03-04.59.37:329][821]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.03-04.59.37:447][829]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.03-04.59.37:560][837]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-04.59.37:596][839]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-04.59.37:702][845]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-04.59.37:812][851]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-04.59.37:831][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-04.59.37:937][858]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-04.59.37:947][858]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.12.03-04.59.37:947][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.12.03-04.59.37:947][858]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.03-04.59.37:947][858]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.03-04.59.38:022][861]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Enemies/ShockwaveTurretEyeMaterial.ShockwaveTurretEyeMaterial
+[2018.12.03-04.59.38:025][861]LogMaterial: Display: Missing cached shader map for material ShockwaveTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.38:041][861]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.38:041][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.38:161][861]LogMaterial: Display: Missing cached shader map for material ShockwaveTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.38:174][861]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.38:174][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.38:177][861]LogMaterial: Display: Missing cached shader map for material ShockwaveTurretEyeMaterial, compiling. 
+[2018.12.03-04.59.38:219][861]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.38:220][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.03-04.59.38:225][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.12.03-04.59.38:312][861]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.03-04.59.38:375][862]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.03-04.59.38:376][862]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.03-04.59.38:430][865]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-04.59.38:430][865]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-04.59.38:530][874]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.03-04.59.38:564][877]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-04.59.38:583][879]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.03-04.59.38:590][880]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.03-04.59.38:687][890]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.03-04.59.38:696][891]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.03-04.59.38:734][895]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.03-04.59.38:920][911]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.03-04.59.38:965][915]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-04.59.39:065][925]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.03-04.59.39:101][928]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.03-04.59.39:185][936]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.03-04.59.39:318][947]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.03-04.59.39:424][956]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-04.59.39:493][963]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-04.59.39:546][968]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-04.59.39:677][980]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-04.59.39:719][984]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-04.59.39:786][990]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-04.59.39:805][991]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.12.03-04.59.39:805][991]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.12.03-04.59.39:805][991]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.03-04.59.39:805][991]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.03-05.00.58:101][919]BlueprintLog: New page: Compile TurretBoss
+[2018.12.03-05.00.59:050][963]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss4408FF344561E728473D1AA09395CEF7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.03-05.01.05:257][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArenaMap" FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-05.01.05:374][646]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMap39C8622A4BFD37B48CE16FA148BB1893.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
+[2018.12.03-05.01.05:416][646]LogFileHelpers: Saving map 'ArenaMap' took 0.255
+[2018.12.03-05.01.05:572][646]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/BossAIAC42229B4AB925A5D6666899AE73DB37.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/BossAI.uasset'
