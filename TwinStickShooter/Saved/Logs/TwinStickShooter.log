@@ -594,3 +594,370 @@ Make sure 'TurretBoss_C' has been compiled for  Get ScoreValue
 [2018.12.04-21.42.52:849][474]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/ArenaMapF3FA44424A7110F783BD6889DCEE64E0.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap'
 [2018.12.04-21.42.52:899][474]LogFileHelpers: Saving map 'ArenaMap' took 0.273
 [2018.12.04-21.42.53:004][474]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/CustomTechTileWall9E64775446C43FFBA4999AB2B191059A.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Materials/CustomTechTileWall.uasset'
+[2018.12.04-21.48.52:339][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.49.16:449][588]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-21.49.16:496][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-21.49.16:496][588]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 11:49:16 AM)
+[2018.12.04-21.49.16:496][588]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-21.49.16:499][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002784s)
+[2018.12.04-21.49.16:500][588]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-21.49.16:500][588]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.12.04-21.49.16:500][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003653s)
+[2018.12.04-21.49.16:550][588]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-21.49.16:560][588]LogInit: FAudioDevice initialized.
+[2018.12.04-21.49.16:595][588]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-21.49.16:597][588]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-16.49.16
+[2018.12.04-21.49.16:598][588]LogWorld: Bringing up level for play took: 0.002031
+[2018.12.04-21.49.16:657][588]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-21.49.16:658][588]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-21.49.16:659][588]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 1.049
+[2018.12.04-21.50.33:629][983]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_6
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.33:629][983]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.33:629][983]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_6
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.33:629][983]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.33:629][983]LogScript: Warning: Attempted to access BossProjectile1_C_7 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_7 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_6
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.33:629][983]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_7 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_7 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.34:985][107]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_14
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.34:985][107]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.34:985][107]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_14
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.34:985][107]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.34:985][107]LogScript: Warning: Attempted to access Projectile_C_81 via property K2Node_ComponentBoundEvent_OtherActor, but Projectile_C_81 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_14
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.34:985][107]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_81 via property K2Node_ComponentBoundEvent_OtherActor, but Projectile_C_81 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.35:500][154]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_20
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.35:500][154]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.35:500][154]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_20
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.35:500][154]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.35:500][154]LogScript: Warning: Attempted to access BossProjectile1_C_22 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_22 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_20
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.35:500][154]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_22 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_22 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.37:378][328]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_35
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.37:378][328]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.37:378][328]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_35
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.37:378][328]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.37:378][328]LogScript: Warning: Attempted to access BossProjectile1_C_37 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_37 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_35
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.37:378][328]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_37 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_37 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.39:250][499]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_50
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.39:250][499]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.39:250][499]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_50
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.39:250][499]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.39:250][499]LogScript: Warning: Attempted to access BossProjectile1_C_52 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_52 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_50
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.39:251][499]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_52 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_52 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.41:127][672]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_65
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.41:128][672]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.41:128][672]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_65
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.41:128][672]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.41:128][672]LogScript: Warning: Attempted to access BossProjectile1_C_67 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_67 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_65
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.41:128][672]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_67 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_67 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.42:874][833]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_80
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.42:874][833]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.42:874][833]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_80
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.42:874][833]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.42:874][833]LogScript: Warning: Attempted to access BossProjectile1_C_81 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_81 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_80
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.42:874][833]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_81 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_81 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.44:755][  6]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_95
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:0020
+[2018.12.04-21.50.44:755][  6]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.44:755][  6]LogScript: Warning: Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_95
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:006D
+[2018.12.04-21.50.44:755][  6]PIE: Error: Blueprint Runtime Error: "Attempted to access ProjectileCollision via property K2Node_ComponentBoundEvent_OtherComp, but ProjectileCollision is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.50.44:755][  6]LogScript: Warning: Attempted to access BossProjectile1_C_96 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_96 is pending kill
+	BossProjectile1_C /Game/UEDPIE_0_ArenaMap.ArenaMap:PersistentLevel.BossProjectile1_C_95
+	Function /Game/Blueprints/Enemies/BossProjectile1.BossProjectile1_C:ExecuteUbergraph_BossProjectile1:00FD
+[2018.12.04-21.50.44:755][  6]PIE: Error: Blueprint Runtime Error: "Attempted to access BossProjectile1_C_96 via property K2Node_ComponentBoundEvent_OtherActor, but BossProjectile1_C_96 is pending kill". Blueprint:  BossProjectile1 Function:  Execute Ubergraph Boss Projectile 1 Graph:  EventGraph Node:  Branch
+[2018.12.04-21.51.07:458][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-21.51.07:500][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-21.51.07:541][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-21.51.07:575][126]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.04-21.51.09:056][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.51.43:739][967]BlueprintLog: New page: Compile TurretBoss
+[2018.12.04-21.51.44:574][993]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/TurretBoss2000BDD74BA725C4A9D6B0BD8F9FDEA3.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/TurretBoss.uasset'
+[2018.12.04-21.52.05:248][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-21.52.05:294][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-21.52.05:295][207]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 11:52:05 AM)
+[2018.12.04-21.52.05:295][207]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-21.52.05:298][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002707s)
+[2018.12.04-21.52.05:298][207]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-21.52.05:298][207]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.12.04-21.52.05:298][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003481s)
+[2018.12.04-21.52.05:344][207]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-21.52.05:353][207]LogInit: FAudioDevice initialized.
+[2018.12.04-21.52.05:383][207]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-21.52.05:385][207]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-16.52.05
+[2018.12.04-21.52.05:386][207]LogWorld: Bringing up level for play took: 0.001287
+[2018.12.04-21.52.05:444][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-21.52.05:444][207]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-21.52.05:445][207]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.165
+[2018.12.04-21.52.31:046][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-21.52.31:090][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-21.52.31:130][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-21.52.31:154][538]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.04-21.52.32:127][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.52.40:793][651]LogEditorTransaction: Undo Move Node
+[2018.12.04-21.52.47:081][379]BlueprintLog: New page: Compile EnemyCharacter
+[2018.12.04-21.52.47:774][407]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter89BEB97C442671ABBA1F8A9D4557F7C2.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2018.12.04-21.53.12:455][208]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/Characters/EnemyAnimationBlueprint.EnemyAnimationBlueprint
+[2018.12.04-21.53.12:548][208]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.04-21.53.12:565][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.53.12:574][208]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.04-21.53.12:849][208]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.53.13:188][208]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.04-21.53.34:482][732]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-21.53.34:517][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.53.34:551][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.53.34:974][732]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-21.53.42:079][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-21.54.24:103][358]BlueprintLog: New page: Compile EnemyAnimationBlueprint
+[2018.12.04-21.54.24:786][404]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimationBlueprint2406E0A1485A9095FB23CFBDE403AE55.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimationBlueprint.uasset'
+[2018.12.04-21.55.27:331][621]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-21.56.25:743][546]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinPhysics.UnrealMannequinPhysics
+[2018.12.04-21.56.25:792][546]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2018.12.04-21.56.25:804][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.56.27:579][665]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint
+[2018.12.04-21.56.27:590][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.56.27:846][665]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.56.57:278][924]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-21.56.59:123][924]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-21.56.59:243][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.56.59:326][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.56.59:424][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.56.59:518][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.56.59:613][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.56.59:702][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.57.00:238][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-21.57.07:447][444]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.12.04-21.57.18:516][444]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.12.04-21.57.21:615][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.024
+[2018.12.04-21.57.21:619][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/Characters/DualPistolsBlend] ([1] browsable assets)...
+[2018.12.04-21.57.21:631][803]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend]
+[2018.12.04-21.57.21:631][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Characters/DualPistolsBlend]
+[2018.12.04-21.57.21:705][803]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/DualPistolsBlend_Auto12A97BD444A05894E9281C58FCA320198.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/Characters/DualPistolsBlend_Auto1.uasset'
+[2018.12.04-21.57.21:708][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/EnemyCharacter] ([1] browsable assets)...
+[2018.12.04-21.57.21:708][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/EnemyCharacter]
+[2018.12.04-21.57.21:798][803]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter_Auto1F6197E3846777BFABBBDD2B2A2688A15.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Blueprints/Enemies/EnemyCharacter_Auto1.uasset'
+[2018.12.04-21.57.21:800][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/Characters/NewAnimBlueprint] ([1] browsable assets)...
+[2018.12.04-21.57.21:815][803]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/Characters/NewAnimBlueprint.NewAnimBlueprint]
+[2018.12.04-21.57.21:815][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Characters/NewAnimBlueprint]
+[2018.12.04-21.57.21:835][803]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/NewAnimBlueprint_Auto16BEFB437401044251377C98B542749B9.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/Characters/NewAnimBlueprint_Auto1.uasset'
+[2018.12.04-21.57.21:838][803]LogFileHelpers: Auto-saving content packages took 0.219
+[2018.12.04-21.57.33:315][149]LogMetaData: Removing '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/AnimationAssets/Characters/NewAnimBlueprint.PackageMetaData'
+[2018.12.04-21.57.33:315][149]LogMetaData: Removing '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.SKEL_EnemyAnimBlueprint_C' ref from Metadata '/Game/AnimationAssets/Characters/NewAnimBlueprint.PackageMetaData'
+[2018.12.04-21.57.33:315][149]LogMetaData: Removing '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint_C' ref from Metadata '/Game/AnimationAssets/Characters/NewAnimBlueprint.PackageMetaData'
+[2018.12.04-21.57.33:315][149]LogMetaData: Removing '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AnimationAssets/Characters/NewAnimBlueprint.PackageMetaData'
+[2018.12.04-21.57.33:315][149]LogMetaData: Removing '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/AnimationAssets/Characters/NewAnimBlueprint.PackageMetaData'
+[2018.12.04-21.57.33:370][149]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimBlueprint295D0D4B4E96FEA995D2259FBB4C4B80.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimBlueprint.uasset'
+[2018.12.04-21.57.34:750][282]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint
+[2018.12.04-21.57.34:761][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.57.35:017][282]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.57.37:205][465]LogSlate: Window 'EnemyAnimBlueprint' being destroyed
+[2018.12.04-21.57.49:974][989]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/EnemyBlendSpace.EnemyBlendSpace
+[2018.12.04-21.57.49:980][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.57.50:009][989]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.57.50:371][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-21.58.00:594][213]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-21.58.15:482][984]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinPhysics.UnrealMannequinPhysics
+[2018.12.04-21.58.15:492][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.58.17:153][ 99]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint
+[2018.12.04-21.58.17:164][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-21.58.17:409][ 99]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-21.59.23:006][771]BlueprintLog: New page: Compile EnemyAnimBlueprint
+[2018.12.04-22.00.40:991][998]BlueprintLog: New page: Compile EnemyAnimBlueprint
+[2018.12.04-22.00.41:002][998]LogBlueprint: Warning: [Compiler EnemyAnimBlueprint] Could not find a variable named "DeathAnim" in 'EnemyAnimBlueprint_C'.
+Make sure 'EnemyAnimBlueprint_C' has been compiled for  Set DeathAnim
+[2018.12.04-22.00.41:002][998]LogBlueprint: Warning: [Compiler EnemyAnimBlueprint] Could not find a variable named "DeathAnim" in 'EnemyAnimBlueprint_C'.
+Make sure 'EnemyAnimBlueprint_C' has been compiled for  Set DeathAnim
+[2018.12.04-22.00.41:004][998]LogBlueprint: Warning: [Compiler EnemyAnimBlueprint] Could not find a variable named "DeathAnim" in 'EnemyAnimBlueprint_C'.
+Make sure 'EnemyAnimBlueprint_C' has been compiled for  Set DeathAnim
+[2018.12.04-22.00.41:005][998]LogBlueprint: Error: [Compiler EnemyAnimBlueprint] The property associated with  Death Anim  could not be found in '/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint_C'
+[2018.12.04-22.00.41:153][998]LogBlueprint: Warning: [Compiler EnemyAnimBlueprint] [1381.84] Compile of EnemyAnimBlueprint failed. 1 Fatal Issue(s) 3 Warning(s) [in 161 ms] (/Game/AnimationAssets/Characters/EnemyAnimBlueprint.EnemyAnimBlueprint)
+[2018.12.04-22.00.41:655][ 40]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimBlueprint1846686540EC2DED356B589250703FC7.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimBlueprint.uasset'
+[2018.12.04-22.01.13:124][717]BlueprintLog: New page: Compile EnemyAnimBlueprint
+[2018.12.04-22.01.14:953][898]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimBlueprint9AA8F3D14DBA760E97FCF7A75347D46B.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimBlueprint.uasset'
+[2018.12.04-22.01.16:627][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.01.16:653][ 96]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.04-22.01.16:674][ 96]LogPlayLevel: [PlayLevel] Compiling EnemyCharacter before play...
+[2018.12.04-22.01.16:848][ 96]LogPlayLevel: PlayLevel: Blueprint regeneration took 195 ms (1 blueprints)
+[2018.12.04-22.01.16:848][ 96]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:01:16 PM)
+[2018.12.04-22.01.16:848][ 96]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.01.16:851][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002587s)
+[2018.12.04-22.01.16:852][ 96]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.01.16:852][ 96]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.12.04-22.01.16:852][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003439s)
+[2018.12.04-22.01.16:887][ 96]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.01.16:897][ 96]LogInit: FAudioDevice initialized.
+[2018.12.04-22.01.16:928][ 96]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.01.16:931][ 96]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.01.16
+[2018.12.04-22.01.16:931][ 96]LogWorld: Bringing up level for play took: 0.001171
+[2018.12.04-22.01.16:990][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.01.16:990][ 96]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.01.16:991][ 96]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.616
+[2018.12.04-22.01.25:358][871]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.12.04-22.01.25:457][880]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter_C_0)
+[2018.12.04-22.01.34:030][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.01.34:068][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.01.34:096][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.01.34:132][666]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.12.04-22.02.18:328][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.02.22:360][435]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter
+[2018.12.04-22.02.30:588][359]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.04-22.02.37:221][139]BlueprintLog: New page: Compile EnemyCharacter
+[2018.12.04-22.02.38:109][198]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterB404C3FB41385C6647E8B98F7979D23E.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2018.12.04-22.02.39:116][316]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.02.39:144][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.02.39:144][316]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:02:39 PM)
+[2018.12.04-22.02.39:144][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.02.39:147][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002606s)
+[2018.12.04-22.02.39:147][316]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.02.39:147][316]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.12.04-22.02.39:147][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003354s)
+[2018.12.04-22.02.39:189][316]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.02.39:198][316]LogInit: FAudioDevice initialized.
+[2018.12.04-22.02.39:232][316]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.02.39:235][316]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.02.39
+[2018.12.04-22.02.39:235][316]LogWorld: Bringing up level for play took: 0.001728
+[2018.12.04-22.02.39:295][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.02.39:295][316]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.02.39:296][316]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.311
+[2018.12.04-22.02.54:853][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.02.54:891][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.02.54:923][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.02.54:947][706]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.12.04-22.02.56:566][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.03.00:417][316]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.04-22.04.43:595][454]BlueprintLog: New page: Compile EnemyAnimBlueprint
+[2018.12.04-22.04.45:061][589]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimBlueprint0319E0594779E8D73C65FD89C0EF8AF8.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimBlueprint.uasset'
+[2018.12.04-22.05.00:323][398]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.05.00:353][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.05.00:353][398]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:05:00 PM)
+[2018.12.04-22.05.00:353][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.05.00:355][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002481s)
+[2018.12.04-22.05.00:356][398]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.05.00:356][398]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.12.04-22.05.00:356][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003431s)
+[2018.12.04-22.05.00:397][398]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.05.00:405][398]LogInit: FAudioDevice initialized.
+[2018.12.04-22.05.00:437][398]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.05.00:439][398]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.05.00
+[2018.12.04-22.05.00:440][398]LogWorld: Bringing up level for play took: 0.001338
+[2018.12.04-22.05.00:497][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.05.00:497][398]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.05.00:499][398]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.893
+[2018.12.04-22.05.20:912][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.05.20:949][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.05.20:980][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.05.21:013][262]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2018.12.04-22.05.21:690][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.05.50:893][762]BlueprintLog: New page: Compile EnemyAnimBlueprint
+[2018.12.04-22.05.51:525][796]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimBlueprint8FD7C52E41B064284921938E53379DF5.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimBlueprint.uasset'
+[2018.12.04-22.05.52:397][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.05.52:424][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.05.52:424][895]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:05:52 PM)
+[2018.12.04-22.05.52:425][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.05.52:427][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2018.12.04-22.05.52:428][895]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.05.52:428][895]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.12.04-22.05.52:428][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003851s)
+[2018.12.04-22.05.52:470][895]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.05.52:479][895]LogInit: FAudioDevice initialized.
+[2018.12.04-22.05.52:507][895]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.05.52:510][895]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.05.52
+[2018.12.04-22.05.52:510][895]LogWorld: Bringing up level for play took: 0.001336
+[2018.12.04-22.05.52:571][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.05.52:571][895]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.05.52:573][895]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.967
+[2018.12.04-22.06.27:776][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.06.27:817][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.06.27:851][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.06.27:877][142]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.12.04-22.06.28:605][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.06.28:672][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.06.28:701][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.06.28:701][236]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:06:28 PM)
+[2018.12.04-22.06.28:701][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.06.28:704][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002763s)
+[2018.12.04-22.06.28:704][236]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.06.28:705][236]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.12.04-22.06.28:705][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003744s)
+[2018.12.04-22.06.28:746][236]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.06.28:755][236]LogInit: FAudioDevice initialized.
+[2018.12.04-22.06.28:788][236]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.06.28:790][236]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.06.28
+[2018.12.04-22.06.28:790][236]LogWorld: Bringing up level for play took: 0.001192
+[2018.12.04-22.06.28:850][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.06.28:850][236]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.06.28:851][236]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.754
+[2018.12.04-22.07.00:584][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.07.00:620][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.07.00:655][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.07.00:681][176]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2018.12.04-22.07.01:855][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.07.01:938][326]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.07.01:965][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.07.01:966][326]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 12:07:01 PM)
+[2018.12.04-22.07.01:966][326]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-22.07.01:968][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002690s)
+[2018.12.04-22.07.01:969][326]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-22.07.01:969][326]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.12.04-22.07.01:969][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.003577s)
+[2018.12.04-22.07.02:012][326]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.07.02:021][326]LogInit: FAudioDevice initialized.
+[2018.12.04-22.07.02:051][326]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-22.07.02:054][326]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-17.07.02
+[2018.12.04-22.07.02:054][326]LogWorld: Bringing up level for play took: 0.001128
+[2018.12.04-22.07.02:114][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-22.07.02:114][326]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-22.07.02:115][326]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap 0.51
+[2018.12.04-22.07.16:009][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.07.16:049][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.07.16:083][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.07.16:108][568]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.12.04-22.07.17:350][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.07.18:192][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.07.18:271][805]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/DualPistolsBlend8A5C3FE34BF6EFE0350FA29251624EDA.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/DualPistolsBlend.uasset'
+[2018.12.04-22.07.20:087][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.07.31:834][395]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacter907CE84C4A36E40FCA3F3FAF31B03034.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/EnemyCharacter.uasset'
+[2018.12.04-22.07.42:706][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/Type1.Type1
+[2018.12.04-22.08.06:088][248]LogSlate: Window 'Save Content' being destroyed
+[2018.12.04-22.08.06:212][248]LogSavePackage: Moving '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyCharacterAE2EDDDF4447B1248654C0B811CE2D9E.tmp' to '../../../../../../Users/nsshipma/Documents/nsshipma_FinalProject/TwinStickShooter/Content/Blueprints/Enemies/EnemyCharacter.uasset'
