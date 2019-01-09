@@ -1,0 +1,1096 @@
+﻿Log file open, 12/04/18 11:14:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290906
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.187s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Ankr0w" -epicuserid=8d03bbcd158d461aba4cdd046a4c8aef -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.04-16.14.25:626][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-16.14.25:626][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.04-16.14.25:722][  0]LogHAL: Display: Platform has ~ 24 GB [25715929088 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.04-16.14.25:722][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.04-16.14.25:722][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.04-16.14.25:722][  0]LogInit: Computer: DESKTOP-VBFITEQ
+[2018.12.04-16.14.25:722][  0]LogInit: User: Nate
+[2018.12.04-16.14.25:722][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.04-16.14.25:722][  0]LogInit: High frequency timer resolution =3.906257 MHz
+[2018.12.04-16.14.25:722][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.12.04-16.14.25:722][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.04-16.14.25:722][  0]LogMemory: Process Physical Memory: 101.96 MB used, 101.96 MB peak
+[2018.12.04-16.14.25:722][  0]LogMemory: Process Virtual Memory: 94.53 MB used, 94.53 MB peak
+[2018.12.04-16.14.25:722][  0]LogMemory: Physical Memory: 10383.80 MB used,  14140.82 MB free, 24524.62 MB total
+[2018.12.04-16.14.25:722][  0]LogMemory: Virtual Memory: 4643.97 MB used,  14140.82 MB free, 134217728.00 MB total
+[2018.12.04-16.14.25:741][  0]LogInit: Using OS detected language (en-US).
+[2018.12.04-16.14.25:741][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.04-16.14.25:742][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.04-16.14.26:069][  0]LogStreaming: Display: Took  0.328s to InitEngineTextLocalization.
+[2018.12.04-16.14.26:069][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.04-16.14.26:097][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.04-16.14.26:097][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.04-16.14.26:265][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-16.14.26:265][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.04-16.14.26:320][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.12.04-16.14.26:320][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.04-16.14.26:322][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.04-16.14.26:322][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.04-16.14.26:322][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.04-16.14.26:328][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.04-16.14.26:328][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.04-16.14.26:328][  0]LogWindows: EnumDisplayDevices:
+[2018.12.04-16.14.26:328][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.12.04-16.14.26:328][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.12.04-16.14.26:329][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.12.04-16.14.26:329][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.12.04-16.14.26:329][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.04-16.14.26:329][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.12.04-16.14.26:329][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.12.04-16.14.26:329][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.12.04-16.14.26:329][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.04-16.14.26:364][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.04-16.14.26:459][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.04-16.14.26:556][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/6368/).
+[2018.12.04-16.14.26:556][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/91E9AB174EA512B2E75478986A90F31E/'.
+[2018.12.04-16.14.26:737][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.04-16.14.26:748][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.04-16.14.26:760][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.04-16.14.26:771][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.04-16.14.26:783][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.04-16.14.26:794][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.04-16.14.26:806][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.04-16.14.26:819][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.04-16.14.26:824][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-16.14.26:894][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.04-16.14.26:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-16.14.26:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-16.14.26:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-16.14.26:989][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-16.14.27:000][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.04-16.14.27:012][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.04-16.14.27:022][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.04-16.14.27:033][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.04-16.14.27:041][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-16.14.27:041][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.04-16.14.27:088][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.04-16.14.27:088][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.04-16.14.27:088][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.04-16.14.27:837][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.04-16.14.27:888][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-16.14.27:889][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.04-16.14.27:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.04-16.14.27:889][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.04-16.14.27:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-16.14.27:889][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.04-16.14.27:900][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.04-16.14.27:912][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.04-16.14.27:912][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.04-16.14.27:912][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.04-16.14.27:928][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.04-16.14.27:930][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.04-16.14.27:930][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.04-16.14.27:996][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.12.04-16.14.28:271][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-16.14.28:319][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.04-16.14.28:322][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.04-16.14.28:322][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.04-16.14.28:322][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.04-16.14.28:322][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.04-16.14.28:425][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2018.12.04-16.14.28:875][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099189 seconds
+[2018.12.04-16.14.28:882][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.04-16.14.28:882][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.04-16.14.28:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.04-16.14.29:793][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.04-16.14.29:806][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.04-16.14.30:004][  0]SourceControl: Source control is disabled
+[2018.12.04-16.14.30:004][  0]SourceControl: Source control is disabled
+[2018.12.04-16.14.30:005][  0]SourceControl: Source control is disabled
+[2018.12.04-16.14.30:006][  0]SourceControl: Source control is disabled
+[2018.12.04-16.14.30:189][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.04-16.14.30:296][  0]LogOcInput: OculusInput pre-init called
+[2018.12.04-16.14.30:360][  0]LogEngine: Initializing Engine...
+[2018.12.04-16.14.30:360][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-16.14.30:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-16.14.30:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-16.14.30:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-16.14.30:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-16.14.30:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.04-16.14.30:555][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-16.14.30:570][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-16.14.30:607][  0]LogInit: FAudioDevice initialized.
+[2018.12.04-16.14.30:607][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.04-16.14.31:124][  0]LogDerivedDataCache: Saved boot cache 0.52s 71MB C:/Users/Nate/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-16.14.31:137][  0]LogInit: Texture streaming: Enabled
+[2018.12.04-16.14.31:198][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.04-16.14.31:247][  0]LogInit: Transaction tracking system initialized
+[2018.12.04-16.14.31:280][  0]BlueprintLog: New page: Editor Load
+[2018.12.04-16.14.31:346][  0]LocalizationService: Localization service is disabled
+[2018.12.04-16.14.31:411][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.12.04-16.14.31:411][  0]LogLinker: Warning: Can't find file '/Game/TwinStickBP/TwinStickOverview'
+[2018.12.04-16.14.31:411][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2018.12.04-16.14.31:584][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.04-16.14.31:584][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.04-16.14.31:584][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.04-16.14.31:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-16.14.31:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-16.14.31:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-16.14.31:584][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-16.14.31:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/' took 0.02s
+[2018.12.04-16.14.31:686][  0]SourceControl: Source control is disabled
+[2018.12.04-16.14.31:687][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-16.14.31:687][  0]LightingResults: New page: Lighting Build
+[2018.12.04-16.14.31:690][  0]MapCheck: New page: Map Check
+[2018.12.04-16.14.31:690][  0]LightingResults: New page: Lighting Build
+[2018.12.04-16.14.35:301][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Characters/Enemy_Walk.Enemy_Walk
+[2018.12.04-16.14.35:301][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Characters/Enemy_Walk.Enemy_Walk) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.14.35:302][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Characters/Enemy_Idle.Enemy_Idle
+[2018.12.04-16.14.35:302][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Characters/Enemy_Idle.Enemy_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.14.36:311][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Characters/Death_1.Death_1
+[2018.12.04-16.14.36:311][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Characters/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.14.36:566][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Characters/Death_3.Death_3
+[2018.12.04-16.14.36:567][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Characters/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.14.36:570][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimationAssets/Characters/Death_2.Death_2
+[2018.12.04-16.14.36:570][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimationAssets/Characters/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.14.36:624][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-16.14.36:634][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-16.14.36:660][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-16.14.36:741][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.837ms to complete.
+[2018.12.04-16.14.36:741][  0]LogFileHelpers: Loading map 'ArenaMap' took 5.055
+[2018.12.04-16.14.37:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.14.37:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.14.37:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.14.37:135][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.14.37:241][  0]LogCollectionManager: Loaded 0 collections in 0.001468 seconds
+[2018.12.04-16.14.37:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Collections/' took 0.01s
+[2018.12.04-16.14.37:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Developers/Nate/Collections/' took 0.01s
+[2018.12.04-16.14.37:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Collections/' took 0.01s
+[2018.12.04-16.14.37:285][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.04-16.14.37:293][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2573 classes and 605 folders.
+[2018.12.04-16.14.37:303][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.04-16.14.38:760][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.12.04-16.14.38:774][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.12.04-16.14.38:802][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.04-16.14.38:805][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.04-16.14.38:883][  0]LogSlate: Took 0.072377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.04-16.14.39:090][  0]LogRenderer: Reallocating scene render targets to support 512x256 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-16.14.39:109][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-16.14.39:199][  0]LogSlate: Took 0.023163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-16.14.39:272][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.04-16.14.39:272][  0]LogLoad: (Engine Initialization) Total time: 15.88 seconds
+[2018.12.04-16.14.39:272][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.04-16.14.39:311][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.12.04-16.14.39:543][  1]LogAssetRegistry: Asset discovery search completed in 11.5700 seconds
+[2018.12.04-16.14.39:546][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.04-16.14.39:546][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.12.04-16.14.40:736][  5]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-16.14.43:442][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-16.14.50:933][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-16.15.04:591][147]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Idle_Guns_Hip.fbx)
+[2018.12.04-16.15.04:605][147]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Idle_Guns_Hip.fbx
+[2018.12.04-16.15.05:158][147]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.15.22:850][147]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.04-16.15.22:890][147]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Jog_Bwd_Guns.fbx)
+[2018.12.04-16.15.22:892][147]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Jog_Fwd_Guns.fbx)
+[2018.12.04-16.15.22:895][147]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Jog_Lt_Guns.fbx)
+[2018.12.04-16.15.22:899][147]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B17AD77\Jog_Rt_Guns.fbx)
+[2018.12.04-16.15.50:940][496]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player/PlayerCharacter.PlayerCharacter
+[2018.12.04-16.15.51:287][496]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.04-16.15.52:223][496]LogSlate: Took 0.004020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.04-16.15.52:682][497]LogSlate: Took 0.026627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.04-16.16.14:477][872]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Idle_Guns_Hip.fbx)
+[2018.12.04-16.16.14:487][872]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Idle_Guns_Hip.fbx
+[2018.12.04-16.16.14:525][872]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.16.52:240][872]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.04-16.16.52:268][872]LogFbx: =================================================
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node START [pCube2_xx] 
+[2018.12.04-16.16.52:268][872]LogFbx: 	Total Deformer Count 290845440.
+[2018.12.04-16.16.52:268][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:268][872]LogFbx: 		[Node Attribute Child 1] pCube2_xx (Type Mesh).
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node END [pCube2_xx]
+[2018.12.04-16.16.52:268][872]LogFbx: =================================================
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.52:268][872]LogFbx: 	Total Deformer Count 849363704.
+[2018.12.04-16.16.52:268][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:268][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.52:268][872]LogFbx: =================================================
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node START [pCube2_xx] 
+[2018.12.04-16.16.52:268][872]LogFbx: 	Total Deformer Count 290845248.
+[2018.12.04-16.16.52:268][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:268][872]LogFbx: 		[Node Attribute Child 1] pCube2_xx (Type Mesh).
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node END [pCube2_xx]
+[2018.12.04-16.16.52:268][872]LogFbx: =================================================
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.52:268][872]LogFbx: 	Total Deformer Count 849363928.
+[2018.12.04-16.16.52:268][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:268][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.52:268][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.52:269][872]LogFbx: =================================================
+[2018.12.04-16.16.52:269][872]LogFbx: Dumping Node START [pCube2_xx] 
+[2018.12.04-16.16.52:269][872]LogFbx: 	Total Deformer Count 290842752.
+[2018.12.04-16.16.52:269][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:269][872]LogFbx: 		[Node Attribute Child 1] pCube2_xx (Type Mesh).
+[2018.12.04-16.16.52:269][872]LogFbx: Dumping Node END [pCube2_xx]
+[2018.12.04-16.16.52:269][872]LogFbx: =================================================
+[2018.12.04-16.16.52:269][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.52:269][872]LogFbx: 	Total Deformer Count 849363928.
+[2018.12.04-16.16.52:269][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.52:269][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.52:269][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(0) root
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(1) pelvis
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(2) spine_01
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(3) spine_02
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(4) spine_03
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(5) clavicle_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(6) upperarm_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(7) lowerarm_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(8) hand_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(9) index_01_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(10) index_02_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(11) index_03_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(12) middle_01_l
+[2018.12.04-16.16.52:269][872]LogFbx: SortedLinks :(13) middle_02_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(14) middle_03_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(15) pinky_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(16) pinky_02_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(17) pinky_03_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(18) ring_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(19) ring_02_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(20) ring_03_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(21) thumb_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(22) thumb_02_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(23) thumb_03_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(26) clavicle_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(27) upperarm_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(29) hand_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(30) index_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(31) index_02_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(32) index_03_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(33) middle_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(34) middle_02_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(35) middle_03_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(39) ring_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(40) ring_02_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(41) ring_03_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(47) neck_01
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(48) head
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(49) thigh_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(50) calf_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(52) foot_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(53) ball_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(55) thigh_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(56) calf_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(58) foot_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(59) ball_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(61) ik_foot_root
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(62) ik_foot_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(63) ik_foot_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(64) ik_hand_root
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(65) ik_hand_gun
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(66) ik_hand_l
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(67) ik_hand_r
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(68) pCube2_xx
+[2018.12.04-16.16.52:270][872]LogFbx: SortedLinks :(69) pCube1
+[2018.12.04-16.16.52:271][872]LogFbx: Parsing AnimStack Take 001
+[2018.12.04-16.16.52:276][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Idle_Guns_Hip'
+[2018.12.04-16.16.52:276][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Idle_Guns_Hip'
+[2018.12.04-16.16.53:114][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Idle_Guns_Hip.Idle_Guns_Hip
+[2018.12.04-16.16.53:115][872]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Guns_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.16.53:132][872]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset UnrealMannequinSkelton.  Any animation on these bones will not be imported: 
+
+ pCube2_xx  
+pCube1  
+ 
+[2018.12.04-16.16.53:148][872]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Bwd_Guns.fbx)
+[2018.12.04-16.16.53:157][872]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Bwd_Guns.fbx
+[2018.12.04-16.16.53:190][872]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.16.53:191][872]LogFbx: =================================================
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:191][872]LogFbx: 	Total Deformer Count 849364376.
+[2018.12.04-16.16.53:191][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:191][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:191][872]LogFbx: =================================================
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:191][872]LogFbx: 	Total Deformer Count 849364376.
+[2018.12.04-16.16.53:191][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:191][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:191][872]LogFbx: =================================================
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:191][872]LogFbx: 	Total Deformer Count 849364208.
+[2018.12.04-16.16.53:191][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:191][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:191][872]LogFbx: =================================================
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:191][872]LogFbx: 	Total Deformer Count 849364208.
+[2018.12.04-16.16.53:191][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:191][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:191][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:192][872]LogFbx: =================================================
+[2018.12.04-16.16.53:192][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:192][872]LogFbx: 	Total Deformer Count 849364208.
+[2018.12.04-16.16.53:192][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:192][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:192][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:192][872]LogFbx: =================================================
+[2018.12.04-16.16.53:192][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:192][872]LogFbx: 	Total Deformer Count 849364208.
+[2018.12.04-16.16.53:192][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:192][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:192][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(0) root
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(1) pelvis
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(2) spine_01
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(3) spine_02
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(4) spine_03
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(5) clavicle_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(6) upperarm_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(7) lowerarm_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(8) hand_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(9) index_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(10) index_02_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(11) index_03_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(12) middle_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(13) middle_02_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(14) middle_03_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(15) pinky_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(16) pinky_02_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(17) pinky_03_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(18) ring_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(19) ring_02_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(20) ring_03_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(21) thumb_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(22) thumb_02_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(23) thumb_03_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(26) clavicle_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(27) upperarm_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(29) hand_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(30) index_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(31) index_02_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(32) index_03_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(33) middle_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(34) middle_02_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(35) middle_03_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(39) ring_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(40) ring_02_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(41) ring_03_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(47) neck_01
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(48) head
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(49) thigh_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(50) calf_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(52) foot_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(53) ball_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(55) thigh_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(56) calf_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(58) foot_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(59) ball_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(61) ik_foot_root
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(62) ik_foot_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(63) ik_foot_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(64) ik_hand_root
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(65) ik_hand_gun
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(66) ik_hand_l
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(67) ik_hand_r
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(68) pCube2
+[2018.12.04-16.16.53:193][872]LogFbx: SortedLinks :(69) pCube1
+[2018.12.04-16.16.53:194][872]LogFbx: Parsing AnimStack Take 001
+[2018.12.04-16.16.53:197][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Bwd_Guns'
+[2018.12.04-16.16.53:197][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Bwd_Guns'
+[2018.12.04-16.16.53:437][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Jog_Bwd_Guns.Jog_Bwd_Guns
+[2018.12.04-16.16.53:438][872]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Bwd_Guns) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.16.53:451][872]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset UnrealMannequinSkelton.  Any animation on these bones will not be imported: 
+
+ pCube2  
+pCube1  
+ 
+[2018.12.04-16.16.53:455][872]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Fwd_Guns.fbx)
+[2018.12.04-16.16.53:464][872]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Fwd_Guns.fbx
+[2018.12.04-16.16.53:498][872]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.16.53:500][872]LogFbx: =================================================
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node START [pCube1_xx] 
+[2018.12.04-16.16.53:500][872]LogFbx: 	Total Deformer Count 268926912.
+[2018.12.04-16.16.53:500][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:500][872]LogFbx: 		[Node Attribute Child 1] pCube1_xx (Type Mesh).
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node END [pCube1_xx]
+[2018.12.04-16.16.53:500][872]LogFbx: =================================================
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:500][872]LogFbx: 	Total Deformer Count 849364208.
+[2018.12.04-16.16.53:500][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:500][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:500][872]LogFbx: =================================================
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node START [pCube1_xx] 
+[2018.12.04-16.16.53:500][872]LogFbx: 	Total Deformer Count 268912512.
+[2018.12.04-16.16.53:500][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:500][872]LogFbx: 		[Node Attribute Child 1] pCube1_xx (Type Mesh).
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node END [pCube1_xx]
+[2018.12.04-16.16.53:500][872]LogFbx: =================================================
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:500][872]LogFbx: 	Total Deformer Count 849364824.
+[2018.12.04-16.16.53:500][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:500][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:500][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:501][872]LogFbx: =================================================
+[2018.12.04-16.16.53:501][872]LogFbx: Dumping Node START [pCube1_xx] 
+[2018.12.04-16.16.53:501][872]LogFbx: 	Total Deformer Count 268913600.
+[2018.12.04-16.16.53:501][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:501][872]LogFbx: 		[Node Attribute Child 1] pCube1_xx (Type Mesh).
+[2018.12.04-16.16.53:501][872]LogFbx: Dumping Node END [pCube1_xx]
+[2018.12.04-16.16.53:501][872]LogFbx: =================================================
+[2018.12.04-16.16.53:501][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:501][872]LogFbx: 	Total Deformer Count 849364824.
+[2018.12.04-16.16.53:501][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:501][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:501][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(0) root
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(1) pelvis
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(2) spine_01
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(3) spine_02
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(4) spine_03
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(5) clavicle_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(6) upperarm_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(7) lowerarm_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(8) hand_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(9) index_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(10) index_02_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(11) index_03_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(12) middle_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(13) middle_02_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(14) middle_03_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(15) pinky_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(16) pinky_02_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(17) pinky_03_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(18) ring_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(19) ring_02_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(20) ring_03_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(21) thumb_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(22) thumb_02_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(23) thumb_03_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(26) clavicle_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(27) upperarm_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(29) hand_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(30) index_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(31) index_02_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(32) index_03_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(33) middle_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(34) middle_02_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(35) middle_03_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(39) ring_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(40) ring_02_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(41) ring_03_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(47) neck_01
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(48) head
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(49) thigh_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(50) calf_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(52) foot_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(53) ball_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(55) thigh_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(56) calf_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(58) foot_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(59) ball_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(61) ik_foot_root
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(62) ik_foot_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(63) ik_foot_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(64) ik_hand_root
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(65) ik_hand_gun
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(66) ik_hand_l
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(67) ik_hand_r
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(68) pCube1_xx
+[2018.12.04-16.16.53:502][872]LogFbx: SortedLinks :(69) pCube2
+[2018.12.04-16.16.53:504][872]LogFbx: Parsing AnimStack Take 001
+[2018.12.04-16.16.53:506][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Fwd_Guns'
+[2018.12.04-16.16.53:506][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Fwd_Guns'
+[2018.12.04-16.16.53:742][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Jog_Fwd_Guns.Jog_Fwd_Guns
+[2018.12.04-16.16.53:742][872]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Fwd_Guns) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.16.53:756][872]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset UnrealMannequinSkelton.  Any animation on these bones will not be imported: 
+
+ pCube1_xx  
+pCube2  
+ 
+[2018.12.04-16.16.53:759][872]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Lt_Guns.fbx)
+[2018.12.04-16.16.53:769][872]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Lt_Guns.fbx
+[2018.12.04-16.16.53:804][872]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.16.53:805][872]LogFbx: =================================================
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:805][872]LogFbx: 	Total Deformer Count 849364824.
+[2018.12.04-16.16.53:805][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:805][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:805][872]LogFbx: =================================================
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:805][872]LogFbx: 	Total Deformer Count 849364824.
+[2018.12.04-16.16.53:805][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:805][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:805][872]LogFbx: =================================================
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:805][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.53:805][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:805][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:805][872]LogFbx: =================================================
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:805][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.53:805][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:805][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:805][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:806][872]LogFbx: =================================================
+[2018.12.04-16.16.53:806][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.53:806][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.53:806][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:806][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.53:806][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.53:806][872]LogFbx: =================================================
+[2018.12.04-16.16.53:806][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.53:806][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.53:806][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.53:806][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.53:806][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(0) root
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(1) pelvis
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(2) spine_01
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(3) spine_02
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(4) spine_03
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(5) clavicle_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(6) upperarm_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(7) lowerarm_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(8) hand_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(9) index_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(10) index_02_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(11) index_03_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(12) middle_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(13) middle_02_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(14) middle_03_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(15) pinky_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(16) pinky_02_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(17) pinky_03_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(18) ring_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(19) ring_02_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(20) ring_03_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(21) thumb_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(22) thumb_02_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(23) thumb_03_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(26) clavicle_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(27) upperarm_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(29) hand_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(30) index_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(31) index_02_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(32) index_03_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(33) middle_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(34) middle_02_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(35) middle_03_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(39) ring_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(40) ring_02_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(41) ring_03_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(47) neck_01
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(48) head
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(49) thigh_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(50) calf_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(52) foot_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(53) ball_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(55) thigh_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(56) calf_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(58) foot_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(59) ball_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(61) ik_foot_root
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(62) ik_foot_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(63) ik_foot_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(64) ik_hand_root
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(65) ik_hand_gun
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(66) ik_hand_l
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(67) ik_hand_r
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(68) pCube2
+[2018.12.04-16.16.53:807][872]LogFbx: SortedLinks :(69) pCube1
+[2018.12.04-16.16.53:808][872]LogFbx: Parsing AnimStack Take 001
+[2018.12.04-16.16.53:811][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Lt_Guns'
+[2018.12.04-16.16.53:811][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Lt_Guns'
+[2018.12.04-16.16.54:043][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Jog_Lt_Guns.Jog_Lt_Guns
+[2018.12.04-16.16.54:043][872]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Lt_Guns) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.16.54:058][872]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset UnrealMannequinSkelton.  Any animation on these bones will not be imported: 
+
+ pCube2  
+pCube1  
+ 
+[2018.12.04-16.16.54:063][872]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Rt_Guns.fbx)
+[2018.12.04-16.16.54:072][872]LogFbx: Loading FBX Scene from C:\Users\Nate\AppData\Local\Temp\7zE4B1C3F46\Jog_Rt_Guns.fbx
+[2018.12.04-16.16.54:109][872]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.04-16.16.54:110][872]LogFbx: =================================================
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.54:110][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.54:110][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:110][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.54:110][872]LogFbx: =================================================
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.54:110][872]LogFbx: 	Total Deformer Count 849365552.
+[2018.12.04-16.16.54:110][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:110][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.54:110][872]LogFbx: =================================================
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.54:110][872]LogFbx: 	Total Deformer Count 849373224.
+[2018.12.04-16.16.54:110][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:110][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.54:110][872]LogFbx: =================================================
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.54:110][872]LogFbx: 	Total Deformer Count 849373224.
+[2018.12.04-16.16.54:110][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:110][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.54:110][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.54:111][872]LogFbx: =================================================
+[2018.12.04-16.16.54:111][872]LogFbx: Dumping Node START [pCube1] 
+[2018.12.04-16.16.54:111][872]LogFbx: 	Total Deformer Count 849373224.
+[2018.12.04-16.16.54:111][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:111][872]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.12.04-16.16.54:111][872]LogFbx: Dumping Node END [pCube1]
+[2018.12.04-16.16.54:111][872]LogFbx: =================================================
+[2018.12.04-16.16.54:111][872]LogFbx: Dumping Node START [pCube2] 
+[2018.12.04-16.16.54:111][872]LogFbx: 	Total Deformer Count 849373224.
+[2018.12.04-16.16.54:111][872]LogFbx: 	Attribute () Type (4).
+[2018.12.04-16.16.54:111][872]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.12.04-16.16.54:111][872]LogFbx: Dumping Node END [pCube2]
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(0) root
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(1) pelvis
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(2) spine_01
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(3) spine_02
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(4) spine_03
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(5) clavicle_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(6) upperarm_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(7) lowerarm_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(8) hand_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(9) index_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(10) index_02_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(11) index_03_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(12) middle_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(13) middle_02_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(14) middle_03_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(15) pinky_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(16) pinky_02_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(17) pinky_03_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(18) ring_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(19) ring_02_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(20) ring_03_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(21) thumb_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(22) thumb_02_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(23) thumb_03_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(26) clavicle_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(27) upperarm_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(29) hand_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(30) index_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(31) index_02_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(32) index_03_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(33) middle_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(34) middle_02_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(35) middle_03_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(39) ring_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(40) ring_02_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(41) ring_03_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(47) neck_01
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(48) head
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(49) thigh_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(50) calf_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(52) foot_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(53) ball_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(55) thigh_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(56) calf_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(58) foot_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(59) ball_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(61) ik_foot_root
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(62) ik_foot_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(63) ik_foot_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(64) ik_hand_root
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(65) ik_hand_gun
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(66) ik_hand_l
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(67) ik_hand_r
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(68) pCube1
+[2018.12.04-16.16.54:112][872]LogFbx: SortedLinks :(69) pCube2
+[2018.12.04-16.16.54:113][872]LogFbx: Parsing AnimStack Take 001
+[2018.12.04-16.16.54:116][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Rt_Guns'
+[2018.12.04-16.16.54:116][872]LogLinker: Can't find file '/Game/Mannequin/Animations/Jog_Rt_Guns'
+[2018.12.04-16.17.00:041][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Jog_Rt_Guns.Jog_Rt_Guns
+[2018.12.04-16.17.00:043][872]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_Rt_Guns) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.04-16.17.00:093][872]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset UnrealMannequinSkelton.  Any animation on these bones will not be imported: 
+
+ pCube1  
+pCube2  
+ 
+[2018.12.04-16.17.05:136][ 37]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh.UnrealMannequinMesh
+[2018.12.04-16.17.05:141][ 37]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.04-16.17.05:331][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.17.05:343][ 37]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.04-16.17.05:390][ 37]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-16.17.05:672][ 37]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.04-16.17.05:692][ 38]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-16.18.34:350][308]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint
+[2018.12.04-16.18.34:398][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.18.34:687][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-16.18.37:738][511]LogSlate: Window 'PlayerAnimationBlueprint' being destroyed
+[2018.12.04-16.18.39:860][721]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlend.PlayerBlend
+[2018.12.04-16.18.39:997][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.18.40:028][721]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-16.18.40:622][721]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-16.18.42:969][950]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.18.42:984][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.18.43:011][950]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-16.18.43:369][950]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.04-16.20.54:122][898]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.12.04-16.21.05:478][627]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.22.22:411][713]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.23.05:507][711]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.24.33:730][596]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.24.41:868][528]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.25.06:958][474]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.25.13:854][252]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.26.15:569][521]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/DualPistolsBlend5D3AD5ED4B3DB5D3ADD7C78A80C7C1F5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/DualPistolsBlend.uasset'
+[2018.12.04-16.26.20:380][ 79]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.26.36:152][930]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.26.55:476][202]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/PlayerBlendRifle.PlayerBlendRifle
+[2018.12.04-16.27.22:982][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.046
+[2018.12.04-16.27.22:984][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Idle_Guns_Hip] ([1] browsable assets)...
+[2018.12.04-16.27.23:022][720]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Idle_Guns_Hip.Idle_Guns_Hip]
+[2018.12.04-16.27.23:022][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Idle_Guns_Hip]
+[2018.12.04-16.27.23:038][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Guns_Hip_Auto1EE448C834370C7728FB0EBB902B09CA9.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Mannequin/Animations/Idle_Guns_Hip_Auto1.uasset'
+[2018.12.04-16.27.23:039][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Jog_Bwd_Guns] ([1] browsable assets)...
+[2018.12.04-16.27.23:077][720]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Jog_Bwd_Guns.Jog_Bwd_Guns]
+[2018.12.04-16.27.23:077][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Jog_Bwd_Guns]
+[2018.12.04-16.27.23:094][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Bwd_Guns_Auto113AACFCF47C5ABD6D23018BEC0CE828D.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Mannequin/Animations/Jog_Bwd_Guns_Auto1.uasset'
+[2018.12.04-16.27.23:095][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Jog_Fwd_Guns] ([1] browsable assets)...
+[2018.12.04-16.27.23:131][720]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Jog_Fwd_Guns.Jog_Fwd_Guns]
+[2018.12.04-16.27.23:131][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Jog_Fwd_Guns]
+[2018.12.04-16.27.23:144][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Fwd_Guns_Auto1F810BF074F1B7DF56652B7BC39E29166.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Mannequin/Animations/Jog_Fwd_Guns_Auto1.uasset'
+[2018.12.04-16.27.23:146][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Jog_Lt_Guns] ([1] browsable assets)...
+[2018.12.04-16.27.23:170][720]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Jog_Lt_Guns.Jog_Lt_Guns]
+[2018.12.04-16.27.23:170][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Jog_Lt_Guns]
+[2018.12.04-16.27.23:185][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Lt_Guns_Auto152B8DA9840D0F5681FCE1DBD22E5599B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Mannequin/Animations/Jog_Lt_Guns_Auto1.uasset'
+[2018.12.04-16.27.23:187][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Jog_Rt_Guns] ([1] browsable assets)...
+[2018.12.04-16.27.23:205][720]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/Jog_Rt_Guns.Jog_Rt_Guns]
+[2018.12.04-16.27.23:205][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Jog_Rt_Guns]
+[2018.12.04-16.27.23:222][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Rt_Guns_Auto10B9E6F2E4B3F7C3BE1EFF4ABDED9146A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/Mannequin/Animations/Jog_Rt_Guns_Auto1.uasset'
+[2018.12.04-16.27.23:223][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/Characters/DualPistolsBlend] ([1] browsable assets)...
+[2018.12.04-16.27.23:241][720]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend]
+[2018.12.04-16.27.23:241][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Characters/DualPistolsBlend]
+[2018.12.04-16.27.23:327][720]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/DualPistolsBlend_Auto191CAC51F40C20B0B63A590936AC7009F.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/Characters/DualPistolsBlend_Auto1.uasset'
+[2018.12.04-16.27.23:328][720]LogFileHelpers: Auto-saving content packages took 0.345
+[2018.12.04-16.28.00:036][675]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimationAssets/Characters/DualPistolsBlend.DualPistolsBlend
+[2018.12.04-16.28.21:245][187]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinSkelton.UnrealMannequinSkelton
+[2018.12.04-16.28.21:251][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.28.21:281][187]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.04-16.29.25:513][469]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/DualPistolsBlend35426CAD48DCE700C4B25FA8B9F0710B.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/DualPistolsBlend.uasset'
+[2018.12.04-16.30.47:536][ 72]LogSlate: Took 0.004106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.04-16.33.08:197][552]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprintCEC41FB84AE885AC7FD47BA816EFB9CB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/PlayerAnimationBlueprint.uasset'
+[2018.12.04-16.33.08:761][618]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.12.04-16.33.08:784][618]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] Rifle to DualPistols  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.33.08:784][618]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] DualPistols to Rifle  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.33.08:978][618]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] [1125.58] Compile of PlayerAnimationBlueprint successful, but with 2 Warning(s) [in 216 ms] (/Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint)
+[2018.12.04-16.38.29:882][456]LogEditorTransaction: Undo Move Node
+[2018.12.04-16.38.30:218][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.30:221][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.30:227][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.30:228][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.31:147][522]LogEditorTransaction: Undo Move Node
+[2018.12.04-16.38.31:483][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.31:486][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.31:496][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.38.31:497][522]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.04-16.39.07:106][681]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.12.04-16.39.07:131][681]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] Rifle to DualPistols  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.39.07:131][681]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] DualPistols to Rifle  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.39.07:300][681]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] [1483.90] Compile of PlayerAnimationBlueprint successful, but with 2 Warning(s) [in 194 ms] (/Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint)
+[2018.12.04-16.39.08:137][731]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint3EC543014C6C597065620FA4BEBC9156.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/PlayerAnimationBlueprint.uasset'
+[2018.12.04-16.39.24:989][731]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-16.39.24:992][731]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-16.41.00:455][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ArenaMap' took 0.028
+[2018.12.04-16.41.00:457][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/Characters/PlayerAnimationBlueprint] ([1] browsable assets)...
+[2018.12.04-16.41.00:492][672]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint]
+[2018.12.04-16.41.00:492][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Characters/PlayerAnimationBlueprint]
+[2018.12.04-16.41.00:618][672]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprint_Auto26C57F4114D6947834E9B1D9580487C6C.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/Characters/PlayerAnimationBlueprint_Auto2.uasset'
+[2018.12.04-16.41.00:620][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinSkelton] ([1] browsable assets)...
+[2018.12.04-16.41.00:620][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinSkelton]
+[2018.12.04-16.41.00:700][672]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UnrealMannequinSkelton_Auto277279F3D46A28663AFEBAFA13125AC02.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinSkelton_Auto2.uasset'
+[2018.12.04-16.41.00:708][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh] ([1] browsable assets)...
+[2018.12.04-16.41.00:741][672]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh.UnrealMannequinMesh]
+[2018.12.04-16.41.00:741][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh]
+[2018.12.04-16.41.00:863][672]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UnrealMannequinMesh_Auto22D58BF4A4EEFD219E345FF89A81BDB53.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh_Auto2.uasset'
+[2018.12.04-16.41.00:864][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/Characters/EnemyAnimationBlueprint] ([1] browsable assets)...
+[2018.12.04-16.41.00:904][672]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimationAssets/Characters/EnemyAnimationBlueprint.EnemyAnimationBlueprint]
+[2018.12.04-16.41.00:904][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/Characters/EnemyAnimationBlueprint]
+[2018.12.04-16.41.01:116][672]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimationBlueprint_Auto288E5CCE943C180DF3DC4F18F1D8148FA.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Autosaves/Game/AnimationAssets/Characters/EnemyAnimationBlueprint_Auto2.uasset'
+[2018.12.04-16.41.01:119][672]LogFileHelpers: Auto-saving content packages took 0.662
+[2018.12.04-16.42.15:359][894]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.12.04-16.42.15:384][894]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] Rifle to DualPistols  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.42.15:384][894]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] DualPistols to Rifle  will never be taken, please connect something to  Can Enter Transition
+[2018.12.04-16.42.15:546][894]LogBlueprint: Warning: [Compiler PlayerAnimationBlueprint] [1672.15] Compile of PlayerAnimationBlueprint successful, but with 2 Warning(s) [in 187 ms] (/Game/AnimationAssets/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint)
+[2018.12.04-16.43.32:792][221]BlueprintLog: New page: Compile PlayerAnimationBlueprint
+[2018.12.04-16.43.33:831][267]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/PlayerAnimationBlueprintE2FF361E4DE4D1D36C217191A32BFD71.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/PlayerAnimationBlueprint.uasset'
+[2018.12.04-16.43.54:979][770]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-16.43.55:002][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-16.43.55:014][770]PIE: New page: PIE session: ArenaMap (Dec 4, 2018, 6:43:55 AM)
+[2018.12.04-16.43.55:014][770]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArenaMap
+[2018.12.04-16.43.55:039][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025373s)
+[2018.12.04-16.43.55:040][770]LogAIModule: Creating AISystem for world ArenaMap
+[2018.12.04-16.43.55:040][770]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.12.04-16.43.55:040][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArenaMap.ArenaMap to /Game/UEDPIE_0_ArenaMap.ArenaMap (0.026176s)
+[2018.12.04-16.43.55:076][770]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-16.43.55:090][770]LogInit: FAudioDevice initialized.
+[2018.12.04-16.43.55:138][770]LogLoad: Game class is 'TwinStickGameMode_C'
+[2018.12.04-16.43.55:143][770]LogWorld: Bringing World /Game/UEDPIE_0_ArenaMap.ArenaMap up for play (max tick rate 0) at 2018.12.04-11.43.55
+[2018.12.04-16.43.55:144][770]LogWorld: Bringing up level for play took: 0.003716
+[2018.12.04-16.43.55:205][770]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 10 classes and 0 folders.
+[2018.12.04-16.43.55:262][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2018.12.04-16.43.55:263][770]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2018.12.04-16.43.55:264][770]PIE: Play in editor start time for /Game/UEDPIE_0_ArenaMap -0.027
+[2018.12.04-16.44.04:296][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.44.04:364][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-16.44.04:394][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.44.04:418][704]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.04-16.45.19:417][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-16.45.20:512][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-16.45.20:592][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UnrealMannequinSkelton82C2DAE94AA7058CC3430DBA7D03AE1A.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinSkelton.uasset'
+[2018.12.04-16.45.20:704][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/UnrealMannequinMesh691316C14831C89AA2D61091A35148DF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/UE4_Mannequin/Mesh/UnrealMannequinMesh.uasset'
+[2018.12.04-16.45.20:787][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/EnemyAnimationBlueprint6A36BE5E4C6DD7A22C28AC9DDD47ADCB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/AnimationAssets/Characters/EnemyAnimationBlueprint.uasset'
+[2018.12.04-16.45.20:801][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Idle_Guns_Hip748B59FD4BD5CF2303ED1CB6E18AFCCF.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Mannequin/Animations/Idle_Guns_Hip.uasset'
+[2018.12.04-16.45.20:820][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Bwd_Guns332E2E9A4DC95B15B5D54C8971CBFFD7.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Mannequin/Animations/Jog_Bwd_Guns.uasset'
+[2018.12.04-16.45.20:836][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Fwd_Guns81D585334BDB2CD9DB762EA3C306ECB5.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Mannequin/Animations/Jog_Fwd_Guns.uasset'
+[2018.12.04-16.45.20:851][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Lt_Guns68DC61654D45103480E1E79815B796BB.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Mannequin/Animations/Jog_Lt_Guns.uasset'
+[2018.12.04-16.45.20:870][192]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Saved/Jog_Rt_GunsA4DDD0634054DD6E55651BAB43B72AD1.tmp' to '../../../../../../Users/Nate/Documents/GitHub/nsshipma_FinalProject/TwinStickShooter/Content/Mannequin/Animations/Jog_Rt_Guns.uasset'

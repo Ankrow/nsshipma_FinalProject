@@ -1,0 +1,991 @@
+﻿Log file open, 01/09/19 17:12:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.295484
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.145s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.09-22.12.49:082][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.09-22.12.49:082][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.09-22.12.49:091][  0]LogHAL: Display: Platform has ~ 16 GB [17135206400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.09-22.12.49:091][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.09-22.12.49:091][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.09-22.12.49:092][  0]LogInit: Computer: MSI
+[2019.01.09-22.12.49:092][  0]LogInit: User: IanSory
+[2019.01.09-22.12.49:092][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.09-22.12.49:092][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.01.09-22.12.49:092][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.09-22.12.49:092][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.09-22.12.49:092][  0]LogMemory: Process Physical Memory: 101.68 MB used, 101.68 MB peak
+[2019.01.09-22.12.49:092][  0]LogMemory: Process Virtual Memory: 93.36 MB used, 93.36 MB peak
+[2019.01.09-22.12.49:092][  0]LogMemory: Physical Memory: 8890.16 MB used,  7451.24 MB free, 16341.41 MB total
+[2019.01.09-22.12.49:092][  0]LogMemory: Virtual Memory: 4633.39 MB used,  7451.24 MB free, 134217728.00 MB total
+[2019.01.09-22.12.49:112][  0]LogInit: Using OS detected language (en-US).
+[2019.01.09-22.12.49:112][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.09-22.12.49:114][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.09-22.12.49:455][  0]LogStreaming: Display: Took  0.343s to InitEngineTextLocalization.
+[2019.01.09-22.12.49:455][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.09-22.12.49:501][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.09-22.12.49:501][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.09-22.12.49:771][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.09-22.12.49:771][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.09-22.12.49:840][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.09-22.12.49:840][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.09-22.12.49:843][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.09-22.12.49:843][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.09-22.12.49:843][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.09-22.12.49:850][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.09-22.12.49:850][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.09-22.12.49:850][  0]LogWindows: EnumDisplayDevices:
+[2019.01.09-22.12.49:851][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.01.09-22.12.49:851][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.09-22.12.49:851][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.09-22.12.49:851][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.09-22.12.49:851][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.09-22.12.49:851][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.09-22.12.49:851][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.09-22.12.49:851][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.09-22.12.49:851][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.09-22.12.49:901][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.09-22.12.49:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.09-22.12.49:968][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/17200/).
+[2019.01.09-22.12.49:968][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ian Sory/AppData/Local/Temp/UnrealShaderWorkingDir/16AA79EC45E892DC386A70966388303B/'.
+[2019.01.09-22.12.50:298][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.09-22.12.50:312][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.09-22.12.50:327][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.09-22.12.50:341][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.09-22.12.50:356][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.09-22.12.50:371][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.09-22.12.50:384][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.09-22.12.50:398][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.09-22.12.50:405][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-22.12.50:484][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.09-22.12.50:545][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.09-22.12.50:545][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.09-22.12.50:569][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.09-22.12.50:569][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.09-22.12.50:581][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.09-22.12.50:594][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.09-22.12.50:606][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.09-22.12.50:618][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.09-22.12.50:628][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.09-22.12.50:628][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.09-22.12.50:692][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.09-22.12.50:692][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.09-22.12.50:692][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.09-22.12.51:451][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.09-22.12.51:504][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.09-22.12.51:505][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.09-22.12.51:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.09-22.12.51:505][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.09-22.12.51:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.09-22.12.51:505][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.09-22.12.51:517][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.09-22.12.51:530][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ian Sory/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.09-22.12.51:530][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.09-22.12.51:530][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.09-22.12.51:550][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.09-22.12.51:551][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.09-22.12.51:552][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.09-22.12.51:638][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2019.01.09-22.12.51:973][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.09-22.12.52:105][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.09-22.12.52:111][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.09-22.12.52:111][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.09-22.12.52:111][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.09-22.12.52:111][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.09-22.12.52:129][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2019.01.09-22.12.52:675][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.121091 seconds
+[2019.01.09-22.12.52:681][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.09-22.12.52:681][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.01.09-22.12.52:681][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.09-22.12.53:698][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.09-22.12.53:711][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.09-22.12.53:858][  0]SourceControl: Source control is disabled
+[2019.01.09-22.12.53:858][  0]SourceControl: Source control is disabled
+[2019.01.09-22.12.53:859][  0]SourceControl: Source control is disabled
+[2019.01.09-22.12.53:860][  0]SourceControl: Source control is disabled
+[2019.01.09-22.12.54:026][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.09-22.12.54:106][  0]LogOcInput: OculusInput pre-init called
+[2019.01.09-22.12.54:165][  0]LogEngine: Initializing Engine...
+[2019.01.09-22.12.54:166][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.09-22.12.54:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.09-22.12.54:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.09-22.12.54:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.09-22.12.54:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.09-22.12.54:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.09-22.12.54:384][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.09-22.12.54:464][  0]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.09-22.12.54:493][  0]LogInit: FAudioDevice initialized.
+[2019.01.09-22.12.54:494][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.09-22.12.54:572][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.09-22.12.54:578][  0]LogInit: Texture streaming: Enabled
+[2019.01.09-22.12.54:600][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.09-22.12.54:618][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-22.12.54:680][  0]LogInit: Transaction tracking system initialized
+[2019.01.09-22.12.54:714][  0]BlueprintLog: New page: Editor Load
+[2019.01.09-22.12.54:802][  0]LocalizationService: Localization service is disabled
+[2019.01.09-22.12.55:076][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.09-22.12.55:076][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.09-22.12.55:076][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.09-22.12.55:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.09-22.12.55:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.09-22.12.55:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.09-22.12.55:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.09-22.12.55:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/' took 0.02s
+[2019.01.09-22.12.55:213][  0]SourceControl: Source control is disabled
+[2019.01.09-22.12.55:213][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.09-22.12.55:214][  0]LightingResults: New page: Lighting Build
+[2019.01.09-22.12.55:218][  0]MapCheck: New page: Map Check
+[2019.01.09-22.12.55:218][  0]LightingResults: New page: Lighting Build
+[2019.01.09-22.12.57:172][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2019.01.09-22.12.57:183][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.09-22.12.57:232][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.09-22.12.57:397][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164.585ms to complete.
+[2019.01.09-22.12.57:397][  0]LogFileHelpers: Loading map 'ArenaMap' took 2.184
+[2019.01.09-22.12.57:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-22.12.57:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-22.12.57:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-22.12.57:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-22.12.57:530][  0]LogCollectionManager: Loaded 0 collections in 0.002688 seconds
+[2019.01.09-22.12.57:573][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/Collections/' took 0.01s
+[2019.01.09-22.12.57:573][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Developers/IanSory/Collections/' took 0.01s
+[2019.01.09-22.12.57:573][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Collections/' took 0.01s
+[2019.01.09-22.12.57:573][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.09-22.12.57:587][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2573 classes and 605 folders.
+[2019.01.09-22.12.57:599][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.09-22.12.57:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.09-22.12.57:716][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.01.09-22.12.57:855][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.09-22.12.57:858][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.09-22.12.57:866][  0]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.09-22.12.57:981][  0]LogRenderer: Reallocating scene render targets to support 512x256 Format 10 NumSamples 1 (Frame:1).
+[2019.01.09-22.12.57:998][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.09-22.12.58:047][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.09-22.12.58:156][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.09-22.12.58:156][  0]LogLoad: (Engine Initialization) Total time: 11.30 seconds
+[2019.01.09-22.12.58:156][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.09-22.12.58:189][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.09-22.12.58:237][  1]LogAssetRegistry: Asset discovery search completed in 6.6213 seconds
+[2019.01.09-22.12.58:239][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.09-22.12.58:239][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.01.09-22.13.04:603][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.13.04:806][360]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.09-22.13.05:088][360]LogAIModule: Creating AISystem for world Level01
+[2019.01.09-22.13.05:119][360]LogAssetEditorManager: Opening Asset editor for World /Game/Level01.Level01
+[2019.01.09-22.13.05:142][360]Cmd: MAP LOAD FILE="../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.09-22.13.05:142][360]LightingResults: New page: Lighting Build
+[2019.01.09-22.13.05:143][360]LoadErrors: New page: Loading map: Level01.umap
+[2019.01.09-22.13.05:144][360]MapCheck: New page: Map Check
+[2019.01.09-22.13.05:144][360]LightingResults: New page: Lighting Build
+[2019.01.09-22.13.05:295][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.09-22.13.05:361][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.09-22.13.05:523][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 163.06ms to complete.
+[2019.01.09-22.13.05:528][360]LogFileHelpers: Loading map 'Level01' took 0.386
+[2019.01.09-22.13.46:334][207]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium3)
+[2019.01.09-22.13.48:370][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.13.48:580][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallMedium.WallMedium
+[2019.01.09-22.13.49:199][302]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.01.09-22.13.58:835][488]BlueprintLog: New page: Compile WallMedium
+[2019.01.09-22.14.01:353][527]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMedium177460704E78923077565599972408AB.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.14.01:354][527]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset', retrying in .5s...
+[2019.01.09-22.14.01:855][527]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'.
+[2019.01.09-22.14.01:855][527]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.14.15:227][527]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.14.15:235][527]EditorErrors: New page: Save Output
+[2019.01.09-22.14.15:235][527]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.14.17:563][573]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.14.17:618][573]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.14.21:310][679]LogSlate: Window 'WallMedium*' being destroyed
+[2019.01.09-22.14.21:349][679]LogSlate: Window 'WallMedium*' being destroyed
+[2019.01.09-22.16.30:106][188]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium14)
+[2019.01.09-22.16.36:551][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.16.46:490][973]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium18)
+[2019.01.09-22.17.06:048][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.17.08:993][213]LogEditorViewport: Clicking Background
+[2019.01.09-22.17.10:220][287]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium18)
+[2019.01.09-22.17.13:416][477]LogEditorViewport: Clicking on Actor (LMB): HallwayWide_C (HallwayWide)
+[2019.01.09-22.17.20:460][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.17.25:687][ 12]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallLarge.WallLarge
+[2019.01.09-22.17.35:613][196]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.17.35:652][196]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.17.43:712][673]LogEditorViewport: Clicking on Actor (LMB): WallLarge_C (WallLarge)
+[2019.01.09-22.17.52:762][211]LogEditorViewport: Clicking Background
+[2019.01.09-22.18.00:085][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.18.00:292][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallLarge.WallLarge
+[2019.01.09-22.18.00:648][632]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.01.09-22.18.05:586][730]LogSlate: Window 'CompilerResults' being destroyed
+[2019.01.09-22.18.05:640][730]LogSlate: Window 'CompilerResults' being destroyed
+[2019.01.09-22.18.09:473][843]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.18.09:512][843]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.18.11:179][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallLarge.WallLarge
+[2019.01.09-22.18.11:525][919]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.01.09-22.18.13:157][950]LogSlate: Window 'CompilerResults' being destroyed
+[2019.01.09-22.18.13:211][950]LogSlate: Window 'CompilerResults' being destroyed
+[2019.01.09-22.18.14:135][973]BlueprintLog: New page: Compile WallLarge
+[2019.01.09-22.18.15:866][ 16]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.18.15:905][ 16]LogSlate: Window 'WallLarge*' being destroyed
+[2019.01.09-22.18.18:510][138]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallMedium.WallMedium
+[2019.01.09-22.18.22:487][240]LogSlate: Window 'WallMedium*' being destroyed
+[2019.01.09-22.18.22:526][240]LogSlate: Window 'WallMedium*' being destroyed
+[2019.01.09-22.18.23:734][289]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.WallMidLarge
+[2019.01.09-22.18.28:028][373]BlueprintLog: New page: Compile WallMidLarge
+[2019.01.09-22.18.30:308][417]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMidLarge3073967D48A20C356AAE24A367990AF8.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.18.30:310][417]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset', retrying in .5s...
+[2019.01.09-22.18.30:811][417]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'.
+[2019.01.09-22.18.30:811][417]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.18.36:164][417]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.18.36:172][417]EditorErrors: New page: Save Output
+[2019.01.09-22.18.36:172][417]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.18.37:758][417]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.18.39:297][449]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.18.39:352][449]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.18.40:087][472]LogSlate: Window 'WallMidLarge*' being destroyed
+[2019.01.09-22.18.40:124][472]LogSlate: Window 'WallMidLarge*' being destroyed
+[2019.01.09-22.18.58:205][383]LogEditorViewport: Clicking Background
+[2019.01.09-22.19.05:757][832]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge4)
+[2019.01.09-22.19.08:522][996]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge3)
+[2019.01.09-22.19.10:774][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.19.25:424][647]LogEditorViewport: Clicking Background
+[2019.01.09-22.19.32:806][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.19.33:047][ 81]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallSmall.WallSmall
+[2019.01.09-22.19.38:095][179]BlueprintLog: New page: Compile WallSmall
+[2019.01.09-22.19.39:474][198]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmall9D378346480C51FBA591649752A537A4.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.19.39:475][198]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset', retrying in .5s...
+[2019.01.09-22.19.39:977][198]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'.
+[2019.01.09-22.19.39:977][198]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.19.41:352][198]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.19.41:360][198]EditorErrors: New page: Save Output
+[2019.01.09-22.19.41:360][198]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.19.41:994][198]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.19.43:174][223]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.19.43:229][223]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.19.44:119][247]LogSlate: Window 'WallSmall*' being destroyed
+[2019.01.09-22.19.44:158][247]LogSlate: Window 'WallSmall*' being destroyed
+[2019.01.09-22.19.47:124][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.19.54:661][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.20.00:164][875]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{03ba68e3-3ac7-43e1-ba9a-d805883499b5} was removed. Shutting down audio device.
+[2019.01.09-22.20.00:208][875]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.09-22.20.00:482][883]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.09-22.20.32:491][357]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.09-22.20.32:850][358]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.09-22.20.52:233][110]LogEditorViewport: Clicking Background
+[2019.01.09-22.20.53:977][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.21.11:042][ 78]LogEditorViewport: Clicking Background
+[2019.01.09-22.21.17:895][482]LogEditorViewport: Clicking on Actor (LMB): WallSmallMid_C (WallSmallMid)
+[2019.01.09-22.21.23:129][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.21.26:157][855]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.WallSmallMid
+[2019.01.09-22.21.32:917][992]BlueprintLog: New page: Compile WallSmallMid
+[2019.01.09-22.21.34:644][ 18]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmallMidF1BE7D484C7B2FEC42E5619C8139BF66.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.21.34:645][ 18]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset', retrying in .5s...
+[2019.01.09-22.21.35:147][ 18]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'.
+[2019.01.09-22.21.35:147][ 18]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.21.35:986][ 18]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.21.35:993][ 18]EditorErrors: New page: Save Output
+[2019.01.09-22.21.35:993][ 18]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.21.36:710][ 18]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.21.37:887][ 38]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.21.37:943][ 38]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.21.38:610][ 59]LogSlate: Window 'WallSmallMid*' being destroyed
+[2019.01.09-22.21.38:648][ 59]LogSlate: Window 'WallSmallMid*' being destroyed
+[2019.01.09-22.22.00:826][259]LogEditorViewport: Clicking on Actor (LMB): WallSmallMid_C (WallSmallMid2)
+[2019.01.09-22.22.04:461][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.22.32:180][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.01.09-22.22.34:897][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.22.44:888][375]LogEditorViewport: Clicking Background
+[2019.01.09-22.23.00:311][292]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door4)
+[2019.01.09-22.23.03:498][481]LogEditorViewport: Clicking on Actor (LMB): LaserWall_C (LaserWall)
+[2019.01.09-22.23.07:315][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.23.07:521][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/Walls/LaserWall.LaserWall
+[2019.01.09-22.23.12:223][739]BlueprintLog: New page: Compile LaserWall
+[2019.01.09-22.23.13:242][750]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/LaserWallBB0E6173447C71A850FE64B711BA1537.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.23.13:242][750]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset', retrying in .5s...
+[2019.01.09-22.23.13:744][750]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'.
+[2019.01.09-22.23.13:744][750]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.23.14:618][750]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.23.14:627][750]EditorErrors: New page: Save Output
+[2019.01.09-22.23.14:627][750]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.23.15:330][750]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.23.16:890][781]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.23.16:945][781]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.23.19:936][871]LogSlate: Window 'LaserWall*' being destroyed
+[2019.01.09-22.23.19:974][871]LogSlate: Window 'LaserWall*' being destroyed
+[2019.01.09-22.24.03:229][144]LogEditorViewport: Clicking Background
+[2019.01.09-22.24.05:498][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.24.09:930][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.PillarHuge
+[2019.01.09-22.24.15:519][507]BlueprintLog: New page: Compile PillarHuge
+[2019.01.09-22.24.17:080][529]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarHuge7AE4A1EE400FEF2AFD2E0FB6EF91E44D.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.24.17:082][529]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset', retrying in .5s...
+[2019.01.09-22.24.17:582][529]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'.
+[2019.01.09-22.24.17:582][529]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.24.19:336][529]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.24.19:345][529]EditorErrors: New page: Save Output
+[2019.01.09-22.24.19:345][529]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.24.19:941][529]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.24.21:023][552]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.24.21:078][552]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.24.21:546][567]LogSlate: Window 'PillarHuge*' being destroyed
+[2019.01.09-22.24.21:582][567]LogSlate: Window 'PillarHuge*' being destroyed
+[2019.01.09-22.24.25:064][767]LogEditorViewport: Clicking on Actor (LMB): PillarSmall_C (PillarSmall3)
+[2019.01.09-22.24.26:604][858]LogEditorViewport: Clicking on Actor (LMB): PillarSmall_C (PillarSmall2)
+[2019.01.09-22.24.27:503][911]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.09-22.24.32:927][233]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.09-22.24.34:344][317]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.09-22.24.46:854][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.24.48:971][111]LogEditorViewport: Clicking Background
+[2019.01.09-22.24.50:040][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.24.54:081][327]LogEditorViewport: Clicking on Actor (LMB): PillarSmall_C (PillarSmall3)
+[2019.01.09-22.24.58:676][600]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.09-22.25.03:804][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.25.21:866][836]Cmd: SELECT NONE
+[2019.01.09-22.25.33:731][541]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover11)
+[2019.01.09-22.25.44:896][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.25.45:271][198]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.PillarSmall
+[2019.01.09-22.25.49:222][278]BlueprintLog: New page: Compile PillarSmall
+[2019.01.09-22.25.52:846][350]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarSmall4609E35441440AB554A38482741CCA0E.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.25.52:847][350]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset', retrying in .5s...
+[2019.01.09-22.25.53:349][350]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'.
+[2019.01.09-22.25.53:349][350]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.25.55:385][350]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.25.55:393][350]EditorErrors: New page: Save Output
+[2019.01.09-22.25.55:393][350]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.25.56:402][350]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.25.58:208][386]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.25.58:264][386]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.26.06:971][634]LogSlate: Window 'PillarSmall*' being destroyed
+[2019.01.09-22.26.07:011][634]LogSlate: Window 'PillarSmall*' being destroyed
+[2019.01.09-22.26.09:319][761]LogEditorViewport: Clicking Background
+[2019.01.09-22.26.11:273][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.26.11:514][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.PillarSmall
+[2019.01.09-22.26.13:150][899]LogSlate: Window 'PillarSmall*' being destroyed
+[2019.01.09-22.26.13:189][899]LogSlate: Window 'PillarSmall*' being destroyed
+[2019.01.09-22.26.18:840][199]LogEditorViewport: Clicking on Actor (LMB): PillarSmall_C (PillarSmall01)
+[2019.01.09-22.26.21:016][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.26.41:496][314]LogEditorViewport: Clicking Background
+[2019.01.09-22.26.41:883][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.26.42:131][341]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.PillarTiny
+[2019.01.09-22.26.46:655][434]BlueprintLog: New page: Compile PillarTiny
+[2019.01.09-22.26.47:745][447]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarTiny49B0D29A4C657BCE672B5FBD9157B8F0.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.26.47:746][447]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset', retrying in .5s...
+[2019.01.09-22.26.48:247][447]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'.
+[2019.01.09-22.26.48:247][447]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.26.49:427][447]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.26.49:435][447]EditorErrors: New page: Save Output
+[2019.01.09-22.26.49:435][447]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.26.50:016][447]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.26.50:995][468]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.26.51:049][468]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.26.51:618][486]LogSlate: Window 'PillarTiny*' being destroyed
+[2019.01.09-22.26.51:655][486]LogSlate: Window 'PillarTiny*' being destroyed
+[2019.01.09-22.26.52:859][549]LogEditorViewport: Clicking Background
+[2019.01.09-22.27.00:302][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.27.11:843][574]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium23)
+[2019.01.09-22.27.12:525][614]LogEditorViewport: Clicking Background
+[2019.01.09-22.27.32:066][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-22.27.33:333][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-22.27.34:004][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level01DF2844154E119360379B29B452A370B9.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap'
+[2019.01.09-22.27.34:052][723]LogFileHelpers: Saving map 'Level01' took 0.711
+[2019.01.09-22.27.34:181][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarHugeFF7631124140058C5ED8AE9B74A91EC7.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.27.34:182][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset', retrying in .5s...
+[2019.01.09-22.27.34:683][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'.
+[2019.01.09-22.27.34:683][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.27.36:741][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.36:878][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarSmallD877D0C74680B274A067A694B90F8E73.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.27.36:879][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset', retrying in .5s...
+[2019.01.09-22.27.37:381][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'.
+[2019.01.09-22.27.37:381][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.27.38:017][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.38:157][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarTiny0CAF6EFC46AC8A358D82FF9617382DEF.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.27.38:158][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset', retrying in .5s...
+[2019.01.09-22.27.38:658][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'.
+[2019.01.09-22.27.38:658][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.27.39:151][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.39:286][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/LaserWallD0F478754DACA2E0803F59AD7D3164C3.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.27.39:287][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset', retrying in .5s...
+[2019.01.09-22.27.39:788][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'.
+[2019.01.09-22.27.39:788][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.27.40:384][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.40:540][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallLargeC5CFE08F4F2582A6A3D186916998F459.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.27.40:541][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset', retrying in .5s...
+[2019.01.09-22.27.41:042][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'.
+[2019.01.09-22.27.41:042][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.27.41:639][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.41:776][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMediumE27EFACD493FE3230F4AE89D456DAE3F.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.27.41:777][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset', retrying in .5s...
+[2019.01.09-22.27.42:277][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'.
+[2019.01.09-22.27.42:277][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.27.42:671][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.42:820][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMidLarge03BDF4954E5EC2C6363F5981869C62ED.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.27.42:821][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset', retrying in .5s...
+[2019.01.09-22.27.43:322][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'.
+[2019.01.09-22.27.43:322][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.27.43:835][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.43:974][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmall578203994DD388C6908DB6B3137842EF.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.27.43:975][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset', retrying in .5s...
+[2019.01.09-22.27.44:476][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'.
+[2019.01.09-22.27.44:476][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.27.44:959][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.45:098][723]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmallMidA498E3AE4E04927FF1AC399363C4F274.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.27.45:099][723]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset', retrying in .5s...
+[2019.01.09-22.27.45:601][723]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'.
+[2019.01.09-22.27.45:601][723]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.27.47:965][723]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.27.47:972][723]EditorErrors: New page: Save Output
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.27.47:973][723]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.27.47:977][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-22.27.54:825][723]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.28.00:035][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.28.00:133][868]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.28.00:171][868]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.28.14:251][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-22.28.17:462][257]LogSlate: Window 'Save Content' being destroyed
+[2019.01.09-22.28.17:476][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-22.28.17:610][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarHuge77EFED5C4D5FF74F388CE5916343B554.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.28.17:612][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset', retrying in .5s...
+[2019.01.09-22.28.18:113][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'.
+[2019.01.09-22.28.18:113][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.28.19:235][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.19:375][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarSmall778743BA42C35EF33DDD63A7BCD0CC8C.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.28.19:377][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset', retrying in .5s...
+[2019.01.09-22.28.19:878][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'.
+[2019.01.09-22.28.19:878][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.28.20:237][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.20:379][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/PillarTiny6441B90541BF36D33446098C6BB72769.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.28.20:381][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset', retrying in .5s...
+[2019.01.09-22.28.20:882][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'.
+[2019.01.09-22.28.20:882][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.28.21:258][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.21:406][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/LaserWall930C630B4424B418571D28AF6712EC6C.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.28.21:407][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset', retrying in .5s...
+[2019.01.09-22.28.21:908][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'.
+[2019.01.09-22.28.21:908][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.28.22:369][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.22:506][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallLargeB59F0F1D4F7296F862643DBDDC35B655.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.28.22:507][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset', retrying in .5s...
+[2019.01.09-22.28.23:008][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'.
+[2019.01.09-22.28.23:008][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.28.23:499][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.23:633][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMedium2E736315476697F2608A4D98AFD071C6.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.28.23:634][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset', retrying in .5s...
+[2019.01.09-22.28.24:136][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'.
+[2019.01.09-22.28.24:136][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.28.24:579][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.24:717][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallMidLarge0FCDFC9F4E965177A56D66831366626F.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.28.24:718][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset', retrying in .5s...
+[2019.01.09-22.28.25:218][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'.
+[2019.01.09-22.28.25:218][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.28.25:559][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.25:696][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmallA088907D4541539D441B3BB65C18E9AE.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.28.25:697][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset', retrying in .5s...
+[2019.01.09-22.28.26:198][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'.
+[2019.01.09-22.28.26:198][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.28.27:508][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.27:641][257]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Saved/WallSmallMidAF8B192847AF3C0A3CB25C8EC6E96FA6.tmp' to '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.28.27:642][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset', retrying in .5s...
+[2019.01.09-22.28.28:143][257]LogFileManager: Error: Error deleting file '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'.
+[2019.01.09-22.28.28:143][257]LogSavePackage: Error: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.28.28:894][257]LogSlate: Window 'Message' being destroyed
+[2019.01.09-22.28.28:901][257]EditorErrors: New page: Save Output
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarHuge.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarSmall.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/PillarTiny.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/LaserWall.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallLarge.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMedium.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallMidLarge.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmall.uasset'
+[2019.01.09-22.28.28:902][257]EditorErrors: Warning: Error saving '../../../../../../Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/Walls/WallSmallMid.uasset'
+[2019.01.09-22.28.28:905][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-22.28.30:871][257]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.09-22.28.30:991][257]LogSlate: Window 'Message Log' being destroyed
+[2019.01.09-22.28.30:994][257]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2019.01.09-22.28.31:182][258]Cmd: QUIT_EDITOR
+[2019.01.09-22.28.31:219][258]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-22.28.31:232][258]LogExit: Preparing to exit.
+[2019.01.09-22.28.32:186][258]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Ian Sory/Desktop/smugglers design doc/nsshipma_FinalProject-master/TwinStickShooter/Content/', and we were unable to create a new request.
+[2019.01.09-22.28.32:228][258]LogExit: Editor shut down
+[2019.01.09-22.28.32:228][258]LogExit: Transaction tracking system shut down
+[2019.01.09-22.28.32:692][258]LogExit: Object subsystem successfully closed.
+[2019.01.09-22.28.32:705][258]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.09-22.28.32:708][258]LogD3D11RHI: Shutdown
+[2019.01.09-22.28.32:708][258]LogD3D11RHI: CleanupD3DDevice
+[2019.01.09-22.28.32:711][258]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.09-22.28.32:736][258]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2019.01.09-22.28.32:736][258]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.01.09-22.28.32:736][258]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.01.09-22.28.32:736][258]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.01.09-22.28.32:737][258]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2019.01.09-22.28.32:738][258]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.09-22.28.33:332][258]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.09-22.28.33:333][258]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.09-22.28.33:398][258]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.09-22.28.33:404][258]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.01.09-22.28.33:533][258]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2019.01.09-22.28.33:534][258]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.09-22.28.33:534][258]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.09-22.28.33:534][258]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.01.09-22.28.33:537][258]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.01.09-22.28.33:538][258]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module TwinStickShooter (300)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.09-22.28.33:539][258]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.09-22.28.33:640][258]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.09-22.28.33:741][258]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.09-22.28.33:742][258]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.09-22.28.33:742][258]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.09-22.28.33:742][258]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.09-22.28.33:743][258]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.09-22.28.33:745][258]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.09-22.28.33:751][258]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.09-22.28.33:752][258]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.09-22.28.33:753][258]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.09-22.28.33:754][258]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.09-22.28.33:801][258]LogDerivedDataCache: Shutdown
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.09-22.28.33:801][258]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.09-22.28.33:802][258]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.09-22.28.33:802][258]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.09-22.28.33:803][258]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.09-22.28.33:803][258]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.09-22.28.33:808][258]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.09-22.28.33:809][258]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.09-22.28.33:809][258]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.09-22.28.33:823][258]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.09-22.28.33:823][258]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.09-22.28.33:823][258]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE15502A9-4606-622D-26B2-4B8FE5D8899B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=01a0682a49c4eaf1b6df98857b8ea1e1%7Cb1e173f751d441798c27c3c423850547%7C41cdd963-9c72-4d9f-aa1d-7f6f451fb282&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.09-22.28.33:847][258]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.09-22.28.33:848][258]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.09-22.28.33:848][258]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.09-22.28.33:849][258]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.09-22.28.33:856][258]LogExit: Exiting.
+[2019.01.09-22.28.33:859][258]Log file closed, 01/09/19 17:28:33
