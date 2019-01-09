@@ -1,0 +1,1789 @@
+﻿Log file open, 01/06/19 13:58:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwinStickShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.534951
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.198s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.06-18.58.38:786][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.06-18.58.38:786][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.06-18.58.38:803][  0]LogHAL: Display: Platform has ~ 16 GB [17135206400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.06-18.58.38:803][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.06-18.58.38:803][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.06-18.58.38:803][  0]LogInit: Computer: MSI
+[2019.01.06-18.58.38:803][  0]LogInit: User: IanSory
+[2019.01.06-18.58.38:803][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.06-18.58.38:804][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2019.01.06-18.58.38:804][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.06-18.58.38:804][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.06-18.58.38:804][  0]LogMemory: Process Physical Memory: 101.76 MB used, 101.76 MB peak
+[2019.01.06-18.58.38:804][  0]LogMemory: Process Virtual Memory: 93.46 MB used, 93.46 MB peak
+[2019.01.06-18.58.38:804][  0]LogMemory: Physical Memory: 8184.26 MB used,  8157.14 MB free, 16341.41 MB total
+[2019.01.06-18.58.38:804][  0]LogMemory: Virtual Memory: 4633.44 MB used,  8157.14 MB free, 134217728.00 MB total
+[2019.01.06-18.58.38:849][  0]LogInit: Using OS detected language (en-US).
+[2019.01.06-18.58.38:849][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.06-18.58.38:852][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.06-18.58.39:316][  0]LogStreaming: Display: Took  0.467s to InitEngineTextLocalization.
+[2019.01.06-18.58.39:316][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.06-18.58.39:349][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.06-18.58.39:349][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.06-18.58.39:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.06-18.58.39:636][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.06-18.58.39:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.06-18.58.39:708][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.06-18.58.39:711][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.06-18.58.39:711][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.06-18.58.39:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.06-18.58.39:721][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.06-18.58.39:721][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.06-18.58.39:721][  0]LogWindows: EnumDisplayDevices:
+[2019.01.06-18.58.39:722][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.01.06-18.58.39:722][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.06-18.58.39:723][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.06-18.58.39:723][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.06-18.58.39:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.06-18.58.39:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.06-18.58.39:723][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.06-18.58.39:724][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.06-18.58.39:724][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.06-18.58.39:779][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.06-18.58.39:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.06-18.58.39:845][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Intermediate/Shaders/WorkingDirectory/11252/).
+[2019.01.06-18.58.39:845][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ian Sory/AppData/Local/Temp/UnrealShaderWorkingDir/20B6DDCB4E4170FEBA11F481A8BAF0EF/'.
+[2019.01.06-18.58.40:182][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.06-18.58.40:198][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.06-18.58.40:215][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.06-18.58.40:230][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.06-18.58.40:246][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.06-18.58.40:261][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.06-18.58.40:277][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.06-18.58.40:295][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.06-18.58.40:312][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.06-18.58.40:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.06-18.58.40:532][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.06-18.58.40:637][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.06-18.58.40:637][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.06-18.58.40:694][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.06-18.58.40:694][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.06-18.58.40:716][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.06-18.58.40:764][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.06-18.58.40:811][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.06-18.58.40:872][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.06-18.58.40:907][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.06-18.58.40:908][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.06-18.58.41:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.06-18.58.41:054][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.06-18.58.41:054][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.06-18.58.42:108][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.06-18.58.42:172][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.06-18.58.42:173][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.06-18.58.42:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.06-18.58.42:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.06-18.58.42:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.06-18.58.42:173][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.06-18.58.42:191][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.06-18.58.42:204][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ian Sory/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.06-18.58.42:204][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.06-18.58.42:204][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.06-18.58.42:228][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.06-18.58.42:230][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.06-18.58.42:231][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.06-18.58.42:323][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2019.01.06-18.58.42:690][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.06-18.58.42:870][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.06-18.58.42:881][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.06-18.58.42:881][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.06-18.58.42:881][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.06-18.58.42:881][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.06-18.58.42:922][  0]LogNetVersion: TwinStickShooter 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1666688666)
+[2019.01.06-18.58.43:974][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.147423 seconds
+[2019.01.06-18.58.43:982][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.06-18.58.43:982][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.06-18.58.43:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.06-18.58.45:644][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.06-18.58.45:658][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.06-18.58.45:984][  0]SourceControl: Source control is disabled
+[2019.01.06-18.58.45:984][  0]SourceControl: Source control is disabled
+[2019.01.06-18.58.45:988][  0]SourceControl: Source control is disabled
+[2019.01.06-18.58.45:992][  0]SourceControl: Source control is disabled
+[2019.01.06-18.58.46:314][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.06-18.58.46:442][  0]LogOcInput: OculusInput pre-init called
+[2019.01.06-18.58.46:523][  0]LogEngine: Initializing Engine...
+[2019.01.06-18.58.46:526][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.06-18.58.46:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.06-18.58.46:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.06-18.58.46:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.06-18.58.46:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.06-18.58.47:147][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.06-18.58.47:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.06-18.58.47:231][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-18.58.47:263][  0]LogInit: FAudioDevice initialized.
+[2019.01.06-18.58.47:263][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.06-18.58.47:391][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Ian Sory/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.06-18.58.47:405][  0]LogInit: Texture streaming: Enabled
+[2019.01.06-18.58.47:468][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.06-18.58.47:509][  0]LogInit: Transaction tracking system initialized
+[2019.01.06-18.58.47:604][  0]BlueprintLog: New page: Editor Load
+[2019.01.06-18.58.47:788][  0]LocalizationService: Localization service is disabled
+[2019.01.06-18.58.48:528][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.06-18.58.48:528][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.06-18.58.48:528][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.06-18.58.48:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.06-18.58.48:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.06-18.58.48:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.06-18.58.48:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.06-18.58.48:744][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/' took 0.03s
+[2019.01.06-18.58.48:745][  0]SourceControl: Source control is disabled
+[2019.01.06-18.58.48:745][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.06-18.58.48:746][  0]LightingResults: New page: Lighting Build
+[2019.01.06-18.58.48:750][  0]MapCheck: New page: Map Check
+[2019.01.06-18.58.48:750][  0]LightingResults: New page: Lighting Build
+[2019.01.06-18.58.52:283][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2019.01.06-18.58.52:297][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.06-18.58.52:327][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.06-18.58.52:473][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 145.487ms to complete.
+[2019.01.06-18.58.52:473][  0]LogFileHelpers: Loading map 'ArenaMap' took 3.728
+[2019.01.06-18.58.52:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-18.58.52:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-18.58.52:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-18.58.52:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-18.58.52:688][  0]LogCollectionManager: Loaded 0 collections in 0.003139 seconds
+[2019.01.06-18.58.52:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Collections/' took 0.01s
+[2019.01.06-18.58.52:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Developers/IanSory/Collections/' took 0.01s
+[2019.01.06-18.58.52:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Collections/' took 0.01s
+[2019.01.06-18.58.52:735][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.06-18.58.52:763][  0]LogContentBrowser: Native class hierarchy populated in 0.0265 seconds. Added 2573 classes and 605 folders.
+[2019.01.06-18.58.52:786][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2019.01.06-18.58.53:029][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2019.01.06-18.58.53:047][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2019.01.06-18.58.53:150][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.06-18.58.53:152][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.06-18.58.53:157][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.06-18.58.53:299][  0]LogRenderer: Reallocating scene render targets to support 512x256 Format 10 NumSamples 1 (Frame:1).
+[2019.01.06-18.58.53:322][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.06-18.58.53:363][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.06-18.58.53:430][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.06-18.58.53:431][  0]LogLoad: (Engine Initialization) Total time: 18.42 seconds
+[2019.01.06-18.58.53:431][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.06-18.58.53:491][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.06-18.58.53:728][  3]LogAssetRegistry: Asset discovery search completed in 11.4274 seconds
+[2019.01.06-18.58.53:733][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.06-18.58.53:734][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000372 seconds (updated 0 objects)
+[2019.01.06-18.59.20:890][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-18.59.25:042][706]LogSlate: Took 0.000632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.06-18.59.25:665][706]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-18.59.25:690][706]LogAssetEditorManager: Opening Asset editor for World /Game/Level01.Level01
+[2019.01.06-18.59.25:744][706]Cmd: MAP LOAD FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.06-18.59.25:744][706]LightingResults: New page: Lighting Build
+[2019.01.06-18.59.25:745][706]LoadErrors: New page: Loading map: Level01.umap
+[2019.01.06-18.59.25:747][706]MapCheck: New page: Map Check
+[2019.01.06-18.59.25:747][706]LightingResults: New page: Lighting Build
+[2019.01.06-18.59.26:060][706]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.06-18.59.26:278][706]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.06-18.59.26:868][706]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 590.471ms to complete.
+[2019.01.06-18.59.26:875][706]LogFileHelpers: Loading map 'Level01' took 1.132
+[2019.01.06-18.59.33:353][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-18.59.34:026][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-18.59.34:501][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-18.59.35:486][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-18.59.36:044][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-18.59.40:671][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-18.59.42:708][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-18.59.52:290][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-18.59.56:091][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-18.59.58:492][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.00.07:783][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.00.19:132][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.00.25:265][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.00.26:169][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.00.27:165][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.00.31:438][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.00.51:050][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.00.58:366][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.00.59:672][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.01.00:489][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.01.04:911][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.01.12:660][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.01.14:049][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.01.21:902][217]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium26)
+[2019.01.06-19.01.22:464][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.01.23:255][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.01.26:397][461]LogEditorViewport: Clicking Background
+[2019.01.06-19.01.29:678][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.01.33:555][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.01.48:834][537]Cmd: TRANSACTION UNDO
+[2019.01.06-19.01.48:834][537]LogEditorTransaction: Undo Create Actors
+[2019.01.06-19.01.49:883][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.02.17:792][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.02.18:639][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.02.20:508][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.02.24:775][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.03.00:381][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.03.00:482][790]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.01.06-19.03.00:514][790]Candidate modules for hot reload:
+[2019.01.06-19.03.00:514][790]  TwinStickShooter
+[2019.01.06-19.03.00:514][790]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TwinStickShooter,7355 Win64 Development -TargetType=Editor -Project="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/TwinStickShooter.uproject" -canskiplink "C:/Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/TwinStickShooter.uproject" ]
+[2019.01.06-19.03.00:520][790]Warning: Starting HotReload took  0.0s.
+[2019.01.06-19.03.50:486][  2]CompilerResultsLog: New page: Compilation - Jan 6, 2019, 9:03:50 AM
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog: Compiling game modules for hot reload
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog: Building 7 actions with 8 processes...
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog:   [1/7] SharedPCH.Engine.cpp
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog:    c:\program files\epic games\ue_4.20\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h(21) : error C2338: Visual Studio 2017 version 15.6 is required to compile on Windows. Please install updates through the Visual Studio installer.
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\Ian Sory\Desktop\nsshipma_FinalProject-master\TwinStickShooter\Binaries\Win64\UE4Editor-TwinStickShooter-7355.dll
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.01.06-19.03.50:487][  2]CompilerResultsLog: Total build time: 49.30 seconds (Parallel executor: 0.00 seconds)
+[2019.01.06-19.03.50:487][  2]LogMainFrame: MainFrame: Module compiling took 50.005 seconds
+[2019.01.06-19.03.50:487][  2]Warning: HotReload failed, recompile failed
+[2019.01.06-19.06.55:453][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.06.55:516][664]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.06.55:545][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.06.55:545][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.06.55:557][664]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:06:55 AM)
+[2019.01.06-19.06.55:557][664]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.06.55:564][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006570s)
+[2019.01.06-19.06.55:564][664]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.06.55:564][664]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.01.06-19.06.55:564][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.007757s)
+[2019.01.06-19.06.55:603][664]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.06.55:615][664]LogInit: FAudioDevice initialized.
+[2019.01.06-19.06.55:658][664]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.06.55:664][664]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.06.55
+[2019.01.06-19.06.55:665][664]LogWorld: Bringing up level for play took: 0.005325
+[2019.01.06-19.06.55:749][664]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 10 classes and 0 folders.
+[2019.01.06-19.06.55:751][664]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.06.55:752][664]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.06.55:759][664]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.748
+[2019.01.06-19.06.55:760][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.07.18:345][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.07.18:346][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.07.18:400][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.07.18:401][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.07.18:485][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.07.18:520][971]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.06-19.07.20:221][ 74]LogEditorViewport: Clicking on Actor (context menu): FloorBigShort_C (FloorBigShort)
+[2019.01.06-19.07.20:269][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.07.22:246][161]LogEditorViewport: Clicking Background
+[2019.01.06-19.07.25:117][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.07.27:130][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.07.29:192][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.07.34:788][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.07.43:477][351]LogEditorViewport: Clicking Background
+[2019.01.06-19.07.50:829][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.07.51:863][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.06-19.08.00:718][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.08.00:782][319]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.08.00:811][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.08.00:811][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.08.00:811][319]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:08:00 AM)
+[2019.01.06-19.08.00:811][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.08.00:818][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006638s)
+[2019.01.06-19.08.00:819][319]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.08.00:819][319]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2019.01.06-19.08.00:819][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.007512s)
+[2019.01.06-19.08.00:858][319]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.08.00:872][319]LogInit: FAudioDevice initialized.
+[2019.01.06-19.08.00:903][319]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.08.00:908][319]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.08.00
+[2019.01.06-19.08.00:909][319]LogWorld: Bringing up level for play took: 0.005014
+[2019.01.06-19.08.00:922][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.08.00:922][319]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.08.00:924][319]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0.087
+[2019.01.06-19.08.00:924][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.08.09:984][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.08.09:985][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.08.10:037][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.08.10:037][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.08.10:116][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.08.10:175][842]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.06-19.08.13:620][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.01.06-19.08.16:494][213]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.01.06-19.08.16:516][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.08.21:748][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.09.15:263][137]LogSlate: Window 'Create Merged Actor' being destroyed
+[2019.01.06-19.09.15:278][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.09.15:294][137]LogStaticMesh: Building static mesh SM_MERGED_Cube3_19...
+[2019.01.06-19.09.15:314][137]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Rooms/RoomParts/RoomObjects/SM_MERGED_Cube3_19.SM_MERGED_Cube3_19
+[2019.01.06-19.09.15:343][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.09.21:034][307]LogSlate: Window 'Merge Actors' being destroyed
+[2019.01.06-19.09.21:073][307]LogSlate: Window 'Merge Actors' being destroyed
+[2019.01.06-19.09.24:104][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Cube3_19)
+[2019.01.06-19.09.37:213][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.09.42:638][319]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort)
+[2019.01.06-19.09.43:219][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Cube3_19)
+[2019.01.06-19.09.45:128][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.09.47:831][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Cube3_19)
+[2019.01.06-19.09.48:812][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.09.52:444][802]LogEditorViewport: Clicking Background
+[2019.01.06-19.09.54:604][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.09.54:830][917]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Blueprints/Rooms/RoomParts/RoomObjects/SM_MERGED_Cube3_19.SM_MERGED_Cube3_19
+[2019.01.06-19.09.55:928][917]LogRenderer: Reallocating scene render targets to support 984x652 Format 10 NumSamples 1 (Frame:1).
+[2019.01.06-19.09.55:928][917]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.06-19.09.57:773][956]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/SM_MERGED_Cube3_19C02EF3524B8E30AFC6B0219A936F22BD.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/SM_MERGED_Cube3_19.uasset'
+[2019.01.06-19.09.58:909][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.09.58:972][988]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.09.59:011][988]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.10.00:371][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.10.48:392][197]LogSlate: Window 'Select Path' being destroyed
+[2019.01.06-19.10.48:576][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.10.48:582][197]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/LaserCover.LaserCover
+[2019.01.06-19.10.49:713][197]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2019.01.06-19.10.54:654][267]BlueprintLog: New page: Compile LaserCover
+[2019.01.06-19.10.55:980][280]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/LaserCoverB829E57A4A3891D96D3089834A656337.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/LaserCover.uasset'
+[2019.01.06-19.10.56:863][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.10.56:924][305]LogSlate: Window 'LaserCover' being destroyed
+[2019.01.06-19.10.56:962][305]LogSlate: Window 'LaserCover' being destroyed
+[2019.01.06-19.11.54:612][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.11.58:954][837]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort)
+[2019.01.06-19.12.00:307][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.12.03:256][986]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Blueprints/Rooms/RoomParts/RoomObjects/SM_MERGED_Cube3_19.SM_MERGED_Cube3_19
+[2019.01.06-19.12.05:008][ 23]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.12.05:045][ 23]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.12.05:979][ 70]LogEditorViewport: Clicking Background
+[2019.01.06-19.12.07:165][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.12.07:303][131]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Blueprints/Rooms/RoomParts/RoomObjects/SM_MERGED_Cube3_19.SM_MERGED_Cube3_19
+[2019.01.06-19.12.08:800][162]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.12.08:839][162]LogSlate: Window 'SM_MERGED_Cube3_19' being destroyed
+[2019.01.06-19.12.10:534][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.12.11:374][264]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/RoomParts/RoomObjects/LaserCover.LaserCover
+[2019.01.06-19.12.15:187][355]LogSlate: Window 'LaserCover' being destroyed
+[2019.01.06-19.12.15:224][355]LogSlate: Window 'LaserCover' being destroyed
+[2019.01.06-19.12.18:414][531]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.12.35:602][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.12.38:426][634]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.12.41:014][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.12.41:741][776]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.12.45:750][997]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.12.48:888][182]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.13.46:039][522]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.13.47:352][597]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.00:163][334]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.01:128][390]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.14.02:258][456]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.03:684][538]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.14.13:261][ 90]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.14:976][188]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.14.17:830][357]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.27:514][929]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.14.29:116][ 16]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.14.31:348][133]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.32:421][196]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.14.44:579][903]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig4)
+[2019.01.06-19.14.45:297][945]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.14.56:676][595]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.14.59:057][735]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.15.14:416][634]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.15.33:475][746]Cmd: SELECT NONE
+[2019.01.06-19.15.46:284][505]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.16.07:250][696]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.16.10:093][864]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.16.12:062][979]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.16.13:304][ 49]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.16.24:968][735]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium26)
+[2019.01.06-19.16.40:432][645]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.16.51:530][281]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.16.53:286][385]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.17.10:949][430]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.17.18:261][857]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.17.26:036][301]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.17.30:494][564]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.17.33:071][712]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.17.42:244][251]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.17.44:107][362]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.17.45:391][436]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.17.53:722][929]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.18.02:258][431]LogEditorViewport: Clicking Background
+[2019.01.06-19.18.30:057][ 79]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.18.37:038][491]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.18.45:060][964]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.18.46:532][ 51]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.18.47:065][ 82]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.18.48:774][180]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.18.58:714][768]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.19.50:014][750]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.20.02:721][500]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.20.04:535][604]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.20.05:512][658]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.20.07:968][799]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.20.08:846][849]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover3)
+[2019.01.06-19.20.10:411][941]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover2)
+[2019.01.06-19.20.11:926][ 28]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.20.19:196][445]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.20.23:247][685]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.20.33:552][278]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort3)
+[2019.01.06-19.20.34:249][318]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover)
+[2019.01.06-19.20.45:004][885]LogEditorViewport: Clicking Background
+[2019.01.06-19.21.12:098][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.21.17:564][516]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.06-19.21.28:722][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.21.44:218][660]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/HazardPit1C7ED9AB439D23E6C343CB977FFD14E2.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Geometry/Meshes/HazardPit.uasset'
+[2019.01.06-19.21.44:540][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/HazardPitBP" FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Geometry/HazardPitBP.uasset" SILENT=true
+[2019.01.06-19.21.44:777][660]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/HazardPitBP2D1688654BC120DA89921AA3D3644C99.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Geometry/HazardPitBP.uasset'
+[2019.01.06-19.22.07:160][632]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/SM_MERGED_Cube3_19883F02D64683F0A41B88078E3B1ED58C.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Geometry/Meshes/SM_MERGED_Cube3_19.uasset'
+[2019.01.06-19.22.07:902][632]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/LaserCoverC91A1A68455F6CF91D6FDEA2BCC2BADF.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Blueprints/Rooms/RoomParts/RoomObjects/LaserCover.uasset'
+[2019.01.06-19.22.14:626][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.22.43:783][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.22.56:061][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.22.57:245][ 39]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level01_Auto153AF7052459A3B9A81877FB4E76A729C.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Autosaves/Game/Level01_Auto1.umap'
+[2019.01.06-19.22.57:253][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.553
+[2019.01.06-19.22.57:254][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.553
+[2019.01.06-19.22.59:767][ 96]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium20)
+[2019.01.06-19.23.01:917][202]LogEditorViewport: Clicking on Actor (LMB): LaserWall_C (LaserWall3)
+[2019.01.06-19.23.06:407][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.23.09:915][594]LogEditorViewport: Clicking on Actor (LMB): LaserWall_C (LaserWall5)
+[2019.01.06-19.23.16:504][985]Cmd: DELETE
+[2019.01.06-19.23.16:504][985]Cmd: ACTOR DELETE
+[2019.01.06-19.23.16:518][985]LogEditorActor: Deleted Actor: LaserWall_C
+[2019.01.06-19.23.16:588][985]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.01.06-19.23.17:301][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.23.30:517][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.23.36:420][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.23.51:063][872]LogEditorViewport: Clicking Background
+[2019.01.06-19.23.56:165][177]LogEditorViewport: Clicking on Actor (LMB): LaserWall_C (LaserWall5)
+[2019.01.06-19.23.58:831][336]Cmd: DELETE
+[2019.01.06-19.23.58:832][336]Cmd: ACTOR DELETE
+[2019.01.06-19.23.58:835][336]LogEditorActor: Deleted Actor: LaserWall_C
+[2019.01.06-19.23.58:863][336]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.01.06-19.24.11:770][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.24.28:998][ 52]Cmd: DELETE
+[2019.01.06-19.24.28:998][ 52]Cmd: ACTOR DELETE
+[2019.01.06-19.24.29:009][ 52]LogEditorActor: Deleted Actor: LaserCover_C
+[2019.01.06-19.24.29:088][ 52]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.01.06-19.24.29:812][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.24.38:231][560]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort4)
+[2019.01.06-19.24.39:077][610]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.24.51:680][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.25.05:821][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.25.16:035][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.25.40:151][793]Cmd: DELETE
+[2019.01.06-19.25.40:151][793]Cmd: ACTOR DELETE
+[2019.01.06-19.25.40:164][793]LogEditorActor: Deleted Actor: LaserCover_C
+[2019.01.06-19.25.40:252][793]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.01.06-19.26.02:138][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.26.13:450][685]Cmd: DELETE
+[2019.01.06-19.26.13:450][685]Cmd: ACTOR DELETE
+[2019.01.06-19.26.13:461][685]LogEditorActor: Deleted Actor: LaserCover_C
+[2019.01.06-19.26.13:542][685]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.01.06-19.26.25:749][410]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong2)
+[2019.01.06-19.26.36:216][967]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge2)
+[2019.01.06-19.26.37:545][ 41]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge)
+[2019.01.06-19.26.38:421][ 90]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong2)
+[2019.01.06-19.26.39:322][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.26.46:192][402]LogEditorViewport: Clicking Background
+[2019.01.06-19.26.47:372][474]Cmd: TRANSACTION UNDO
+[2019.01.06-19.26.47:372][474]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.26.49:487][534]LogEditorViewport: Clicking Background
+[2019.01.06-19.26.50:459][562]Cmd: TRANSACTION UNDO
+[2019.01.06-19.26.50:459][562]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.26.50:889][571]Cmd: TRANSACTION UNDO
+[2019.01.06-19.26.50:889][571]LogEditorTransaction: Undo Set Scale
+[2019.01.06-19.26.52:632][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.26.58:832][796]LogEditorViewport: Clicking Background
+[2019.01.06-19.27.06:917][274]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong3)
+[2019.01.06-19.27.09:417][411]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong2)
+[2019.01.06-19.27.09:984][440]LogEditorViewport: Clicking Background
+[2019.01.06-19.27.14:315][697]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.27.19:541][  6]LogEditorViewport: Clicking Background
+[2019.01.06-19.27.27:857][499]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.27.30:667][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.27.41:691][ 22]LogEditorViewport: Clicking Background
+[2019.01.06-19.27.42:364][ 62]Cmd: TRANSACTION UNDO
+[2019.01.06-19.27.42:364][ 62]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.27.42:812][ 74]Cmd: TRANSACTION UNDO
+[2019.01.06-19.27.42:813][ 74]LogEditorTransaction: Undo Set Scale
+[2019.01.06-19.27.44:409][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.27.55:479][646]LogEditorViewport: Clicking Background
+[2019.01.06-19.28.00:297][931]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.28.01:766][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.28.06:036][144]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.28.08:650][299]LogEditorViewport: Clicking Background
+[2019.01.06-19.28.09:335][340]Cmd: TRANSACTION UNDO
+[2019.01.06-19.28.09:335][340]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.28.09:977][360]Cmd: TRANSACTION UNDO
+[2019.01.06-19.28.09:977][360]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.06-19.28.11:936][418]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.28.15:335][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.28.20:076][688]LogEditorViewport: Clicking Background
+[2019.01.06-19.28.20:920][740]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2019.01.06-19.28.25:638][ 16]LogEditorViewport: Clicking Background
+[2019.01.06-19.29.10:442][674]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.15:570][958]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.17:391][ 64]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.29.18:620][137]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.20:796][264]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.29.27:915][673]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.29:310][755]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.29.32:675][953]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.36:604][185]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.29.54:027][212]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover4)
+[2019.01.06-19.29.55:764][308]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.30.06:310][927]LogEditorViewport: Clicking Background
+[2019.01.06-19.30.34:154][576]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.30.38:395][818]Cmd: DELETE
+[2019.01.06-19.30.38:395][818]Cmd: ACTOR DELETE
+[2019.01.06-19.30.38:409][818]LogEditorActor: Deleted Actor: LaserCover_C
+[2019.01.06-19.30.38:483][818]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.01.06-19.30.59:871][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.01:885][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.06:338][403]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.31.15:138][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.20:573][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.27:871][583]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.31.28:920][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.35:050][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.31.36:227][  9]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.31.38:474][131]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.31.42:356][361]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge10)
+[2019.01.06-19.31.46:554][594]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.31.47:158][624]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong4)
+[2019.01.06-19.31.49:969][792]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.31.51:032][853]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.32.00:504][405]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.32.02:555][524]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.32.03:750][594]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.32.05:885][717]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.32.07:064][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.32.09:830][859]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.32.10:975][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.32.12:971][973]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.32.14:006][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.32.42:079][546]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.32.53:609][215]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.32.54:505][264]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.32.59:095][530]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.33.00:701][624]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.33.01:589][675]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.33.03:160][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.33.13:896][249]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.33.15:240][323]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.33.15:839][355]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.33.16:895][414]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.33.32:726][311]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.33.33:770][367]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.33.47:282][115]LogEditorViewport: Clicking on Actor (LMB): LaserWall_C (LaserWall4)
+[2019.01.06-19.33.52:048][391]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.33.53:535][475]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.33.57:052][678]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.34.12:751][570]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.34.14:442][667]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.34.16:481][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.34.27:727][196]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.34.28:657][246]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.34.30:334][343]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.34.32:277][451]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.34.33:988][549]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.34.37:470][743]LogEditorViewport: Clicking Background
+[2019.01.06-19.34.38:561][807]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.34.50:434][476]LogEditorViewport: Clicking Background
+[2019.01.06-19.35.04:270][288]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.35.07:907][479]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.35.08:711][521]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.35.09:951][588]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.35.11:196][659]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.35.12:789][745]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.14:840][865]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.35.15:852][922]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.35.21:153][229]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.24:361][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.35.28:624][581]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.35.29:067][603]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.29:789][641]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.30:332][673]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.37:256][ 72]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.38:196][128]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.39:708][211]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.35.40:297][244]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.41:204][294]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.42:308][356]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.35.43:136][402]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.44:024][451]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.45:455][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.35.49:184][705]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.35.50:126][757]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.35.51:081][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.36.01:925][398]LogEditorViewport: Clicking Background
+[2019.01.06-19.36.03:981][506]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.36.08:981][788]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.36.09:041][789]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.01.06-19.36.10:772][883]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.36.15:401][140]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.36.17:781][279]LogEditorViewport: Clicking Background
+[2019.01.06-19.36.20:270][428]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.36.29:333][916]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.36.32:163][ 71]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover9)
+[2019.01.06-19.36.34:591][203]LogEditorViewport: Clicking Background
+[2019.01.06-19.36.46:567][906]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.36.47:684][967]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.36.48:755][ 29]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.36.50:194][111]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.36.56:669][487]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.36.57:463][532]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.37.00:399][700]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.37.02:241][803]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.37.02:927][841]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.37.04:045][905]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.37.05:746][  0]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.37.09:196][202]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.37.10:525][274]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.37.12:266][376]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge2)
+[2019.01.06-19.37.13:522][449]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.37.17:385][673]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.37.28:311][298]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.37.29:052][339]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.37.30:006][391]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.37.32:233][518]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.38.02:315][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.38.04:299][ 37]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level01_Auto21AC9383F42B6FB4FCB6C4C930FBBD76A.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Autosaves/Game/Level01_Auto2.umap'
+[2019.01.06-19.38.04:305][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.407
+[2019.01.06-19.38.04:305][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2019.01.06-19.38.14:538][199]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.38.15:242][236]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.38.19:565][486]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.38.21:053][570]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.38.23:682][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.38.25:681][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.39.18:192][579]LogEditorViewport: Clicking on Actor (LMB): HazardPitBP_C (HazardPitBP)
+[2019.01.06-19.39.19:405][647]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.39.24:228][921]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover10)
+[2019.01.06-19.39.32:398][377]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.39.33:786][455]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover10)
+[2019.01.06-19.39.55:683][699]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.02:803][110]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.40.08:994][457]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.17:591][940]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.40.21:333][146]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.25:030][354]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.40.26:420][435]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.32:006][763]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.40.35:951][988]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.41:851][321]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.40.44:308][457]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.40.56:858][185]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.41.06:266][722]LogEditorViewport: Clicking Background
+[2019.01.06-19.41.11:516][ 27]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover9)
+[2019.01.06-19.41.13:267][126]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.41.15:084][229]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover9)
+[2019.01.06-19.41.15:812][270]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge)
+[2019.01.06-19.41.16:938][331]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge4)
+[2019.01.06-19.41.18:219][402]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover8)
+[2019.01.06-19.41.19:266][462]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover9)
+[2019.01.06-19.41.24:180][739]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge6)
+[2019.01.06-19.41.25:273][787]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover11)
+[2019.01.06-19.41.27:288][902]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover10)
+[2019.01.06-19.41.28:207][953]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.41.34:285][297]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.41.36:894][449]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge5)
+[2019.01.06-19.41.38:220][521]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.41.44:049][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.41.47:416][994]Cmd: TRANSACTION UNDO
+[2019.01.06-19.41.47:416][994]LogEditorTransaction: Undo Rotate Actors
+[2019.01.06-19.41.49:828][ 61]Cmd: TRANSACTION UNDO
+[2019.01.06-19.41.49:828][ 61]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.06-19.41.53:383][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.41.55:085][257]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.42.06:941][896]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.42.07:748][941]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-19.42.09:075][ 18]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.42.10:377][ 88]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover12)
+[2019.01.06-19.42.12:082][184]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.42.18:512][548]LogEditorViewport: Clicking on Actor (context menu): FloorHuge_C (FloorHuge)
+[2019.01.06-19.42.18:557][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.42.33:729][ 24]LogEditorViewport: Clicking Background
+[2019.01.06-19.42.39:856][390]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.42.40:500][428]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.42.41:977][516]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.42.43:258][592]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.42.46:408][780]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.42.51:759][ 99]Cmd: DELETE
+[2019.01.06-19.42.51:759][ 99]Cmd: ACTOR DELETE
+[2019.01.06-19.42.51:762][ 99]LogEditorActor: Deleted Actor: LaserCover_C
+[2019.01.06-19.42.51:790][ 99]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.06-19.42.54:035][235]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover12)
+[2019.01.06-19.42.56:475][380]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover6)
+[2019.01.06-19.43.03:300][786]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.43.06:910][  0]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.43.08:468][ 92]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.43.10:614][219]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.43.19:150][726]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.43.20:468][804]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover7)
+[2019.01.06-19.43.23:456][981]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-19.43.24:912][ 67]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover12)
+[2019.01.06-19.43.58:039][ 34]LogEditorViewport: Clicking Background
+[2019.01.06-19.44.33:394][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.44.34:903][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.06-19.44.35:290][180]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level010DEBBCDE4B015810E22704891838FA8A.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap'
+[2019.01.06-19.44.45:024][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.44.48:553][783]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2019.01.06-19.44.50:564][898]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter)
+[2019.01.06-19.44.58:765][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.45.18:843][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.45.19:036][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.06-19.45.19:431][449]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level01301B258E4286B7170CF5178B62B86302.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap'
+[2019.01.06-19.45.19:954][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.45.20:021][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.45.20:049][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.20:049][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.45.20:049][466]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:45:20 AM)
+[2019.01.06-19.45.20:050][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.45.20:057][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007391s)
+[2019.01.06-19.45.20:058][466]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.45.20:058][466]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2019.01.06-19.45.20:058][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.008359s)
+[2019.01.06-19.45.20:103][466]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.45.20:122][466]LogInit: FAudioDevice initialized.
+[2019.01.06-19.45.20:157][466]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.45.20:163][466]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.45.20
+[2019.01.06-19.45.20:164][466]LogWorld: Bringing up level for play took: 0.006725
+[2019.01.06-19.45.20:178][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.45.20:178][466]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.45.20:180][466]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0.832
+[2019.01.06-19.45.20:180][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.24:602][724]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2019.01.06-19.45.24:602][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.24:602][724]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2019.01.06-19.45.24:602][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.24:602][724]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2019.01.06-19.45.24:603][724]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.24:603][724]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00B1
+[2019.01.06-19.45.24:603][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Set RoomClear
+[2019.01.06-19.45.24:603][724]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00E5
+[2019.01.06-19.45.24:603][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2019.01.06-19.45.24:603][724]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:011C
+[2019.01.06-19.45.24:603][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2019.01.06-19.45.30:730][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.30:731][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.45.30:783][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.45.30:784][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.30:829][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.45.30:858][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.01.06-19.45.36:158][247]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter)
+[2019.01.06-19.45.37:642][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.45.41:417][409]Cmd: SELECT NONE
+[2019.01.06-19.45.42:356][464]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig2)
+[2019.01.06-19.45.43:250][517]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig2)
+[2019.01.06-19.45.43:769][548]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter)
+[2019.01.06-19.45.45:342][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.45.46:295][646]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.45.46:318][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.46:319][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.45.46:319][646]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:45:46 AM)
+[2019.01.06-19.45.46:319][646]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.45.46:324][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005561s)
+[2019.01.06-19.45.46:325][646]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.45.46:325][646]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.01.06-19.45.46:325][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.006453s)
+[2019.01.06-19.45.46:364][646]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.45.46:377][646]LogInit: FAudioDevice initialized.
+[2019.01.06-19.45.46:409][646]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.45.46:414][646]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.45.46
+[2019.01.06-19.45.46:415][646]LogWorld: Bringing up level for play took: 0.005548
+[2019.01.06-19.45.46:428][646]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.45.46:428][646]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.45.46:430][646]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0.581
+[2019.01.06-19.45.46:430][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.49:742][834]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2019.01.06-19.45.49:742][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.49:742][834]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2019.01.06-19.45.49:742][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.49:742][834]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2019.01.06-19.45.49:742][834]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.45.49:742][834]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00B1
+[2019.01.06-19.45.49:742][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Set RoomClear
+[2019.01.06-19.45.49:743][834]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00E5
+[2019.01.06-19.45.49:743][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2019.01.06-19.45.49:743][834]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter_2
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:011C
+[2019.01.06-19.45.49:743][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2019.01.06-19.45.51:217][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.51:217][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.45.51:263][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.45.51:264][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.45.51:296][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.45.51:325][923]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.01.06-19.45.52:013][944]Cmd: SELECT NONE
+[2019.01.06-19.45.52:891][970]Cmd: SELECT NONE
+[2019.01.06-19.45.55:903][ 60]LogEditorViewport: Clicking Background
+[2019.01.06-19.46.00:357][192]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter)
+[2019.01.06-19.46.25:401][635]Cmd: SELECT NONE
+[2019.01.06-19.46.29:860][900]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig2)
+[2019.01.06-19.46.30:409][932]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig2)
+[2019.01.06-19.46.31:098][973]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter)
+[2019.01.06-19.46.33:840][134]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter2)
+[2019.01.06-19.46.37:087][325]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig)
+[2019.01.06-19.46.37:753][363]Cmd: SELECT NONE
+[2019.01.06-19.46.45:202][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.46.47:737][936]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter4)
+[2019.01.06-19.46.49:791][ 56]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter5)
+[2019.01.06-19.46.58:477][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.47.03:905][808]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter4)
+[2019.01.06-19.47.09:028][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.47.09:093][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.47.09:120][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.47.09:120][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.47.09:121][ 98]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:47:09 AM)
+[2019.01.06-19.47.09:121][ 98]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.47.09:128][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007686s)
+[2019.01.06-19.47.09:129][ 98]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.47.09:129][ 98]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2019.01.06-19.47.09:129][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.008480s)
+[2019.01.06-19.47.09:167][ 98]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.47.09:179][ 98]LogInit: FAudioDevice initialized.
+[2019.01.06-19.47.09:212][ 98]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.47.09:221][ 98]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.47.09
+[2019.01.06-19.47.09:224][ 98]LogWorld: Bringing up level for play took: 0.010166
+[2019.01.06-19.47.09:236][ 98]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.47.09:236][ 98]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.47.09:237][ 98]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.227
+[2019.01.06-19.47.09:238][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.47.14:052][380]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter3)
+[2019.01.06-19.47.14:422][402]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter3)
+[2019.01.06-19.47.15:517][467]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter3)
+[2019.01.06-19.47.16:088][501]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter3)
+[2019.01.06-19.47.16:459][523]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter3)
+[2019.01.06-19.47.17:253][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.47.17:253][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.47.17:300][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.47.17:300][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.47.17:344][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.47.17:365][571]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.01.06-19.47.22:746][893]LogEditorViewport: Clicking on Actor (LMB): WallMedium_C (WallMedium9)
+[2019.01.06-19.47.23:444][934]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter3)
+[2019.01.06-19.47.36:628][716]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter5)
+[2019.01.06-19.47.50:930][560]LogEditorViewport: Clicking on Actor (context menu): FloorBig_C (FloorBig2)
+[2019.01.06-19.47.50:977][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.47.53:471][678]LogEditorViewport: Clicking Background
+[2019.01.06-19.47.54:481][738]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter6)
+[2019.01.06-19.47.56:133][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.48.01:088][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.48.07:562][476]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter5)
+[2019.01.06-19.48.13:582][832]Cmd: SELECT NONE
+[2019.01.06-19.48.35:484][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.49.16:615][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.49.16:681][491]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.49.16:708][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.49.16:708][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.49.16:709][491]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:49:16 AM)
+[2019.01.06-19.49.16:709][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.49.16:718][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008985s)
+[2019.01.06-19.49.16:718][491]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.49.16:719][491]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.01.06-19.49.16:719][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.009872s)
+[2019.01.06-19.49.16:754][491]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.49.16:767][491]LogInit: FAudioDevice initialized.
+[2019.01.06-19.49.16:796][491]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.49.16:805][491]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.49.16
+[2019.01.06-19.49.16:808][491]LogWorld: Bringing up level for play took: 0.010179
+[2019.01.06-19.49.16:821][491]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.49.16:821][491]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.49.16:823][491]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0.188
+[2019.01.06-19.49.16:823][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.49.40:253][880]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:06C3
+[2019.01.06-19.49.40:253][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.49.40:253][880]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:070F
+[2019.01.06-19.49.40:254][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.49.40:254][880]LogScript: Warning: Attempted to assign to None
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:0724
+[2019.01.06-19.49.40:254][880]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-19.49.40:254][880]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:05FF
+[2019.01.06-19.49.40:255][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Set RoomClear
+[2019.01.06-19.49.40:255][880]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:0633
+[2019.01.06-19.49.40:255][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Branch
+[2019.01.06-19.49.40:255][880]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:066A
+[2019.01.06-19.49.40:255][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2019.01.06-19.49.41:514][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.49.41:515][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.49.41:563][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.49.41:563][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.49.41:607][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.49.41:637][956]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.01.06-19.49.44:251][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.49.54:499][262]LogSlate: Window 'Message Log' being destroyed
+[2019.01.06-19.49.54:537][262]LogSlate: Window 'Message Log' being destroyed
+[2019.01.06-19.50.09:396][146]Cmd: SELECT NONE
+[2019.01.06-19.50.44:839][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.50.46:160][302]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort4)
+[2019.01.06-19.50.48:642][449]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy)
+[2019.01.06-19.50.53:845][729]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort4)
+[2019.01.06-19.50.55:117][803]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy)
+[2019.01.06-19.50.57:542][945]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort4)
+[2019.01.06-19.50.59:034][ 31]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy)
+[2019.01.06-19.51.27:328][708]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong2)
+[2019.01.06-19.52.16:697][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.52.20:595][578]LogEditorViewport: Clicking Background
+[2019.01.06-19.52.21:622][639]Cmd: TRANSACTION UNDO
+[2019.01.06-19.52.21:622][639]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.52.24:862][743]Cmd: TRANSACTION UNDO
+[2019.01.06-19.52.24:862][743]LogEditorTransaction: Undo Create Actors
+[2019.01.06-19.52.34:166][185]LogEditorViewport: Clicking Background
+[2019.01.06-19.52.39:772][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.52.46:618][842]Cmd: TRANSACTION UNDO
+[2019.01.06-19.52.46:618][842]LogEditorTransaction: Undo Create Actors
+[2019.01.06-19.52.53:260][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.52.53:287][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.52.53:288][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.52.53:288][ 61]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:52:53 AM)
+[2019.01.06-19.52.53:288][ 61]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.52.53:297][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009339s)
+[2019.01.06-19.52.53:298][ 61]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.52.53:298][ 61]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2019.01.06-19.52.53:298][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.010228s)
+[2019.01.06-19.52.53:347][ 61]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.52.53:361][ 61]LogInit: FAudioDevice initialized.
+[2019.01.06-19.52.53:393][ 61]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.52.53:402][ 61]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.52.53
+[2019.01.06-19.52.53:405][ 61]LogWorld: Bringing up level for play took: 0.010287
+[2019.01.06-19.52.53:418][ 61]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.52.53:418][ 61]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.52.53:420][ 61]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.409
+[2019.01.06-19.52.53:420][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.07:842][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.07:843][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.53.07:886][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.53.07:886][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.07:934][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.53.07:958][917]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.01.06-19.53.08:424][947]Cmd: SELECT NONE
+[2019.01.06-19.53.17:508][467]LogEditorViewport: Clicking Background
+[2019.01.06-19.53.18:299][514]Cmd: TRANSACTION UNDO
+[2019.01.06-19.53.18:299][514]LogEditorTransaction: Undo Clicking Background
+[2019.01.06-19.53.19:471][551]Cmd: TRANSACTION UNDO
+[2019.01.06-19.53.19:471][551]LogEditorTransaction: Undo Select None
+[2019.01.06-19.53.20:314][576]Cmd: TRANSACTION UNDO
+[2019.01.06-19.53.20:314][576]LogEditorTransaction: Undo Create Actors
+[2019.01.06-19.53.23:592][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.53.23:658][672]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-19.53.23:685][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.23:685][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-19.53.23:685][672]PIE: New page: PIE session: Level01 (Jan 6, 2019, 9:53:23 AM)
+[2019.01.06-19.53.23:686][672]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-19.53.23:694][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008836s)
+[2019.01.06-19.53.23:695][672]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-19.53.23:695][672]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.01.06-19.53.23:695][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.009665s)
+[2019.01.06-19.53.23:730][672]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-19.53.23:741][672]LogInit: FAudioDevice initialized.
+[2019.01.06-19.53.23:775][672]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-19.53.23:784][672]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2019.01.06-14.53.23
+[2019.01.06-19.53.23:786][672]LogWorld: Bringing up level for play took: 0.010455
+[2019.01.06-19.53.23:799][672]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-19.53.23:799][672]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-19.53.23:801][672]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.79
+[2019.01.06-19.53.23:801][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.25:945][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.25:946][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.53.25:992][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-19.53.25:992][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-19.53.26:028][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-19.53.26:052][794]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.01.06-19.53.26:627][830]Cmd: SELECT NONE
+[2019.01.06-19.54.46:898][608]LogEditorViewport: Clicking on Actor (LMB): WallMidLarge_C (WallMidLarge2)
+[2019.01.06-19.54.51:070][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-19.54.54:619][864]LogEditorViewport: Clicking Background
+[2019.01.06-19.55.28:084][822]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.31:258][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.55.34:541][ 90]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.36:451][203]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig4)
+[2019.01.06-19.55.37:385][258]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.38:469][322]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.55.42:937][584]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.44:007][647]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.55.44:928][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.55.48:942][826]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.50:401][912]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.55.52:066][  9]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.52:847][ 55]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.55.54:467][151]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.55.56:103][248]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.55.59:876][472]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.01:319][556]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.56.05:518][805]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.10:631][107]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig4)
+[2019.01.06-19.56.12:837][238]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig3)
+[2019.01.06-19.56.14:961][364]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.15:969][422]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig3)
+[2019.01.06-19.56.18:181][553]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.56.19:284][618]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig4)
+[2019.01.06-19.56.28:914][190]LogEditorViewport: Clicking on Actor (LMB): FloorBig_C (FloorBig4)
+[2019.01.06-19.56.30:090][260]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.31:149][321]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.56.34:085][495]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.56.35:639][587]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.56.36:653][647]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.46:257][216]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge3)
+[2019.01.06-19.56.47:325][279]LogEditorViewport: Clicking on Actor (LMB): PillarHuge_C (PillarHuge2)
+[2019.01.06-19.56.48:845][369]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy2)
+[2019.01.06-19.56.51:950][518]Cmd: SELECT NONE
+[2019.01.06-19.57.05:457][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.57.15:715][877]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort2)
+[2019.01.06-19.57.18:767][ 57]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy2)
+[2019.01.06-19.57.19:998][127]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort2)
+[2019.01.06-19.57.21:648][223]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy2)
+[2019.01.06-19.57.22:325][260]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort2)
+[2019.01.06-19.57.22:868][290]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy2)
+[2019.01.06-19.57.26:273][490]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort2)
+[2019.01.06-19.57.27:132][539]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy2)
+[2019.01.06-19.58.10:356][109]LogEditorViewport: Clicking on Actor (LMB): HallwayLong_C (HallwayLong4)
+[2019.01.06-19.58.14:060][328]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy2)
+[2019.01.06-19.58.40:236][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.59.01:273][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.59.16:423][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.59.20:726][115]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter7)
+[2019.01.06-19.59.26:612][463]Cmd: SELECT NONE
+[2019.01.06-19.59.53:640][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-19.59.57:287][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.00.20:773][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.00.31:759][240]LogEditorViewport: Clicking on Actor (LMB): FloorBigShort_C (FloorBigShort4)
+[2019.01.06-20.00.32:873][304]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter9)
+[2019.01.06-20.00.39:324][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.00.42:443][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.00.48:623][148]LogEditorViewport: Clicking on Actor (LMB): WallSmallMid_C (WallSmallMid5)
+[2019.01.06-20.00.49:086][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.00.49:900][204]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter11)
+[2019.01.06-20.01.21:219][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.01.33:927][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.01.37:397][944]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_C (EnemyCharacter13)
+[2019.01.06-20.01.38:217][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.01.43:549][277]Cmd: SELECT NONE
+[2019.01.06-20.01.56:586][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.01.56:686][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-20.01.56:715][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.01.56:715][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-20.01.56:716][ 41]PIE: New page: PIE session: Level01 (Jan 6, 2019, 10:01:56 AM)
+[2019.01.06-20.01.56:716][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-20.01.56:728][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012230s)
+[2019.01.06-20.01.56:729][ 41]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-20.01.56:729][ 41]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2019.01.06-20.01.56:729][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013193s)
+[2019.01.06-20.01.56:780][ 41]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-20.01.56:792][ 41]LogInit: FAudioDevice initialized.
+[2019.01.06-20.01.56:825][ 41]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-20.01.56:839][ 41]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2019.01.06-15.01.56
+[2019.01.06-20.01.56:843][ 41]LogWorld: Bringing up level for play took: 0.016594
+[2019.01.06-20.01.56:856][ 41]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-20.01.56:856][ 41]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-20.01.56:858][ 41]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 -0.152
+[2019.01.06-20.01.56:858][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.02.18:142][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.02.18:142][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.02.18:189][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-20.02.18:190][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.02.18:244][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.02.18:267][303]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.01.06-20.02.38:332][498]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny)
+[2019.01.06-20.02.38:906][529]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny3)
+[2019.01.06-20.02.39:774][579]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny4)
+[2019.01.06-20.02.43:798][808]LogEditorViewport: Clicking on Actor (context menu): PillarTiny_C (PillarTiny2)
+[2019.01.06-20.02.43:821][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-20.04.38:209][590]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level01_Auto33265835E42E00C3D092FC7B27146CE73.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Autosaves/Game/Level01_Auto3.umap'
+[2019.01.06-20.04.38:213][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level01' took 0.523
+[2019.01.06-20.04.38:213][590]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.523
+[2019.01.06-20.06.27:807][451]LogEditorViewport: Clicking on Actor (context menu): PillarTiny_C (PillarTiny3)
+[2019.01.06-20.06.27:830][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-20.06.32:842][548]EditorErrors: New page: Actor Reattachment
+[2019.01.06-20.06.45:329][291]Cmd: TRANSACTION UNDO
+[2019.01.06-20.06.45:330][291]LogEditorTransaction: Undo Replace Actor(s)
+[2019.01.06-20.06.46:638][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.06.48:017][350]LogEditorViewport: Clicking on Actor (context menu): PillarTiny_C (PillarTiny3)
+[2019.01.06-20.06.48:063][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-20.06.53:688][609]Cmd: TRANSACTION UNDO
+[2019.01.06-20.06.53:688][609]LogEditorTransaction: Undo Create Actor
+[2019.01.06-20.06.55:533][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.06.57:352][693]LogEditorViewport: Clicking on Actor (context menu): PillarTiny_C (PillarTiny3)
+[2019.01.06-20.06.57:374][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-20.06.59:489][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-20.07.21:044][167]EditorErrors: New page: Actor Reattachment
+[2019.01.06-20.07.51:779][915]Cmd: TRANSACTION UNDO
+[2019.01.06-20.07.51:779][915]LogEditorTransaction: Undo Replace Actor(s)
+[2019.01.06-20.08.08:476][813]LogEditorViewport: Clicking Background
+[2019.01.06-20.08.16:313][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.08.18:388][384]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny3)
+[2019.01.06-20.08.19:380][441]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover14)
+[2019.01.06-20.08.28:382][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.08.36:258][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.09.09:442][367]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny5)
+[2019.01.06-20.09.12:285][535]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover16)
+[2019.01.06-20.09.15:519][726]LogEditorViewport: Clicking on Actor (LMB): PillarTiny_C (PillarTiny5)
+[2019.01.06-20.09.16:560][786]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover16)
+[2019.01.06-20.09.22:557][142]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover15)
+[2019.01.06-20.09.25:688][327]LogEditorViewport: Clicking on Actor (LMB): LaserCover_C (LaserCover16)
+[2019.01.06-20.09.53:458][977]Cmd: SELECT NONE
+[2019.01.06-20.09.55:193][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.09.55:282][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-20.09.55:310][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.09.55:310][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-20.09.55:310][ 63]PIE: New page: PIE session: Level01 (Jan 6, 2019, 10:09:55 AM)
+[2019.01.06-20.09.55:311][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-20.09.55:323][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012151s)
+[2019.01.06-20.09.55:323][ 63]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-20.09.55:324][ 63]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.01.06-20.09.55:324][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013170s)
+[2019.01.06-20.09.55:360][ 63]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-20.09.55:373][ 63]LogInit: FAudioDevice initialized.
+[2019.01.06-20.09.55:403][ 63]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-20.09.55:417][ 63]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2019.01.06-15.09.55
+[2019.01.06-20.09.55:421][ 63]LogWorld: Bringing up level for play took: 0.016989
+[2019.01.06-20.09.55:434][ 63]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-20.09.55:434][ 63]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-20.09.55:436][ 63]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.425
+[2019.01.06-20.09.55:437][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.09.59:949][326]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0036
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.09.59:950][326]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0082
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.09.59:950][326]LogScript: Warning: Attempted to assign to None
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:0097
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.09.59:950][326]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00B1
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Set RoomClear
+[2019.01.06-20.09.59:950][326]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:00E5
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Branch
+[2019.01.06-20.09.59:950][326]LogScript: Warning: Accessed None trying to read property Room
+	EnemyCharacter_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.EnemyCharacter4
+	Function /Game/Blueprints/Enemies/EnemyCharacter.EnemyCharacter_C:ExecuteUbergraph_EnemyCharacter:011C
+[2019.01.06-20.09.59:950][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  EnemyCharacter Function:  Execute Ubergraph Enemy Character Graph:  EventGraph Node:  Open Doors
+[2019.01.06-20.10.02:149][458]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter5_8)
+[2019.01.06-20.10.02:452][476]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter5_8)
+[2019.01.06-20.10.24:563][790]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:06C3
+[2019.01.06-20.10.24:563][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.10.24:563][790]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:070F
+[2019.01.06-20.10.24:563][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.10.24:563][790]LogScript: Warning: Attempted to assign to None
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:0724
+[2019.01.06-20.10.24:564][790]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  ManipulateIntInternal Node:  Set Integer (by ref)
+[2019.01.06-20.10.24:564][790]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:05FF
+[2019.01.06-20.10.24:564][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Set RoomClear
+[2019.01.06-20.10.24:564][790]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:0633
+[2019.01.06-20.10.24:564][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Branch
+[2019.01.06-20.10.24:564][790]LogScript: Warning: Accessed None trying to read property Room
+	LaserTurretEnemy_C /Game/UEDPIE_0_Level01.Level01:PersistentLevel.LaserTurretEnemy_2
+	Function /Game/Blueprints/Enemies/LaserTurretEnemy.LaserTurretEnemy_C:ExecuteUbergraph_LaserTurretEnemy:066A
+[2019.01.06-20.10.24:564][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Room". Blueprint:  LaserTurretEnemy Function:  Execute Ubergraph Laser Turret Enemy Graph:  EventGraph Node:  Open Doors
+[2019.01.06-20.10.29:059][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.10.29:059][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.10.29:107][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-20.10.29:107][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.10.29:151][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.10.29:181][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.01.06-20.10.34:004][202]Cmd: SELECT NONE
+[2019.01.06-20.11.07:528][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.11.10:957][195]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-20.11.15:065][438]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2019.01.06-20.11.23:572][945]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-20.11.24:404][992]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2019.01.06-20.11.31:775][431]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-20.11.32:521][473]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2019.01.06-20.11.37:044][742]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-20.11.37:875][789]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2019.01.06-20.11.47:624][370]LogEditorViewport: Clicking on Actor (LMB): HallwayExtraLong_C (HallwayExtraLong)
+[2019.01.06-20.11.54:130][757]LogEditorViewport: Clicking on Actor (LMB): FloorHuge_C (FloorHuge)
+[2019.01.06-20.11.55:601][843]LogEditorViewport: Clicking on Actor (LMB): TurretBoss_C (TurretBoss)
+[2019.01.06-20.12.09:763][687]Cmd: SELECT NONE
+[2019.01.06-20.12.10:895][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.12.10:962][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-20.12.10:991][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.12.10:991][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-20.12.10:991][739]PIE: New page: PIE session: Level01 (Jan 6, 2019, 10:12:10 AM)
+[2019.01.06-20.12.10:991][739]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-20.12.11:003][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012105s)
+[2019.01.06-20.12.11:004][739]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-20.12.11:004][739]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.01.06-20.12.11:004][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.012975s)
+[2019.01.06-20.12.11:055][739]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-20.12.11:067][739]LogInit: FAudioDevice initialized.
+[2019.01.06-20.12.11:097][739]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-20.12.11:122][739]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2019.01.06-15.12.11
+[2019.01.06-20.12.11:132][739]LogWorld: Bringing up level for play took: 0.034366
+[2019.01.06-20.12.11:145][739]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-20.12.11:145][739]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-20.12.11:148][739]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.137
+[2019.01.06-20.12.11:148][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.12.23:334][458]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter14)
+[2019.01.06-20.12.23:520][469]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (DamageThePlayer) or object (EnemyCharacter14)
+[2019.01.06-20.12.27:339][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.12.27:340][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.12.27:389][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-20.12.27:389][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.12.27:422][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.12.27:445][697]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.01.06-20.12.48:550][955]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy)
+[2019.01.06-20.13.17:552][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.13.19:802][424]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy)
+[2019.01.06-20.13.21:098][498]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy3)
+[2019.01.06-20.13.24:585][703]LogEditorViewport: Clicking on Actor (LMB): LaserTurretEnemy_C (LaserTurretEnemy)
+[2019.01.06-20.13.26:046][787]Cmd: DELETE
+[2019.01.06-20.13.26:046][787]Cmd: ACTOR DELETE
+[2019.01.06-20.13.26:053][787]LogEditorActor: Deleted Actor: LaserTurretEnemy_C
+[2019.01.06-20.13.26:085][787]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.01.06-20.13.43:943][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.13.44:879][861]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy3)
+[2019.01.06-20.13.49:735][148]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy3)
+[2019.01.06-20.13.49:792][151]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2019.01.06-20.13.55:014][462]LogEditorViewport: Clicking on Actor (LMB): HallwayWide_C (HallwayWide)
+[2019.01.06-20.14.03:824][984]LogEditorViewport: Clicking on Actor (LMB): TurretEnemy_C (TurretEnemy3)
+[2019.01.06-20.14.05:891][104]Cmd: SELECT NONE
+[2019.01.06-20.14.13:234][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.14.13:301][541]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-20.14.13:330][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.14.13:330][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-20.14.13:331][541]PIE: New page: PIE session: Level01 (Jan 6, 2019, 10:14:13 AM)
+[2019.01.06-20.14.13:331][541]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2019.01.06-20.14.13:343][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011938s)
+[2019.01.06-20.14.13:343][541]LogAIModule: Creating AISystem for world Level01
+[2019.01.06-20.14.13:343][541]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.01.06-20.14.13:343][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.012714s)
+[2019.01.06-20.14.13:377][541]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-20.14.13:389][541]LogInit: FAudioDevice initialized.
+[2019.01.06-20.14.13:417][541]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.01.06-20.14.13:431][541]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2019.01.06-15.14.13
+[2019.01.06-20.14.13:435][541]LogWorld: Bringing up level for play took: 0.016994
+[2019.01.06-20.14.13:448][541]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/TwinStickGameMode.TwinStickGameMode_C:ExecuteUbergraph_TwinStickGameMode'!
+[2019.01.06-20.14.13:448][541]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SpawnEnemy) or object (None)
+[2019.01.06-20.14.13:450][541]PIE: Play in editor start time for /Game/UEDPIE_0_Level01 0.439
+[2019.01.06-20.14.13:450][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.14.43:185][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.14.43:186][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.14.43:231][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-20.14.43:231][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2019.01.06-20.14.43:273][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-20.14.43:295][309]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.01.06-20.15.51:267][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.15.51:458][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.06-20.15.51:921][303]LogSavePackage: Moving '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Saved/Level015F75CA8746698BB57086258982229DFD.tmp' to '../../../../../../Users/Ian Sory/Desktop/nsshipma_FinalProject-master/TwinStickShooter/Content/Level01.umap'
+[2019.01.06-20.15.53:658][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-20.15.53:881][400]LogSlate: Window 'TwinStickShooter - Unreal Editor' being destroyed
+[2019.01.06-20.15.54:082][401]Cmd: QUIT_EDITOR
+[2019.01.06-20.15.54:694][401]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.06-20.15.54:729][401]LogExit: Preparing to exit.
+[2019.01.06-20.15.55:255][401]LogExit: Editor shut down
+[2019.01.06-20.15.55:256][401]LogExit: Transaction tracking system shut down
+[2019.01.06-20.15.55:909][401]LogExit: Object subsystem successfully closed.
+[2019.01.06-20.15.55:932][401]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.06-20.15.55:938][401]LogD3D11RHI: Shutdown
+[2019.01.06-20.15.55:938][401]LogD3D11RHI: CleanupD3DDevice
+[2019.01.06-20.15.55:942][401]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (622)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module MeshBuilder (620)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.01.06-20.15.55:973][401]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.01.06-20.15.55:974][401]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.01.06-20.15.55:974][401]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.01.06-20.15.55:974][401]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2019.01.06-20.15.55:975][401]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2019.01.06-20.15.55:976][401]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2019.01.06-20.15.56:512][401]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2019.01.06-20.15.56:512][401]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2019.01.06-20.15.56:512][401]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2019.01.06-20.15.56:512][401]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2019.01.06-20.15.56:512][401]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.06-20.15.56:513][401]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.06-20.15.56:521][401]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.06-20.15.56:521][401]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.06-20.15.56:521][401]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.06-20.15.56:522][401]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.06-20.15.56:587][401]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.06-20.15.56:592][401]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.06-20.15.56:593][401]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.01.06-20.15.56:741][401]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.06-20.15.56:742][401]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.01.06-20.15.56:750][401]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.01.06-20.15.56:751][401]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.01.06-20.15.56:752][401]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module TwinStickShooter (300)
+[2019.01.06-20.15.56:753][401]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.06-20.15.56:754][401]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.06-20.15.56:855][401]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.06-20.15.56:956][401]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.06-20.15.56:958][401]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.06-20.15.56:958][401]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.06-20.15.56:958][401]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.06-20.15.56:959][401]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.06-20.15.56:960][401]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.06-20.15.56:964][401]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.06-20.15.56:964][401]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.06-20.15.56:964][401]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.06-20.15.56:964][401]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.06-20.15.56:964][401]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.06-20.15.56:965][401]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.06-20.15.56:967][401]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.06-20.15.56:974][401]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.06-20.15.56:975][401]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.06-20.15.56:976][401]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.06-20.15.56:980][401]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.06-20.15.56:981][401]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.06-20.15.57:072][401]LogDerivedDataCache: Shutdown
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.06-20.15.57:072][401]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.06-20.15.57:073][401]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.06-20.15.57:074][401]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.06-20.15.57:078][401]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.06-20.15.57:078][401]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.06-20.15.57:082][401]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.06-20.15.57:082][401]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.06-20.15.57:115][401]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.06-20.15.57:115][401]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.06-20.15.57:115][401]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.06-20.15.57:115][401]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.06-20.15.57:116][401]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.06-20.15.57:118][401]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.06-20.15.57:118][401]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.06-20.15.57:129][401]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.06-20.15.57:129][401]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.06-20.15.57:129][401]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B69A99F58-40C6-91EF-2270-04A95F71268A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=01a0682a49c4eaf1b6df98857b8ea1e1%7Cb1e173f751d441798c27c3c423850547%7C41cdd963-9c72-4d9f-aa1d-7f6f451fb282&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.06-20.15.57:138][401]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.06-20.15.57:140][401]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.06-20.15.57:141][401]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.06-20.15.57:141][401]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.06-20.15.57:142][401]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.06-20.15.57:152][401]LogExit: Exiting.
+[2019.01.06-20.15.57:159][401]Log file closed, 01/06/19 15:15:57
